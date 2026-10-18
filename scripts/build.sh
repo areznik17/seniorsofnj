@@ -18,6 +18,8 @@ head='''<!doctype html>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#FAF7F2">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="shortcut icon" href="/favicon.ico">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
 <script>window.SON_STATIC=1</script>
@@ -26,6 +28,7 @@ i=s.index('</style>')+8
 open(D+'/index.html','w').write(head+s[:i]+'\n</head>\n<body>\n'+s[i:]+'\n</body>\n</html>\n')
 PY
 node -e "
-const {chromium}=require('/opt/npm-tools/node_modules/playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:180,height:180}});await p.goto('file://$D/favicon.svg');await p.screenshot({path:'$D/apple-touch-icon.png'});await b.close()})()"
+const {chromium}=require('/opt/npm-tools/node_modules/playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:180,height:180}});await p.goto('file://$D/favicon.svg');await p.screenshot({path:'$D/apple-touch-icon.png',omitBackground:true});await b.close()})()"
 curl -s -o /dev/null localhost:8799/ || (cd $D && nohup python3 -m http.server 8799 >/dev/null 2>&1 &) ; sleep 1
 node $(dirname $0)/build_static.js $D ${DOMAIN:-https://seniorsofnj.com}
+python3 -c "from PIL import Image;im=Image.open('$D/apple-touch-icon.png').convert('RGBA');im.resize((32,32),Image.LANCZOS).save('$D/favicon-32.png');im.save('$D/favicon.ico',sizes=[(16,16),(32,32),(48,48)])"
