@@ -1,0 +1,91 @@
+{
+"keyDates": [
+  {"date":"2026-10-01","end":"2027-06-30","title":"Heating help applications open","text":"Apply once for LIHEAP, USF and Weatherization. Help is first come, first served.","link":"#/article/food-and-utility-help"},
+  {"date":"2026-10-15","end":"2026-12-07","title":"Medicare open enrollment","text":"Compare and change your Medicare Advantage or Part D plan for 2027. Free help: 1-800-792-8820.","link":"#/article/advantage-vs-medigap"},
+  {"date":"2026-11-02","title":"Property tax relief deadline","text":"Last day to file the PAS-1 for ANCHOR, Senior Freeze and Stay NJ.","link":"#/article/property-tax-relief-nj"},
+  {"date":"2027-01-01","title":"3.6% Social Security raise begins","text":"The 2027 cost-of-living adjustment shows up in January payments.","link":"#/article/social-security-2027"},
+  {"date":"2027-01-01","end":"2027-03-31","title":"Medicare Advantage switch window","text":"If you're in a Medicare Advantage plan, you can change plans once or return to Original Medicare.","link":"#/article/advantage-vs-medigap"}
+],
+"steps": [
+ {"slug":"apply-property-tax-relief","title":"Apply for property tax relief","dek":"One form, the PAS-1, covers ANCHOR, Senior Freeze and Stay NJ. Here is the whole process from start to payment.","hub":"benefits","photo":"home-exterior","steps":[
+  {"t":"Check that you qualify","d":"<p>Homeowners and renters can get ANCHOR. Senior Freeze and Stay NJ are for homeowners 65 or older (Senior Freeze also covers people on Social Security disability). Use our <a href=\"#/checker\">benefits checker</a> for a quick read.</p>"},
+  {"t":"Gather your papers","d":"<ul><li>Your 2024 and 2025 property tax bills, or a letter from your tax collector showing taxes paid</li><li>Your 2025 income figures for everyone in the household (Social Security, pensions, IRA withdrawals, interest)</li><li>Your Social Security number and your spouse's</li><li>If you rent, your landlord's name and address</li></ul>"},
+  {"t":"File the PAS-1","d":"<p>File online through the NJ Division of Taxation or mail a paper PAS-1. If you filed for Senior Freeze last year, the state may have mailed you a form already. The deadline is <strong>November 2, 2026</strong>.</p>"},
+  {"t":"Ask your tax collector to sign if needed","d":"<p>Senior Freeze needs proof that your property taxes were paid. Most town tax offices handle this quickly. Call first and ask what they need.</p>"},
+  {"t":"Watch for payment","d":"<p>ANCHOR payments start in the fall and Senior Freeze checks began going out July 15. Stay NJ is paid in four installments. Check your status by calling <span class=\"tel\">1-888-238-1233</span>.</p>"}
+ ]},
+ {"slug":"sign-up-for-medicare","title":"Sign up for Medicare at 65","dek":"The order of operations for getting Medicare right the first time, including if you're still working.","hub":"health","photo":"paperwork","steps":[
+  {"t":"Mark your enrollment window","d":"<p>Your Initial Enrollment Period is seven months long. It starts three months before the month you turn 65 and ends three months after. Signing up in the first three months means coverage starts on time.</p>"},
+  {"t":"Decide whether you need Part B now","d":"<p>If you or your spouse are still working at a company with 20 or more employees and have health coverage through that job, you can often delay Part B without a penalty. Ask your HR office for a written confirmation of coverage.</p>"},
+  {"t":"Apply through Social Security","d":"<p>Apply online at ssa.gov, by phone at <span class=\"tel\">1-800-772-1213</span>, or at a local Social Security office. If you already get Social Security benefits, you'll be enrolled in Parts A and B automatically.</p>"},
+  {"t":"Choose how you'll get coverage","d":"<p>Pick Original Medicare with a Medigap policy and a Part D drug plan, or a Medicare Advantage plan. Read our <a href=\"#/article/advantage-vs-medigap\">comparison guide</a> before choosing.</p>"},
+  {"t":"Get a free second opinion","d":"<p>New Jersey's SHIP counselors compare plans for free and sell nothing. Call <span class=\"tel\">1-800-792-8820</span> for an appointment.</p>"},
+  {"t":"Check for help paying","d":"<p>If your income is modest, apply for PAAD, Senior Gold and Medicare Savings Programs. One NJSave application covers several. See <a href=\"#/article/prescription-and-bill-help\">Help with prescriptions and bills</a>.</p>"}
+ ]}
+],
+"checklists": [
+ {"slug":"turning-65","title":"Turning 65 checklist","items":["Find your Initial Enrollment Period dates","Ask HR whether your job coverage counts as creditable","Sign up for Medicare Parts A and B (or confirm automatic enrollment)","Compare Medigap + Part D against Medicare Advantage","Book a free SHIP counseling appointment","List every prescription and dose","Confirm your doctors take the plan you choose","Check whether you qualify for PAAD or Senior Gold","Apply for the free NJ State Park Senior Citizen Pass (62+)","Update beneficiaries on retirement accounts"]},
+ {"slug":"important-papers","title":"Important papers to keep together","items":["Medicare, Medicaid and insurance cards","Social Security award letter","Most recent tax return","Property deed and last two property tax bills","Will and any trust documents","Durable power of attorney","Advance directive or NJ POLST form","List of bank, retirement and investment accounts","List of doctors, medications and pharmacy","Passwords kept in a safe, agreed place"]}
+],
+"glossary": [
+ ["ADRC","Aging and Disability Resource Connection. New Jersey's network of county offices on aging. Statewide number 1-877-222-3737."],
+ ["Annual Wellness Visit","A yearly Medicare visit to make or update a prevention plan. It costs nothing if your doctor accepts Medicare."],
+ ["ANCHOR","Affordable New Jersey Communities for Homeowners and Renters. A yearly property tax benefit for homeowners and renters."],
+ ["Area Agency on Aging","The county office that plans and funds services for older residents, such as meals, rides and caregiver help."],
+ ["Assisted living","Housing with help for daily tasks like bathing and medications, but less medical care than a nursing home."],
+ ["COLA","Cost-of-living adjustment. The yearly raise in Social Security benefits. It is 3.6% for 2027."],
+ ["Copay","A fixed amount you pay for a covered service or prescription, such as $5 for a generic drug under PAAD."],
+ ["Creditable coverage","Health or drug coverage at least as good as Medicare's. Having it lets you delay enrolling without a penalty."],
+ ["Deductible","What you pay each year before your plan starts paying. The 2026 Medicare Part B deductible is $283."],
+ ["Durable power of attorney","A legal document naming someone to handle your finances if you can't. It stays valid if you lose capacity."],
+ ["Extra Help","A federal program that lowers Medicare Part D drug costs for people with limited income. Also called the Low Income Subsidy."],
+ ["Formulary","A plan's list of covered drugs, usually sorted into tiers with different costs."],
+ ["Initial Enrollment Period","The seven-month window around your 65th birthday when you can first sign up for Medicare."],
+ ["Inheritance tax","A New Jersey tax on what some heirs receive. Spouses, children and grandchildren (Class A) are exempt."],
+ ["LIHEAP","Low Income Home Energy Assistance Program. Federal help with heating and cooling bills."],
+ ["Lifeline","A New Jersey utility benefit of $225 a year for people who qualify for PAAD."],
+ ["Look-back period","The five years before a Medicaid application when gifts and transfers are reviewed."],
+ ["Medicaid","Health coverage for people with low income and assets. In New Jersey it is called NJ FamilyCare."],
+ ["Medicare Advantage","Also called Part C. Private plans that replace Original Medicare, usually with networks and extra benefits."],
+ ["Medicare Savings Program","State programs that pay Medicare premiums and sometimes copays for people with limited income."],
+ ["Medigap","Supplement insurance sold by private companies that pays some costs Original Medicare doesn't."],
+ ["MLTSS","Managed Long Term Services and Supports. NJ FamilyCare's program for long-term care at home or in a facility."],
+ ["Open enrollment","October 15 to December 7, when anyone on Medicare can change plans for the next year."],
+ ["Original Medicare","Part A (hospital) and Part B (medical), run by the federal government. You can see any doctor who takes Medicare."],
+ ["PAAD","Pharmaceutical Assistance to the Aged and Disabled. Cuts prescription copays to $5 or $7."],
+ ["PACE","Program of All-Inclusive Care for the Elderly. Day center based care that covers medical and support services."],
+ ["Part D","Medicare prescription drug coverage, sold by private plans."],
+ ["PAS-1","The single New Jersey application for ANCHOR, Senior Freeze and Stay NJ."],
+ ["POLST","Practitioner Orders for Life-Sustaining Treatment. A medical order, signed with your clinician, that records your wishes."],
+ ["Respite care","Short-term care that gives a family caregiver a break."],
+ ["Senior Freeze","New Jersey's Property Tax Reimbursement program, which pays back increases in property taxes for eligible seniors."],
+ ["Senior Gold","A New Jersey prescription program for people whose income is just above the PAAD limit."],
+ ["SHIP","State Health Insurance Assistance Program. Free, unbiased Medicare counseling. Call 1-800-792-8820."],
+ ["Stay NJ","A property tax benefit for homeowners 65 and older that covers up to half of the tax bill, with caps."],
+ ["Surrogate","The county official in New Jersey who handles probate of wills and estates."],
+ ["USF","Universal Service Fund. Monthly credits on gas and electric bills for qualifying households."]
+],
+"season": [
+ {"title":"Fall foliage drives","text":"The Delaware Water Gap, Route 23 through High Point and the Skylands roads around Sussex County peak in the second half of October most years.","photo":"autumn-trail"},
+ {"title":"Hawk watching at Cape May","text":"Cape May Point State Park's hawkwatch platform is flat, accessible and busy with migrating raptors every fall.","photo":"birds"},
+ {"title":"Pick your own apples","text":"Orchards across Hunterdon, Warren and Monmouth counties stay open into late October. Call ahead about wagon rides and walking distances.","photo":"farm-market"},
+ {"title":"Off-season shore towns","text":"Ocean Grove, Spring Lake and Cape May are quiet after Labor Day, with easy parking and lower rates.","photo":"boardwalk"}
+],
+"resources": [
+ {"cat":"Benefits & money","name":"Property Tax Relief hotline","phone":"1-888-238-1233","url":"https://www.nj.gov/treasury/taxation/propertytaxrelieffaq.shtml","desc":"ANCHOR, Senior Freeze and Stay NJ questions."},
+ {"cat":"Benefits & money","name":"PAAD, Senior Gold and Lifeline","phone":"1-800-792-9745","url":"https://www.nj.gov/humanservices/doas/services/l-p/lifeline-utility","desc":"Prescription and utility help. Apply with one NJSave form."},
+ {"cat":"Benefits & money","name":"Social Security Administration","phone":"1-800-772-1213","url":"https://www.ssa.gov/","desc":"Retirement, disability, Medicare enrollment."},
+ {"cat":"Benefits & money","name":"Home energy assistance (NJ 211)","phone":"1-800-510-3102","url":"https://www.nj211.org/utility-assistance-programs","desc":"LIHEAP, USF and Weatherization."},
+ {"cat":"Health & Medicare","name":"NJ SHIP Medicare counseling","phone":"1-800-792-8820","url":"https://www.nj.gov/humanservices/doas/services/q-z/ship/index.shtml","desc":"Free, unbiased plan comparisons."},
+ {"cat":"Health & Medicare","name":"Medicare","phone":"1-800-633-4227","url":"https://www.medicare.gov/","desc":"Plan Finder, claims and coverage questions."},
+ {"cat":"Health & Medicare","name":"NJ FamilyCare","phone":"","url":"https://www.njfamilycare.org/","desc":"Medicaid in New Jersey, including long-term care."},
+ {"cat":"Health & Medicare","name":"988 Suicide & Crisis Lifeline","phone":"988","url":"https://988lifeline.org/","desc":"24/7 call or text for emotional distress."},
+ {"cat":"Local help","name":"County office on aging (ADRC)","phone":"1-877-222-3737","url":"https://www.nj.gov/humanservices/doas/assistance/county-offices/","desc":"Meals, rides, home help and benefits screening."},
+ {"cat":"Local help","name":"NJ 211","phone":"2-1-1","url":"https://www.nj211.org/","desc":"Food, housing, utilities and more, any time."},
+ {"cat":"Local help","name":"NJ State Parks senior pass","phone":"1-800-843-6420","url":"https://www.nj.gov/dep/parksandforests/parks/park_pass.html","desc":"Free entrance for NJ residents 62 and older."},
+ {"cat":"Local help","name":"NJ Transit for seniors","phone":"","url":"https://www.njtransit.com/seniors","desc":"Reduced fares for riders 62 and older."},
+ {"cat":"Safety","name":"Senior Medicare Patrol","phone":"1-732-777-1940 ext. 1117","url":"https://www.nj.gov/humanservices/doas/services/q-z/ship/index.shtml","desc":"Report Medicare fraud and billing errors."},
+ {"cat":"Safety","name":"FTC Report Fraud","phone":"","url":"https://reportfraud.ftc.gov/","desc":"Report scams of any kind."},
+ {"cat":"Lessons & activities","name":"Home Happenings","phone":"","url":"https://homehappenings.com","desc":"Local teachers come to your home for piano, painting, yoga and more. Essex County. (Run by the publisher of this site.)"}
+]
+}

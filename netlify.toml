@@ -1,0 +1,9 @@
+# Netlify publishes the pre-built site folder as-is. No build step needed.
+[build]
+  publish = "site"
+  command = ""
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
