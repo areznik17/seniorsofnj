@@ -3,7 +3,7 @@
 set -e
 SP=/tmp/claude-0/-home-claude/427d6a4c-823a-51e6-b228-41c85e4eaf89/scratchpad; D=$(cd $(dirname $0)/.. && pwd)/site; SRC=$(cd $(dirname $0)/.. && pwd)/src
 find $D -mindepth 1 -delete 2>/dev/null || mkdir -p $D
-cp -r $SRC/content $SRC/img $D/; rm -f $D/content/STYLE.md
+cp -r $SRC/content $SRC/img $D/; rm -f $D/content/*.md
 python3 - "$SRC" "$D" <<'PY'
 import re,sys
 src,D=sys.argv[1],sys.argv[2]
