@@ -9,10 +9,10 @@
 "steps": [
  {"slug":"apply-property-tax-relief","title":"Apply for property tax relief","dek":"One form, the PAS-1, covers ANCHOR, Senior Freeze and Stay NJ. Here is the whole process from start to payment.","hub":"benefits","photo":"home-exterior","steps":[
   {"t":"Check that you qualify","d":"<p>Homeowners and renters can get ANCHOR. Senior Freeze and Stay NJ are for homeowners 65 or older (Senior Freeze also covers people on Social Security disability). Use our <a href=\"#/checker\">benefits checker</a> for a quick read.</p>"},
-  {"t":"Gather your papers","d":"<ul><li>Your 2024 and 2025 property tax bills, or a letter from your tax collector showing taxes paid</li><li>Your 2025 income figures for everyone in the household (Social Security, pensions, IRA withdrawals, interest)</li><li>Your Social Security number and your spouse's</li><li>If you rent, your landlord's name and address</li></ul>"},
-  {"t":"File the PAS-1","d":"<p>File online through the NJ Division of Taxation or mail a paper PAS-1. If you filed for Senior Freeze last year, the state may have mailed you a form already. The deadline is <strong>November 2, 2026</strong>.</p>"},
-  {"t":"Ask your tax collector to sign if needed","d":"<p>Senior Freeze needs proof that your property taxes were paid. Most town tax offices handle this quickly. Call first and ask what they need.</p>"},
-  {"t":"Watch for payment","d":"<p>ANCHOR payments start in the fall and Senior Freeze checks began going out July 15. Stay NJ is paid in four installments. Check your status by calling <span class=\"tel\">1-888-238-1233</span>.</p>"}
+  {"t":"Gather your papers","d":"<ul><li>Your 2024 and 2025 property tax bills, or a letter from your tax collector showing taxes paid</li><li>Your 2024 and 2025 income figures for everyone in the household (Social Security, pensions, IRA withdrawals, interest). Senior Freeze checks both years.</li><li>Your Social Security number and your spouse's</li><li>If you rent, your landlord's name and address</li></ul>"},
+  {"t":"File the PAS-1","d":"<p>File online through the NJ Division of Taxation or mail a paper PAS-1. The deadline is <strong>November 2, 2026</strong>.</p>"},
+  {"t":"Keep your records handy","d":"<p>You do not need to send proof of property taxes or income with the PAS-1. The state may contact you later if it needs documents, so keep your tax bills and income records together.</p>"},
+  {"t":"Watch for payment","d":"<p>ANCHOR payments start September 15 and Senior Freeze checks began going out July 15. Stay NJ is paid in four quarterly installments. Check your status by calling <span class=\"tel\">1-888-238-1233</span>.</p>"}
  ]},
  {"slug":"sign-up-for-medicare","title":"Sign up for Medicare at 65","dek":"The order of operations for getting Medicare right the first time, including if you're still working.","hub":"health","photo":"paperwork","steps":[
   {"t":"Mark your enrollment window","d":"<p>Your Initial Enrollment Period is seven months long. It starts three months before the month you turn 65 and ends three months after. Signing up in the first three months means coverage starts on time.</p>"},
@@ -78,7 +78,7 @@
  {"cat":"Benefits & money","name":"Home energy assistance (NJ 211)","phone":"1-800-510-3102","url":"https://www.nj211.org/utility-assistance-programs","desc":"LIHEAP, USF and Weatherization."},
  {"cat":"Health & Medicare","name":"NJ SHIP Medicare counseling","phone":"1-800-792-8820","url":"https://www.nj.gov/humanservices/doas/services/q-z/ship/index.shtml","desc":"Free, unbiased plan comparisons."},
  {"cat":"Health & Medicare","name":"Medicare","phone":"1-800-633-4227","url":"https://www.medicare.gov/","desc":"Plan Finder, claims and coverage questions."},
- {"cat":"Health & Medicare","name":"NJ FamilyCare","phone":"","url":"https://www.njfamilycare.org/","desc":"Medicaid in New Jersey, including long-term care."},
+ {"cat":"Health & Medicare","name":"NJ FamilyCare","phone":"1-800-701-0710","url":"https://www.njfamilycare.org/","desc":"Medicaid in New Jersey, including long-term care."},
  {"cat":"Health & Medicare","name":"988 Suicide & Crisis Lifeline","phone":"988","url":"https://988lifeline.org/","desc":"24/7 call or text for emotional distress."},
  {"cat":"Local help","name":"County office on aging (ADRC)","phone":"1-877-222-3737","url":"https://www.nj.gov/humanservices/doas/assistance/county-offices/","desc":"Meals, rides, home help and benefits screening."},
  {"cat":"Local help","name":"NJ 211","phone":"2-1-1","url":"https://www.nj211.org/","desc":"Food, housing, utilities and more, any time."},

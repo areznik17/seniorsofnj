@@ -14,7 +14,7 @@
    "Brigantine",
    "Pleasantville"
   ],
-  "intro": "Atlantic County runs from the casinos and boardwalk of Atlantic City inland to the farms and blueberry fields around Hammonton. Shore towns like Ventnor and Margate are quieter in the off season, and the Pine Barrens begin just west of the Garden State Parkway. NJ Transit buses and the Atlantic City Rail Line connect the county to Philadelphia.",
+  "intro": "Atlantic County runs from the Atlantic City boardwalk inland to the farms and blueberry fields around Hammonton. The Office on Aging answers a toll free line from inside the county and 609-645-5965 from outside it. The county Transportation Unit books weekday rides for seniors, veterans and residents with disabilities.",
   "agingOffice": {
    "name": "Atlantic County Office on Aging (Area Agency on Aging)",
    "phone": "1-888-426-9243",
@@ -64,16 +64,16 @@
    "Fair Lawn",
    "Mahwah"
   ],
-  "intro": "Bergen County is the most populous county in New Jersey, a mix of busy shopping corridors and leafy suburbs just across the George Washington Bridge from Manhattan. NJ Transit buses and trains reach most towns, and the county runs its own Community Transportation service for seniors. The Palisades cliffs along the Hudson are the county's most dramatic scenery.",
+  "intro": "Bergen County is the most populous county in New Jersey, a mix of busy shopping corridors and leafy suburbs across the George Washington Bridge from Manhattan. The Division of Senior Services in Hackensack runs a helpline at 201-336-7400. The county's Community Transportation division gives rides to seniors, frail residents and people with disabilities.",
   "agingOffice": {
    "name": "Bergen County Division of Senior Services",
    "phone": "201-336-7400",
    "url": "https://bergencountynj.gov/division-of-senior-services/"
   },
   "transport": {
-   "name": "Bergen County Community Transportation",
+   "name": "Bergen County Division of Community Transportation",
    "phone": "201-368-5955",
-   "url": "https://bergencountynj.gov/"
+   "url": "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/"
   },
   "places": [
    {
@@ -94,7 +94,7 @@
    },
    {
     "name": "Aviation Hall of Fame and Museum of New Jersey",
-    "note": "An indoor museum at Teterboro Airport with planes and local aviation history."
+    "note": "An indoor museum at Teterboro Airport with planes and local aviation history, open Wednesday through Saturday."
    }
   ],
   "verified": true
@@ -108,13 +108,13 @@
    "Mount Holly",
    "Moorestown",
    "Mount Laurel",
-   "Medford",
-   "Burlington City",
+   "Cinnaminson",
    "Willingboro",
+   "Burlington City",
    "Bordentown",
-   "Cinnaminson"
+   "Medford"
   ],
-  "intro": "Burlington County stretches from historic Delaware River towns like Burlington City and Bordentown deep into the Pine Barrens. It is the largest county in New Jersey by land area, so distances can be long once you leave the river corridor. The NJ Transit River LINE light rail runs along the river from Trenton to Camden.",
+  "intro": "Burlington County is the largest county in New Jersey by land area, stretching from Delaware River towns like Bordentown deep into the Pine Barrens. The NJ Transit River LINE runs along the river between Trenton and Camden. Sen-Han Transit, run by the nonprofit Senior Citizens United Community Services, provides paratransit for seniors and residents with disabilities.",
   "agingOffice": {
    "name": "Burlington County Office on Aging",
    "phone": "609-265-5069",
@@ -160,7 +160,7 @@
    "Pennsauken",
    "Berlin"
   ],
-  "intro": "Camden County sits directly across the Delaware River from Philadelphia, linked by the PATCO high speed line that runs through Collingswood, Haddonfield and Cherry Hill. Walkable downtowns, a busy Camden waterfront and established suburbs make it one of the easier South Jersey counties to get around without driving. Cooper River Park is a favorite place for an easy walk.",
+  "intro": "Camden County sits across the Delaware River from Philadelphia, linked by PATCO trains that stop in Collingswood, Haddonfield and Cherry Hill. Riders 65 and older can apply for PATCO's half fare program outside rush hours. SEN-HAN Transit gives rides to county residents 60 and older and residents with disabilities for medical visits, shopping and errands.",
   "agingOffice": {
    "name": "Camden County Division of Senior and Disabled Services",
    "phone": "856-858-3220",
@@ -210,16 +210,16 @@
    "Sea Isle City",
    "Middle Township"
   ],
-  "intro": "Cape May County is New Jersey's southern tip, a chain of beach towns from Ocean City to the Victorian streets of Cape May. Many older residents live here year round, and the county runs Fare Free Transportation for local trips. Birding is a big draw in spring and fall migration.",
+  "intro": "Cape May County is New Jersey's southern tip, a chain of beach towns from Ocean City to the Victorian streets of Cape May. The county runs Fare Free Transportation buses, and its Division of Aging and Disability Services can point you to senior centers in places like North Wildwood and Ocean City. Birders flock here during spring and fall migration.",
   "agingOffice": {
-   "name": "Cape May County Department of Aging and Disability Services",
+   "name": "Cape May County Division of Aging and Disability Services",
    "phone": "609-886-2784",
    "url": "https://capemaycountynj.gov/200/Aging-Disability-Services"
   },
   "transport": {
    "name": "Cape May County Fare Free Transportation",
    "phone": "609-889-3700",
-   "url": "https://capemaycountynj.gov/"
+   "url": "https://capemaycountynj.gov/446/Fare-Free-Transportation"
   },
   "places": [
    {
@@ -232,7 +232,7 @@
    },
    {
     "name": "Historic Cold Spring Village",
-    "note": "A living history village with costumed interpreters and level paths."
+    "note": "A living history village with costumed interpreters and level paths. It opens on weekends in summer and early fall, so check the schedule first."
    },
    {
     "name": "Emlen Physick Estate",
@@ -260,7 +260,7 @@
    "Fairfield",
    "Downe Township"
   ],
-  "intro": "Cumberland County is rural South Jersey, with farmland, small cities like Vineland and Millville, and quiet bayshore villages along the Delaware Bay. Glassmaking shaped the county's history and still shows up in its museums. The county's CATS bus serves residents 60 and older.",
+  "intro": "Cumberland County is rural South Jersey, with farmland, the small cities of Vineland, Millville and Bridgeton, and quiet villages along the Delaware Bay. Glassmaking shaped its history and still fills its museums. The county's CATS buses serve residents 60 and older, veterans and people with disabilities, and dispatch takes calls at 856-691-7799.",
   "agingOffice": {
    "name": "Cumberland County Office on Aging and Disability Services",
    "phone": "856-453-2220",
@@ -274,7 +274,7 @@
   "places": [
    {
     "name": "WheatonArts and Cultural Center",
-    "note": "Glassblowing demonstrations and a glass museum in Millville."
+    "note": "Glassblowing demonstrations and the Museum of American Glass in Millville, open Thursday to Sunday from April through December."
    },
    {
     "name": "East Point Lighthouse",
@@ -306,7 +306,7 @@
    "Nutley",
    "East Orange"
   ],
-  "intro": "Essex County runs from the city of Newark west to suburban towns like Montclair, Livingston and West Orange. Commuter trains and NJ Transit buses make it one of the easier counties to live in without a car. The county's park system, one of the oldest in the nation, includes Branch Brook Park and the South Mountain Reservation.",
+  "intro": "Essex County runs from Newark west to suburbs like Montclair, Livingston and West Orange, and NJ Transit trains and buses make it easier than most counties to manage without a car. Its park system, the first county park system in the nation, includes Branch Brook Park. Special Transportation rides to medical visits must be booked two business days ahead.",
   "agingOffice": {
    "name": "Essex County Division of Senior Services",
    "phone": "973-395-8375",
@@ -356,7 +356,7 @@
    "West Deptford",
    "Pitman"
   ],
-  "intro": "Gloucester County blends Philadelphia suburbs near the river with farm country further south. Small downtowns like Woodbury, Pitman and Mullica Hill are good for an unhurried afternoon. The county's Division of Transportation Services offers curb to curb rides for residents 60 and older.",
+  "intro": "Gloucester County blends Philadelphia suburbs near the Delaware River with farm country further south. Small downtowns like Woodbury, Pitman and Mullica Hill are good for an unhurried afternoon. The county's Division of Transportation Services offers non-emergency, curb to curb rides for residents 60 and older, veterans and people with disabilities.",
   "agingOffice": {
    "name": "Gloucester County Division of Senior Services",
    "phone": "856-384-6900",
@@ -402,7 +402,7 @@
    "Secaucus",
    "Kearny"
   ],
-  "intro": "Hudson County is New Jersey's most densely populated county, packed between the Hudson and Hackensack rivers with views of the Manhattan skyline. PATH trains, the Hudson-Bergen Light Rail, ferries and buses make it one of the easiest places in the state to live without a car. The Hudson River Waterfront Walkway offers miles of flat, scenic strolling.",
+  "intro": "Hudson County is New Jersey's most densely populated county, packed between the Hudson and Hackensack rivers with views of the Manhattan skyline. PATH trains, the Hudson-Bergen Light Rail, ferries and buses serve most neighborhoods. The county's TRANSCEND service gives rides to residents 60 and older, adults with disabilities and veterans.",
   "agingOffice": {
    "name": "Hudson County Division on Aging",
    "phone": "201-369-4313",
@@ -410,7 +410,7 @@
   },
   "transport": {
    "name": "TRANSCEND (Hudson County Office of Transportation Services)",
-   "phone": "201-369-4320",
+   "phone": "201-369-4320 ext. 4107",
    "url": "https://www.hcnj.us/health-and-human-services/transcend/transcend-system/"
   },
   "places": [
@@ -452,14 +452,14 @@
    "High Bridge",
    "Tewksbury"
   ],
-  "intro": "Hunterdon County is rolling farm country with historic river towns like Lambertville and Frenchtown on the Delaware. Towns are spread out, so most older residents drive or use the county's LINK transportation system. Round Valley and Spruce Run reservoirs anchor the outdoor scene.",
+  "intro": "Hunterdon County is rolling farm country with historic river towns like Lambertville and Frenchtown on the Delaware. Towns are spread out, so many older residents rely on The LINK, which runs fixed shuttle routes plus shared curb to curb rides in towns the routes miss. Round Valley and Spruce Run reservoirs anchor the outdoor scene.",
   "agingOffice": {
    "name": "Hunterdon County Division of Senior, Disabilities and Veterans' Services",
    "phone": "908-788-1361",
    "url": "https://www.co.hunterdon.nj.us/aging.htm"
   },
   "transport": {
-   "name": "The LINK Hunterdon County Transportation System",
+   "name": "The LINK (Hunterdon County Transportation System)",
    "phone": "800-842-0531",
    "url": "https://gohunterdon.org/mobility/bus/"
   },
@@ -474,7 +474,7 @@
    },
    {
     "name": "Delaware and Raritan Canal State Park towpath",
-    "note": "A flat, shaded path along the canal in Lambertville and Frenchtown."
+    "note": "A flat, shaded path along the canal and river at Lambertville, part of a state park trail that continues north to Frenchtown."
    },
    {
     "name": "Round Valley Recreation Area",
@@ -502,7 +502,7 @@
    "Hopewell",
    "Robbinsville"
   ],
-  "intro": "Mercer County is home to the state capital in Trenton and the university town of Princeton. NJ Transit's Northeast Corridor line and River LINE stop in the county, and Trenton has SEPTA connections to Philadelphia. The county's TRADE service provides rides for residents 60 and older and people with disabilities.",
+  "intro": "Mercer County is home to the state capital in Trenton and the university town of Princeton. NJ Transit's Northeast Corridor and River LINE stop in Trenton, along with SEPTA trains to Philadelphia. The Office on Aging in Hamilton answers questions at 609-989-6661, and the county's TRADE service gives rides to residents 60 and older and people with disabilities.",
   "agingOffice": {
    "name": "Mercer County Office on Aging",
    "phone": "609-989-6661",
@@ -524,11 +524,11 @@
    },
    {
     "name": "Princeton University Art Museum",
-    "note": "A free museum on the Princeton campus."
+    "note": "A free museum on the Princeton campus, reopened in a new building in fall 2025."
    },
    {
     "name": "Washington Crossing State Park",
-    "note": "The site of Washington's 1776 crossing, with a visitor center and picnic areas."
+    "note": "The site of Washington's 1776 crossing, with picnic areas and trails. A new museum and visitor center was slated to open in 2026, so call ahead."
    },
    {
     "name": "Mercer County Park",
@@ -552,11 +552,11 @@
    "East Brunswick",
    "Monroe Township"
   ],
-  "intro": "Middlesex County sits in the middle of the state, with Rutgers University in New Brunswick and large suburbs like Edison and Woodbridge. Monroe Township has many active adult communities. The Northeast Corridor train line runs through the county, and its RIDE program serves residents 60 and older.",
+  "intro": "Middlesex County sits in the middle of the state, with Rutgers University in New Brunswick and large suburbs like Edison and Woodbridge. Monroe Township is home to many active adult communities. The county's RIDE program offers curb to curb trips anywhere in the county for residents 60 and older, at $3 a ride with a reservation.",
   "agingOffice": {
    "name": "Middlesex County Office of Aging and Disabled Services",
    "phone": "732-745-3295",
-   "url": "https://www.middlesexcountynj.gov/government/departments/department-of-community-services/office-of-aging-disabled-services"
+   "url": "https://www.middlesexcountynj.gov/government/departments/department-of-community-services/office-of-aging-and-disabled-services/information-and-assistance"
   },
   "transport": {
    "name": "Middlesex County RIDE",
@@ -598,16 +598,16 @@
    "Manalapan",
    "Spring Lake"
   ],
-  "intro": "Monmouth County pairs Jersey Shore towns like Asbury Park and Spring Lake with horse farms and suburbs inland around Freehold and Holmdel. NJ Transit's North Jersey Coast Line and ferries from the Highlands area connect to New York. The county park system is large and well kept.",
+  "intro": "Monmouth County pairs Jersey Shore towns like Asbury Park and Spring Lake with horse farms and suburbs inland around Freehold and Holmdel. NJ Transit's North Jersey Coast Line runs along the shore toward New York. Ride in Monmouth, the county bus service once called SCAT, carries seniors and residents with permanent disabilities who depend on transit.",
   "agingOffice": {
    "name": "Monmouth County Division on Aging, Disabilities and Veterans Services",
    "phone": "732-431-7450",
-   "url": "https://visitmonmouth.com/Page.aspx?Id=5201"
+   "url": "https://monmouthadvs.com/aging-services/"
   },
   "transport": {
    "name": "Ride in Monmouth (formerly SCAT)",
    "phone": "732-431-6480",
-   "url": "https://www.visitmonmouth.com/Page.aspx?Id=2902"
+   "url": "https://www.visitmonmouth.com/page.aspx?ID=2900"
   },
   "places": [
    {
@@ -648,7 +648,7 @@
    "Chatham",
    "Boonton"
   ],
-  "intro": "Morris County is a leafy, historic county in northwest New Jersey, centered on Morristown and its Revolutionary War sites. NJ Transit's Morristown Line connects several towns to New York. The county's MAPS paratransit and local Dial-a-Ride programs help residents who no longer drive.",
+  "intro": "Morris County is a leafy, historic county in North Jersey, centered on Morristown and its Revolutionary War sites. NJ Transit's Morristown Line connects several towns to New York. The county's MAPS paratransit serves residents 60 and older, people with disabilities and veterans, and the Division on Aging can explain local Dial-a-Ride options.",
   "agingOffice": {
    "name": "Morris County Division on Aging, Disabilities and Community Programming",
    "phone": "973-285-6848",
@@ -670,7 +670,7 @@
    },
    {
     "name": "Fosterfields Living Historical Farm",
-    "note": "A working historical farm with gentle grounds."
+    "note": "A working historical farm with gentle grounds, open from April through October."
    },
    {
     "name": "Morris Museum",
@@ -698,16 +698,16 @@
    "Point Pleasant",
    "Long Beach Island"
   ],
-  "intro": "Ocean County has one of the largest senior populations in New Jersey, with many active adult communities in towns like Manchester, Berkeley and Toms River. Barrier islands such as Long Beach Island line the coast, and the Pine Barrens cover much of the west. The county's Ocean Ride bus offers Reserve-A-Ride trips for seniors.",
+  "intro": "Ocean County has one of the largest senior populations in New Jersey, with many active adult communities in Manchester, Berkeley and Toms River. Barrier islands like Long Beach Island line the coast, and the Pine Barrens cover much of the west. Ocean Ride's Reserve-A-Ride program carries residents 60 and older to destinations within the county.",
   "agingOffice": {
    "name": "Ocean County Office of Senior Services",
    "phone": "732-929-2091",
    "url": "https://www.co.ocean.nj.us/OC/SeniorServices/frmHomeSS.aspx"
   },
   "transport": {
-   "name": "Ocean Ride",
+   "name": "Ocean Ride (Reserve-A-Ride)",
    "phone": "732-736-8989",
-   "url": "https://co.ocean.nj.us//WebContentFiles//Transportation.pdf"
+   "url": "https://co.ocean.nj.us/Transportation/frmReserve-A-Ride.aspx"
   },
   "places": [
    {
@@ -744,16 +744,16 @@
    "Totowa",
    "Ringwood"
   ],
-  "intro": "Passaic County runs from the industrial city of Paterson north into the lakes and forests of West Milford and Ringwood. Paterson's Great Falls is one of the most striking sights in the state. The county's Paratransit service offers free curb to curb rides for residents 60 and older, with a suggested donation.",
+  "intro": "Passaic County runs from the city of Paterson north into the lakes and forests of West Milford and Ringwood. Paterson's Great Falls is one of the most striking sights in the state. The county Paratransit program gives non-emergency rides to seniors and residents with disabilities, though Clifton and Passaic residents book through their own city numbers.",
   "agingOffice": {
    "name": "Passaic County Department of Senior Services, Disability and Veterans' Affairs",
    "phone": "973-569-4060",
    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs"
   },
   "transport": {
-   "name": "Passaic County Paratransit",
+   "name": "Passaic County Paratransit Program",
    "phone": "973-305-5756",
-   "url": "https://www.passaiccountynj.org/"
+   "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit"
   },
   "places": [
    {
@@ -790,7 +790,7 @@
    "Pilesgrove",
    "Elmer"
   ],
-  "intro": "Salem County is the least populous county in New Jersey, with farms, marshes and small towns along the Delaware River. Historic Salem City has some of the state's oldest buildings. The county's SCOOT transportation service helps residents who do not drive.",
+  "intro": "Salem County is the least populous county in New Jersey, with farms, marshes and small towns along the Delaware River. Historic Salem City has some of the state's oldest buildings. The county's SCOOT transportation service, reached at 856-339-8644, helps residents who do not drive get to appointments and errands.",
   "agingOffice": {
    "name": "Salem County Office on Aging and Disabilities",
    "phone": "856-339-8622",
@@ -816,7 +816,7 @@
    },
    {
     "name": "Hancock House State Historic Site",
-    "note": "A 1734 brick house in Lower Alloways Creek."
+    "note": "A 1734 brick house in Hancock's Bridge, Lower Alloways Creek. Call ahead for hours."
    },
    {
     "name": "Cowtown Rodeo",
@@ -840,7 +840,7 @@
    "Bound Brook",
    "Raritan"
   ],
-  "intro": "Somerset County mixes horse country estates around Bernardsville and Far Hills with busy suburbs like Bridgewater and Hillsborough. Downtown Somerville has shops and restaurants close to the Raritan Valley Line train. The county park system includes some of the state's best public gardens.",
+  "intro": "Somerset County mixes horse country estates around Bernardsville and Far Hills with busy suburbs like Bridgewater and Hillsborough. Downtown Somerville has shops and restaurants close to the Raritan Valley Line train. The Office on Aging and Disability Services can arrange door to door rides for seniors and people with disabilities, and its toll free line is 1-888-747-1122.",
   "agingOffice": {
    "name": "Somerset County Office on Aging and Disability Services",
    "phone": "908-704-6346",
@@ -854,7 +854,7 @@
   "places": [
    {
     "name": "Duke Farms",
-    "note": "Former Doris Duke estate in Hillsborough with paved paths and trams."
+    "note": "The former Doris Duke estate in Hillsborough, with paved paths for walking and biking. A free parking pass is needed on Saturdays from April through October."
    },
    {
     "name": "Colonial Park Arboretum and Rudolf W. van der Goot Rose Garden",
@@ -866,7 +866,7 @@
    },
    {
     "name": "USGA Golf Museum",
-    "note": "Golf history exhibits in Far Hills."
+    "note": "Golf history exhibits in Liberty Corner, Bernards Township. Closed Mondays."
    }
   ],
   "verified": true
@@ -886,11 +886,11 @@
    "Andover",
    "Byram"
   ],
-  "intro": "Sussex County is New Jersey's northwestern corner, a rural county of lakes, farms and mountains bordering New York and Pennsylvania. Public transit is limited, so the county's Skylands Ride is an important option for residents who do not drive. High Point, the highest elevation in the state, is here.",
+  "intro": "Sussex County is New Jersey's rural northwestern corner, a land of lakes, farms and mountains bordering New York and Pennsylvania. High Point, the highest elevation in the state, is here. Public transit is limited, so Skylands Ride matters, with assisted rides for residents 60 and older and Thursday medical trips for veterans.",
   "agingOffice": {
    "name": "Sussex County Division of Senior Services",
    "phone": "973-579-0555",
-   "url": "https://www.sussex.nj.us/"
+   "url": "https://www.sussex.nj.us/459/Division-of-Senior-Services---ADRC"
   },
   "transport": {
    "name": "Skylands Ride",
@@ -912,7 +912,7 @@
    },
    {
     "name": "Sterling Hill Mining Museum",
-    "note": "Guided tours of a historic zinc mine in Ogdensburg."
+    "note": "Guided tours of a historic zinc mine in Ogdensburg. From September to June, public tours run on weekends only, at 1 p.m."
    }
   ],
   "verified": true
@@ -932,7 +932,7 @@
    "Linden",
    "Scotch Plains"
   ],
-  "intro": "Union County is a compact, transit friendly county between Newark and the Watchungs, with older cities like Elizabeth and Plainfield and suburban downtowns like Westfield, Cranford and Summit. NJ Transit trains stop in many of its towns. The county's Paratransit System offers rides for older residents.",
+  "intro": "Union County is a compact, transit friendly county between Newark and the Watchung Mountains, with older cities like Elizabeth and Plainfield and suburban downtowns like Westfield, Cranford and Summit. The county Paratransit System offers curb to curb rides for residents 60 and older at $3 each way, with reservations taken weekdays at 908-241-8300.",
   "agingOffice": {
    "name": "Union County Division on Aging",
    "phone": "908-527-4870",
@@ -941,7 +941,7 @@
   "transport": {
    "name": "Union County Paratransit System",
    "phone": "908-241-8300",
-   "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/"
+   "url": "https://ucnj.org/dhs/accessible-transportation/"
   },
   "places": [
    {
@@ -978,7 +978,7 @@
    "Hope",
    "Allamuchy"
   ],
-  "intro": "Warren County is rural western New Jersey along the Delaware River, with farm country, the Delaware Water Gap and small towns like Blairstown and Hope. Phillipsburg and Hackettstown are the largest population centers. Warren County Transportation offers curb to curb rides for residents 60 and older.",
+  "intro": "Warren County is rural western New Jersey along the Delaware River, with farm country, the Delaware Water Gap and small towns like Blairstown and Hope. Phillipsburg and Hackettstown are its largest towns. Warren County Transportation, operated by Easton Coach, offers curb to curb rides for residents over 60 and people with disabilities.",
   "agingOffice": {
    "name": "Warren County Division of Aging and Disability Services",
    "phone": "908-475-6591",
@@ -1000,7 +1000,7 @@
    },
    {
     "name": "Shippen Manor Museum",
-    "note": "A Georgian manor in Oxford run as a county museum."
+    "note": "A Georgian manor in Oxford run as a county museum, open for tours on select Sunday afternoons."
    },
    {
     "name": "Merrill Creek Reservoir",
