@@ -29,6 +29,6 @@ open(D+'/index.html','w').write(head+s[:i]+'\n</head>\n<body>\n'+s[i:]+'\n</body
 PY
 node -e "
 const {chromium}=require('/opt/npm-tools/node_modules/playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:180,height:180}});await p.goto('file://$D/favicon.svg');await p.screenshot({path:'$D/apple-touch-icon.png',omitBackground:true});await b.close()})()"
-curl -s -o /dev/null localhost:8799/ || (cd $D && nohup python3 -m http.server 8799 >/dev/null 2>&1 &) ; sleep 1
+curl -s -o /dev/null localhost:8800/ || (cd $D && nohup python3 -m http.server 8800 >/dev/null 2>&1 &) ; sleep 1
 node $(dirname $0)/build_static.js $D ${DOMAIN:-https://seniorsofnj.com}
 python3 -c "from PIL import Image;im=Image.open('$D/apple-touch-icon.png').convert('RGBA');im.resize((32,32),Image.LANCZOS).save('$D/favicon-32.png');im.save('$D/favicon.ico',sizes=[(16,16),(32,32),(48,48)])"

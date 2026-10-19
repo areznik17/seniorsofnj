@@ -6,7 +6,7 @@ const esc=s=>String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g
 (async()=>{
  const b=await chromium.launch();const p=await b.newPage({viewport:{width:1300,height:900}});
  const errs=[];p.on('pageerror',e=>errs.push(e.message));
- await p.goto('http://localhost:8799/');await p.waitForFunction(()=>window.__route&&document.querySelector('#app').children.length>0);
+ await p.goto('http://localhost:8800/');await p.waitForFunction(()=>window.__route&&document.querySelector('#app').children.length>0);
  const data=await p.evaluate(async()=>{const j=u=>fetch(u).then(r=>r.json());const files=["benefits","health","caregiving","living","home2","todo2","fun1","fun2","local"];let A=[];for(const f of files){try{A=A.concat(await j('/content/'+f+'.json'))}catch(e){}}const C=await j('/content/counties.json');const X=await j('/content/extras.json');return{a:A.map(x=>({slug:x.slug,title:x.title,dek:x.dek,photo:x.photo,updated:x.updated})),c:C.map(x=>x.slug),s:X.steps.map(x=>x.slug),k:X.checklists.map(x=>x.slug)}});
  const AM=Object.fromEntries(data.a.map(a=>[a.slug,a]));
  const routes=['/'].concat(['benefits','health','caregiving','home','things-to-do','living'].map(h=>'/hub/'+h),data.a.map(a=>'/article/'+a.slug),data.s.map(s=>'/steps/'+s),['/counties'],data.c.map(s=>'/county/'+s),['/checker','/dates','/glossary','/directory','/about','/articles'],data.k.map(s=>'/checklist/'+s),['/for/seniors','/for/families','/for/pros']);

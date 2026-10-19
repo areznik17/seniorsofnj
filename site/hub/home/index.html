@@ -648,6 +648,32 @@ footer .wrap{padding-block:48px 28px}
 .cm-band{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);border-radius:24px;overflow:hidden;background:var(--surface);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
 .cm-band .ph{border-radius:0;height:100%;min-height:240px}
 @media (max-width:760px){.cm-band{grid-template-columns:1fr}.cm-band .ph{min-height:200px;order:-1}}
+
+/* ---- v8: header spacing, no orphans, footer room ---- */
+p,li,dd{text-wrap:pretty}
+.h-center{max-width:1000px}
+.h-center .lede{max-width:none;width:min(100%,800px);text-wrap:balance}
+.top .topin{max-width:none;padding-left:max(32px,env(safe-area-inset-left,0px));padding-right:max(32px,env(safe-area-inset-right,0px));gap:32px;padding-block:16px}
+.top .logo{margin-right:0;flex:none}
+.topnav{flex:1;display:flex;justify-content:center;gap:6px}
+.topnav a{padding:8px 14px}
+.topact{flex:none;gap:12px}
+@media (max-width:1440px){.topnav{gap:2px}.topnav a{padding:8px 11px}}
+@media (max-width:1320px){.top .topin{gap:20px}.topnav a{padding:8px 8px;font-size:15.5px}.topact{gap:8px}}
+@media (max-width:640px){.top .topin{padding-left:max(18px,env(safe-area-inset-left,0px));padding-right:max(18px,env(safe-area-inset-right,0px))}}
+footer .wrap{padding-block:72px 44px}
+footer .fine{margin-top:48px}
+@media (max-width:1200px){.topnav{display:none}}
+
+/* ---- v8b: tighter, even home page ---- */
+.h-hero{padding-block:52px 8px}
+.h-trio{margin-top:36px;margin-bottom:28px;gap:16px}
+.h-trio .ph{aspect-ratio:3/2;border-radius:18px}
+.h-trio .ph:nth-child(2){transform:none}
+.s{padding-block:44px}
+.topics .ph,.topic .ph{aspect-ratio:3/2}
+@media (max-width:700px){.h-hero{padding-block:32px 4px}.h-trio{gap:8px;margin-top:24px;margin-bottom:20px}.h-trio .ph{aspect-ratio:1;border-radius:12px}.s{padding-block:36px}}
+@media (max-width:520px){.topic .ph{aspect-ratio:4/3}.deadline{align-items:flex-start;gap:14px;padding:16px}.dl-date{width:54px;height:54px}.dl-date b{font-size:24px}.dl-txt b{font-size:18px}.dl-txt span{font-size:15.5px}.dl-go{padding-left:68px}}
 </style>
 </head>
 <body>
@@ -827,7 +853,7 @@ function home(){
 
 <section class="s"><div class="wrap">
  <div class="s-head"><h2>Get out this fall</h2><a href="#/hub/things-to-do">Things to Do</a></div>
- <div class="grid4">${X.season.map(x=>`<div class="card">${ph(x.photo,"r45",x.title)}<h3>${esc(x.title)}</h3><p>${esc(x.text)}</p></div>`).join("")}</div>
+ <div class="grid4">${X.season.map(x=>`<div class="card">${ph(x.photo,"r32",x.title)}<h3>${esc(x.title)}</h3><p>${esc(x.text)}</p></div>`).join("")}</div>
 </div></section>
 
 <section class="s"><div class="wrap">
