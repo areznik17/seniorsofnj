@@ -14,6 +14,6 @@ Live site is published by Netlify from the `site/` folder on every push to `main
 - Every figure in a guide needs an official source and an updated date.
 
 ## Home Happenings launch checklist (do this when the owner says Home Happenings is live)
-- In `src/index.html` set `HH_LIVE=true`. That turns on every homehappenings.com link (the "Activities at Home" button is a non-working "Coming soon" button until then) and shows the Home Happenings promo on county pages listed in `HH_COUNTIES` (currently Essex).
+- In `src/index.html` set `HH_LIVE=true`. That turns on every homehappenings.com link (the "Activities at Home" button is a non-working "Coming soon" button until then) and shows the Home Happenings promo on county pages listed in `HH_COUNTIES` (currently Essex and Passaic).
 - Add any newly served counties to `HH_COUNTIES`, and consider adding Home Happenings mentions to relevant guides (learn-something-new, staying-connected-nj, caregiving guides).
 - Rebuild with `scripts/build.sh`, check pages, push to `main`.
