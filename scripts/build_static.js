@@ -23,7 +23,7 @@ const HUBN={benefits:'Benefits & Money',health:'Health & Medicare',caregiving:'C
   const meta=await p.evaluate(()=>({t:document.title,d:document.querySelector('meta[name="description"]').content,h:(document.querySelector('h1')||{}).textContent||''}));
   let html='<!doctype html>\n'+await p.evaluate(()=>document.documentElement.outerHTML);
   const url=urlOf(r);const slug=r.startsWith('/article/')?r.slice(9):null;const art=slug&&AM[slug];
-  const img=DOMAIN+'/img/og/'+(art?art.photo:'shore-lighthouse')+'.jpg';
+  const img=DOMAIN+'/img/og/'+(art?art.photo:'home')+'.jpg';
   const ld=[];
   const cr=crumbsFor(r);if(r!=='/')ld.push({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":cr.map((c,i)=>({"@type":"ListItem","position":i+1,"name":c[0]||meta.h,"item":c[1]}))});
   if(art){ld.push({"@context":"https://schema.org","@type":"Article","headline":art.title,"description":art.dek,"image":img,"dateModified":art.updated,"datePublished":art.updated,"inLanguage":"en-US","about":HUBN[art.hub],"author":{"@type":"Organization","name":"Seniors of NJ","url":DOMAIN+'/'},"publisher":{"@type":"Organization","name":"Seniors of NJ","url":DOMAIN+'/',"logo":{"@type":"ImageObject","url":DOMAIN+'/apple-touch-icon.png'}},"mainEntityOfPage":url,"spatialCoverage":{"@type":"State","name":"New Jersey"}});
