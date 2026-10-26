@@ -22,7 +22,7 @@
 <meta property="article:modified_time" content="2026-10-18">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://seniorsofnj.com/"},{"@type":"ListItem","position":2,"name":"Things to Do","item":"https://seniorsofnj.com/hub/things-to-do/"},{"@type":"ListItem","position":3,"name":"15 places in New Jersey to take the grandkids","item":"https://seniorsofnj.com/article/grandkids-day-out-nj/"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"15 places in New Jersey to take the grandkids","description":"Zoos, aquariums, farms and a battleship, chosen for children and grandparents alike. Here is where the benches, elevators and wheelchair rentals are, and what seniors pay.","image":"https://seniorsofnj.com/img/og/grandparent-child.jpg","dateModified":"2026-10-18","datePublished":"2026-10-18","inLanguage":"en-US","about":"Things to Do","author":{"@type":"Organization","name":"Seniors of NJ","url":"https://seniorsofnj.com/"},"publisher":{"@type":"Organization","name":"Seniors of NJ","url":"https://seniorsofnj.com/","logo":{"@type":"ImageObject","url":"https://seniorsofnj.com/apple-touch-icon.png"}},"mainEntityOfPage":"https://seniorsofnj.com/article/grandkids-day-out-nj/","spatialCoverage":{"@type":"State","name":"New Jersey"}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Which of these places are free?","acceptedAnswer":{"@type":"Answer","text":"Cape May County Park & Zoo, Duke Farms, Howell Living History Farm, the New Jersey State Museum (planetarium shows are extra) and the Paterson Great Falls overlook charge no admission. Silas Condict County Park is also free to visit."}},{"@type":"Question","name":"Where can I rent a wheelchair or scooter?","acceptedAnswer":{"@type":"Answer","text":"Adventure Aquarium, Grounds For Sculpture and Cape May County Park & Zoo rent them. Turtle Back Zoo has a limited number for rent, and Liberty Science Center and the New Jersey State Museum have wheelchairs at the front desk. Supplies are small, so arrive early or call ahead."}},{"@type":"Question","name":"What is a good indoor choice for a cold or rainy day?","acceptedAnswer":{"@type":"Answer","text":"Liberty Science Center, Adventure Aquarium, Jenkinson's Aquarium and the New Jersey State Museum are mostly or fully indoors. Check hours first, since Liberty Science Center closes on some weekdays."}},{"@type":"Question","name":"Do I need a note from the parents to take my grandchild out?","acceptedAnswer":{"@type":"Answer","text":"It is smart to carry one. A signed note with the parents' phone numbers, the child's allergies and the pediatrician's name helps if there is an emergency or a medical visit."}},{"@type":"Question","name":"Which New Jersey zoos give seniors a discount?","acceptedAnswer":{"@type":"Answer","text":"Bergen County Zoo charges seniors 62 and older $2 if they live in Bergen County and $4 if not. Turtle Back Zoo had a <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">9 senior ticket for ages 62 and older when we checked, and Cape May County Park & Zoo is free for everyone."}},{"@type":"Question","name":"Can I bring a picnic lunch?","acceptedAnswer":{"@type":"Answer","text":"It depends on the place. Adventure Aquarium allows outside food, and Cape May County Park allows it in the park but not inside the zoo. Howell Living History Farm does not allow picnicking, so plan lunch elsewhere."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Which of these places are free?","acceptedAnswer":{"@type":"Answer","text":"Cape May County Park & Zoo, Duke Farms, Howell Living History Farm, the New Jersey State Museum (planetarium shows are extra) and the Paterson Great Falls overlook charge no admission. Silas Condict County Park is also free to visit."}},{"@type":"Question","name":"Where can I rent a wheelchair or scooter?","acceptedAnswer":{"@type":"Answer","text":"Adventure Aquarium, Grounds For Sculpture and Cape May County Park & Zoo rent them. Turtle Back Zoo has a limited number for rent, and Liberty Science Center and the New Jersey State Museum have wheelchairs at the front desk. Supplies are small, so arrive early or call ahead."}},{"@type":"Question","name":"What is a good indoor choice for a cold or rainy day?","acceptedAnswer":{"@type":"Answer","text":"Liberty Science Center, Adventure Aquarium, Jenkinson's Aquarium and the New Jersey State Museum are mostly or fully indoors. Check hours first, since Liberty Science Center closes on some weekdays."}},{"@type":"Question","name":"Do I need a note from the parents to take my grandchild out?","acceptedAnswer":{"@type":"Answer","text":"It is smart to carry one. A signed note with the parents' phone numbers, the child's allergies and the pediatrician's name helps if there is an emergency or a medical visit."}},{"@type":"Question","name":"Which New Jersey zoos give seniors a discount?","acceptedAnswer":{"@type":"Answer","text":"Bergen County Zoo charges seniors 62 and older $2 if they live in Bergen County and $4 if not. Turtle Back Zoo had a $19 senior ticket for ages 62 and older when we checked, and Cape May County Park & Zoo is free for everyone."}},{"@type":"Question","name":"Can I bring a picnic lunch?","acceptedAnswer":{"@type":"Answer","text":"It depends on the place. Adventure Aquarium allows outside food, and Cape May County Park allows it in the park but not inside the zoo. Howell Living History Farm does not allow picnicking, so plan lunch elsewhere."}}]}</script>
 
 <meta name="theme-color" content="#FAF7F2">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -679,6 +679,8 @@ footer .fine{margin-top:48px}
 @media (max-width:1200px){.topnav{display:none}}
 .steps ol{grid-template-columns:minmax(0,1fr)}
 .nw{white-space:nowrap}
+.h-hero{padding-bottom:30px!important}
+@media (max-width:700px){.h-hero{padding-bottom:22px!important}}
 .cty-map{display:flex;justify-content:center;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:24px}.cty-map>div{width:min(260px,70%)}
 @media (max-width:700px){
  .h-hero .lede{font-size:17px;line-height:1.5;width:100%}
@@ -966,7 +968,7 @@ function home(){
  const feat=pick("day-trips-nj")||A[0];
  const side=["advantage-vs-medigap","geriatric-care-manager-nj","learn-something-new"].map(pick).filter(Boolean);
  const more=["prescription-and-bill-help","social-security-2027","aging-in-place-nj","scams-nj"].map(pick).filter(Boolean);
- const days=Math.max(0,relDays("2026-11-02"));
+ const spot=(X.spotlight||[]).find(x=>relDays(x.until)>=0);
  return `
 <section class="h-hero">
  <div class="wrap h-center">
@@ -975,14 +977,13 @@ function home(){
   <form class="h-search" id="hsearch" role="search"><label for="hq" hidden>Search</label><input id="hq" placeholder="Search guides, programs and places"><button class="btn">Search</button></form>
   <div class="h-pop"><span>Popular:</span><a href="#/article/day-trips-nj">Day trips</a><a href="#/article/property-tax-relief-nj">Property taxes</a><a href="#/article/learn-something-new">Classes</a><a href="#/article/advantage-vs-medigap">Medicare</a><a href="#/article/grandkids-day-out-nj">With the grandkids</a></div>
  </div>
- <div class="wrap"><div class="h-trio">${ph("cards-chess","","Two older friends playing cards at a dining table",1)}${ph("shore-lighthouse","","The Cape May Lighthouse behind the dunes",1)}${ph("garden","","An older woman in a straw hat tending her garden",1)}</div></div>
 </section>
 
-<section class="wrap"><a class="deadline" href="#/article/property-tax-relief-nj">
- <span class="dl-date"><small>Nov</small><b>2</b></span>
- <span class="dl-txt"><b>Property tax relief deadline</b><span>One form covers ANCHOR, Senior Freeze and Stay NJ. ${days} days left to file.</span></span>
- <span class="dl-go">See if you qualify &rarr;</span>
-</a></section>
+${spot?`<section class="wrap"><a class="deadline" href="${spot.link}">
+ <span class="dl-date"><small>${esc(spot.mon)}</small><b>${esc(spot.day)}</b></span>
+ <span class="dl-txt"><b>${esc(spot.title)}</b><span>${esc(spot.text)}${spot.count?` ${Math.max(0,relDays(spot.until))} days left.`:""}</span></span>
+ <span class="dl-go">${esc(spot.cta)} &rarr;</span>
+</a></section>`:""}
 
 <section class="s"><div class="wrap">
  <div class="s-head"><h2>Browse by topic</h2></div>

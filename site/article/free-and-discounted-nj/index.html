@@ -22,7 +22,7 @@
 <meta property="article:modified_time" content="2026-10-18">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://seniorsofnj.com/"},{"@type":"ListItem","position":2,"name":"Things to Do","item":"https://seniorsofnj.com/hub/things-to-do/"},{"@type":"ListItem","position":3,"name":"Free and discounted things to do in New Jersey after 60","item":"https://seniorsofnj.com/article/free-and-discounted-nj/"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Free and discounted things to do in New Jersey after 60","description":"Park passes, half-price train rides, tuition-free college classes and free museums. Here is what New Jersey residents 60 and older can get for little or nothing, and how to claim it.","image":"https://seniorsofnj.com/img/og/autumn-trail.jpg","dateModified":"2026-10-18","datePublished":"2026-10-18","inLanguage":"en-US","about":"Things to Do","author":{"@type":"Organization","name":"Seniors of NJ","url":"https://seniorsofnj.com/"},"publisher":{"@type":"Organization","name":"Seniors of NJ","url":"https://seniorsofnj.com/","logo":{"@type":"ImageObject","url":"https://seniorsofnj.com/apple-touch-icon.png"}},"mainEntityOfPage":"https://seniorsofnj.com/article/free-and-discounted-nj/","spatialCoverage":{"@type":"State","name":"New Jersey"}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I have to be a New Jersey resident for the State Park senior pass?","acceptedAnswer":{"@type":"Answer","text":"Yes. The free Senior Citizen Pass is for New Jersey residents aged 62 or older. Bring ID showing your age and address to any state park office."}},{"@type":"Question","name":"Is the federal Senior Pass still $80?","acceptedAnswer":{"@type":"Answer","text":"Yes. The lifetime Senior Pass is $80 and the annual Senior Pass is $20, for U.S. citizens or permanent residents aged 62 or older."}},{"@type":"Question","name":"Do I need a special card for NJ Transit senior fares?","acceptedAnswer":{"@type":"Answer","text":"No. Any valid government, social service or transit ID with your date of birth works, including your Medicare card or driver's license. The reduced fare is half the regular one-way fare for riders 62 and older."}},{"@type":"Question","name":"Is college really free at 65?","acceptedAnswer":{"@type":"Answer","text":"Tuition can be waived at New Jersey public colleges for residents 65 and older when seats are available, under N.J.S.A. 18A:62-3. You usually still pay fees, and you often may register only on or after the first day of classes. Ask the registrar how that school applies the waiver."}},{"@type":"Question","name":"Do seniors need a fishing license in New Jersey?","acceptedAnswer":{"@type":"Answer","text":"New Jersey residents 70 and older do not need a freshwater fishing license or trout stamp. A driver's license or other proof of age serves as the license. Younger residents 16 and older need a license, and saltwater anglers 16 and older register with the state's saltwater registry."}},{"@type":"Question","name":"Which New Jersey museums are free to visit?","acceptedAnswer":{"@type":"Answer","text":"The Princeton University Art Museum, the Zimmerli Art Museum at Rutgers and the New Jersey State Museum in Trenton all have free general admission. The State Museum charges for planetarium shows, with <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"> off for seniors 65 and older."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I have to be a New Jersey resident for the State Park senior pass?","acceptedAnswer":{"@type":"Answer","text":"Yes. The free Senior Citizen Pass is for New Jersey residents aged 62 or older. Bring ID showing your age and address to any state park office."}},{"@type":"Question","name":"Is the federal Senior Pass still $80?","acceptedAnswer":{"@type":"Answer","text":"Yes. The lifetime Senior Pass is $80 and the annual Senior Pass is $20, for U.S. citizens or permanent residents aged 62 or older."}},{"@type":"Question","name":"Do I need a special card for NJ Transit senior fares?","acceptedAnswer":{"@type":"Answer","text":"No. Any valid government, social service or transit ID with your date of birth works, including your Medicare card or driver's license. The reduced fare is half the regular one-way fare for riders 62 and older."}},{"@type":"Question","name":"Is college really free at 65?","acceptedAnswer":{"@type":"Answer","text":"Tuition can be waived at New Jersey public colleges for residents 65 and older when seats are available, under N.J.S.A. 18A:62-3. You usually still pay fees, and you often may register only on or after the first day of classes. Ask the registrar how that school applies the waiver."}},{"@type":"Question","name":"Do seniors need a fishing license in New Jersey?","acceptedAnswer":{"@type":"Answer","text":"New Jersey residents 70 and older do not need a freshwater fishing license or trout stamp. A driver's license or other proof of age serves as the license. Younger residents 16 and older need a license, and saltwater anglers 16 and older register with the state's saltwater registry."}},{"@type":"Question","name":"Which New Jersey museums are free to visit?","acceptedAnswer":{"@type":"Answer","text":"The Princeton University Art Museum, the Zimmerli Art Museum at Rutgers and the New Jersey State Museum in Trenton all have free general admission. The State Museum charges for planetarium shows, with $1 off for seniors 65 and older."}}]}</script>
 
 <meta name="theme-color" content="#FAF7F2">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -679,6 +679,8 @@ footer .fine{margin-top:48px}
 @media (max-width:1200px){.topnav{display:none}}
 .steps ol{grid-template-columns:minmax(0,1fr)}
 .nw{white-space:nowrap}
+.h-hero{padding-bottom:30px!important}
+@media (max-width:700px){.h-hero{padding-bottom:22px!important}}
 .cty-map{display:flex;justify-content:center;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:24px}.cty-map>div{width:min(260px,70%)}
 @media (max-width:700px){
  .h-hero .lede{font-size:17px;line-height:1.5;width:100%}
@@ -893,7 +895,7 @@ function home(){
  const feat=pick("day-trips-nj")||A[0];
  const side=["advantage-vs-medigap","geriatric-care-manager-nj","learn-something-new"].map(pick).filter(Boolean);
  const more=["prescription-and-bill-help","social-security-2027","aging-in-place-nj","scams-nj"].map(pick).filter(Boolean);
- const days=Math.max(0,relDays("2026-11-02"));
+ const spot=(X.spotlight||[]).find(x=>relDays(x.until)>=0);
  return `
 <section class="h-hero">
  <div class="wrap h-center">
@@ -902,14 +904,13 @@ function home(){
   <form class="h-search" id="hsearch" role="search"><label for="hq" hidden>Search</label><input id="hq" placeholder="Search guides, programs and places"><button class="btn">Search</button></form>
   <div class="h-pop"><span>Popular:</span><a href="#/article/day-trips-nj">Day trips</a><a href="#/article/property-tax-relief-nj">Property taxes</a><a href="#/article/learn-something-new">Classes</a><a href="#/article/advantage-vs-medigap">Medicare</a><a href="#/article/grandkids-day-out-nj">With the grandkids</a></div>
  </div>
- <div class="wrap"><div class="h-trio">${ph("cards-chess","","Two older friends playing cards at a dining table",1)}${ph("shore-lighthouse","","The Cape May Lighthouse behind the dunes",1)}${ph("garden","","An older woman in a straw hat tending her garden",1)}</div></div>
 </section>
 
-<section class="wrap"><a class="deadline" href="#/article/property-tax-relief-nj">
- <span class="dl-date"><small>Nov</small><b>2</b></span>
- <span class="dl-txt"><b>Property tax relief deadline</b><span>One form covers ANCHOR, Senior Freeze and Stay NJ. ${days} days left to file.</span></span>
- <span class="dl-go">See if you qualify &rarr;</span>
-</a></section>
+${spot?`<section class="wrap"><a class="deadline" href="${spot.link}">
+ <span class="dl-date"><small>${esc(spot.mon)}</small><b>${esc(spot.day)}</b></span>
+ <span class="dl-txt"><b>${esc(spot.title)}</b><span>${esc(spot.text)}${spot.count?` ${Math.max(0,relDays(spot.until))} days left.`:""}</span></span>
+ <span class="dl-go">${esc(spot.cta)} &rarr;</span>
+</a></section>`:""}
 
 <section class="s"><div class="wrap">
  <div class="s-head"><h2>Browse by topic</h2></div>

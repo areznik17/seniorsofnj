@@ -22,7 +22,7 @@
 <meta property="article:modified_time" content="2026-10-18">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://seniorsofnj.com/"},{"@type":"ListItem","position":2,"name":"Benefits & Money","item":"https://seniorsofnj.com/hub/benefits/"},{"@type":"ListItem","position":3,"name":"Food and utility help for New Jersey seniors: where to start","item":"https://seniorsofnj.com/article/food-and-utility-help/"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Food and utility help for New Jersey seniors: where to start","description":"SNAP, senior meals, farmers market benefits, heating aid and free weatherization can all ease a tight budget. Here is how each works and how to apply this season.","image":"https://seniorsofnj.com/img/og/farm-market.jpg","dateModified":"2026-10-18","datePublished":"2026-10-18","inLanguage":"en-US","about":"Benefits & Money","author":{"@type":"Organization","name":"Seniors of NJ","url":"https://seniorsofnj.com/"},"publisher":{"@type":"Organization","name":"Seniors of NJ","url":"https://seniorsofnj.com/","logo":{"@type":"ImageObject","url":"https://seniorsofnj.com/apple-touch-icon.png"}},"mainEntityOfPage":"https://seniorsofnj.com/article/food-and-utility-help/","spatialCoverage":{"@type":"State","name":"New Jersey"}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I have to visit an office to apply for SNAP?","acceptedAnswer":{"@type":"Answer","text":"Usually not. New Jersey lets you complete the SNAP process by phone or online. A free SNAP Navigator can help you with the form."}},{"@type":"Question","name":"Can I get LIHEAP if I heat with oil?","acceptedAnswer":{"@type":"Answer","text":"Yes. LIHEAP covers oil, propane and other fuels. Payments for delivered fuel are typically made by check to you and your supplier together."}},{"@type":"Question","name":"Who can get home-delivered meals?","acceptedAnswer":{"@type":"Answer","text":"Adults 60 and older who are homebound because of illness, disability or isolation, after a needs assessment. Call the ADRC at 1-877-222-3737 to reach your county program."}},{"@type":"Question","name":"Is there a deadline for energy assistance?","acceptedAnswer":{"@type":"Answer","text":"The 2026 to 2027 application period runs from October 1, 2026, to June 30, 2027, but help is first come, first served, so apply early."}},{"@type":"Question","name":"Can the utility shut off my heat in winter?","acceptedAnswer":{"@type":"Answer","text":"If you are enrolled in the Winter Termination Program, your gas and electric service is protected from shutoff from November 15 to March 15. People on LIHEAP, USF, PAAD, Lifeline or SSI qualify. Call your utility or the Board of Public Utilities at 1-800-624-0241."}},{"@type":"Question","name":"What is the minimum SNAP benefit in New Jersey?","acceptedAnswer":{"@type":"Answer","text":"New Jersey sets a minimum of $95 a month, or <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">,140 a year, for eligible households. Medical and housing deductions often push older adults above the minimum."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I have to visit an office to apply for SNAP?","acceptedAnswer":{"@type":"Answer","text":"Usually not. New Jersey lets you complete the SNAP process by phone or online. A free SNAP Navigator can help you with the form."}},{"@type":"Question","name":"Can I get LIHEAP if I heat with oil?","acceptedAnswer":{"@type":"Answer","text":"Yes. LIHEAP covers oil, propane and other fuels. Payments for delivered fuel are typically made by check to you and your supplier together."}},{"@type":"Question","name":"Who can get home-delivered meals?","acceptedAnswer":{"@type":"Answer","text":"Adults 60 and older who are homebound because of illness, disability or isolation, after a needs assessment. Call the ADRC at 1-877-222-3737 to reach your county program."}},{"@type":"Question","name":"Is there a deadline for energy assistance?","acceptedAnswer":{"@type":"Answer","text":"The 2026 to 2027 application period runs from October 1, 2026, to June 30, 2027, but help is first come, first served, so apply early."}},{"@type":"Question","name":"Can the utility shut off my heat in winter?","acceptedAnswer":{"@type":"Answer","text":"If you are enrolled in the Winter Termination Program, your gas and electric service is protected from shutoff from November 15 to March 15. People on LIHEAP, USF, PAAD, Lifeline or SSI qualify. Call your utility or the Board of Public Utilities at 1-800-624-0241."}},{"@type":"Question","name":"What is the minimum SNAP benefit in New Jersey?","acceptedAnswer":{"@type":"Answer","text":"New Jersey sets a minimum of $95 a month, or $1,140 a year, for eligible households. Medical and housing deductions often push older adults above the minimum."}}]}</script>
 
 <meta name="theme-color" content="#FAF7F2">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -679,6 +679,8 @@ footer .fine{margin-top:48px}
 @media (max-width:1200px){.topnav{display:none}}
 .steps ol{grid-template-columns:minmax(0,1fr)}
 .nw{white-space:nowrap}
+.h-hero{padding-bottom:30px!important}
+@media (max-width:700px){.h-hero{padding-bottom:22px!important}}
 .cty-map{display:flex;justify-content:center;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:24px}.cty-map>div{width:min(260px,70%)}
 @media (max-width:700px){
  .h-hero .lede{font-size:17px;line-height:1.5;width:100%}
@@ -974,7 +976,7 @@ function home(){
  const feat=pick("day-trips-nj")||A[0];
  const side=["advantage-vs-medigap","geriatric-care-manager-nj","learn-something-new"].map(pick).filter(Boolean);
  const more=["prescription-and-bill-help","social-security-2027","aging-in-place-nj","scams-nj"].map(pick).filter(Boolean);
- const days=Math.max(0,relDays("2026-11-02"));
+ const spot=(X.spotlight||[]).find(x=>relDays(x.until)>=0);
  return `
 <section class="h-hero">
  <div class="wrap h-center">
@@ -983,14 +985,13 @@ function home(){
   <form class="h-search" id="hsearch" role="search"><label for="hq" hidden>Search</label><input id="hq" placeholder="Search guides, programs and places"><button class="btn">Search</button></form>
   <div class="h-pop"><span>Popular:</span><a href="#/article/day-trips-nj">Day trips</a><a href="#/article/property-tax-relief-nj">Property taxes</a><a href="#/article/learn-something-new">Classes</a><a href="#/article/advantage-vs-medigap">Medicare</a><a href="#/article/grandkids-day-out-nj">With the grandkids</a></div>
  </div>
- <div class="wrap"><div class="h-trio">${ph("cards-chess","","Two older friends playing cards at a dining table",1)}${ph("shore-lighthouse","","The Cape May Lighthouse behind the dunes",1)}${ph("garden","","An older woman in a straw hat tending her garden",1)}</div></div>
 </section>
 
-<section class="wrap"><a class="deadline" href="#/article/property-tax-relief-nj">
- <span class="dl-date"><small>Nov</small><b>2</b></span>
- <span class="dl-txt"><b>Property tax relief deadline</b><span>One form covers ANCHOR, Senior Freeze and Stay NJ. ${days} days left to file.</span></span>
- <span class="dl-go">See if you qualify &rarr;</span>
-</a></section>
+${spot?`<section class="wrap"><a class="deadline" href="${spot.link}">
+ <span class="dl-date"><small>${esc(spot.mon)}</small><b>${esc(spot.day)}</b></span>
+ <span class="dl-txt"><b>${esc(spot.title)}</b><span>${esc(spot.text)}${spot.count?` ${Math.max(0,relDays(spot.until))} days left.`:""}</span></span>
+ <span class="dl-go">${esc(spot.cta)} &rarr;</span>
+</a></section>`:""}
 
 <section class="s"><div class="wrap">
  <div class="s-head"><h2>Browse by topic</h2></div>

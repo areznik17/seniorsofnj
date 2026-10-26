@@ -22,7 +22,7 @@
 <meta property="article:modified_time" content="2026-10-18">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://seniorsofnj.com/"},{"@type":"ListItem","position":2,"name":"Things to Do","item":"https://seniorsofnj.com/hub/things-to-do/"},{"@type":"ListItem","position":3,"name":"15 New Jersey museums and historic sites worth the drive","item":"https://seniorsofnj.com/article/nj-museums-guide/"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"15 New Jersey museums and historic sites worth the drive","description":"From Edison's lab in West Orange to a battleship on the Delaware, here is what to see at each stop, how easy it is to get around, and what seniors pay.","image":"https://seniorsofnj.com/img/og/museum.jpg","dateModified":"2026-10-18","datePublished":"2026-10-18","inLanguage":"en-US","about":"Things to Do","author":{"@type":"Organization","name":"Seniors of NJ","url":"https://seniorsofnj.com/"},"publisher":{"@type":"Organization","name":"Seniors of NJ","url":"https://seniorsofnj.com/","logo":{"@type":"ImageObject","url":"https://seniorsofnj.com/apple-touch-icon.png"}},"mainEntityOfPage":"https://seniorsofnj.com/article/nj-museums-guide/","spatialCoverage":{"@type":"State","name":"New Jersey"}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Which New Jersey museums are free?","acceptedAnswer":{"@type":"Answer","text":"Princeton University Art Museum, the Zimmerli Art Museum at Rutgers and the New Jersey State Museum charge no general admission. Morristown National Historical Park has no entrance fee. The Paterson Great Falls overlook is also free."}},{"@type":"Question","name":"Does the national park Senior Pass work at Thomas Edison's lab?","acceptedAnswer":{"@type":"Answer","text":"Yes. Thomas Edison National Historical Park accepts America the Beautiful passes. The Senior Pass is $20 a year or $80 for life for U.S. citizens and residents 62 and older. Bring photo ID."}},{"@type":"Question","name":"Can I borrow a wheelchair at these museums?","acceptedAnswer":{"@type":"Answer","text":"Many lend them free, including the Newark Museum of Art, Princeton University Art Museum, the Morris Museum, the New Jersey State Museum and the Edison park. Grounds For Sculpture rents them. Supplies are small, so call ahead."}},{"@type":"Question","name":"Which sites are hard for people who use a wheelchair?","acceptedAnswer":{"@type":"Answer","text":"The Glenmont mansion at the Edison park, Liberty Hall in Union, the Cape May Lighthouse tower and most of Battleship New Jersey below the main deck. Each still has accessible areas or alternatives."}},{"@type":"Question","name":"Which New Jersey museums offer senior discounts?","acceptedAnswer":{"@type":"Answer","text":"Many do. In October 2026 seniors paid $8 at the Newark Museum of Art and the Morris Museum, <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">0 at Liberty Hall, <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">2 at the Montclair Art Museum and the Old Barracks, <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">3 at WheatonArts and <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">8 at Grounds For Sculpture. Ages vary from 62 to 65, so bring ID."}},{"@type":"Question","name":"Do I need to book Grounds For Sculpture ahead of time?","acceptedAnswer":{"@type":"Answer","text":"Yes. Grounds For Sculpture uses timed tickets, and if an entry time sells out online it is also sold out at the gate. It is open 10 a.m. to 5 p.m. and closed Tuesdays."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Which New Jersey museums are free?","acceptedAnswer":{"@type":"Answer","text":"Princeton University Art Museum, the Zimmerli Art Museum at Rutgers and the New Jersey State Museum charge no general admission. Morristown National Historical Park has no entrance fee. The Paterson Great Falls overlook is also free."}},{"@type":"Question","name":"Does the national park Senior Pass work at Thomas Edison's lab?","acceptedAnswer":{"@type":"Answer","text":"Yes. Thomas Edison National Historical Park accepts America the Beautiful passes. The Senior Pass is $20 a year or $80 for life for U.S. citizens and residents 62 and older. Bring photo ID."}},{"@type":"Question","name":"Can I borrow a wheelchair at these museums?","acceptedAnswer":{"@type":"Answer","text":"Many lend them free, including the Newark Museum of Art, Princeton University Art Museum, the Morris Museum, the New Jersey State Museum and the Edison park. Grounds For Sculpture rents them. Supplies are small, so call ahead."}},{"@type":"Question","name":"Which sites are hard for people who use a wheelchair?","acceptedAnswer":{"@type":"Answer","text":"The Glenmont mansion at the Edison park, Liberty Hall in Union, the Cape May Lighthouse tower and most of Battleship New Jersey below the main deck. Each still has accessible areas or alternatives."}},{"@type":"Question","name":"Which New Jersey museums offer senior discounts?","acceptedAnswer":{"@type":"Answer","text":"Many do. In October 2026 seniors paid $8 at the Newark Museum of Art and the Morris Museum, $10 at Liberty Hall, $12 at the Montclair Art Museum and the Old Barracks, $13 at WheatonArts and $18 at Grounds For Sculpture. Ages vary from 62 to 65, so bring ID."}},{"@type":"Question","name":"Do I need to book Grounds For Sculpture ahead of time?","acceptedAnswer":{"@type":"Answer","text":"Yes. Grounds For Sculpture uses timed tickets, and if an entry time sells out online it is also sold out at the gate. It is open 10 a.m. to 5 p.m. and closed Tuesdays."}}]}</script>
 
 <meta name="theme-color" content="#FAF7F2">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -679,6 +679,8 @@ footer .fine{margin-top:48px}
 @media (max-width:1200px){.topnav{display:none}}
 .steps ol{grid-template-columns:minmax(0,1fr)}
 .nw{white-space:nowrap}
+.h-hero{padding-bottom:30px!important}
+@media (max-width:700px){.h-hero{padding-bottom:22px!important}}
 .cty-map{display:flex;justify-content:center;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:24px}.cty-map>div{width:min(260px,70%)}
 @media (max-width:700px){
  .h-hero .lede{font-size:17px;line-height:1.5;width:100%}
@@ -984,7 +986,7 @@ function home(){
  const feat=pick("day-trips-nj")||A[0];
  const side=["advantage-vs-medigap","geriatric-care-manager-nj","learn-something-new"].map(pick).filter(Boolean);
  const more=["prescription-and-bill-help","social-security-2027","aging-in-place-nj","scams-nj"].map(pick).filter(Boolean);
- const days=Math.max(0,relDays("2026-11-02"));
+ const spot=(X.spotlight||[]).find(x=>relDays(x.until)>=0);
  return `
 <section class="h-hero">
  <div class="wrap h-center">
@@ -993,14 +995,13 @@ function home(){
   <form class="h-search" id="hsearch" role="search"><label for="hq" hidden>Search</label><input id="hq" placeholder="Search guides, programs and places"><button class="btn">Search</button></form>
   <div class="h-pop"><span>Popular:</span><a href="#/article/day-trips-nj">Day trips</a><a href="#/article/property-tax-relief-nj">Property taxes</a><a href="#/article/learn-something-new">Classes</a><a href="#/article/advantage-vs-medigap">Medicare</a><a href="#/article/grandkids-day-out-nj">With the grandkids</a></div>
  </div>
- <div class="wrap"><div class="h-trio">${ph("cards-chess","","Two older friends playing cards at a dining table",1)}${ph("shore-lighthouse","","The Cape May Lighthouse behind the dunes",1)}${ph("garden","","An older woman in a straw hat tending her garden",1)}</div></div>
 </section>
 
-<section class="wrap"><a class="deadline" href="#/article/property-tax-relief-nj">
- <span class="dl-date"><small>Nov</small><b>2</b></span>
- <span class="dl-txt"><b>Property tax relief deadline</b><span>One form covers ANCHOR, Senior Freeze and Stay NJ. ${days} days left to file.</span></span>
- <span class="dl-go">See if you qualify &rarr;</span>
-</a></section>
+${spot?`<section class="wrap"><a class="deadline" href="${spot.link}">
+ <span class="dl-date"><small>${esc(spot.mon)}</small><b>${esc(spot.day)}</b></span>
+ <span class="dl-txt"><b>${esc(spot.title)}</b><span>${esc(spot.text)}${spot.count?` ${Math.max(0,relDays(spot.until))} days left.`:""}</span></span>
+ <span class="dl-go">${esc(spot.cta)} &rarr;</span>
+</a></section>`:""}
 
 <section class="s"><div class="wrap">
  <div class="s-head"><h2>Browse by topic</h2></div>

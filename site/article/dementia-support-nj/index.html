@@ -679,6 +679,8 @@ footer .fine{margin-top:48px}
 @media (max-width:1200px){.topnav{display:none}}
 .steps ol{grid-template-columns:minmax(0,1fr)}
 .nw{white-space:nowrap}
+.h-hero{padding-bottom:30px!important}
+@media (max-width:700px){.h-hero{padding-bottom:22px!important}}
 .cty-map{display:flex;justify-content:center;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:24px}.cty-map>div{width:min(260px,70%)}
 @media (max-width:700px){
  .h-hero .lede{font-size:17px;line-height:1.5;width:100%}
@@ -976,7 +978,7 @@ function home(){
  const feat=pick("day-trips-nj")||A[0];
  const side=["advantage-vs-medigap","geriatric-care-manager-nj","learn-something-new"].map(pick).filter(Boolean);
  const more=["prescription-and-bill-help","social-security-2027","aging-in-place-nj","scams-nj"].map(pick).filter(Boolean);
- const days=Math.max(0,relDays("2026-11-02"));
+ const spot=(X.spotlight||[]).find(x=>relDays(x.until)>=0);
  return `
 <section class="h-hero">
  <div class="wrap h-center">
@@ -985,14 +987,13 @@ function home(){
   <form class="h-search" id="hsearch" role="search"><label for="hq" hidden>Search</label><input id="hq" placeholder="Search guides, programs and places"><button class="btn">Search</button></form>
   <div class="h-pop"><span>Popular:</span><a href="#/article/day-trips-nj">Day trips</a><a href="#/article/property-tax-relief-nj">Property taxes</a><a href="#/article/learn-something-new">Classes</a><a href="#/article/advantage-vs-medigap">Medicare</a><a href="#/article/grandkids-day-out-nj">With the grandkids</a></div>
  </div>
- <div class="wrap"><div class="h-trio">${ph("cards-chess","","Two older friends playing cards at a dining table",1)}${ph("shore-lighthouse","","The Cape May Lighthouse behind the dunes",1)}${ph("garden","","An older woman in a straw hat tending her garden",1)}</div></div>
 </section>
 
-<section class="wrap"><a class="deadline" href="#/article/property-tax-relief-nj">
- <span class="dl-date"><small>Nov</small><b>2</b></span>
- <span class="dl-txt"><b>Property tax relief deadline</b><span>One form covers ANCHOR, Senior Freeze and Stay NJ. ${days} days left to file.</span></span>
- <span class="dl-go">See if you qualify &rarr;</span>
-</a></section>
+${spot?`<section class="wrap"><a class="deadline" href="${spot.link}">
+ <span class="dl-date"><small>${esc(spot.mon)}</small><b>${esc(spot.day)}</b></span>
+ <span class="dl-txt"><b>${esc(spot.title)}</b><span>${esc(spot.text)}${spot.count?` ${Math.max(0,relDays(spot.until))} days left.`:""}</span></span>
+ <span class="dl-go">${esc(spot.cta)} &rarr;</span>
+</a></section>`:""}
 
 <section class="s"><div class="wrap">
  <div class="s-head"><h2>Browse by topic</h2></div>

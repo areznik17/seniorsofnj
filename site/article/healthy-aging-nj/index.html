@@ -22,7 +22,7 @@
 <meta property="article:modified_time" content="2026-10-18">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://seniorsofnj.com/"},{"@type":"ListItem","position":2,"name":"Health & Medicare","item":"https://seniorsofnj.com/hub/health/"},{"@type":"ListItem","position":3,"name":"Staying well in New Jersey: falls, checkups, hearing and more","item":"https://seniorsofnj.com/article/healthy-aging-nj/"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Staying well in New Jersey: falls, checkups, hearing and more","description":"Free balance classes, the Medicare checkups you are already paying for, cheaper hearing aids, and where to turn in a heat wave or a hard month. A practical wellness guide for New Jerseyans 60 and up.","image":"https://seniorsofnj.com/img/og/couple-walking.jpg","dateModified":"2026-10-18","datePublished":"2026-10-18","inLanguage":"en-US","about":"Health & Medicare","author":{"@type":"Organization","name":"Seniors of NJ","url":"https://seniorsofnj.com/"},"publisher":{"@type":"Organization","name":"Seniors of NJ","url":"https://seniorsofnj.com/","logo":{"@type":"ImageObject","url":"https://seniorsofnj.com/apple-touch-icon.png"}},"mainEntityOfPage":"https://seniorsofnj.com/article/healthy-aging-nj/","spatialCoverage":{"@type":"State","name":"New Jersey"}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Are fall prevention classes free in New Jersey?","acceptedAnswer":{"@type":"Answer","text":"Many are free or low cost through county Offices on Aging, senior centers and libraries. Cost varies by location. Call the ADRC at 1-877-222-3737 or, for A Matter of Balance, 609-438-4797."}},{"@type":"Question","name":"Is the Medicare yearly Wellness visit really free?","acceptedAnswer":{"@type":"Answer","text":"Yes, if your provider accepts assignment. You may owe a copay if the doctor also treats a problem or orders tests that are not part of the preventive benefit."}},{"@type":"Question","name":"Can I buy hearing aids without seeing a doctor?","acceptedAnswer":{"@type":"Answer","text":"Yes. Since October 17, 2022, adults 18 and older with perceived mild to moderate hearing loss can buy OTC hearing aids without a prescription. See a professional if your loss seems severe or sudden."}},{"@type":"Question","name":"Who can I call if I am feeling depressed or overwhelmed?","acceptedAnswer":{"@type":"Answer","text":"In a crisis, call or text 988. For information and referrals, call NJ MentalHealthCares at 1-866-202-4357, daily 8 a.m. to 8 p.m."}},{"@type":"Question","name":"Does Medicare cover the shingles vaccine?","acceptedAnswer":{"@type":"Answer","text":"Yes, through Part D or the drug coverage in a Medicare Advantage plan. It is usually $0 at an in-network pharmacy. Flu, COVID-19 and pneumococcal shots are covered by Part B."}},{"@type":"Question","name":"Does New Jersey help pay for hearing aids?","acceptedAnswer":{"@type":"Answer","text":"Yes. The HAAAD program reimburses up to $500 for one hearing aid or <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">,000 for two in a calendar year if you are enrolled in PAAD or Lifeline. Call 1-800-792-9745."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Are fall prevention classes free in New Jersey?","acceptedAnswer":{"@type":"Answer","text":"Many are free or low cost through county Offices on Aging, senior centers and libraries. Cost varies by location. Call the ADRC at 1-877-222-3737 or, for A Matter of Balance, 609-438-4797."}},{"@type":"Question","name":"Is the Medicare yearly Wellness visit really free?","acceptedAnswer":{"@type":"Answer","text":"Yes, if your provider accepts assignment. You may owe a copay if the doctor also treats a problem or orders tests that are not part of the preventive benefit."}},{"@type":"Question","name":"Can I buy hearing aids without seeing a doctor?","acceptedAnswer":{"@type":"Answer","text":"Yes. Since October 17, 2022, adults 18 and older with perceived mild to moderate hearing loss can buy OTC hearing aids without a prescription. See a professional if your loss seems severe or sudden."}},{"@type":"Question","name":"Who can I call if I am feeling depressed or overwhelmed?","acceptedAnswer":{"@type":"Answer","text":"In a crisis, call or text 988. For information and referrals, call NJ MentalHealthCares at 1-866-202-4357, daily 8 a.m. to 8 p.m."}},{"@type":"Question","name":"Does Medicare cover the shingles vaccine?","acceptedAnswer":{"@type":"Answer","text":"Yes, through Part D or the drug coverage in a Medicare Advantage plan. It is usually $0 at an in-network pharmacy. Flu, COVID-19 and pneumococcal shots are covered by Part B."}},{"@type":"Question","name":"Does New Jersey help pay for hearing aids?","acceptedAnswer":{"@type":"Answer","text":"Yes. The HAAAD program reimburses up to $500 for one hearing aid or $1,000 for two in a calendar year if you are enrolled in PAAD or Lifeline. Call 1-800-792-9745."}}]}</script>
 
 <meta name="theme-color" content="#FAF7F2">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -679,6 +679,8 @@ footer .fine{margin-top:48px}
 @media (max-width:1200px){.topnav{display:none}}
 .steps ol{grid-template-columns:minmax(0,1fr)}
 .nw{white-space:nowrap}
+.h-hero{padding-bottom:30px!important}
+@media (max-width:700px){.h-hero{padding-bottom:22px!important}}
 .cty-map{display:flex;justify-content:center;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:24px}.cty-map>div{width:min(260px,70%)}
 @media (max-width:700px){
  .h-hero .lede{font-size:17px;line-height:1.5;width:100%}
@@ -893,7 +895,7 @@ function home(){
  const feat=pick("day-trips-nj")||A[0];
  const side=["advantage-vs-medigap","geriatric-care-manager-nj","learn-something-new"].map(pick).filter(Boolean);
  const more=["prescription-and-bill-help","social-security-2027","aging-in-place-nj","scams-nj"].map(pick).filter(Boolean);
- const days=Math.max(0,relDays("2026-11-02"));
+ const spot=(X.spotlight||[]).find(x=>relDays(x.until)>=0);
  return `
 <section class="h-hero">
  <div class="wrap h-center">
@@ -902,14 +904,13 @@ function home(){
   <form class="h-search" id="hsearch" role="search"><label for="hq" hidden>Search</label><input id="hq" placeholder="Search guides, programs and places"><button class="btn">Search</button></form>
   <div class="h-pop"><span>Popular:</span><a href="#/article/day-trips-nj">Day trips</a><a href="#/article/property-tax-relief-nj">Property taxes</a><a href="#/article/learn-something-new">Classes</a><a href="#/article/advantage-vs-medigap">Medicare</a><a href="#/article/grandkids-day-out-nj">With the grandkids</a></div>
  </div>
- <div class="wrap"><div class="h-trio">${ph("cards-chess","","Two older friends playing cards at a dining table",1)}${ph("shore-lighthouse","","The Cape May Lighthouse behind the dunes",1)}${ph("garden","","An older woman in a straw hat tending her garden",1)}</div></div>
 </section>
 
-<section class="wrap"><a class="deadline" href="#/article/property-tax-relief-nj">
- <span class="dl-date"><small>Nov</small><b>2</b></span>
- <span class="dl-txt"><b>Property tax relief deadline</b><span>One form covers ANCHOR, Senior Freeze and Stay NJ. ${days} days left to file.</span></span>
- <span class="dl-go">See if you qualify &rarr;</span>
-</a></section>
+${spot?`<section class="wrap"><a class="deadline" href="${spot.link}">
+ <span class="dl-date"><small>${esc(spot.mon)}</small><b>${esc(spot.day)}</b></span>
+ <span class="dl-txt"><b>${esc(spot.title)}</b><span>${esc(spot.text)}${spot.count?` ${Math.max(0,relDays(spot.until))} days left.`:""}</span></span>
+ <span class="dl-go">${esc(spot.cta)} &rarr;</span>
+</a></section>`:""}
 
 <section class="s"><div class="wrap">
  <div class="s-head"><h2>Browse by topic</h2></div>
