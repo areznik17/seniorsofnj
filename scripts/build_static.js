@@ -34,6 +34,8 @@ const HUBN={benefits:'Benefits & Money',health:'Health & Medicare',caregiving:'C
   if(art)tags+=`<meta property="article:modified_time" content="${art.updated}">\n`;
   ld.forEach(o=>tags+=`<script type="application/ld+json">${JSON.stringify(o)}</script>\n`);
   html=html.replace(/<link rel="canonical"[^>]*>\n?/g,'').replace(/<meta name="robots"[^>]*>\n?/g,'').replace(/<meta (property="(og|article):|name="twitter:)[^>]*>\n?/g,'').replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>\n?/g,'').replace(/(<meta name="viewport"[^>]*>)/,'$1\n'+tags);
+  const GA='<!-- ga --><script async src="https://www.googletagmanager.com/gtag/js?id=G-CDCV04STJY"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-CDCV04STJY");</script><!-- /ga -->';
+  html=html.replace(/<!-- ga -->[\s\S]*?<!-- \/ga -->\n?/g,'').replace(/<script async="" src="https:\/\/www\.googletagmanager\.com[^>]*><\/script>/g,'').replace('<head>','<head>\n'+GA);
   return html;
  };
  for(const r of routes){const html=await render(r);const dir=path.join(DIST,r);fs.mkdirSync(dir,{recursive:true});fs.writeFileSync(path.join(dir,'index.html'),html)}
