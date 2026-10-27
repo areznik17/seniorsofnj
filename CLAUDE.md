@@ -26,5 +26,5 @@ Live site is published by Netlify from the `site/` folder on every push to `main
 
 ## Time-sensitive updates (weekly scheduled task does this)
 - The home page "spotlight" card comes from `spotlight` in `src/content/extras.json`; the first item whose `until` date hasn't passed is shown. Keep at least two future items in the list.
-- Watch for: 2027 Medicare Part B premium and deductible (CMS, usually mid November), Stay NJ/ANCHOR/Senior Freeze dates and payment news (NJ Treasury), LIHEAP and Lifeline season dates (NJ DCA), new PAAD/Senior Gold income limits (January), and dates in `extras.json` key dates. Update every guide that mentions a changed figure and its `updated` date; cite the official source.
+- Watch for: 2027 Medicare Part B premium and deductible (CMS, usually mid November), Stay NJ/ANCHOR/Senior Freeze dates and payment news (NJ Treasury), LIHEAP and Lifeline season dates (NJ DCA), new PAAD/Senior Gold and HAAAD hearing aid income limits (January), VA pension rates and net worth limit (December 1, veterans guide), Social Security and SSI figures, county golf fees (spring), and dates in `extras.json` key dates. Update every guide that mentions a changed figure and its `updated` date; cite the official source.
 - Validate JSON, no em or en dashes, rebuild, check structured data parses, commit and push.
