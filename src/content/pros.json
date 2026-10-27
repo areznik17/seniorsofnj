@@ -1566,5 +1566,451 @@
   "creds": "",
   "source": "https://www.flemington-adultdaycare.com/",
   "featured": false
+ },
+ {
+  "name": "A Place At Home (Montclair)",
+  "cat": "home-care",
+  "counties": [
+   "Essex"
+  ],
+  "town": "Montclair",
+  "phone": "973-798-6832",
+  "url": "https://aplaceathome.com/montclair/",
+  "desc": "Offers non-medical in-home senior care, including companion, lifestyle and personal care, for families throughout Essex County.",
+  "creds": "",
+  "source": "https://aplaceathome.com/montclair/",
+  "featured": false
+ },
+ {
+  "name": "Comfort Keepers (Montclair)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Bergen",
+   "Morris"
+  ],
+  "town": "Montclair",
+  "phone": "973-707-2310",
+  "url": "https://www.comfortkeepers.com/offices/new-jersey/montclair/",
+  "desc": "Provides personalized in-home care for seniors from its Montclair office, serving Essex, Bergen and Morris counties.",
+  "creds": "",
+  "source": "https://www.comfortkeepers.com/offices/new-jersey/montclair/contact/",
+  "featured": false
+ },
+ {
+  "name": "Comfort Keepers (Bloomfield)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Bergen",
+   "Hudson"
+  ],
+  "town": "Bloomfield",
+  "phone": "973-937-7957",
+  "url": "https://www.comfortkeepers.com/offices/new-jersey/bloomfield/",
+  "desc": "Provides personalized home care for seniors and adults in Bloomfield and nearby towns such as Nutley, Belleville, Kearny, Lyndhurst and North Arlington.",
+  "creds": "",
+  "source": "https://www.comfortkeepers.com/offices/new-jersey/bloomfield/contact/",
+  "featured": false
+ },
+ {
+  "name": "Comfort Keepers (Rochelle Park)",
+  "cat": "home-care",
+  "counties": [
+   "Bergen",
+   "Passaic",
+   "Essex"
+  ],
+  "town": "Rochelle Park",
+  "phone": "201-880-7089",
+  "url": "https://www.comfortkeepers.com/offices/new-jersey/rochelle-park/",
+  "desc": "Offers in-home senior care, including live-in care, across Bergen and Passaic counties and towns such as Montclair and Cedar Grove.",
+  "creds": "",
+  "source": "https://www.comfortkeepers.com/offices/new-jersey/rochelle-park/",
+  "featured": false
+ },
+ {
+  "name": "Preferred Care at Home (Northeast New Jersey)",
+  "cat": "home-care",
+  "counties": [
+   "Morris",
+   "Essex",
+   "Passaic"
+  ],
+  "town": "Millburn",
+  "phone": "973-783-4663",
+  "url": "https://preferhome.com/locations/nejersey/",
+  "desc": "Offers transition care, companion and homemaker care, personal care, dementia care and live-in care.",
+  "creds": "",
+  "source": "https://preferhome.com/locations/",
+  "featured": false
+ },
+ {
+  "name": "ComForCare Home Care (Fairfield)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Passaic"
+  ],
+  "town": "Fairfield",
+  "phone": "973-244-9400",
+  "url": "https://www.comforcare.com/new-jersey/fairfield/",
+  "desc": "Provides in-home care such as help with chores, medication reminders and meals for older adults.",
+  "creds": "",
+  "source": "https://www.comforcare.com/new-jersey/fairfield/",
+  "featured": false
+ },
+ {
+  "name": "ComForCare Home Care (Union and Essex County)",
+  "cat": "home-care",
+  "counties": [
+   "Union",
+   "Essex"
+  ],
+  "town": "Springfield",
+  "phone": "908-408-5220",
+  "url": "https://www.comforcare.com/union-essex-county/",
+  "desc": "Provides in-home care including personal care, companionship, dementia care, respite and 24/7 care.",
+  "creds": "",
+  "source": "https://www.comforcare.com/union-essex-county/",
+  "featured": false
+ },
+ {
+  "name": "FirstLight Home Care (Western Essex County)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Morris"
+  ],
+  "town": "Verona",
+  "phone": "862-270-5950",
+  "url": "https://www.firstlighthomecare.com/home-healthcare-western-essex-county/",
+  "desc": "Provides personal care, companion care, respite, dementia and live-in care in towns such as West Orange, Livingston and Caldwell.",
+  "creds": "",
+  "source": "https://www.firstlighthomecare.com/home-healthcare-western-essex-county/",
+  "featured": false
+ },
+ {
+  "name": "SYNERGY HomeCare (Clifton-Secaucus)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Passaic",
+   "Bergen",
+   "Hudson"
+  ],
+  "town": "Bloomfield",
+  "phone": "973-513-7222",
+  "url": "https://synergyhomecare.com/nj-bloomfield-07003/",
+  "desc": "Offers non-medical home care, from companionship and help around the house to memory care and support after a hospital stay.",
+  "creds": "",
+  "source": "https://synergyhomecare.com/nj-bloomfield-07003/",
+  "featured": false
+ },
+ {
+  "name": "SYNERGY HomeCare (Metro NJ)",
+  "cat": "home-care",
+  "counties": [
+   "Morris",
+   "Essex",
+   "Passaic",
+   "Hudson"
+  ],
+  "town": "Parsippany",
+  "phone": "973-808-3475",
+  "url": "https://synergyhomecare.com/nj-parsippany-07054/",
+  "desc": "Offers non-medical home care, from companionship and help around the house to memory care and support after a hospital stay.",
+  "creds": "",
+  "source": "https://synergyhomecare.com/nj-parsippany-07054/",
+  "featured": false
+ },
+ {
+  "name": "Visiting Angels (Wayne)",
+  "cat": "home-care",
+  "counties": [
+   "Passaic",
+   "Bergen"
+  ],
+  "town": "Wayne",
+  "phone": "973-839-3761",
+  "url": "https://www.visitingangels.com/passaic/home",
+  "desc": "Provides in-home senior care such as meal preparation, bathing and dressing help, light housekeeping and transportation.",
+  "creds": "",
+  "source": "https://www.visitingangels.com/passaic/home",
+  "featured": false
+ },
+ {
+  "name": "Visiting Angels (Montclair and Suburban Essex)",
+  "cat": "home-care",
+  "counties": [
+   "Essex"
+  ],
+  "town": "Caldwell",
+  "phone": "973-226-9090",
+  "url": "https://www.visitingangels.com/montclair/home",
+  "desc": "Provides in-home senior care for the Montclair area and suburban Essex County.",
+  "creds": "",
+  "source": "https://www.visitingangels.com/montclair/home",
+  "featured": false
+ },
+ {
+  "name": "Visiting Angels (Union and Springfield)",
+  "cat": "home-care",
+  "counties": [
+   "Union",
+   "Essex"
+  ],
+  "town": "Springfield",
+  "phone": "908-497-7016",
+  "url": "https://www.visitingangels.com/union/home",
+  "desc": "Provides in-home senior care in Union and Essex counties, including Union, Summit and Livingston.",
+  "creds": "",
+  "source": "https://www.visitingangels.com/union/home",
+  "featured": false
+ },
+ {
+  "name": "Caring Senior Service (Essex County)",
+  "cat": "home-care",
+  "counties": [
+   "Essex"
+  ],
+  "town": "West Orange",
+  "phone": "973-264-0852",
+  "url": "https://caringseniorservice.com/essex-county/",
+  "desc": "Offers non-medical in-home care for seniors in Essex County towns, with no sign-up fee or contract.",
+  "creds": "",
+  "source": "https://caringseniorservice.com/essex-county/about/",
+  "featured": false
+ },
+ {
+  "name": "Dorson Home Care (West Orange)",
+  "cat": "home-care",
+  "counties": [
+   "Essex"
+  ],
+  "town": "West Orange",
+  "phone": "973-672-7691",
+  "url": "https://www.dorsonhomecare.com/",
+  "desc": "Offers home health aides for companion and personal care, respite and dementia care, along with skilled nursing.",
+  "creds": "",
+  "source": "https://www.dorsonhomecare.com/contact-us",
+  "featured": false
+ },
+ {
+  "name": "Right at Home (Essex County)",
+  "cat": "home-care",
+  "counties": [
+   "Essex"
+  ],
+  "town": "West Orange",
+  "phone": "973-669-1822",
+  "url": "https://www.rightathome.net/essex-county",
+  "desc": "Offers companion care, personal care and specialty care for conditions like dementia and Parkinson's.",
+  "creds": "",
+  "source": "https://www.rightathome.net/essex-county/about-us/areas-served",
+  "featured": false
+ },
+ {
+  "name": "Right at Home (Morris and Union Counties)",
+  "cat": "home-care",
+  "counties": [
+   "Morris",
+   "Union"
+  ],
+  "town": "Chatham",
+  "phone": "973-701-9832",
+  "url": "https://www.rightathome.net/morris-union",
+  "desc": "Offers companion care, personal care and specialty care for conditions like dementia and Parkinson's.",
+  "creds": "",
+  "source": "https://www.rightathome.net/morris-union/about-us",
+  "featured": false
+ },
+ {
+  "name": "Senior Helpers (West Orange)",
+  "cat": "home-care",
+  "counties": [
+   "Essex"
+  ],
+  "town": "West Orange",
+  "phone": "973-561-0888",
+  "url": "https://www.seniorhelpers.com/nj/west-orange/",
+  "desc": "Provides in-home senior care in West Orange and nearby towns such as Montclair, Verona and the Caldwells.",
+  "creds": "",
+  "source": "https://www.seniorhelpers.com/nj/west-orange/",
+  "featured": false
+ },
+ {
+  "name": "Garden State ElderCare (South Orange)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Morris",
+   "Union",
+   "Passaic",
+   "Bergen"
+  ],
+  "town": "South Orange",
+  "phone": "973-378-9100",
+  "url": "https://www.gsecare.com/",
+  "desc": "A home care agency founded in 2007 offering in-home support, including dementia care and care for veterans.",
+  "creds": "",
+  "source": "https://www.gsecare.com/",
+  "featured": false
+ },
+ {
+  "name": "Griswold Home Care (Essex County)",
+  "cat": "home-care",
+  "counties": [
+   "Essex"
+  ],
+  "town": "South Orange",
+  "phone": "973-321-3434",
+  "url": "https://www.griswoldcare.com/essex-county/",
+  "desc": "Non-medical home care with personal care, companionship and homemaking for towns across Essex County.",
+  "creds": "",
+  "source": "https://www.griswoldcare.com/essex-county/contact/",
+  "featured": false
+ },
+ {
+  "name": "Homewatch CareGivers (South Orange)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Morris"
+  ],
+  "town": "South Orange",
+  "phone": "973-755-0996",
+  "url": "https://www.homewatchcaregivers.com/south-orange/",
+  "desc": "Provides in-home care in Livingston, South Orange, Maplewood, Millburn, West Orange and nearby towns.",
+  "creds": "",
+  "source": "https://www.homewatchcaregivers.com/south-orange/",
+  "featured": false
+ },
+ {
+  "name": "Home Helpers Home Care (Summit)",
+  "cat": "home-care",
+  "counties": [
+   "Union",
+   "Morris",
+   "Essex",
+   "Somerset"
+  ],
+  "town": "Short Hills",
+  "phone": "973-707-3425",
+  "url": "https://homehelpershomecare.com/summit-nj/",
+  "desc": "Offers personal care, medication reminders, meal preparation, light housekeeping and transportation for seniors.",
+  "creds": "",
+  "source": "https://homehelpershomecare.com/summit-nj/",
+  "featured": false
+ },
+ {
+  "name": "Home Helpers Home Care (West Essex)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Morris"
+  ],
+  "town": "Fairfield",
+  "phone": "862-418-5618",
+  "url": "https://homehelpershomecare.com/west-essex-nj/",
+  "desc": "Offers personal care, companionship, meal help and support after a hospital or rehab stay.",
+  "creds": "",
+  "source": "https://homehelpershomecare.com/west-essex-nj/",
+  "featured": false
+ },
+ {
+  "name": "Assisting Hands Home Care (Livingston)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Morris",
+   "Passaic"
+  ],
+  "town": "Livingston",
+  "phone": "973-970-2723",
+  "url": "https://assistinghandslivingstonnj.com/",
+  "desc": "Provides personal care, meals, errands, light housekeeping, transportation and companionship for seniors at home.",
+  "creds": "",
+  "source": "https://assistinghandslivingstonnj.com/",
+  "featured": false
+ },
+ {
+  "name": "BAYADA Personal and Companion Care (Essex County)",
+  "cat": "home-care",
+  "counties": [
+   "Essex"
+  ],
+  "town": "Livingston",
+  "phone": "973-668-5268",
+  "url": "https://www.bayada.com/office/nj/livingston/personal-and-companion-care/essex-county-10395",
+  "desc": "BAYADA's Essex County team offers personal and companion care to help people live at home safely.",
+  "creds": "",
+  "source": "https://www.bayada.com/office/nj/livingston/personal-and-companion-care/essex-county-10395",
+  "featured": false
+ },
+ {
+  "name": "CareBuilders at Home (West Essex)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Union"
+  ],
+  "town": "Roseland",
+  "phone": "973-908-6380",
+  "url": "https://www.carebuildersathome.com/essex/",
+  "desc": "Provides in-home senior care in West Orange, Montclair, Livingston, Millburn, Summit and New Providence.",
+  "creds": "",
+  "source": "https://www.carebuildersathome.com/essex/contact-us/",
+  "featured": false
+ },
+ {
+  "name": "Always Best Care (Morris and Essex)",
+  "cat": "home-care",
+  "counties": [
+   "Morris",
+   "Essex",
+   "Warren"
+  ],
+  "town": "Flanders",
+  "phone": "862-772-7047",
+  "url": "https://alwaysbestcare.com/morris/",
+  "desc": "Provides in-home senior care in Morris, Essex and Warren counties.",
+  "creds": "",
+  "source": "https://alwaysbestcare.com/morris/about-us/",
+  "featured": false
+ },
+ {
+  "name": "BrightStar Care (Morris and Essex)",
+  "cat": "home-care",
+  "counties": [
+   "Morris",
+   "Essex"
+  ],
+  "town": "Cedar Knolls",
+  "phone": "973-898-0800",
+  "url": "https://www.brightstarcare.com/locations/morris-county/",
+  "desc": "Offers in-home care from its Cedar Knolls office for towns in Morris and Essex counties, including Montclair and Livingston.",
+  "creds": "",
+  "source": "https://www.brightstarcare.com/locations/morris-county/contact-us/",
+  "featured": false
+ },
+ {
+  "name": "Amada Senior Care (Westfield Morristown)",
+  "cat": "home-care",
+  "counties": [
+   "Union",
+   "Morris",
+   "Essex",
+   "Middlesex",
+   "Somerset",
+   "Hunterdon"
+  ],
+  "town": "Cranford",
+  "phone": "973-510-2592",
+  "url": "https://www.amadaseniorcare.com/westfield-morristown-senior-care/location-information",
+  "desc": "Provides in-home caregivers and help with long-term care insurance claims, with phones answered 24/7.",
+  "creds": "",
+  "source": "https://www.amadaseniorcare.com/westfield-morristown-senior-care/location-information",
+  "featured": false
  }
 ]
