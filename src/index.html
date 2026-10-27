@@ -672,6 +672,9 @@ footer .fine{margin-top:48px}
 .tbox small{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)}.tbox b{font-size:19px}.tbox b a{color:var(--ink)}
 .tbox span{font-size:16px;color:var(--ink-2)}.tbox p{margin:6px 0 0;font-size:16px;color:var(--ink-2)}
 @media (max-width:700px){.filters{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:4px}.filters a.fbtn{white-space:nowrap;font-size:15px}.tbox b{font-size:17.5px}.tbox span,.tbox p{font-size:15.5px}.hpc{padding:16px 18px}}
+.t-more{font-size:17px;color:var(--ink-2);margin:0 0 18px;max-width:none}
+@media (min-width:901px){.phead h1{max-width:30ch!important;font-size:clamp(34px,3.6vw,52px)!important}.hubhero .dek{font-size:18px!important}}
+@media (max-width:700px){.phead .dek,.hubhero .dek{font-size:16px!important}}
 .places{padding-left:20px}.places li{margin:6px 0}
 
 @media (min-width:701px){.hh-band .ph,.cm-band .ph{aspect-ratio:auto!important;height:100%!important;min-height:280px!important}.hh-band,.cm-band{align-items:stretch}.hh-band .hh-txt,.cm-band .hh-txt{padding-block:36px!important}.hh-band .ph img,.cm-band .ph img{position:absolute;inset:0}}
@@ -1001,7 +1004,7 @@ function stepsPage(slug){const s=X.steps.find(x=>x.slug===slug);if(!s)return not
 
 function countyPage(slug){const c=CS[slug];if(!c)return notFound();const R={north:"North Jersey",central:"Central Jersey",shore:"The Shore",south:"South Jersey"};
  const near=COUNTIES.filter(x=>x.region===c.region&&x.slug!==slug);
- return crumbs([["Counties","#/counties"],[c.name]])+`<div class="wrap"><div class="hubhero phead" style="align-items:center"><div><span class="kicker">${R[c.region]} · County seat: ${esc(c.seat)}</span><h1>Seniors in ${esc(c.name)}</h1><p class="dek">${(()=>{const ss=c.intro.split(/(?<=[.!?])\s+(?=[A-Z])/);return esc(ss.slice(0,2).join(" ")).replace(/ (\S+) (\S+)$/,"\u00a0$1\u00a0$2")+(ss.length>2?`<span class="m-hide"> ${esc(ss.slice(2).join(" "))}</span>`:"")})()}</p></div><div class="cty-map"><div>${njMap(slug)}</div></div></div>
+ return crumbs([["Counties","#/counties"],[c.name]])+`<div class="wrap"><div class="hubhero phead" style="align-items:center"><div><span class="kicker">${R[c.region]} · County seat: ${esc(c.seat)}</span><h1>Seniors in ${esc(c.name)}</h1><p class="dek">${nbEnd(fitDek(c.intro,165)[0])}</p></div><div class="cty-map"><div>${njMap(slug)}</div></div></div>
  ${HH_LIVE&&HH_COUNTIES.includes(slug)?`<a class="hh-county" href="https://homehappenings.com" target="_blank" rel="noopener">${ph("painting","r11","")}<span><small>Activities at Home in ${esc(c.name.replace(" County",""))}</small><b>Lessons and activities that come to your living room</b><span>Music, art, yoga, games and more with checked local pros. Book a session with Home Happenings.</span></span></a>`:""}
  <div class="cfacts">
   <div><b>County office on aging</b><div class="big">${esc(c.agingOffice?.name||"")}</div><p style="margin-top:8px"><span class="tel">${esc(c.agingOffice?.phone||"1-877-222-3737")}</span></p>${c.agingOffice?.url?`<p style="margin-top:6px"><a href="${c.agingOffice.url}" target="_blank" rel="noopener">Website</a></p>`:""}</div>
@@ -1066,6 +1069,8 @@ function glossaryPage(){const g=X.glossary.slice().sort((a,b)=>a[0].localeCompar
  <div class="wrap" style="max-width:980px;padding-bottom:70px"><div class="letters">${letters.map(l=>`<a href="#g-${l}">${l}</a>`).join("")}</div><dl class="gloss">${g.map((x,i)=>{const first=i===0||g[i-1][0][0].toUpperCase()!==x[0][0].toUpperCase();return `<div${first?` id="g-${x[0][0].toUpperCase()}"`:""}><dt>${esc(x[0])}</dt><dd>${esc(x[1])}</dd></div>`}).join("")}</dl></div>`}
 
 
+const fitDek=(txt,max)=>{const ss=txt.split(/(?<=[.!?])\s+(?=[A-Z¿¡])/);let a=[ss[0]],i=1;while(i<ss.length&&(a.join(" ")+" "+ss[i]).length<=max){a.push(ss[i]);i++}return [a.join(" "),ss.slice(i).join(" ")]};
+const nbEnd=t=>esc(t).replace(/ (\S+) (\S+)$/," $1 $2");
 const HCATS={"care-managers":{n:"Geriatric care managers",t:"Geriatric care managers in New Jersey",d:"Licensed social workers and nurses who assess, plan and coordinate care for an older adult, and keep the whole family in the loop.",g:"geriatric-care-manager-nj",gt:"When to call a geriatric care manager"},
 "social-services":{n:"Social workers and family services",t:"Senior social services and family service agencies in New Jersey",d:"Nonprofit agencies with social workers who help older adults and caregivers with counseling, case management, care at home and support groups.",g:"first-conversation-about-care",gt:"How to talk with a parent about help"},
 "home-care":{n:"Home care agencies",t:"Home care agencies in New Jersey",d:"Agencies that send aides to help with bathing, meals, errands and company at home. Always check an agency's state license before you hire.",g:"home-care-agency-nj",gt:"How to choose a home care agency"},
@@ -1088,8 +1093,8 @@ function townsPage(){const by={};(TOWNS||[]).forEach(t=>{(by[t.countyName]=by[t.
 function townPage(slug){const t=(TOWNS||[]).find(x=>x.slug===slug);if(!t)return notFound();const c=CS[t.county];
  const box=(h,o)=>o&&o.name?`<div class="tbox"><small>${h}</small><b>${o.url?`<a href="${o.url}" target="_blank" rel="noopener">${esc(o.name)}</a>`:esc(o.name)}</b>${o.address?`<span>${esc(o.address)}</span>`:""}${o.phone?`<span class="tel">${esc(o.phone)}</span>`:""}${o.notes?`<p>${esc(o.notes)}</p>`:""}</div>`:"";
  const hh=HH_COUNTIES.includes(t.county);
- return crumbs([["Your county","#/counties"],[c?c.name:t.countyName,"#/county/"+t.county],[t.name]])+`<div class="wrap phead"><span class="kicker">${esc(t.countyName)} town guide</span><h1>Seniors in ${esc(t.name)}</h1><p class="dek">${(()=>{const ss=t.intro.split(/(?<=[.!?])\s+(?=[A-Z])/);return esc(ss.slice(0,2).join(" ")).replace(/ (\S+) (\S+)$/,"\u00a0$1\u00a0$2")+(ss.length>2?`<span class="m-hide"> ${esc(ss.slice(2).join(" "))}</span>`:"")})()}</p></div>
- <div class="wrap" style="max-width:1040px;padding-bottom:50px">
+ return crumbs([["Your county","#/counties"],[c?c.name:t.countyName,"#/county/"+t.county],[t.name]])+`<div class="wrap phead"><span class="kicker">${esc(t.countyName)} town guide</span><h1>Seniors in ${esc(t.name)}</h1><p class="dek">${nbEnd(fitDek(t.intro,190)[0])}</p></div>
+ <div class="wrap" style="max-width:1040px;padding-bottom:50px">${fitDek(t.intro,190)[1]?`<p class="t-more">${esc(fitDek(t.intro,190)[1])}</p>`:""}
  <div class="tboxes">${box("Senior center",t.seniorCenter)}${box("Getting around",t.transport)}${box("Library",t.library)}</div>
  ${(t.more||[]).length?`<h2 class="tg-h">More local help</h2><div class="dir">${t.more.map(m=>`<div class="diritem">${m.url?`<a class="n" href="${m.url}" target="_blank" rel="noopener">${esc(m.name)}</a>`:`<b class="n">${esc(m.name)}</b>`}${m.phone?`<span class="tel">${esc(m.phone)}</span>`:"<span></span>"}<p>${esc(m.note||"")}</p></div>`).join("")}</div>`:""}
  ${(t.places||[]).length?`<h2 class="tg-h">Easy outings nearby</h2><ul class="places">${t.places.map(p=>`<li><b>${esc(p.name)}</b> ${esc(p.note||"")}</li>`).join("")}</ul>`:""}
