@@ -1181,7 +1181,7 @@ if(!STATIC)addEventListener("hashchange",route);
 window.__route=route;
 
 /* ================= load ================= */
-const files=["benefits","health","caregiving","living","home2","todo2","fun1","fun2","local","new3"];
+const files=["benefits","health","caregiving","living","home2","todo2","fun1","fun2","local","new3","programs","howto"];
 Promise.all([...files.map(f=>fetch(ROOT+"content/"+f+".json").then(r=>r.ok?r.json():[]).catch(()=>[])),fetch(ROOT+"content/njmap.json").then(r=>r.ok?r.json():null).catch(()=>null),fetch(ROOT+"content/counties.json").then(r=>r.ok?r.json():[]).catch(()=>[]),fetch(ROOT+"content/extras.json").then(r=>r.json()),...["pros","towns","es"].map(f=>fetch(ROOT+"content/"+f+".json").then(r=>r.ok?r.json():[]).catch(()=>[]))]).then(res=>{
  ES=res.pop();TOWNS=res.pop();PROS=res.pop();ESS=Object.fromEntries(ES.map(a=>[a.slug,a]));X=res.pop();COUNTIES=res.pop();NJ=res.pop();A=res.flat();AS=Object.fromEntries(A.map(a=>[a.slug,a]));CS=Object.fromEntries(COUNTIES.map(c=>[c.slug,c]));route();
 }).catch(err=>{document.getElementById("app").innerHTML=`<div class="wrap phead"><h1>The guides didn't load</h1><p class="dek">Please refresh the page.</p></div>`});
