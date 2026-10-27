@@ -751,6 +751,24 @@ p,li,dd,dt,figcaption,summary,label,.dek,.lede,.tag,.kicker,.meta,.t2 span,.t2 b
 .body p,.body li,details div p,.srcs li{text-wrap:pretty}
 .phead .dek{width:min(100%,960px)}
 .hubhero .dek{width:min(100%,900px)}
+
+/* centering and spacing pass */
+.cosel{display:flex!important;justify-content:center;width:max-content;max-width:100%;margin-left:auto!important;margin-right:auto!important}
+.hubhero > div:first-child{width:100%;text-align:center;align-items:center}
+.hubhero .dek{margin-left:auto!important;margin-right:auto!important}
+@media (min-width:901px){.hubhero .dek{width:auto!important;max-width:1100px!important}.phead .dek{margin-left:auto;margin-right:auto}}
+.langsw{display:inline-block;margin-top:10px;font-weight:600;font-size:15px;color:var(--blue);background:none;padding:0;border-radius:0;text-decoration:underline;text-underline-offset:3px}
+@media (max-width:700px){
+ .cosel{display:flex;justify-content:center;align-items:center;gap:8px;font-size:15px;margin:0 auto 14px}
+ .cosel select{font-size:15px;padding:5px 8px;border-radius:8px}
+ .hpc{padding:14px 16px!important}.hpc h3{font-size:18.5px}.hpc p{font-size:15.5px}.hpc .hpc-meta,.hpc .hpc-creds{font-size:13.5px}
+ .h-center .lede,.h-hero .lede{font-size:15.5px!important;margin-top:12px!important;line-height:1.5;width:100%!important;max-width:none!important;text-wrap:pretty!important}
+ .kd{padding-top:0}.kd .steps ol{margin-top:0}.kd .steps li .kicker{line-height:1.35;display:block}
+ .phead{padding-bottom:16px}
+ .kd .steps li p{font-size:16.5px;line-height:1.5}.kd .steps li h3{font-size:21px!important}
+ .cty-map svg{max-height:190px;width:auto;display:block;margin:0 auto}
+ .cfacts .big{font-size:18.5px!important;line-height:1.3!important}.cfacts > div{padding:16px 18px}
+}
 </style>
 
 <a class="skip" href="#app">Skip to main content</a>
@@ -895,7 +913,7 @@ function home(){
 <section class="h-hero">
  <div class="wrap h-center">
   <h1>The home for older adults in New Jersey.</h1>
-  <p class="lede">Things to do, ways to learn, work and meet people, plus clear help with benefits, health and home. Everything worth knowing after 60, in one place.</p>
+  <p class="lede">Things to do, ways to learn, work and meet people, plus clear help with benefits, health and home. Everything worth knowing after 60<span class="m-hide">, in one place</span>.</p>
   <form class="h-search" id="hsearch" role="search"><label for="hq" hidden>Search</label><input id="hq" placeholder="Search guides, programs and places"><button class="btn">Search</button></form>
   <div class="h-pop"><span>Popular:</span><a href="#/article/day-trips-nj">Day trips</a><a href="#/article/property-tax-relief-nj"><span class="pl">Property taxes</span><span class="ps">Taxes</span></a><a href="#/article/learn-something-new">Classes</a><a href="#/article/advantage-vs-medigap">Medicare</a><a class="pop-x" href="#/article/grandkids-day-out-nj">With the grandkids</a></div>
  </div>
@@ -1082,7 +1100,7 @@ function runChecker(f){const v=n=>(f.querySelector(`input[name=${n}]:checked`)||
  document.getElementById("res").innerHTML=`<div class="sechead"><h2>${out.length} programs to look at</h2></div>`+(out.map(r=>`<div class="res"><span class="badge ${r.status}">${r.status==="likely"?"Likely":"Worth checking"}</span><h3>${r.t} <span style="color:var(--blue);font-family:var(--body);font-size:17px;font-weight:700;margin-left:6px">${r.amt}</span></h3><p>${r.txt}</p><p><a href="#/article/${r.link}">How to apply &rarr;</a></p></div>`).join("")||`<p class="empty">Answer a few more questions to see results.</p>`)+`<div class="callout" style="margin-top:24px"><strong>Want a person to check?</strong><p>Your county office on aging can screen you for every program at once, free. Call <span class="tel">1-877-222-3737</span>.</p></div>`}
 
 function datesPage(){return crumbs([["Key dates"]])+`<div class="wrap phead"><span class="kicker">Calendar</span><h1>Key dates for New Jersey seniors</h1><p class="dek">Deadlines and enrollment windows for the next six months. We update this list as dates are announced.</p></div>
- <div class="wrap" style="max-width:860px;padding-bottom:70px"><div class="body steps"><ol>${X.keyDates.map(k=>{const [w]=whenLabel(k);return `<li><span class="kicker">${fmtDate(k.date)}${k.end?" to "+fmtDate(k.end):""} · ${w}</span><h3 style="margin:6px 0 8px;font-size:25px">${esc(k.title)}</h3><p>${esc(k.text)}</p><p style="margin-top:8px"><a href="${k.link}">Read the guide &rarr;</a></p></li>`}).join("")}</ol></div></div>`}
+ <div class="wrap kd" style="max-width:860px;padding-bottom:70px"><div class="body steps"><ol>${X.keyDates.map(k=>{const [w]=whenLabel(k);return `<li><span class="kicker">${fmtDate(k.date)}${k.end?" to "+fmtDate(k.end):""} · ${w}</span><h3 style="margin:6px 0 8px;font-size:25px">${esc(k.title)}</h3><p>${esc(k.text)}</p><p style="margin-top:8px"><a href="${k.link}">Read the guide &rarr;</a></p></li>`}).join("")}</ol></div></div>`}
 
 function glossaryPage(){const g=X.glossary.slice().sort((a,b)=>a[0].localeCompare(b[0]));const letters=[...new Set(g.map(x=>x[0][0].toUpperCase()))];
  return crumbs([["Glossary"]])+`<div class="wrap phead"><span class="kicker">Plain language</span><h1>Glossary A to Z</h1><p class="dek">${g.length} terms you'll meet on Medicare forms, tax relief letters and care plans, explained in a sentence or two.</p></div>
@@ -1102,7 +1120,7 @@ function findHelpPage(cat){const C=cat?HCATS[cat]:null;if(cat&&!C)return notFoun
  return crumbs(cat?[["Find care help","#/find-help"],[C.n]]:[["Find care help"]])+`<div class="wrap phead"><span class="kicker">Find care help</span><h1>${cat?esc(C.t):"Find care help in New Jersey"}</h1><p class="dek">${cat?esc(C.d):"Geriatric care managers, social workers, home care agencies and adult day programs across New Jersey, with phone numbers and websites in one place."}</p></div>
  <div class="wrap" style="max-width:1040px;padding-bottom:60px">
  <nav class="filters" aria-label="Type of help"><a class="fbtn" href="#/find-help"${!cat?' aria-current="page"':""}>All</a>${Object.entries(HCATS).map(([k,v])=>`<a class="fbtn" href="#/find-help/${k}"${cat===k?' aria-current="page"':""}><span class="fl">${v.n}</span><span class="fs">${v.s}</span></a>`).join("")}</nav>
- ${counties.length>1?`<label class="cosel">Show help in <select id="cofilter"><option value="">All counties</option>${counties.map(c=>`<option>${esc(c)}</option>`).join("")}</select></label>`:""}
+ ${counties.length>1?`<label class="cosel"><span>Show help in</span> <select id="cofilter"><option value="">All counties</option>${counties.map(c=>`<option>${esc(c)}</option>`).join("")}</select></label>`:""}
  <div class="hplist" id="pros">${list.length?list.map(card).join(""):`<p>We're putting this list together now. In the meantime, your county office on aging can point you to local help: <span class="tel">1-877-222-3737</span>.</p>`}</div>
  <div class="callbox" style="margin-top:28px"><b>Before you choose</b>Call two or three, ask about credentials, fees in writing and who covers nights and weekends. ${cat?`Read <a href="#/article/${C.g}">${esc(C.gt)}</a>.`:`Read <a href="#/article/geriatric-care-manager-nj">when to call a care manager</a> and <a href="#/article/home-care-agency-nj">how to choose a home care agency</a>.`} Free help is also available from your county office on aging at <span class="tel">1-877-222-3737</span>.</div>
  <p class="disclaim">Listings are for information only. We don't take payment for listings and can't vouch for any provider, so check licenses and references yourself.</p>
