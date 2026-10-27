@@ -1,0 +1,730 @@
+[
+ {
+  "name": "Connections Care Management",
+  "cat": "care-managers",
+  "counties": [
+   "Bergen",
+   "Essex",
+   "Passaic",
+   "Union",
+   "Hudson",
+   "Morris",
+   "Middlesex"
+  ],
+  "town": "Montclair",
+  "phone": "973-747-5571",
+  "url": "https://www.caremanagementconnect.net",
+  "desc": "Care management practice led by licensed clinical social workers. Assessments and care plans, going to medical appointments, overseeing home care, help choosing senior housing, benefit applications and crisis help. Offices in Montclair, NJ and Suffern, NY.",
+  "creds": "Lisa Kolton, LCSW, C-ASWCM and Kimberly Hamilton, LCSW, C-ASWCM",
+  "source": "https://www.caremanagementconnect.net/services",
+  "featured": true
+ },
+ {
+  "name": "Connie Rosenberg & Associates Care Management",
+  "cat": "care-managers",
+  "counties": [
+   "Morris",
+   "Union"
+  ],
+  "town": "Morris Plains",
+  "phone": "973-984-3707",
+  "url": "https://connierosenbergcaremanagement.com/",
+  "desc": "An Aging Life Care management firm in Northern New Jersey that has served older adults and adults with disabilities since 1987, with offices in Morris Plains and Westfield. It helps with care planning, memory care and planning ahead, and works with families and professionals.",
+  "creds": "Michelle L. Summer, MSW, CMC (listed by the Aging Life Care Association)",
+  "source": "https://connierosenbergcaremanagement.com/",
+  "featured": false
+ },
+ {
+  "name": "Unicity Care Management",
+  "cat": "care-managers",
+  "counties": [
+   "Bergen",
+   "Morris",
+   "Essex",
+   "Hudson",
+   "Passaic",
+   "Sussex",
+   "Somerset"
+  ],
+  "town": "",
+  "phone": "888-609-8008",
+  "url": "https://unicitycaremanagement.com/new-jersey/",
+  "desc": "Nurses and social workers assess an older adult's health, memory, daily living needs, home safety and finances, then build a care plan. They can coordinate in-home care, hospital discharge and moves to assisted living or memory care, and provide ongoing oversight.",
+  "creds": "",
+  "source": "https://unicitycaremanagement.com/new-jersey/",
+  "featured": false
+ },
+ {
+  "name": "The Senior Company (Mint Care Management)",
+  "cat": "care-managers",
+  "counties": [
+   "Passaic"
+  ],
+  "town": "Totowa",
+  "phone": "973-355-6336",
+  "url": "https://theseniorcompany.com/mint-care-management/",
+  "desc": "Geriatric care managers help seniors and their families with provider coordination, follow up on medical appointments, family updates, insurance and veterans benefits, and finding assisted living or skilled nursing when needed.",
+  "creds": "",
+  "source": "https://theseniorcompany.com/mint-care-management/",
+  "featured": false
+ },
+ {
+  "name": "NightingaleNJ Eldercare Navigators",
+  "cat": "care-managers",
+  "counties": [
+   "Somerset"
+  ],
+  "town": "Somerville",
+  "phone": "908-452-6644",
+  "url": "https://www.nightingalenj.com/",
+  "desc": "A Central Jersey eldercare practice offering life management planning, help with transitions and housing changes, and memory care coordination. Advocacy services include going to medical appointments, home safety assessments, medication review and on call crisis support.",
+  "creds": "",
+  "source": "https://www.nightingalenj.com/contact-us",
+  "featured": false
+ },
+ {
+  "name": "Springpoint at Home",
+  "cat": "care-managers",
+  "counties": [
+   "Essex",
+   "Hunterdon",
+   "Mercer",
+   "Middlesex",
+   "Monmouth",
+   "Morris",
+   "Somerset",
+   "Union"
+  ],
+  "town": "Monroe Township",
+  "phone": "609-301-2101",
+  "url": "https://springpointathome.org/services/senior-care-management/",
+  "desc": "Senior care management that helps older adults stay safely at home and supports family caregivers, including medical appointment coordination, housing and benefit planning and referrals. In Mercer, Middlesex, Monmouth and Somerset counties it also offers in-home care.",
+  "creds": "Annette Murphy, MSW, LSW, C-ASWCM",
+  "source": "https://springpointathome.org/areas-served/",
+  "featured": false
+ },
+ {
+  "name": "Aging Advisors",
+  "cat": "care-managers",
+  "counties": [
+   "Mercer"
+  ],
+  "town": "Pennington",
+  "phone": "609-815-5959",
+  "url": "https://agingadvisors.com/",
+  "desc": "A care management practice based in Pennington that works with older adults, solo agers and their families on planning and coordinating care.",
+  "creds": "Soni Pahade, MS Gerontology, CMC (listed by the Aging Life Care Association)",
+  "source": "https://www.aginglifecare.org/ALCAWEB/ALCAWEB/Chapters/New_Jersey_Chapter/New_Jersey_Leadership_and_Committees.aspx",
+  "featured": false
+ },
+ {
+  "name": "Meraki Care Management",
+  "cat": "care-managers",
+  "counties": [
+   "Monmouth"
+  ],
+  "town": "Hazlet",
+  "phone": "732-995-5864",
+  "url": "https://www.merakicarenj.com/",
+  "desc": "A care management practice in Hazlet serving Monmouth County, run by a registered nurse who is a member of the Aging Life Care Association.",
+  "creds": "Elizabeth Toal, RN",
+  "source": "https://www.aginglifecare.org/ALCAWEB/ALCAWEB/Chapters/New_Jersey_Chapter/New_Jersey_Leadership_and_Committees.aspx",
+  "featured": false
+ },
+ {
+  "name": "Lotus Elder Care & Counseling",
+  "cat": "care-managers",
+  "counties": [
+   "Camden",
+   "Burlington"
+  ],
+  "town": "Voorhees",
+  "phone": "856-816-7383",
+  "url": "https://lotuseldercarecounseling.com/",
+  "desc": "Elder care management and counseling for families with aging relatives and people planning to age well in southern New Jersey, including Cherry Hill, Moorestown and Haddonfield. Services include care plans, crisis help, memory loss support, LGBTQ+ aging support and psychotherapy.",
+  "creds": "Linda B. Goldberg, MSW, LCSW, CDP",
+  "source": "https://lotuseldercarecounseling.com/",
+  "featured": false
+ },
+ {
+  "name": "South Jersey Geriatric Care",
+  "cat": "care-managers",
+  "counties": [
+   "Camden",
+   "Atlantic"
+  ],
+  "town": "Cherry Hill",
+  "phone": "856-429-3494",
+  "url": "https://www.sjgeriatric.com/",
+  "desc": "Geriatric care management and mental health counseling for seniors and their caregivers, with offices in Cherry Hill and Somers Point. Help includes home consultations, care planning, going to appointments, home safety checks and caregiver support groups.",
+  "creds": "Lori Heberley, MA, LPC, CMC (listed by the Aging Life Care Association)",
+  "source": "https://www.aginglifecare.org/ProfileDetail?id=1700",
+  "featured": false
+ },
+ {
+  "name": "LifeSpan Care Management",
+  "cat": "care-managers",
+  "counties": [
+   "Camden"
+  ],
+  "town": "Haddonfield",
+  "phone": "800-808-9844",
+  "url": "https://lifespancm.com/",
+  "desc": "Care management and patient advocacy for older adults and people with chronic illness in South Jersey and the Delaware Valley. Services include care plans, aging in place planning, help after a hospital stay and advocacy in hospitals and care facilities.",
+  "creds": "",
+  "source": "https://lifespancm.com/",
+  "featured": false
+ },
+ {
+  "name": "Jewish Family Service of MetroWest New Jersey",
+  "cat": "social-services",
+  "counties": [
+   "Essex",
+   "Morris",
+   "Sussex",
+   "Union"
+  ],
+  "town": "Florham Park",
+  "phone": "973-765-9050",
+  "url": "https://www.jfsmetrowest.org/older-adults/",
+  "desc": "Older adult services include free case management for adults 65 and up, care consultation for family caregivers, fee based geriatric assessments, counseling, caregiver respite, friendly visiting and Medicare counseling. Offices are in Florham Park and West Orange.",
+  "creds": "",
+  "source": "https://www.jfsmetrowest.org/older-adults/",
+  "featured": false
+ },
+ {
+  "name": "Jewish Family & Children's Services of Northern New Jersey",
+  "cat": "social-services",
+  "counties": [
+   "Bergen",
+   "Passaic"
+  ],
+  "town": "Teaneck",
+  "phone": "201-837-9090",
+  "url": "https://www.jfcsnnj.org/older-adult-services/",
+  "desc": "Care management, private care management, kosher Meals on Wheels, friendly visitors and telephone reassurance for older adults, plus programs for Holocaust survivors. Offices are in Teaneck and Wayne.",
+  "creds": "",
+  "source": "https://www.jfcsnnj.org/older-adult-services/",
+  "featured": false
+ },
+ {
+  "name": "Jewish Family Service (Clifton and Passaic)",
+  "cat": "social-services",
+  "counties": [
+   "Passaic"
+  ],
+  "town": "Passaic",
+  "phone": "973-777-7638",
+  "url": "https://jfsclifton.org/new-services-senior-services/",
+  "desc": "Senior services include in-home counseling for homebound older adults, caregiver support, the Sequoia Wellness Center social day program for adults 60 and up, educational talks and help for Holocaust survivors.",
+  "creds": "",
+  "source": "https://jfsclifton.org/new-services-senior-services/",
+  "featured": false
+ },
+ {
+  "name": "Jewish Family Services of Central New Jersey",
+  "cat": "social-services",
+  "counties": [
+   "Union",
+   "Somerset"
+  ],
+  "town": "Elizabeth",
+  "phone": "908-352-8375",
+  "url": "https://jfscentralnj.org/",
+  "desc": "Serves Union and parts of Somerset County with a home health aide and homemaker program, kosher Meals on Wheels, rides to medical appointments for lower income seniors in Union County, counseling and a memory loss program.",
+  "creds": "",
+  "source": "https://jfscentralnj.org/services/certified-home-health-aide-program-private-pay-homecare/",
+  "featured": false
+ },
+ {
+  "name": "Jewish Family Services of Middlesex County",
+  "cat": "social-services",
+  "counties": [
+   "Middlesex"
+  ],
+  "town": "North Brunswick",
+  "phone": "732-777-1940",
+  "url": "https://jfsmiddlesex.org/senior-services/",
+  "desc": "Senior services include kosher Meals on Wheels across Middlesex County, Medicare counseling through SHIP, congregate kosher lunches and case management and home help for Holocaust survivors. Offices are in North Brunswick and Monroe Township.",
+  "creds": "",
+  "source": "https://jfsmiddlesex.org/senior-services/",
+  "featured": false
+ },
+ {
+  "name": "Jewish Family Service of Somerset, Hunterdon and Warren Counties",
+  "cat": "social-services",
+  "counties": [
+   "Somerset",
+   "Hunterdon",
+   "Warren"
+  ],
+  "town": "Somerville",
+  "phone": "908-725-7799",
+  "url": "https://jewishfamilysvc.org/services-and-programs--senior-services.php",
+  "desc": "Licensed geriatric social workers offer in-home counseling, case management, geriatric assessments and caregiver support. Volunteer programs include a senior friendly visitor and a senior shopper service.",
+  "creds": "",
+  "source": "https://jewishfamilysvc.org/services-and-programs--senior-services.php",
+  "featured": false
+ },
+ {
+  "name": "Jewish Family & Children's Service of Greater Mercer County",
+  "cat": "social-services",
+  "counties": [
+   "Mercer"
+  ],
+  "town": "Princeton",
+  "phone": "609-987-8100",
+  "url": "https://www.jfcsonline.org/category/older-adult/",
+  "desc": "Older adult services include geriatric care management, the Secure@Home membership program, a free Mercer County caregiver support helpline, friendly callers and visitors, and senior nutrition programs.",
+  "creds": "",
+  "source": "https://www.jfcsonline.org/category/older-adult/",
+  "featured": false
+ },
+ {
+  "name": "Jewish Family & Children's Service of Monmouth County",
+  "cat": "social-services",
+  "counties": [
+   "Monmouth"
+  ],
+  "town": "Asbury Park",
+  "phone": "732-774-6886",
+  "url": "https://www.jfcsmonmouth.org/",
+  "desc": "A social service agency with offices in Asbury Park and Morganville. Its programs include geriatric counseling, senior socialization, a home health aide program and kosher Meals on Wheels.",
+  "creds": "",
+  "source": "https://www.jfcsmonmouth.org/contact",
+  "featured": false
+ },
+ {
+  "name": "Jewish Family and Children's Service of Southern New Jersey",
+  "cat": "social-services",
+  "counties": [
+   "Camden"
+  ],
+  "town": "Cherry Hill",
+  "phone": "856-424-1333",
+  "url": "https://jfcssnj.org/older-adult-services/",
+  "desc": "Older Adult Services help people live independently as they age, with in-home services, counseling, transportation, support groups and consultations to plan for future needs or a move.",
+  "creds": "",
+  "source": "https://jfcssnj.org/older-adult-services/",
+  "featured": false
+ },
+ {
+  "name": "Catholic Charities of the Archdiocese of Newark, Adult Services",
+  "cat": "social-services",
+  "counties": [
+   "Union",
+   "Hudson"
+  ],
+  "town": "Cranford",
+  "phone": "908-497-3950",
+  "url": "https://ccannj.org/adult-services/",
+  "desc": "Programs for older adults include counseling for caregivers, free mental health counseling for Union County residents 60 and up, telephone reassurance, grocery shopping for homebound seniors and help for Hispanic older adults finding services.",
+  "creds": "",
+  "source": "https://ccannj.org/adult-services/",
+  "featured": false
+ },
+ {
+  "name": "NewBridge Services, Senior Assistance for Independent Living (SAIL)",
+  "cat": "social-services",
+  "counties": [
+   "Morris"
+  ],
+  "town": "Pompton Plains",
+  "phone": "973-839-2520",
+  "url": "https://newbridge.org/services-for-seniors/independent-living-services/",
+  "desc": "A free program for Morris County residents 60 and older who want to keep living at home. It starts with an in-home assessment and ongoing case management and can arrange meals, rides, aide care, home repairs and counseling. Referrals come through the Morris County Office of Aging.",
+  "creds": "",
+  "source": "https://newbridge.org/services-for-seniors/independent-living-services/",
+  "featured": false
+ },
+ {
+  "name": "Bergen Family Center",
+  "cat": "social-services",
+  "counties": [
+   "Bergen"
+  ],
+  "town": "Englewood",
+  "phone": "201-568-0817",
+  "url": "https://bergenfamilycenter.org/",
+  "desc": "A Bergen County nonprofit with senior services that include case management, counseling for seniors and SESCIL, a program of lifelong learning and social time for older adults.",
+  "creds": "",
+  "source": "https://bergenfamilycenter.org/",
+  "featured": false
+ },
+ {
+  "name": "Senior Citizens United Community Services (SCUCS)",
+  "cat": "social-services",
+  "counties": [
+   "Camden"
+  ],
+  "town": "Audubon",
+  "phone": "856-456-1121",
+  "url": "https://scucs.org/",
+  "desc": "A nonprofit serving Camden County seniors, with services that include personal care at home, respite, caregiver education, home delivered meals and housing counseling.",
+  "creds": "",
+  "source": "https://scucs.org/wp-content/uploads/2025/12/Brochure_Community_Services.pdf",
+  "featured": false
+ },
+ {
+  "name": "SAGE Eldercare Home Care",
+  "cat": "home-care",
+  "counties": [
+   "Union",
+   "Essex",
+   "Morris",
+   "Somerset"
+  ],
+  "town": "Summit",
+  "phone": "908-273-5550",
+  "url": "https://sageeldercare.org/",
+  "desc": "A nonprofit that provides home care along with meals delivery, social work support, Medicare counseling and medical alert service for seniors in Union, Essex, Morris and Somerset counties.",
+  "creds": "",
+  "source": "https://sageeldercare.org/",
+  "featured": false
+ },
+ {
+  "name": "Valley Home Care",
+  "cat": "home-care",
+  "counties": [
+   "Bergen"
+  ],
+  "town": "Paramus",
+  "phone": "201-291-6000",
+  "url": "https://www.valleyhealth.com/locations/valley-home-care",
+  "desc": "The home care service of Valley Health System, offering skilled nursing, home health aides, social services and medication help.",
+  "creds": "",
+  "source": "https://www.valleyhealth.com/locations/valley-home-care",
+  "featured": false
+ },
+ {
+  "name": "VNA Health Group, Private Care",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Middlesex",
+   "Monmouth",
+   "Ocean",
+   "Union"
+  ],
+  "town": "",
+  "phone": "800-862-3330",
+  "url": "https://vnahg.org/private-care/",
+  "desc": "A long established visiting nurse organization. Its private care offers nursing and certified home health aides, hourly or live-in, to help with bathing, dressing, meals and light housekeeping.",
+  "creds": "",
+  "source": "https://vnahg.org/private-care/",
+  "featured": false
+ },
+ {
+  "name": "Hunterdon Health Home Health Services",
+  "cat": "home-care",
+  "counties": [
+   "Hunterdon"
+  ],
+  "town": "Flemington",
+  "phone": "908-788-6138",
+  "url": "https://www.hunterdonhealth.org/services/home-health",
+  "desc": "A nonprofit home health agency of Hunterdon Health serving Hunterdon County only, with nurses, therapists, medical social workers and home health aides. The site says it is licensed by the New Jersey Department of Health.",
+  "creds": "",
+  "source": "https://www.hunterdonhealth.org/services/home-health",
+  "featured": false
+ },
+ {
+  "name": "Home Instead (Teaneck)",
+  "cat": "home-care",
+  "counties": [
+   "Bergen"
+  ],
+  "town": "Teaneck",
+  "phone": "201-833-1175",
+  "url": "https://www.homeinstead.com/home-care/usa/nj/teaneck/735/",
+  "desc": "An independently owned Home Instead office providing in-home senior care in Bergen County towns, including companionship, memory care, respite and 24 hour care.",
+  "creds": "",
+  "source": "https://www.homeinstead.com/home-care/usa/nj/teaneck/735/",
+  "featured": false
+ },
+ {
+  "name": "Home Instead (Millburn)",
+  "cat": "home-care",
+  "counties": [
+   "Essex",
+   "Union"
+  ],
+  "town": "Millburn",
+  "phone": "973-379-4910",
+  "url": "https://www.homeinstead.com/288",
+  "desc": "An independently owned Home Instead office serving towns in Essex and Union counties such as Montclair, Livingston, Summit and Westfield, with help at home, dementia care, respite and post hospital support.",
+  "creds": "",
+  "source": "https://www.homeinstead.com/288",
+  "featured": false
+ },
+ {
+  "name": "Home Instead (Somerset)",
+  "cat": "home-care",
+  "counties": [
+   "Somerset"
+  ],
+  "town": "Somerset",
+  "phone": "732-271-5100",
+  "url": "https://www.homeinstead.com/location/596/",
+  "desc": "An independently owned Home Instead office serving Somerset County communities with help at home, memory support, respite and companion care.",
+  "creds": "",
+  "source": "https://www.homeinstead.com/location/596/",
+  "featured": false
+ },
+ {
+  "name": "Home Instead (Shrewsbury)",
+  "cat": "home-care",
+  "counties": [
+   "Monmouth"
+  ],
+  "town": "Shrewsbury",
+  "phone": "732-542-9004",
+  "url": "https://www.homeinstead.com/home-care/usa/nj/monmouth-county/207/",
+  "desc": "An independently owned Home Instead office serving Monmouth County, offering memory care, respite, 24 hour care and companion care.",
+  "creds": "",
+  "source": "https://www.homeinstead.com/home-care/usa/nj/monmouth-county/207/",
+  "featured": false
+ },
+ {
+  "name": "Home Instead (Sewell)",
+  "cat": "home-care",
+  "counties": [
+   "Gloucester"
+  ],
+  "town": "Sewell",
+  "phone": "856-582-1311",
+  "url": "https://www.homeinstead.com/home-care/usa/nj/sewell/656/",
+  "desc": "An independently owned Home Instead office serving Gloucester County towns such as Glassboro, Woodbury and Mullica Hill, with companionship, memory care, respite and end of life support.",
+  "creds": "",
+  "source": "https://www.homeinstead.com/home-care/usa/nj/sewell/656/",
+  "featured": false
+ },
+ {
+  "name": "Caring Senior Service (Morristown area)",
+  "cat": "home-care",
+  "counties": [
+   "Morris"
+  ],
+  "town": "Chatham",
+  "phone": "973-447-3471",
+  "url": "https://caringseniorservice.com/morristown/about/",
+  "desc": "Provides in-home support for older adults in the Morristown area, including companion, personal, dementia and respite care and help after a hospital stay.",
+  "creds": "",
+  "source": "https://caringseniorservice.com/morristown/about/",
+  "featured": false
+ },
+ {
+  "name": "Visiting Angels (Toms River and Brick)",
+  "cat": "home-care",
+  "counties": [
+   "Ocean"
+  ],
+  "town": "Brick",
+  "phone": "732-240-1050",
+  "url": "https://visitingangels.com/ocnj/how-we-assist",
+  "desc": "An independently owned Visiting Angels office serving Ocean County, with a focus on the Toms River and Brick area. Caregivers help with daily routines, safety, meals and companionship.",
+  "creds": "",
+  "source": "https://visitingangels.com/ocnj/how-we-assist",
+  "featured": false
+ },
+ {
+  "name": "Comfort Keepers (Cherry Hill)",
+  "cat": "home-care",
+  "counties": [
+   "Camden",
+   "Burlington"
+  ],
+  "town": "Cherry Hill",
+  "phone": "856-857-6120",
+  "url": "https://www.comfortkeepers.com/offices/new-jersey/cherry-hill/",
+  "desc": "RN supervised in-home care for seniors and adults with disabilities in Camden and Burlington counties, from a few hours a week to 24 hour and live-in care, including dementia and respite care.",
+  "creds": "",
+  "source": "https://www.comfortkeepers.com/offices/new-jersey/cherry-hill/",
+  "featured": false
+ },
+ {
+  "name": "Right at Home (Atlantic County)",
+  "cat": "home-care",
+  "counties": [
+   "Atlantic",
+   "Cape May",
+   "Cumberland",
+   "Salem"
+  ],
+  "town": "Linwood",
+  "phone": "609-788-8236",
+  "url": "https://www.rightathome.net/atlantic-county",
+  "desc": "In-home care for seniors in Atlantic, Cape May, Cumberland and Salem counties, from companionship and household help to around the clock care.",
+  "creds": "",
+  "source": "https://www.rightathome.net/atlantic-county",
+  "featured": false
+ },
+ {
+  "name": "SAGE Spend-A-Day Medical Adult Day Care",
+  "cat": "adult-day",
+  "counties": [
+   "Union"
+  ],
+  "town": "Summit",
+  "phone": "908-273-5550",
+  "url": "https://sageeldercare.org/spad",
+  "desc": "A medical adult day program open weekdays from 9:00 a.m. to 3:30 p.m. with nursing care, meals, therapy, social work and activities. Transportation help is offered for Union County residents.",
+  "creds": "",
+  "source": "https://sageeldercare.org/spad",
+  "featured": false
+ },
+ {
+  "name": "Belleville Senior Health Services",
+  "cat": "adult-day",
+  "counties": [
+   "Essex"
+  ],
+  "town": "Belleville",
+  "phone": "973-751-6000",
+  "url": "https://www.bellevilleseniorhealthservices.com/",
+  "desc": "Adult medical day care with door-to-door transportation, meals, daily programs and medical and nursing support, open weekdays. The center says services are covered by Medicaid Managed Care plans.",
+  "creds": "",
+  "source": "https://www.bellevilleseniorhealthservices.com/contact-us",
+  "featured": false
+ },
+ {
+  "name": "2nd Home Perth Amboy",
+  "cat": "adult-day",
+  "counties": [
+   "Middlesex"
+  ],
+  "town": "Perth Amboy",
+  "phone": "732-826-8012",
+  "url": "https://2ndhome.org/locations/",
+  "desc": "An adult medical day care center run by 2nd Home, which operates several adult day locations in North and Central Jersey.",
+  "creds": "",
+  "source": "https://2ndhome.org/locations/",
+  "featured": false
+ },
+ {
+  "name": "2nd Home Union City",
+  "cat": "adult-day",
+  "counties": [
+   "Hudson"
+  ],
+  "town": "Union City",
+  "phone": "201-864-0400",
+  "url": "https://2ndhome.org/locations/",
+  "desc": "An adult medical day care center run by 2nd Home, which operates several adult day locations in North and Central Jersey.",
+  "creds": "",
+  "source": "https://2ndhome.org/locations/",
+  "featured": false
+ },
+ {
+  "name": "2nd Home Paterson",
+  "cat": "adult-day",
+  "counties": [
+   "Passaic"
+  ],
+  "town": "Paterson",
+  "phone": "973-523-3179",
+  "url": "https://2ndhome.org/locations/",
+  "desc": "An adult medical day care center run by 2nd Home, which operates several adult day locations in North and Central Jersey.",
+  "creds": "",
+  "source": "https://2ndhome.org/locations/",
+  "featured": false
+ },
+ {
+  "name": "Jersey Shore Adult Health Care Center",
+  "cat": "adult-day",
+  "counties": [
+   "Monmouth"
+  ],
+  "town": "Asbury Park",
+  "phone": "732-869-9090",
+  "url": "https://www.jerseyshoreadhcc.com/",
+  "desc": "Adult medical day care and dementia care with nursing, social services, therapy, personal care, meals and transportation to the center and to medical appointments.",
+  "creds": "",
+  "source": "https://www.jerseyshoreadhcc.com/about-us/",
+  "featured": false
+ },
+ {
+  "name": "Bright Moments Adult Medical Day Center",
+  "cat": "adult-day",
+  "counties": [
+   "Burlington"
+  ],
+  "town": "Willingboro",
+  "phone": "609-871-8881",
+  "url": "https://brightadc.com/",
+  "desc": "A daytime care center for older adults and adults with disabilities who need help or supervision during the day. Families can ask for a free day pass to visit.",
+  "creds": "",
+  "source": "https://brightadc.com/contact/",
+  "featured": false
+ },
+ {
+  "name": "Northern Valley Adult Day Health Center (Vantage Health System)",
+  "cat": "adult-day",
+  "counties": [
+   "Bergen"
+  ],
+  "town": "Dumont",
+  "phone": "201-385-4400",
+  "url": "",
+  "desc": "An adult day program listed by the New Jersey Division of Aging Services as a provider in the state's Alzheimer's Adult Day Services Program. Call the center to ask about its schedule, services and costs.",
+  "creds": "",
+  "source": "https://www.nj.gov/humanservices/doas/services/a-k/aads/facilities.shtml",
+  "featured": false
+ },
+ {
+  "name": "Adult Day Care Center of Somerset County",
+  "cat": "adult-day",
+  "counties": [
+   "Somerset"
+  ],
+  "town": "Bridgewater",
+  "phone": "908-725-0068",
+  "url": "",
+  "desc": "An adult day program listed by the New Jersey Division of Aging Services as a provider in the state's Alzheimer's Adult Day Services Program. Call the center to ask about its schedule, services and costs.",
+  "creds": "",
+  "source": "https://www.nj.gov/humanservices/doas/services/a-k/aads/facilities.shtml",
+  "featured": false
+ },
+ {
+  "name": "Active Day of Hamilton",
+  "cat": "adult-day",
+  "counties": [
+   "Mercer"
+  ],
+  "town": "Hamilton",
+  "phone": "609-883-0200",
+  "url": "",
+  "desc": "An adult day program listed by the New Jersey Division of Aging Services as a provider in the state's Alzheimer's Adult Day Services Program. Call the center to ask about its schedule, services and costs.",
+  "creds": "",
+  "source": "https://www.nj.gov/humanservices/doas/services/a-k/aads/facilities.shtml",
+  "featured": false
+ },
+ {
+  "name": "Active Day of Vineland",
+  "cat": "adult-day",
+  "counties": [
+   "Cumberland"
+  ],
+  "town": "Vineland",
+  "phone": "856-691-3756",
+  "url": "",
+  "desc": "An adult day program listed by the New Jersey Division of Aging Services as a provider in the state's Alzheimer's Adult Day Services Program. Call the center to ask about its schedule, services and costs.",
+  "creds": "",
+  "source": "https://www.nj.gov/humanservices/doas/services/a-k/aads/facilities.shtml",
+  "featured": false
+ },
+ {
+  "name": "Active Day of Cape May",
+  "cat": "adult-day",
+  "counties": [
+   "Cape May"
+  ],
+  "town": "Cape May Court House",
+  "phone": "609-465-8840",
+  "url": "",
+  "desc": "An adult day program listed by the New Jersey Division of Aging Services as a provider in the state's Alzheimer's Adult Day Services Program. Call the center to ask about its schedule, services and costs.",
+  "creds": "",
+  "source": "https://www.nj.gov/humanservices/doas/services/a-k/aads/facilities.shtml",
+  "featured": false
+ }
+]
