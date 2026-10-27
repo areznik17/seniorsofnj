@@ -1,0 +1,4380 @@
+[
+ {
+  "slug": "montclair",
+  "name": "Montclair",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Montclair pairs a lively arts scene with steady support for older residents. The township's Senior Services office, known as Lifelong Montclair, runs classes in health, art and wellness from Edgemont Park House. The Montclair Art Museum and the Presby Memorial Iris Gardens are close by, and the library delivers books to residents who can't get out.",
+  "seniorCenter": {
+   "name": "Senior Services / Lifelong Montclair",
+   "address": "Edgemont Park House, 290 Valley Road, Montclair, NJ 07042",
+   "phone": "973-744-3278",
+   "url": "https://www.montclairnjusa.org/Government/Departments/Senior-Services",
+   "notes": "Events and classes in health, education, art, recreation and wellness, held in person, on Zoom or both. Register online through the township's class portal, or call 973-744-3278 if you don't use a computer."
+  },
+  "transport": {
+   "name": "Essex County Community Transportation",
+   "phone": "973-737-7200",
+   "url": "https://www.montclairnjusa.org/Government/Departments/Senior-Services/Seniors-People-with-Disabilities-Transportation",
+   "notes": "Free rides for people 60 and over or with a disability to medical visits, shopping and programs within Essex County. New riders give their details by phone first. Book Monday to Friday, 9 am to 3 pm, at least two days and up to a month ahead."
+  },
+  "library": {
+   "name": "Montclair Public Library",
+   "address": "50 South Fullerton Avenue, Montclair, NJ 07042",
+   "phone": "973-744-0500",
+   "url": "https://montclairlibrary.org/adults/seniors/",
+   "notes": "Home Assisted Services brings books, audiobooks, DVDs and hotspots to Montclair residents who can't easily leave home (ext. 2232). The library also has assistive technology such as a text magnifier, one-on-one tech help by appointment, and Medicare counseling referrals through the Reference Desk (ext. 2235)."
+  },
+  "more": [
+   {
+    "name": "Montclair Public Health Nursing",
+    "phone": "973-509-4980",
+    "url": "https://www.montclairnjusa.org/Government/Departments/Health-Human-Services/Public-Health-Nursing",
+    "note": "Nursing services from the township Health Department, free or for a small fee. Municipal Building, 205 Claremont Avenue, third floor."
+   },
+   {
+    "name": "The MILL (Montclair Institute for Lifelong Learning)",
+    "phone": "973-744-3278",
+    "url": "https://www.montclairnjusa.org/Government/Departments/Senior-Services/MILL",
+    "note": "Free classes for adults 55 and over, run with the library, the art museum, the YMCA and other partners at spots around town. Registration is required."
+   },
+   {
+    "name": "Lifelong Montclair social worker",
+    "phone": "973-509-4979",
+    "url": "https://www.montclairnjusa.org/Government/Departments/Senior-Services",
+    "note": "Direct line to the social worker on the Senior Services staff."
+   }
+  ],
+  "places": [
+   {
+    "name": "Montclair Art Museum",
+    "note": "At 3 South Mountain Avenue, with gallery hours Friday to Sunday, a senior ticket price and free parking onsite."
+   },
+   {
+    "name": "Presby Memorial Iris Gardens",
+    "note": "County garden at 474 Upper Mountain Avenue with about 3,000 iris varieties. Peak bloom is usually mid May to early June."
+   },
+   {
+    "name": "Eagle Rock Reservation",
+    "note": "County woodland on the ridge between West Orange, Montclair and Verona, with scenic overlooks and a September 11 memorial."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Services/Lifelong Montclair (Township of Montclair)",
+    "https://www.montclairnjusa.org/Government/Departments/Senior-Services"
+   ],
+   [
+    "Seniors, People with Disabilities Transportation (Township of Montclair)",
+    "https://www.montclairnjusa.org/Government/Departments/Senior-Services/Seniors-People-with-Disabilities-Transportation"
+   ],
+   [
+    "Register for Classes and Programs (Township of Montclair)",
+    "https://www.montclairnjusa.org/Government/Departments/Senior-Services/MILL"
+   ],
+   [
+    "Public Health Nursing (Township of Montclair)",
+    "https://www.montclairnjusa.org/Government/Departments/Health-Human-Services/Public-Health-Nursing"
+   ],
+   [
+    "Seniors (Montclair Public Library)",
+    "https://montclairlibrary.org/adults/seniors/"
+   ],
+   [
+    "Home Assisted Services (Montclair Public Library)",
+    "https://montclairlibrary.org/adults/home-assisted-services/"
+   ],
+   [
+    "Visit MAM (Montclair Art Museum)",
+    "https://www.montclairartmuseum.org/visit-mam/plan-your-visit"
+   ],
+   [
+    "Presby Memorial Iris Gardens (Essex County Parks)",
+    "https://essexcountyparks.org/parks/presby-memorial-iris-gardens"
+   ],
+   [
+    "Eagle Rock Reservation (Essex County Parks)",
+    "https://essexcountyparks.org/parks/eagle-rock-reservation"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "west-orange",
+  "name": "West Orange",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "West Orange's Department of Senior Services runs free and low-cost classes at spots around town, from the Katz Community Center to the public library, plus sessions on Zoom. The township also gives curb-to-curb rides to residents 60 and over. Thomas Edison's laboratory and Glenmont estate are here, along with Turtle Back Zoo.",
+  "seniorCenter": {
+   "name": "West Orange Department of Senior Services",
+   "address": "66 Main Street, Room 207, West Orange, NJ 07052",
+   "phone": "973-325-4105",
+   "url": "https://www.westorange.org/523/Senior-Services",
+   "notes": "Classes and events at the Katz Community Center, Ginny Duenkel Pool, the public library, O'Connor Park and on Zoom, offered free or at a low cost. Call to register or to join the email list."
+  },
+  "transport": {
+   "name": "West Orange Senior Citizen Transportation Program",
+   "phone": "973-325-4134",
+   "url": "https://www.westorange.org/143/Senior-Citizen-Transportation-Program",
+   "notes": "Curb-to-curb rides within West Orange for residents 60 and over. Medical trips come first, then the library, shopping, club meetings and the food pantry. Riders must meet the bus at the curb or bring an aide, and a lift bus serves wheelchair users. Call 2 to 3 days ahead."
+  },
+  "library": {
+   "name": "West Orange Public Library",
+   "address": "10 Rooney Circle, West Orange, NJ 07052",
+   "phone": "973-736-0198",
+   "url": "https://www.wopl.org/services",
+   "notes": "Free homebound delivery every Friday to homes, apartments and senior residences. Call 973-736-0198 to sign up. Reference librarians can help with basic computer questions at 973-736-0196."
+  },
+  "more": [
+   {
+    "name": "Aging Well West Orange (Senior Livability)",
+    "phone": "973-325-4136",
+    "url": "https://www.westorange.org/1482/Senior-Resources",
+    "note": "The township's senior livability office, at 10 Gaston Street (rear)."
+   },
+   {
+    "name": "West Orange Health Center",
+    "phone": "973-325-4130",
+    "url": "https://www.westorange.org/1482/Senior-Resources",
+    "note": "Township health center at 10 Gaston Street (rear)."
+   }
+  ],
+  "places": [
+   {
+    "name": "Thomas Edison National Historical Park",
+    "note": "Edison's laboratory complex at 211 Main Street. Glenmont estate tours are seasonal and involve many stairs."
+   },
+   {
+    "name": "Turtle Back Zoo",
+    "note": "Essex County's zoo, with more than 200 species, at the South Mountain Recreation Complex."
+   },
+   {
+    "name": "South Mountain Reservation",
+    "note": "About 2,110 acres of county woods with trails, carriage roads and a scenic overlook."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Services (Township of West Orange)",
+    "https://www.westorange.org/523/Senior-Services"
+   ],
+   [
+    "Older Adult Resources (Township of West Orange)",
+    "https://www.westorange.org/1482/Senior-Resources"
+   ],
+   [
+    "Senior Citizen Transportation Program (Township of West Orange)",
+    "https://www.westorange.org/143/Senior-Citizen-Transportation-Program"
+   ],
+   [
+    "Services (West Orange Public Library)",
+    "https://www.wopl.org/services"
+   ],
+   [
+    "West Orange Public Library home page",
+    "https://www.wopl.org/"
+   ],
+   [
+    "Plan Your Visit (Thomas Edison National Historical Park)",
+    "https://www.nps.gov/edis/planyourvisit/index.htm"
+   ],
+   [
+    "Turtle Back Zoo",
+    "https://www.turtlebackzoo.com/"
+   ],
+   [
+    "South Mountain Reservation (Essex County Parks)",
+    "https://essexcountyparks.org/parks/south-mountain-reservation"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "livingston",
+  "name": "Livingston",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Livingston's Senior/Community Center on Hillside Avenue is the hub for older residents, with talks, crafts, blood pressure checks and free tech help from high school students. A wheelchair-accessible township bus takes residents 62 and up around town. Riker Hill Art Park and the walking track at Memorial Oval make easy outings.",
+  "seniorCenter": {
+   "name": "Livingston Senior/Community Center (LSCC)",
+   "address": "204 Hillside Avenue, Livingston, NJ 07039",
+   "phone": "973-535-7925",
+   "url": "https://www.livingstonnj.org/facilities/facility/details/Livingston-SeniorCommunity-Center-LSCC-4",
+   "notes": "Home of Recreation and Senior Services and the Health Department. Programs include coffee talks, crafts, free blood pressure screenings and Keeping Up with Technology. Office hours are Monday to Friday, 8:30 am to 4:30 pm."
+  },
+  "transport": {
+   "name": "Livingston Senior Transportation Program",
+   "phone": "973-535-7925",
+   "url": "https://www.livingstonnj.org/815/Senior-Transportation-Services",
+   "notes": "For residents 62 and over and disabled residents 18 and over. A wheelchair-accessible bus runs weekdays, 8:45 am to 3 pm, to any Livingston location (ShopRite, the library, the YMCA) and to the JCC in West Orange. Book one week to 24 hours ahead; press option 1."
+  },
+  "library": {
+   "name": "Livingston Public Library",
+   "address": "10 Robert H. Harp Drive, Livingston, NJ 07039",
+   "phone": "973-992-4600",
+   "url": "https://livingstonlibrary.org/books-by-mail/",
+   "notes": "Books by Mail sends Livingston books and DVDs to cardholders who can't visit, for a short time or for good, with return postage included. Apply online or on a paper form."
+  },
+  "more": [
+   {
+    "name": "Keeping Up with Technology (ages 62+)",
+    "phone": "973-535-7925",
+    "url": "https://www.livingstonnj.org/1221/Keeping-Up-with-Technology",
+    "note": "Free help with phones and tablets from Livingston High School students, twice a month at the center. Bring your own device and preregister."
+   },
+   {
+    "name": "Essex County Special Transportation System",
+    "phone": "973-737-7200",
+    "url": "https://www.livingstonnj.org/815/Senior-Transportation-Services",
+    "note": "County rides to medical appointments, dialysis, nutrition sites, food shopping and social activities."
+   }
+  ],
+  "places": [
+   {
+    "name": "Riker Hill Art Park",
+    "note": "A former missile tracking base now home to dozens of artist studios. The county holds open houses, so check the county parks site for dates."
+   },
+   {
+    "name": "Memorial Oval and Park",
+    "note": "Across from Town Hall, with a walking track, gazebo, bocce, shuffleboard and Littell's Pond."
+   }
+  ],
+  "sources": [
+   [
+    "Livingston Senior/Community Center (Township of Livingston)",
+    "https://www.livingstonnj.org/facilities/facility/details/Livingston-SeniorCommunity-Center-LSCC-4"
+   ],
+   [
+    "Senior Transportation Services (Township of Livingston)",
+    "https://www.livingstonnj.org/815/Senior-Transportation-Services"
+   ],
+   [
+    "Keeping Up with Technology (Township of Livingston)",
+    "https://www.livingstonnj.org/1221/Keeping-Up-with-Technology"
+   ],
+   [
+    "Memorial Oval and Park (Township of Livingston)",
+    "https://www.livingstonnj.org/Facilities/Facility/Details/Memorial-Oval-amp-Park-5"
+   ],
+   [
+    "Books by Mail (Livingston Public Library)",
+    "https://livingstonlibrary.org/books-by-mail/"
+   ],
+   [
+    "Riker Hill Art Park (Essex County Parks)",
+    "https://essexcountyparks.org/parks/riker-hill-complex"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "verona",
+  "name": "Verona",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Verona's Community Center on Bloomfield Avenue is home base for senior services, with a free senior bus, chair yoga and seated exercise classes. The Senior Club meets twice a month for speakers, bingo and cake. Verona Park's lake and walking paths and the trails of Hilltop Reservation are both close to home.",
+  "seniorCenter": {
+   "name": "Verona Community Center (Senior Services)",
+   "address": "880 Bloomfield Avenue, Verona, NJ 07044",
+   "phone": "973-857-4830",
+   "url": "https://www.veronanj.org/seniors",
+   "notes": "Weekday office for senior services and exercise sign-ups. The Senior Club meets in the ballroom at 1 pm on the first and third Wednesdays, September to June, with dues of $10 a year, free bus rides to meetings, parties and trips."
+  },
+  "transport": {
+   "name": "Verona Senior Bus",
+   "phone": "973-857-4832",
+   "url": "https://www.veronanj.org/VeronaSeniorCitizenBus",
+   "notes": "Free, for Verona residents only, with pick-up at home. A 9 am local run stops along Bloomfield Avenue and a 10 am run goes to grocery stores on the monthly calendar. Call at 8:30 am on the day you want to ride; seats are limited."
+  },
+  "library": {
+   "name": "Verona Public Library",
+   "address": "17 Gould Street, Verona, NJ 07044",
+   "phone": "973-857-4848",
+   "url": "https://www.veronalibrary.org/hours-location/",
+   "notes": "Regular hours include Sundays, noon to 5 pm. Summer hours are shorter."
+  },
+  "more": [
+   {
+    "name": "Medical Transport for Verona and Cedar Grove Seniors",
+    "phone": "973-857-4832",
+    "url": "https://www.veronanj.org/MedicalTransport",
+    "note": "Rides to medical appointments in nearby towns, including Mountainside and Saint Barnabas hospitals. $5 within Verona and Cedar Grove, $10 elsewhere. Book 1 to 2 weeks ahead, weekdays 10 am to noon. Riders must get in and out of the vehicle on their own."
+   },
+   {
+    "name": "Adult/Senior Exercise Classes",
+    "phone": "973-857-4830",
+    "url": "https://www.veronanj.org/SeniorExerciseClasses",
+    "note": "Chair-based strength classes and chair yoga with certified instructors. Register online through Community Pass or at the Community Center."
+   }
+  ],
+  "places": [
+   {
+    "name": "Verona Park",
+    "note": "54-acre county park with a 13-acre lake, walking paths, a gazebo and boat rentals in season."
+   },
+   {
+    "name": "Hilltop Reservation",
+    "note": "County nature preserve on the Second Watchung Mountain with short ridge trails, entered at 255 Fairview Avenue in Verona."
+   },
+   {
+    "name": "Eagle Rock Reservation",
+    "note": "County woodland on the ridge between West Orange, Montclair and Verona, with scenic overlooks and a September 11 memorial."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Services (Township of Verona)",
+    "https://www.veronanj.org/seniors"
+   ],
+   [
+    "Verona Senior Citizen Bus (Township of Verona)",
+    "https://www.veronanj.org/VeronaSeniorCitizenBus"
+   ],
+   [
+    "Senior Service FAQs (Township of Verona)",
+    "https://www.veronanj.org/SeniorServiceFAQs"
+   ],
+   [
+    "Verona Senior Club (Township of Verona)",
+    "https://www.veronanj.org/VeronaSeniorClub"
+   ],
+   [
+    "Medical Transport (Township of Verona)",
+    "https://www.veronanj.org/MedicalTransport"
+   ],
+   [
+    "Adult/Senior Exercise Classes (Township of Verona)",
+    "https://www.veronanj.org/SeniorExerciseClasses"
+   ],
+   [
+    "Hours and Location (Verona Public Library)",
+    "https://www.veronalibrary.org/hours-location/"
+   ],
+   [
+    "Verona Park (Essex County Parks)",
+    "https://essexcountyparks.org/parks/verona-park"
+   ],
+   [
+    "Hilltop Reservation (Essex County Parks)",
+    "https://essexcountyparks.org/parks/hilltop-reservation"
+   ],
+   [
+    "Eagle Rock Reservation (Essex County Parks)",
+    "https://essexcountyparks.org/parks/eagle-rock-reservation"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "glen-ridge",
+  "name": "Glen Ridge",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Glen Ridge keeps its senior programs small and free for residents 55 and over, based at the restored 1887 train station on Ridgewood Avenue. There are monthly luncheons with blood pressure checks, chair yoga and art classes, and a jitney for grocery runs. The library delivers books through volunteers, and Freeman Gardens is a pretty spot for a walk.",
+  "seniorCenter": {
+   "name": "Glen Ridge Senior/Community Center (Train Station)",
+   "address": "228 Ridgewood Avenue, Glen Ridge, NJ 07028",
+   "phone": "973-748-2924",
+   "url": "https://www.glenridgenj.org/seniors/",
+   "notes": "Free programs for Glen Ridge residents 55 and over, including a monthly luncheon with a blood pressure screening, chair yoga and art classes on Zoom, and field trips. Sign up through the Recreation Office."
+  },
+  "transport": {
+   "name": "Glen Ridge Senior Jitney",
+   "phone": "973-748-2924",
+   "url": "https://www.glenridgenj.org/seniors/",
+   "notes": "Free for registered residents, with home pick-up for the Thursday ShopRite trip in Bloomfield and the monthly luncheon. For shopping, register 48 hours ahead; space is limited to 12."
+  },
+  "library": {
+   "name": "Glen Ridge Public Library",
+   "address": "240 Ridgewood Avenue, Glen Ridge, NJ 07028",
+   "phone": "973-748-5482",
+   "url": "https://www.glenridgelibrary.org/homebound-delivery.html",
+   "notes": "Volunteers deliver up to 10 items once or twice a month to residents who can't visit because of illness or limited mobility. It starts with a short phone interview."
+  },
+  "more": [
+   {
+    "name": "Senior Activities Calendar",
+    "phone": "973-748-2924",
+    "url": "https://www.glenridgenj.org/scalendar/",
+    "note": "Monthly calendar of senior programs. Sign up by phone or in person at the train station."
+   }
+  ],
+  "places": [
+   {
+    "name": "Freeman Gardens",
+    "note": "Volunteer-run rose garden at Maolis and Hawthorne Avenues."
+   },
+   {
+    "name": "The Glen bike path and gazebo",
+    "note": "Path along the south side of Bloomfield Avenue between Hillside Avenue and Freeman Parkway."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Citizen Programs (Borough of Glen Ridge)",
+    "https://www.glenridgenj.org/seniors/"
+   ],
+   [
+    "Senior Activities Calendar (Borough of Glen Ridge)",
+    "https://www.glenridgenj.org/scalendar/"
+   ],
+   [
+    "Senior/Community Center (Borough of Glen Ridge)",
+    "https://www.glenridgenj.org/center/"
+   ],
+   [
+    "Athletic/Recreation Facilities (Borough of Glen Ridge)",
+    "https://www.glenridgenj.org/athletic/"
+   ],
+   [
+    "Glen Ridge Public Library",
+    "https://www.glenridgelibrary.org/"
+   ],
+   [
+    "Homebound Delivery (Glen Ridge Public Library)",
+    "https://www.glenridgelibrary.org/homebound-delivery.html"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "bloomfield",
+  "name": "Bloomfield",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Bloomfield has social workers on staff to help older residents with Medicare, food, housing and utility programs. Oakeside Seniors brings lunch, chair yoga, crafts and bingo to an 1895 mansion on Belleville Avenue. Free Dial-A-Ride trips go anywhere in Essex County, and Brookdale Park has a rose garden and a fitness path.",
+  "seniorCenter": {
+   "name": "Oakeside Seniors at Oakeside Cultural Center",
+   "address": "240 Belleville Avenue, Bloomfield, NJ 07003",
+   "phone": "973-680-4017",
+   "url": "https://www.bloomfieldtwpnj.com/1580/Senior-Services",
+   "notes": "The township's senior program meets Monday and Wednesday afternoons, noon to 3 pm, with lunch, chair yoga, arts and crafts and bingo, and no registration needed. Run by the Division of Human Services, which posts a monthly senior calendar."
+  },
+  "transport": {
+   "name": "Bloomfield Dial-A-Ride",
+   "phone": "973-566-7194",
+   "url": "https://www.bloomfieldtwpnj.com/327/Senior-Citizens",
+   "notes": "Free curb-to-curb rides anywhere in Essex County for residents 60 and over or with a disability, mostly medical trips but also shopping, haircuts and visits. First come, first served. A free fixed-route Senior Citizen Bus also runs weekdays to stores, banks and Town Hall."
+  },
+  "library": {
+   "name": "Bloomfield Public Library",
+   "address": "90 Broad Street, Bloomfield, NJ 07003",
+   "phone": "973-566-6200",
+   "url": "https://www.bplnj.org/hours-location",
+   "notes": "Metered parking behind the main library off State Street. Open Monday to Saturday."
+  },
+  "more": [
+   {
+    "name": "Bloomfield Division of Human Services",
+    "phone": "973-680-4017",
+    "url": "https://www.bloomfieldtwpnj.com/219/Senior-Services",
+    "note": "Social workers screen seniors for programs such as Medicare savings, SNAP, utility help and the senior tax freeze, and help with the applications."
+   },
+   {
+    "name": "Bloomfield Senior Organization Club",
+    "phone": "973-743-3332",
+    "url": "https://www.bloomfieldtwpnj.com/327/Senior-Citizens",
+    "note": "Monthly meetings, holiday gatherings, speakers and trips. Dues are $20 a year."
+   }
+  ],
+  "places": [
+   {
+    "name": "Brookdale Park",
+    "note": "County park off Watchung Avenue with a formal rose garden, walking trails and a 1.5 mile fitness course."
+   },
+   {
+    "name": "Watsessing Park",
+    "note": "Olmsted-designed county park at Bloomfield Avenue and Conger Street, with a bandstand and a senior citizens building."
+   },
+   {
+    "name": "Oakeside Cultural Center",
+    "note": "Historic 1895 estate with four acres of lawns and gardens."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Services and Programs (Township of Bloomfield)",
+    "https://www.bloomfieldtwpnj.com/1580/Senior-Services"
+   ],
+   [
+    "Senior Services (Township of Bloomfield)",
+    "https://www.bloomfieldtwpnj.com/219/Senior-Services"
+   ],
+   [
+    "Senior Citizen Programming (Township of Bloomfield)",
+    "https://www.bloomfieldtwpnj.com/327/Senior-Citizens"
+   ],
+   [
+    "Bloomfield Senior Citizen Bus (Township of Bloomfield)",
+    "https://www.bloomfieldtwpnj.com/226/Bloomfield-Senior-Citizen-Bus"
+   ],
+   [
+    "Project Healthy Bones at Oakeside (Township of Bloomfield)",
+    "http://www.bloomfieldtwpnj.com/m/newsflash/Home/Detail/514"
+   ],
+   [
+    "Oakeside senior programming (Township of Bloomfield on Facebook)",
+    "https://www.facebook.com/bloomfieldtwpnj/posts/every-monday-and-wednesday-from-1200-pm-to-300-pm-oakeside-bloomfield-cultural-c/1107707764873924/"
+   ],
+   [
+    "Oakeside Cultural Center (Township of Bloomfield)",
+    "http://www.bloomfieldtwpnj.com/facilities/facility/details/Oakeside-Cultural-Center-26"
+   ],
+   [
+    "Hours and Location (Bloomfield Public Library)",
+    "https://www.bplnj.org/hours-location"
+   ],
+   [
+    "Brookdale Park (Essex County Parks)",
+    "https://essexcountyparks.org/parks/brookdale-park"
+   ],
+   [
+    "Watsessing Park (Essex County Parks)",
+    "https://essexcountyparks.org/parks/watsessing-park"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "nutley",
+  "name": "Nutley",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Nutley runs a full calendar for seniors through its Parks and Recreation department, including chair yoga, two senior clubs and a weekday nutrition lunch, with free transportation to most programs. A daily check-in call program adds peace of mind for people who live alone. Yanticaw Park and the Nutley Museum are easy outings.",
+  "seniorCenter": {
+   "name": "Nutley Senior Citizen and Recreation Center",
+   "address": "44 Park Avenue, Nutley, NJ 07110",
+   "phone": "973-284-4966",
+   "url": "https://www.nutleynj.org/senior-citizen-programs-and-activities",
+   "notes": "The Senior Club meets Wednesdays at 12:30 pm and the Old Guard Club Fridays at 9 am, September to June. Chair yoga is held at the Annex Building, and there is a May Day lunch and a September picnic. Call the Senior Citizen Coordinator for the full list."
+  },
+  "transport": {
+   "name": "Nutley Senior Transportation",
+   "phone": "973-284-4966",
+   "url": "https://www.nutleynj.org/senior-citizen-programs-and-activities",
+   "notes": "Free rides to most senior programs and the weekday nutrition lunch. ShopRite trips run Tuesdays and Fridays with a three-bag limit; homeowners call the office to set up a home pick-up."
+  },
+  "library": {
+   "name": "Nutley Public Library",
+   "address": "93 Booth Drive, Nutley, NJ 07110",
+   "phone": "973-667-0405",
+   "url": "https://nutleypubliclibrary.org/",
+   "notes": "Free ebooks, audiobooks and streaming with a library card through Libby, Hoopla and Kanopy."
+  },
+  "more": [
+   {
+    "name": "Senior Nutrition Program",
+    "phone": "973-744-8103",
+    "url": "https://www.nutleynj.org/senior-citizen-programs-and-activities",
+    "note": "Weekday lunch, 11:30 am to 12:30 pm, at the Annex Building, 65 Bloomfield Avenue. Call Chrill Care (ext. 244) at least one day ahead."
+   },
+   {
+    "name": "Operation Reassurance",
+    "phone": "973-284-4930",
+    "url": "https://www.nutleynj.org/operation-reassurance",
+    "note": "Free daily check-in call for seniors and disabled residents who live alone. If you don't call in between 8:30 and 10:30 am, the township calls you, then sends police or fire to check."
+   }
+  ],
+  "places": [
+   {
+    "name": "Yanticaw Park",
+    "note": "County park between Centre Street and Chestnut Street, running west to Passaic Avenue."
+   },
+   {
+    "name": "Nutley Museum",
+    "note": "Restored 1875 Church Street School at 65 Church Street, with local history exhibits and Annie Oakley memorabilia."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Citizen Programs and Activities (Township of Nutley)",
+    "https://www.nutleynj.org/senior-citizen-programs-and-activities"
+   ],
+   [
+    "Operation Reassurance (Township of Nutley)",
+    "https://www.nutleynj.org/operation-reassurance"
+   ],
+   [
+    "Essex County Senior Centers (Essex County WeCare)",
+    "https://wecare.essexcountynj.org/support/solutions/articles/69000806201-essex-county-senior-centers"
+   ],
+   [
+    "Nutley Public Library",
+    "https://nutleypubliclibrary.org/"
+   ],
+   [
+    "Nutley Public Library (Township of Nutley)",
+    "https://www.nutleynj.org/maps/location/NutleyPublicLibrary"
+   ],
+   [
+    "Yanticaw Park (Essex County Parks)",
+    "https://essexcountyparks.org/parks/yanticaw-park"
+   ],
+   [
+    "Nutley Museum (Nutley Historical Society)",
+    "https://www.nutleyhistoricalsociety.org/about/museum"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "maplewood",
+  "name": "Maplewood",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Maplewood's Senior Center on Burnett Avenue hosts chair yoga, a bridge club and a free Tuesday drop-in, and the township's Dial-A-Ride bus handles short local trips. A Jewish Family Services social worker helps residents 65 and over two days a week. South Mountain Reservation and the historic Durand-Hedden House are close to home.",
+  "seniorCenter": {
+   "name": "Maplewood Senior Center",
+   "address": "106 Burnett Avenue, Maplewood, NJ 07040",
+   "phone": "973-763-0750",
+   "url": "https://www.maplewoodnj.gov/government/community-services/senior-citizen-programming",
+   "notes": "Programs for adults 55 and over from the Department of Community Services, including fitness classes, chair yoga, a bridge club and a free Tuesday get-together. Register online through Rec Desk or call the Community Services Desk at 973-762-8120."
+  },
+  "transport": {
+   "name": "Maplewood Senior Bus (Dial-A-Ride)",
+   "phone": "973-763-0750",
+   "url": "https://www.maplewoodnj.gov/government/community-services/senior-citizen-programming/transportation-services",
+   "notes": "Wheelchair-accessible bus for personal appointments up to a 15-minute ride away. Call at least 24 hours ahead and mention if you need wheelchair help."
+  },
+  "library": {
+   "name": "Maplewood Memorial Library",
+   "address": "51 Baker Street, Maplewood, NJ 07040",
+   "phone": "973-762-1688",
+   "url": "https://www.maplewoodlibrary.org/about-contact-location-hours",
+   "notes": "Recently renovated and expanded, and open seven days. The Hilton Branch at 1688 Springfield Avenue is a second option."
+  },
+  "more": [
+   {
+    "name": "Older Adult Social Worker (Jewish Family Services)",
+    "phone": "973-986-4321",
+    "url": "https://www.maplewoodnj.gov/government/public-health-social-services/community-resources/seniors-caregivers-resources",
+    "note": "For residents 65 and over calling for themselves, Mondays and Wednesdays, 9 am to 5 pm. Family caregivers can call the JFS Care Consultation Program at 973-637-1740."
+   },
+   {
+    "name": "Maplewood Adult Health Clinics",
+    "phone": "973-762-8120",
+    "url": "https://www.maplewoodnj.gov/government/public-health-social-services/community-resources/seniors-caregivers-resources",
+    "note": "Free for Maplewood residents 18 and over: blood pressure checks, medication counseling, lab work and more. Ask for ext. 4300."
+   },
+   {
+    "name": "SOMA Two Towns for All Ages",
+    "phone": "973-558-0863",
+    "url": "https://www.somatwotownsforallages.org/",
+    "note": "Aging-in-place initiative shared with South Orange, with a weekly email and an events calendar."
+   }
+  ],
+  "places": [
+   {
+    "name": "South Mountain Reservation",
+    "note": "About 2,110 acres of county woods with trails, carriage roads and a scenic overlook."
+   },
+   {
+    "name": "Durand-Hedden House and Garden",
+    "note": "Township-owned historic house at 523 Ridgewood Road, open about once a month from September to June, with talks and seasonal events."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Programming (Township of Maplewood)",
+    "https://www.maplewoodnj.gov/government/community-services/senior-citizen-programming"
+   ],
+   [
+    "Transportation Services (Township of Maplewood)",
+    "https://www.maplewoodnj.gov/government/community-services/senior-citizen-programming/transportation-services"
+   ],
+   [
+    "Maplewood Senior Center (Township of Maplewood)",
+    "https://www.maplewoodnj.gov/Home/Components/FacilityDirectory/FacilityDirectory/2/"
+   ],
+   [
+    "Older Adults/Caregivers Resources (Township of Maplewood)",
+    "https://www.maplewoodnj.gov/government/public-health-social-services/community-resources/seniors-caregivers-resources"
+   ],
+   [
+    "SOMA Two Towns for All Ages",
+    "https://www.somatwotownsforallages.org/"
+   ],
+   [
+    "Location and Hours (Maplewood Library)",
+    "https://www.maplewoodlibrary.org/about-contact-location-hours"
+   ],
+   [
+    "Durand-Hedden House (Township of Maplewood)",
+    "https://www.maplewoodnj.gov/Home/Components/News/News/282/"
+   ],
+   [
+    "South Mountain Reservation (Essex County Parks)",
+    "https://essexcountyparks.org/parks/south-mountain-reservation"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "south-orange",
+  "name": "South Orange",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "South Orange shares its aging-in-place effort with Maplewood through SOMA Two Towns for All Ages, which runs talks, a Memory Cafe and help with property tax relief filings. A Jewish Family Services social worker helps residents 65 and over. The library is open in two temporary spots during its rebuild, and SOPAC is right in the village.",
+  "seniorCenter": {
+   "name": "SOMA Two Towns for All Ages (The Baird Center)",
+   "address": "5 Mead Street, South Orange, NJ 07079",
+   "phone": "973-558-0863",
+   "url": "https://www.somatwotownsforallages.org/",
+   "notes": "An aging-in-place initiative of South Orange and Maplewood rather than a drop-in senior center. It sends a weekly email and posts events such as Medicare talks and a Memory Cafe for people with memory loss and their caregivers."
+  },
+  "transport": {
+   "name": "South Orange Senior Bus (Dial-a-Ride)",
+   "phone": "973-378-7715",
+   "url": "https://www.southorange.org/1061/Seniors",
+   "notes": "Run by the South Orange Parking Authority. Call to check the current days and to book a ride."
+  },
+  "library": {
+   "name": "South Orange Public Library",
+   "address": "298 Walton Avenue, South Orange, NJ 07079",
+   "phone": "973-762-0230",
+   "url": "https://www.sopl.org/",
+   "notes": "The main building is under construction. Services continue at 298 Walton Avenue and at a branch in the Baird Center, 5 Mead Street, which has Sunday afternoon hours."
+  },
+  "more": [
+   {
+    "name": "Older Adult Social Worker (Jewish Family Services)",
+    "phone": "973-986-4321",
+    "url": "https://www.southorange.org/1042/Social-Services",
+    "note": "For residents 65 and over calling for themselves, Mondays and Wednesdays, 9 am to 5 pm. Help finding home care, meals, housing, Medicare counseling and transportation."
+   },
+   {
+    "name": "JFS Care Consultation Program",
+    "phone": "973-637-1740",
+    "url": "https://www.southorange.org/1042/Social-Services",
+    "note": "For family members caring for an older adult."
+   }
+  ],
+  "places": [
+   {
+    "name": "South Orange Performing Arts Center (SOPAC)",
+    "note": "Theater in the center of the village with concerts, films and talks, close to restaurants and transit."
+   },
+   {
+    "name": "South Mountain Reservation",
+    "note": "About 2,110 acres of county woods with trails, carriage roads and a scenic overlook."
+   }
+  ],
+  "sources": [
+   [
+    "SOMA Two Towns for All Ages",
+    "https://www.somatwotownsforallages.org/"
+   ],
+   [
+    "Social Services (South Orange Village)",
+    "https://www.southorange.org/1042/Social-Services"
+   ],
+   [
+    "Seniors (South Orange Village)",
+    "https://www.southorange.org/1061/Seniors"
+   ],
+   [
+    "Jitney Bus and Parking Authority (South Orange Village)",
+    "https://www.southorange.org/187/Jitney-Bus"
+   ],
+   [
+    "South Orange Public Library",
+    "https://www.sopl.org/"
+   ],
+   [
+    "SOPAC",
+    "https://www.sopacnow.org/"
+   ],
+   [
+    "South Mountain Reservation (Essex County Parks)",
+    "https://essexcountyparks.org/parks/south-mountain-reservation"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "millburn",
+  "name": "Millburn and Short Hills",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Millburn and Short Hills have a Senior Citizens Department that puts out the Senior Hotline newsletter and a monthly program calendar, with classes such as Project Healthy Bones at the Bauer Community Center. A free senior bus runs four days a week. Greenwood Gardens and the Cora Hartshorn Arboretum offer quiet walks close by.",
+  "seniorCenter": {
+   "name": "Millburn Senior Citizens Department",
+   "address": "",
+   "phone": "973-564-7091",
+   "url": "https://twp.millburn.nj.us/177/Senior-Citizens",
+   "notes": "Office hours are Monday to Friday, 8:30 am to 4:30 pm. Leave your name and number for the Senior Citizen Coordinator. Some programs, such as Project Healthy Bones, meet at the Bauer Community Center, 100 Main Street."
+  },
+  "transport": {
+   "name": "Millburn Senior Bus",
+   "phone": "973-564-7076",
+   "url": "https://twp.millburn.nj.us/179/Transportation",
+   "notes": "Free for residents 62 and over, within the township, to medical visits, shopping, the library and activities on Mondays, Wednesdays, Thursdays and Fridays. Call 7 to 8:15 am at least a day ahead; there is no voicemail. Monthly trips go to the Short Hills Mall and Whole Foods/Target."
+  },
+  "library": {
+   "name": "Millburn Free Public Library",
+   "address": "200 Glen Avenue, Millburn, NJ 07041",
+   "phone": "973-376-1006",
+   "url": "https://millburnlibrary.org/contact/",
+   "notes": "You can text a librarian at 973-988-4228 or use the chat on the website."
+  },
+  "more": [
+   {
+    "name": "EZ Ride Ryde4Life",
+    "phone": "866-208-1307",
+    "url": "https://twp.millburn.nj.us/179/Transportation",
+    "note": "Rides for older adults and people with reduced mobility. Choose option 4."
+   },
+   {
+    "name": "NJ Transit Access Link",
+    "phone": "973-491-4224",
+    "url": "https://twp.millburn.nj.us/179/Transportation",
+    "note": "Door-to-door rides across New Jersey for people who can't use the regular bus. Apply for eligibility first (option 1); a fee applies."
+   }
+  ],
+  "places": [
+   {
+    "name": "Greenwood Gardens",
+    "note": "28-acre public garden at 274 Old Short Hills Road, open seasonally with a lower senior ticket price. Check the garden's site for days and hours."
+   },
+   {
+    "name": "Cora Hartshorn Arboretum and Bird Sanctuary",
+    "note": "About 16 acres of woodland with three miles of trails in Short Hills."
+   },
+   {
+    "name": "South Mountain Reservation",
+    "note": "About 2,110 acres of county woods with trails, carriage roads and a scenic overlook."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Citizens (Township of Millburn)",
+    "https://twp.millburn.nj.us/177/Senior-Citizens"
+   ],
+   [
+    "Transportation (Township of Millburn)",
+    "https://twp.millburn.nj.us/179/Transportation"
+   ],
+   [
+    "Calendar (Township of Millburn)",
+    "https://twp.millburn.nj.us/calendar.aspx"
+   ],
+   [
+    "Contact (Millburn Free Public Library)",
+    "https://millburnlibrary.org/contact/"
+   ],
+   [
+    "Greenwood Gardens",
+    "https://greenwoodgardens.org/"
+   ],
+   [
+    "Arboretum History (Cora Hartshorn Arboretum)",
+    "https://hartshornarboretum.org/about/arboretum-history/"
+   ],
+   [
+    "South Mountain Reservation (Essex County Parks)",
+    "https://essexcountyparks.org/parks/south-mountain-reservation"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "caldwell",
+  "name": "Caldwell",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Caldwell's Grover Cleveland Senior Center welcomes anyone 60 and over for fitness, talks and social events, and a shared senior bus serves Caldwell, West Caldwell and Roseland. The borough's new library opened in June 2026 at 80 Bloomfield Avenue. The birthplace of President Grover Cleveland is on the same avenue, at number 207.",
+  "seniorCenter": {
+   "name": "Grover Cleveland Senior Center",
+   "address": "14 Park Avenue, Caldwell, NJ 07006",
+   "phone": "973-403-4623",
+   "url": "https://caldwell-nj.com/human",
+   "notes": "Open to anyone 60 and over, with fitness, enrichment, health talks and social events. It is part of the borough's Health and Human Services Department, and a monthly newsletter and calendar come by mail or email."
+  },
+  "transport": {
+   "name": "Caldwell, West Caldwell and Roseland Senior Transportation",
+   "phone": "973-226-5108",
+   "url": "https://caldwell-nj.com/human",
+   "notes": "Curb-to-curb rides for residents of the three towns, weekdays 9 am to 3:30 pm, for food shopping, banks and pharmacies, plus a Tuesday trip to local malls. Call between 8:15 and 8:45 am on the day you want to ride."
+  },
+  "library": {
+   "name": "Caldwell Public Library",
+   "address": "80 Bloomfield Avenue, Caldwell, NJ 07006",
+   "phone": "973-226-2837",
+   "url": "https://www.caldwellpl.org/80bloomfield",
+   "notes": "The new building opened June 29, 2026, with an automatic front door, its own parking lot and more public computers."
+  },
+  "more": [
+   {
+    "name": "Caldwell Food Pantry",
+    "phone": "973-403-4623",
+    "url": "https://caldwell-nj.com/human",
+    "note": "For Caldwell and West Caldwell residents, Wednesdays 11 am to 1 pm and Thursdays 4 to 6 pm, at 14 Park Avenue."
+   }
+  ],
+  "places": [
+   {
+    "name": "Grover Cleveland Birthplace",
+    "note": "At 207 Bloomfield Avenue. The Presidential Library and Museum is open Wednesdays and Sundays, noon to 3 pm, and the house is open on request."
+   },
+   {
+    "name": "Grover Cleveland Park",
+    "note": "41-acre Olmsted-designed county park on the Caldwell and Essex Fells line, with walkways and a picnic grove."
+   }
+  ],
+  "sources": [
+   [
+    "Health and Human Services Department (Borough of Caldwell)",
+    "https://caldwell-nj.com/human"
+   ],
+   [
+    "Essex County Senior Centers (Essex County WeCare)",
+    "https://wecare.essexcountynj.org/support/solutions/articles/69000806201-essex-county-senior-centers"
+   ],
+   [
+    "Our New Home (Caldwell Public Library)",
+    "https://www.caldwellpl.org/80bloomfield"
+   ],
+   [
+    "Caldwell Public Library",
+    "https://www.caldwellpl.org/"
+   ],
+   [
+    "Grover Cleveland Birthplace Memorial Association",
+    "https://presidentcleveland.org/"
+   ],
+   [
+    "Grover Cleveland Park (Essex County Parks)",
+    "https://essexcountyparks.org/parks/grover-cleveland-park"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "cedar-grove",
+  "name": "Cedar Grove",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Cedar Grove's Recreation Department plans senior exercise classes, luncheons and other programs, and a township bus makes weekly runs to markets, malls and banks. Seniors can also book medical rides through a program shared with Verona. Mills Reservation and Hilltop Reservation give the township wooded trails, including an overlook with a view of the New York skyline.",
+  "seniorCenter": {
+   "name": "Cedar Grove Recreation Department (Senior Programs)",
+   "address": "525 Pompton Avenue, Cedar Grove, NJ 07009",
+   "phone": "973-239-1410",
+   "url": "https://cedargrovenj.org/251/Senior-Citizens",
+   "notes": "Senior exercise sessions and a holiday luncheon are posted on the township's Senior Citizens page. Register online or call ext. 220."
+  },
+  "transport": {
+   "name": "Cedar Grove Senior Bus",
+   "phone": "973-239-1410",
+   "url": "https://cedargrovenj.org/218/Community-Services",
+   "notes": "For seniors and residents with disabilities. Tuesdays go to the Route 46 Farmers Market and Little Falls ShopRite, Wednesdays to Willowbrook Mall and Kohl's, and Thursdays to local stores and banks. Pick-up is 9:15 am; call ext. 0 between 8:30 and 9 am that morning."
+  },
+  "library": {
+   "name": "Cedar Grove Public Library",
+   "address": "1 Municipal Plaza, Cedar Grove, NJ 07009",
+   "phone": "973-239-1447",
+   "url": "https://cedargrovenj.org/223/Library",
+   "notes": "Open Monday to Saturday, with evening hours Monday, Tuesday and Thursday. Closed Saturdays in July and August."
+  },
+  "more": [
+   {
+    "name": "Medical Transport for Verona and Cedar Grove Seniors",
+    "phone": "973-857-4832",
+    "url": "https://www.veronanj.org/MedicalTransport",
+    "note": "Run through Verona. Rides to medical appointments in nearby towns, including Mountainside and Saint Barnabas hospitals, for $5 or $10. Book 1 to 2 weeks ahead, weekdays 10 am to noon."
+   }
+  ],
+  "places": [
+   {
+    "name": "Mills Reservation",
+    "note": "157 acres of county woods with walking trails and a cliff overlook toward the New York skyline."
+   },
+   {
+    "name": "Hilltop Reservation",
+    "note": "County nature preserve on the Second Watchung Mountain with short ridge trails, entered at 255 Fairview Avenue in Verona."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Citizens (Township of Cedar Grove)",
+    "https://cedargrovenj.org/251/Senior-Citizens"
+   ],
+   [
+    "Community Services (Township of Cedar Grove)",
+    "https://cedargrovenj.org/218/Community-Services"
+   ],
+   [
+    "Library (Township of Cedar Grove)",
+    "https://cedargrovenj.org/223/Library"
+   ],
+   [
+    "Medical Transport (Township of Verona)",
+    "https://www.veronanj.org/MedicalTransport"
+   ],
+   [
+    "Mills Reservation (Essex County Parks)",
+    "https://essexcountyparks.org/parks/mills-reservation"
+   ],
+   [
+    "Hilltop Reservation (Essex County Parks)",
+    "https://essexcountyparks.org/parks/hilltop-reservation"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "clifton",
+  "name": "Clifton",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "Clifton's Senior Center sits on the City Hall grounds at 900 Clifton Avenue, where the city helps older residents with benefit forms, heating and cooling grants and Medicare counseling. A weekday senior lunch and outreach rides are offered, and the Clifton Arts Center's sculpture park is on the same campus.",
+  "seniorCenter": {
+   "name": "Clifton Senior Center",
+   "address": "900 Clifton Avenue, Barn C-5, Clifton, NJ 07013",
+   "phone": "973-470-2234",
+   "url": "https://www.cliftonnj.org/228/Senior-Citizen",
+   "notes": "Home of the Office of Senior Citizen and Disabled Services, which helps with medical and tax forms, heating and cooling grants and Medicare counseling, with home visits when needed. Use the Colfax Avenue entrance."
+  },
+  "transport": {
+   "name": "Clifton Outreach Transportation",
+   "phone": "973-470-2235",
+   "url": "https://www.cliftonnj.org/228/Senior-Citizen",
+   "notes": "For seniors and disabled adults with no other way to get around, Monday to Friday, to medical appointments, food shopping and the senior nutrition program. Call for an appointment."
+  },
+  "library": {
+   "name": "Clifton Public Library (Main Memorial Library)",
+   "address": "292 Piaget Avenue, Clifton, NJ 07011",
+   "phone": "973-772-5500",
+   "url": "https://cliftonpl.org/homebound-service/",
+   "notes": "Free monthly delivery of books, large print and audiobooks for residents who are homebound or live in a nursing home or assisted living. The Allwood Branch is at 44 Lyall Road, 973-471-0555."
+  },
+  "more": [
+   {
+    "name": "Senior Nutrition Program",
+    "phone": "973-265-1540",
+    "url": "https://www.cliftonnj.org/228/Senior-Citizen",
+    "note": "Lunch for seniors and disabled adults at the Senior Center, provided through the Passaic County Division on Aging."
+   },
+   {
+    "name": "Passaic County MOVE",
+    "phone": "",
+    "url": "https://www.cliftonnj.org/m/newsflash/Home/Detail/822",
+    "note": "App-based shared rides in Clifton and Passaic for $1.80, weekdays 6 am to 8 pm. Door-to-door service and wheelchair-accessible vehicles can be requested."
+   }
+  ],
+  "places": [
+   {
+    "name": "Clifton Arts Center and Sculpture Park",
+    "note": "Gallery in two historic barns at the municipal complex, with more than 30 outdoor sculptures on the grounds."
+   },
+   {
+    "name": "Garret Mountain Reservation",
+    "note": "Passaic County park in neighboring Woodland Park with a 5K loop, scenic overlooks and picnic areas."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Citizen (City of Clifton)",
+    "https://www.cliftonnj.org/228/Senior-Citizen"
+   ],
+   [
+    "Senior Citizen Services (City of Clifton)",
+    "https://www.cliftonnj.org/406/Senior-Citizen-Services"
+   ],
+   [
+    "Passaic County MOVE (City of Clifton)",
+    "https://www.cliftonnj.org/m/newsflash/Home/Detail/822"
+   ],
+   [
+    "Homebound Service (Clifton Public Library)",
+    "https://cliftonpl.org/homebound-service/"
+   ],
+   [
+    "Arts Center (City of Clifton)",
+    "https://www.cliftonnj.org/205/Arts-Center"
+   ],
+   [
+    "Garret Mountain Reservation (Passaic County)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/44/316"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "little-falls",
+  "name": "Little Falls",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "Little Falls has a Senior Services Coordinator and two senior clubs, the Jolly Seniors and the Golden Agers, based at the Civic Center on Warren Street. A township bus serves residents 55 and over. The library delivers to people who can't get out, and a Sunday farmers market runs behind Town Hall from May through October.",
+  "seniorCenter": {
+   "name": "Little Falls Civic Center (Senior Clubs)",
+   "address": "19 Warren Street, Little Falls, NJ 07424",
+   "phone": "973-890-4520",
+   "url": "https://littlefallsnj.gov/index.asp?SEC=848C3245-97F1-4449-A431-59BF0544BECE",
+   "notes": "The Jolly Seniors and Golden Agers clubs meet here, and the senior bus runs to club meetings on Tuesdays and Thursdays. Contact Senior Services Coordinator John Pace."
+  },
+  "transport": {
+   "name": "Little Falls Senior Bus",
+   "phone": "201-994-6831",
+   "url": "https://littlefallsnj.gov/index.asp?SEC=E87D8901-07F7-404A-B832-EAFBBD3F6C8D",
+   "notes": "For residents 55 and over, and disabled residents who can board on their own, to appointments and shopping in Little Falls, Woodland Park and Totowa, with daily ShopRite trips. Apply first for a pass at the Clerk's Office, 225 Main Street. No service on Wednesdays."
+  },
+  "library": {
+   "name": "Little Falls Public Library",
+   "address": "8 Warren Street, Little Falls, NJ 07424",
+   "phone": "973-256-2784",
+   "url": "https://littlefallslibrary.org/home-delivery-service/",
+   "notes": "Home delivery for Little Falls residents who can't get to the library. Call by 4 pm Friday for delivery the next Monday."
+  },
+  "more": [
+   {
+    "name": "Little Falls Farmers Market",
+    "phone": "",
+    "url": "https://littlefallsnj.gov/index.asp?SEC=E4DEC487-23E8-44CF-8666-D0A2C25391B6",
+    "note": "Sundays, 9 am to 2 pm, May through October, behind Town Hall at 225 Main Street."
+   }
+  ],
+  "places": [
+   {
+    "name": "Yogi Berra Museum and Learning Center",
+    "note": "On the Montclair State campus at 8 Yogi Berra Drive, open Wednesday to Sunday, noon to 5 pm, with a senior ticket price and free wheelchairs."
+   },
+   {
+    "name": "Morris Canal Greenway",
+    "note": "Passaic County walking and biking path along the route of the old canal, which ran through Little Falls."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Citizen Resources (Township of Little Falls)",
+    "https://littlefallsnj.gov/index.asp?SEC=966C131A-9FCD-4DEB-A785-F1BDF5FBC7E5"
+   ],
+   [
+    "Little Falls Senior Clubs (Township of Little Falls)",
+    "https://littlefallsnj.gov/index.asp?SEC=848C3245-97F1-4449-A431-59BF0544BECE"
+   ],
+   [
+    "Senior Bus Service (Township of Little Falls)",
+    "https://littlefallsnj.gov/index.asp?SEC=E87D8901-07F7-404A-B832-EAFBBD3F6C8D"
+   ],
+   [
+    "Little Falls Farmers Market (Township of Little Falls)",
+    "https://littlefallsnj.gov/index.asp?SEC=E4DEC487-23E8-44CF-8666-D0A2C25391B6"
+   ],
+   [
+    "Home Delivery Service (Little Falls Public Library)",
+    "https://littlefallslibrary.org/home-delivery-service/"
+   ],
+   [
+    "Visit (Yogi Berra Museum)",
+    "https://yogiberramuseum.org/visit/"
+   ],
+   [
+    "Morris Canal Greenway (Passaic County)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/224/316"
+   ]
+  ],
+  "updated": "2026-10-26"
+ },
+ {
+  "slug": "belleville",
+  "name": "Belleville",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Belleville's Senior Recreation Center on Franklin Avenue is open to residents 50 and older who sign up for a yearly Senior Pass, with bingo, crafts, bocce, exercise classes and trips. The township's Dial-A-Ride van takes residents 60 and older to local medical visits, supermarkets and the center on weekday mornings and early afternoons.",
+  "seniorCenter": {
+   "name": "Belleville Senior Recreation Center",
+   "address": "125 Franklin Avenue, Belleville, NJ 07109",
+   "phone": "973-450-3430",
+   "url": "https://www.bellevillenj.org/pages/senior-citizens-programming",
+   "notes": "Belleville residents 50 and older register for the Senior Pass, which gives full access to the center. Since January 1, an active pass is needed to enter. The pass costs $25 a year for residents and $50 for non-residents. Expect weekly bingo, arts and crafts, a pool table, a bocce court, exercise and wellness classes, socials and trips. Enrollment questions go to gpolite@bellevillenj.org."
+  },
+  "transport": {
+   "name": "Belleville Dial-A-Ride",
+   "phone": "973-450-3402",
+   "url": "https://www.bellevillenj.org/pages/senior-citizens-programming",
+   "notes": "For Belleville residents 60 and older and adults 18 and older with disabilities who have registered with the service. Rides go to medical appointments in Belleville, Bloomfield and Nutley (Mountainside for dialysis only), to supermarkets, and to the Senior Recreation Center. Monday to Friday, 9 a.m. to 2 p.m., with the last pickup call at 1:45 p.m. Book 24 hours ahead. Two bag limit on the shopping bus."
+  },
+  "library": {
+   "name": "Belleville Public Library",
+   "address": "221 Washington Avenue, Belleville, NJ 07109",
+   "phone": "973-450-3434",
+   "url": "https://bellepl.org/",
+   "notes": ""
+  },
+  "more": [
+   {
+    "name": "Essex County Office of Senior Services (ADRC)",
+    "phone": "973-395-8375",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "The county's information line for older adults and caregivers, including respite care, home delivered meals and friendly visiting."
+   },
+   {
+    "name": "Essex County Special Transportation",
+    "phone": "973-737-7200",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "County rides for older and disabled adults to medical and therapy visits. Book at least two business days ahead."
+   }
+  ],
+  "places": [
+   {
+    "name": "Belleville Park",
+    "note": "A 32 acre county park along the Second River that continues Branch Brook Park's cherry blossoms, with a quarter mile path, bocce courts and a senior center."
+   },
+   {
+    "name": "Branch Brook Park",
+    "note": "The nation's first county park, partly in Belleville, known for its cherry trees and annual Cherry Blossom Festival. The county runs a weekday senior lunch cafe here."
+   }
+  ],
+  "sources": [
+   [
+    "Belleville Senior Citizens Programming",
+    "https://www.bellevillenj.org/pages/senior-citizens-programming"
+   ],
+   [
+    "Belleville Senior Pass notice",
+    "https://www.bellevillenj.org/News/View/7498/belleville-senior-pass"
+   ],
+   [
+    "Essex County senior centers list (WeCare)",
+    "https://wecare.essexcountynj.org/support/solutions/articles/69000806201-essex-county-senior-centers"
+   ],
+   [
+    "Belleville Public Library",
+    "https://bellepl.org/"
+   ],
+   [
+    "Essex County Office of Senior Services",
+    "https://essexcountynj.org/senior-services/"
+   ],
+   [
+    "Belleville Park",
+    "https://essexcountyparks.org/parks/belleville-park"
+   ],
+   [
+    "Branch Brook Park",
+    "https://essexcountyparks.org/parks/branch-brook-park"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "east-orange",
+  "name": "East Orange",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "East Orange's Division of Senior Services, based at the senior center on Halsted Street, serves residents 60 and older and adults with disabilities. It offers weekly bowling, line dancing, exercise and craft classes, a monthly low-cost food co-op, help with benefit applications, and rides to doctors, banks, grocery stores and the library.",
+  "seniorCenter": {
+   "name": "East Orange Senior Center (Division of Senior Services)",
+   "address": "90 Halsted Street, East Orange, NJ 07018",
+   "phone": "973-266-8832",
+   "url": "https://www.eastorange-nj.gov/166/Senior-Services",
+   "notes": "For East Orange residents 60 and older and disabled adults. Weekly arts and crafts, bowling, exercise, line dancing and other activities, plus trips and an annual Senior Citizen Conference. Staff help with benefit applications and pre-screen for SNAP, energy assistance and prescription help. Low-cost ID cards, free File of Life cards, and light housekeeping help for those who need it."
+  },
+  "transport": {
+   "name": "East Orange Senior Services transportation",
+   "phone": "973-266-8832",
+   "url": "https://www.eastorange-nj.gov/166/Senior-Services",
+   "notes": "The Division of Senior Services drives seniors and disabled adults to banks, benefit offices, grocery stores, the library, medical appointments, and recreational and cultural events. Call the division to register and arrange rides."
+  },
+  "library": {
+   "name": "East Orange Public Library",
+   "address": "21 South Arlington Avenue, East Orange, NJ 07018",
+   "phone": "973-266-5600",
+   "url": "https://www.eopl.org/",
+   "notes": ""
+  },
+  "more": [
+   {
+    "name": "East Orange monthly Food Co-op",
+    "phone": "973-266-8832",
+    "url": "https://www.eastorange-nj.gov/166/Senior-Services",
+    "note": "A low-cost monthly food co-op for seniors and disabled adults, run by the Division of Senior Services."
+   },
+   {
+    "name": "Essex County Office of Senior Services (ADRC)",
+    "phone": "973-395-8375",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "The county's information line for older adults and caregivers, including respite care, home delivered meals and friendly visiting."
+   },
+   {
+    "name": "Essex County Special Transportation",
+    "phone": "973-737-7200",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "County rides for older and disabled adults to medical and therapy visits. Book at least two business days ahead."
+   }
+  ],
+  "places": [
+   {
+    "name": "Watsessing Park",
+    "note": "A 69 acre Olmsted designed county park shared with Bloomfield, with a bandstand and a senior citizens building. The county runs a weekday senior lunch cafe here."
+   },
+   {
+    "name": "Branch Brook Park",
+    "note": "A short drive away in Newark, the nation's first county park is famous for its cherry blossoms and has a jogging loop and bocce courts."
+   }
+  ],
+  "sources": [
+   [
+    "East Orange Senior Services",
+    "https://www.eastorange-nj.gov/166/Senior-Services"
+   ],
+   [
+    "East Orange Public Library",
+    "https://www.eopl.org/"
+   ],
+   [
+    "Essex County Office of Senior Services",
+    "https://essexcountynj.org/senior-services/"
+   ],
+   [
+    "Watsessing Park",
+    "https://essexcountyparks.org/parks/watsessing-park"
+   ],
+   [
+    "Branch Brook Park",
+    "https://essexcountyparks.org/parks/branch-brook-park"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "essex-fells",
+  "name": "Essex Fells",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Essex Fells has Grover Cleveland Park, the first county park in western Essex, inside its borders. The borough shares a health department with Livingston. For programs, the Grover Cleveland Senior Center in neighboring Caldwell welcomes anyone 60 and older, and the county runs rides to medical visits.",
+  "seniorCenter": {
+   "name": "Grover Cleveland Senior Center (Caldwell)",
+   "address": "",
+   "phone": "973-403-4637",
+   "url": "https://caldwell-nj.com/human",
+   "notes": "Essex Fells does not post its own senior program. This nearby center is run by the Borough of Caldwell, and anyone 60 or older can take part in its fitness, enrichment, health education and social programs. West Caldwell describes it as open weekdays to seniors across the West Essex area, with trips, weekly lunches, bingo, movies, cards and blood pressure checks. Call for the address and a monthly calendar."
+  },
+  "transport": {
+   "name": "Essex County Special Transportation",
+   "phone": "973-737-7200",
+   "url": "https://essexcountynj.org/senior-services/",
+   "notes": "Run for the county by Transdev for older adults and adults with disabilities. Rides go to non-emergency medical and therapy appointments, and the county also lists mall shopping and group trips. Book at least two business days ahead. Drivers give arm assistance but cannot help with stairs, and vehicles are wheelchair equipped."
+  },
+  "library": {
+   "name": "",
+   "address": "",
+   "phone": "",
+   "url": "",
+   "notes": ""
+  },
+  "more": [
+   {
+    "name": "Essex Fells Borough Hall",
+    "phone": "973-226-3400",
+    "url": "https://www.essexfellsboro.com/",
+    "note": "255 Roseland Avenue. The borough posts Essex County senior events, such as the yearly Legacies writing contest."
+   },
+   {
+    "name": "Essex County Office of Senior Services",
+    "phone": "973-395-8375",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "The county's information line for older adults and caregivers, including respite care, home delivered meals and friendly visiting."
+   }
+  ],
+  "places": [
+   {
+    "name": "Grover Cleveland Park",
+    "note": "A 41 acre Olmsted designed county park in Essex Fells and Caldwell with rolling hills, meadows, walking paths, a picnic grove and fishing."
+   },
+   {
+    "name": "West Essex Park",
+    "note": "A large county reservation nearby in Roseland with the Essex County Environmental Center, interpretive trails and bird watching."
+   }
+  ],
+  "sources": [
+   [
+    "Grover Cleveland Park",
+    "https://essexcountyparks.org/parks/grover-cleveland-park"
+   ],
+   [
+    "Essex Fells Health Department",
+    "https://www.essexfellsboro.com/Departments/health-department"
+   ],
+   [
+    "Caldwell Health and Human Services (Grover Cleveland Senior Center)",
+    "https://caldwell-nj.com/human"
+   ],
+   [
+    "West Caldwell general information",
+    "https://www.westcaldwell.com/pages/general-information"
+   ],
+   [
+    "Essex Fells Borough Administrator/Clerk",
+    "https://www.essexfellsboro.com/Departments/borough-administratorclerk"
+   ],
+   [
+    "Essex County Office of Senior Services",
+    "https://essexcountynj.org/senior-services/"
+   ],
+   [
+    "West Essex Park",
+    "https://essexcountyparks.org/parks/west-essex-park"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "fairfield",
+  "name": "Fairfield",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Fairfield keeps its senior and adult classes on one township calendar, many of them run with the Fairfield Free Public Library on Hollywood Avenue, from Senior Strength and tai chi to mahjong and a knitting group. For rides to medical visits, the township points residents to Essex County's special transportation service.",
+  "seniorCenter": {
+   "name": "Fairfield senior and adult programs",
+   "address": "",
+   "phone": "973-882-2700",
+   "url": "https://www.fairfieldtownshipnj.gov/364/Adult-Programs-and-Events",
+   "notes": "The township's Adult Programs and Events calendar lists recurring classes such as Senior Wellness, Senior Strength, Senior Fitness, acupressure and tai chi, mahjong free play, a knit and crochet group, watercolor and afternoon movies. Register online through the township. Schedules change, so check the calendar at ffpl.org before you go. The phone number is Fairfield Town Hall."
+  },
+  "transport": {
+   "name": "Essex County Special Transportation",
+   "phone": "973-737-7200",
+   "url": "https://essexcountynj.org/senior-services/",
+   "notes": "Run for the county by Transdev for older adults and adults with disabilities. Rides go to non-emergency medical and therapy appointments, and the county also lists mall shopping and group trips. Book at least two business days ahead. Drivers give arm assistance but cannot help with stairs, and vehicles are wheelchair equipped."
+  },
+  "library": {
+   "name": "Fairfield Free Public Library",
+   "address": "261 Hollywood Avenue, Fairfield, NJ 07004",
+   "phone": "973-227-3575",
+   "url": "https://www.ffpl.org/340/Fairfield-Free-Public-Library",
+   "notes": "Public computers, plus a self-service station for scanning, emailing and faxing documents. Many of the township's senior classes appear on the library calendar."
+  },
+  "more": [
+   {
+    "name": "Fairfield Resources for Seniors",
+    "phone": "",
+    "url": "https://www.fairfieldtownshipnj.gov/DocumentCenter/View/401/Resources-for-Seniors-PDF",
+    "note": "A township list of state and county help lines for seniors, from PAAD to utility assistance."
+   },
+   {
+    "name": "Essex County Office of Senior Services (ADRC)",
+    "phone": "973-395-8375",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "The county's information line for older adults and caregivers, including respite care, home delivered meals and friendly visiting."
+   }
+  ],
+  "places": [
+   {
+    "name": "West Essex Park",
+    "note": "A 1,361 acre county reservation touching Fairfield, Roseland, West Caldwell and Livingston, with the Essex County Environmental Center, trails and bird watching."
+   },
+   {
+    "name": "Grover Cleveland Park",
+    "note": "A gentle Olmsted designed county park nearby in Caldwell and Essex Fells, with meadows, walking paths and a picnic grove."
+   }
+  ],
+  "sources": [
+   [
+    "Fairfield Adult Programs and Events",
+    "https://www.fairfieldtownshipnj.gov/364/Adult-Programs-and-Events"
+   ],
+   [
+    "Fairfield Seniors page",
+    "https://www.fairfieldtownshipnj.gov/232/Seniors"
+   ],
+   [
+    "Fairfield Resources for Seniors (PDF)",
+    "https://www.fairfieldtownshipnj.gov/DocumentCenter/View/401/Resources-for-Seniors-PDF"
+   ],
+   [
+    "Fairfield Free Public Library",
+    "https://www.ffpl.org/340/Fairfield-Free-Public-Library"
+   ],
+   [
+    "Fairfield Library Services",
+    "https://www.fairfieldtownshipnj.gov/343/Library-Services"
+   ],
+   [
+    "Essex County Office of Senior Services",
+    "https://essexcountynj.org/senior-services/"
+   ],
+   [
+    "West Essex Park",
+    "https://essexcountyparks.org/parks/west-essex-park"
+   ],
+   [
+    "Grover Cleveland Park",
+    "https://essexcountyparks.org/parks/grover-cleveland-park"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "irvington",
+  "name": "Irvington",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Irvington's Division of Senior Services, part of the township health department, runs a senior center for residents 60 and older with weekly exercise, bingo, line dancing, movie afternoons and computer classes. It also provides local rides to grocery stores, medical visits, banks and the library, and helps with benefit applications.",
+  "seniorCenter": {
+   "name": "Irvington Senior Citizens Center",
+   "address": "1077 Springfield Avenue, Irvington, NJ 07111",
+   "phone": "973-982-6951",
+   "url": "https://irvingtonnj.gov/health-and-senior-services/",
+   "notes": "For Irvington residents 60 and older. Weekly exercise classes, bingo, card games, movie afternoons, arts and crafts, line dancing, and computer and social media classes, plus trips and an annual Senior Citizen Conference. Staff help with benefit applications, low-cost ID cards and free File of Life cards. You can apply for membership online. The Senior Services manager's line is 973-982-6397."
+  },
+  "transport": {
+   "name": "Irvington Senior Services transportation",
+   "phone": "973-982-6951",
+   "url": "https://irvingtonnj.gov/health-and-senior-services/",
+   "notes": "The Division of Senior Services provides local rides for seniors to grocery stores, medical appointments, banks, the library, benefit offices and events. The senior center application asks whether you need a ride to the center."
+  },
+  "library": {
+   "name": "Irvington Public Library",
+   "address": "Civic Square, Irvington, NJ 07111",
+   "phone": "973-372-6400",
+   "url": "https://www.irvingtonpubliclibrary.org/contact-us",
+   "notes": ""
+  },
+  "more": [
+   {
+    "name": "Irvington Senior Center application",
+    "phone": "",
+    "url": "https://irvingtonnj.gov/senior-center-application/",
+    "note": "Online form for new members and renewals. You must be an Irvington resident 60 or older and upload an ID."
+   },
+   {
+    "name": "Essex County Office of Senior Services (ADRC)",
+    "phone": "973-395-8375",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "The county's information line for older adults and caregivers, including respite care, home delivered meals and friendly visiting."
+   },
+   {
+    "name": "Essex County Special Transportation",
+    "phone": "973-737-7200",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "County rides for older and disabled adults to medical and therapy visits. Book at least two business days ahead."
+   }
+  ],
+  "places": [
+   {
+    "name": "Irvington Park",
+    "note": "A shady, tiered Olmsted designed county park with a fifth of a mile path around the pond. The county runs a weekday senior lunch cafe here."
+   },
+   {
+    "name": "Vailsburg Park",
+    "note": "A nearby Olmsted designed county park in Newark with a half mile jogging path and bocce courts."
+   }
+  ],
+  "sources": [
+   [
+    "Irvington Health and Senior Services",
+    "https://irvingtonnj.gov/health-and-senior-services/"
+   ],
+   [
+    "Irvington Senior Center Application",
+    "https://irvingtonnj.gov/senior-center-application/"
+   ],
+   [
+    "Essex County senior centers list (WeCare)",
+    "https://wecare.essexcountynj.org/support/solutions/articles/69000806201-essex-county-senior-centers"
+   ],
+   [
+    "Irvington Public Library",
+    "https://www.irvingtonpubliclibrary.org/contact-us"
+   ],
+   [
+    "Essex County Office of Senior Services",
+    "https://essexcountynj.org/senior-services/"
+   ],
+   [
+    "Irvington Park",
+    "https://essexcountyparks.org/parks/irvington-park"
+   ],
+   [
+    "Vailsburg Park",
+    "https://essexcountyparks.org/parks/vailsburg-park"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "newark",
+  "name": "Newark",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Newark runs five city senior centers, one in each ward, with hot meals, fitness classes, cultural celebrations, workshops and game afternoons. They are open Tuesday through Saturday, and one city phone line helps you find the nearest center. Branch Brook Park, the nation's first county park, is famous for its cherry blossoms.",
+  "seniorCenter": {
+   "name": "Newark Senior Centers",
+   "address": "",
+   "phone": "973-733-6454",
+   "url": "https://www.newarknj.gov/483/Senior-Centers",
+   "notes": "Five centers: Nellie Grier, 98-104 Maple Avenue (South Ward); Bethany, 275 West Market Street (Central); Ironbound, 226 Rome Street (East); Vince Lombardi, 201 Bloomfield Avenue (North); and Boylan, 916 South Orange Avenue (West). Open Tuesday to Friday 11 a.m. to 8 p.m. and Saturday 9 a.m. to 6 p.m., closed Sunday and Monday. Hot meals, fitness classes, workshops, cultural celebrations and games. Call to find your nearest center or register for programs."
+  },
+  "transport": {
+   "name": "Essex County Special Transportation",
+   "phone": "973-737-7200",
+   "url": "https://essexcountynj.org/senior-services/",
+   "notes": "Run for the county by Transdev for older adults and adults with disabilities. Rides go to non-emergency medical and therapy appointments, and the county also lists mall shopping and group trips. Book at least two business days ahead. Drivers give arm assistance but cannot help with stairs, and vehicles are wheelchair equipped."
+  },
+  "library": {
+   "name": "Newark Public Library (Main Library)",
+   "address": "5 Washington Street, Newark, NJ 07102",
+   "phone": "973-733-7779",
+   "url": "https://www.npl.org/library-telephone-numbers-and-addresses/",
+   "notes": "The phone number is the reference desk. For hours, call 973-733-7800. The library offers special services for people with disabilities at 973-733-5412."
+  },
+  "more": [
+   {
+    "name": "Newark Recreation, Cultural Affairs and Senior Services",
+    "phone": "973-733-5373",
+    "url": "https://www.newarknj.gov/162/Recreation-Cultural-Affairs-Senior-Servi",
+    "note": "The city department that runs the senior centers, at City Hall, 920 Mayor Kenneth A. Gibson Boulevard, Room 216."
+   },
+   {
+    "name": "Nellie Grier Senior Center",
+    "phone": "973-424-4096",
+    "url": "https://www.newarknj.gov/569/Nellie-Grier-Senior-Center",
+    "note": "South Ward center at 98-104 Maple Avenue."
+   },
+   {
+    "name": "Essex County Office of Senior Services (ADRC)",
+    "phone": "973-395-8375",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "The county's information line for older adults and caregivers, including respite care, home delivered meals and friendly visiting."
+   },
+   {
+    "name": "Essex County Special Transportation",
+    "phone": "973-737-7200",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "County rides for older and disabled adults to medical and therapy visits. Book at least two business days ahead."
+   }
+  ],
+  "places": [
+   {
+    "name": "Branch Brook Park",
+    "note": "The nation's first county park, in the North Ward, with cherry blossom trees, an annual Cherry Blossom Festival, a jogging loop and a weekday county senior lunch cafe."
+   },
+   {
+    "name": "Weequahic Park",
+    "note": "An Olmsted designed South Ward park with the largest lake in Essex County, a jogging trail and picnic areas. The county runs a senior lunch cafe at the Meeker Avenue entrance."
+   },
+   {
+    "name": "Riverfront Park",
+    "note": "Newark's only public green space on the waterfront, with river views and walking paths in the Ironbound."
+   }
+  ],
+  "sources": [
+   [
+    "Newark Senior Centers",
+    "https://www.newarknj.gov/483/Senior-Centers"
+   ],
+   [
+    "Newark Locations",
+    "https://www.newarknj.gov/479/Locations"
+   ],
+   [
+    "Newark Recreation, Cultural Affairs and Senior Services",
+    "https://www.newarknj.gov/162/Recreation-Cultural-Affairs-Senior-Servi"
+   ],
+   [
+    "Newark Public Library telephone numbers",
+    "https://www.npl.org/library-telephone-numbers-and-addresses/"
+   ],
+   [
+    "Essex County Office of Senior Services",
+    "https://essexcountynj.org/senior-services/"
+   ],
+   [
+    "Branch Brook Park",
+    "https://essexcountyparks.org/parks/branch-brook-park"
+   ],
+   [
+    "Weequahic Park",
+    "https://essexcountyparks.org/parks/weequahic-park"
+   ],
+   [
+    "Riverfront Park",
+    "https://essexcountyparks.org/parks/riverfront-park"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "north-caldwell",
+  "name": "North Caldwell",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "North Caldwell's senior life centers on the Seniors of North Caldwell, a club founded in 1973 for residents 62 and older that meets monthly over a catered lunch. The borough also offers free senior fitness classes, free Wednesday swims at the town pool, and partial refunds of library card fees at nearby libraries.",
+  "seniorCenter": {
+   "name": "Seniors of North Caldwell",
+   "address": "Firemen's Community Center, Gould Avenue, North Caldwell, NJ",
+   "phone": "973-228-6410",
+   "url": "https://northcaldwell.org/1277/Seniors",
+   "notes": "Open to North Caldwell residents 62 and older. Meetings are usually the first Wednesday of the month, September to June, at 12:30 p.m., with a catered lunch, guest speakers and entertainment, and blood pressure checks from noon. The borough also runs a book club and free senior fitness classes. Call the Recreation Department at extension 113."
+  },
+  "transport": {
+   "name": "Essex County Special Transportation",
+   "phone": "973-737-7200",
+   "url": "https://essexcountynj.org/senior-services/",
+   "notes": "Run for the county by Transdev for older adults and adults with disabilities. Rides go to non-emergency medical and therapy appointments, and the county also lists mall shopping and group trips. Book at least two business days ahead. Drivers give arm assistance but cannot help with stairs, and vehicles are wheelchair equipped."
+  },
+  "library": {
+   "name": "Library fee reimbursement",
+   "address": "",
+   "phone": "",
+   "url": "https://northcaldwell.org/1240/Library-Fee-Reimbursement-Request",
+   "notes": "North Caldwell refunds residents up to 50 percent of annual library card fees, to a maximum of $150, at the Caldwell, West Caldwell, Fairfield, Cedar Grove or Little Falls libraries. Send the form with your receipt."
+  },
+  "more": [
+   {
+    "name": "Grover Cleveland Senior Center",
+    "phone": "973-403-4637",
+    "url": "https://caldwell-nj.com/human",
+    "note": "Run by the Borough of Caldwell. Anyone 60 or older can take part in its fitness, enrichment, health education and social programs."
+   },
+   {
+    "name": "Essex County Office of Senior Services (ADRC)",
+    "phone": "973-395-8375",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "The county's information line for older adults and caregivers, including respite care, home delivered meals and friendly visiting."
+   }
+  ],
+  "places": [
+   {
+    "name": "Hilltop Reservation",
+    "note": "A county nature preserve on the Second Watchung Mountain, partly in North Caldwell, with short trails along the ridgeline."
+   },
+   {
+    "name": "North Caldwell pool",
+    "note": "Senior residents swim free every Wednesday. Aqua fitness classes run on Wednesdays in July."
+   },
+   {
+    "name": "Grover Cleveland Park",
+    "note": "A nearby Olmsted designed county park in Caldwell and Essex Fells, with meadows, walking paths and a picnic grove."
+   }
+  ],
+  "sources": [
+   [
+    "North Caldwell Seniors",
+    "https://northcaldwell.org/1277/Seniors"
+   ],
+   [
+    "North Caldwell Library Fee Reimbursement",
+    "https://northcaldwell.org/1240/Library-Fee-Reimbursement-Request"
+   ],
+   [
+    "Caldwell Health and Human Services (Grover Cleveland Senior Center)",
+    "https://caldwell-nj.com/human"
+   ],
+   [
+    "Essex County Office of Senior Services",
+    "https://essexcountynj.org/senior-services/"
+   ],
+   [
+    "Hilltop Reservation",
+    "https://essexcountyparks.org/parks/hilltop-reservation"
+   ],
+   [
+    "Grover Cleveland Park",
+    "https://essexcountyparks.org/parks/grover-cleveland-park"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "orange",
+  "name": "Orange",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "The City of Orange Township's Office of Older Adults offers care planning, help with benefit applications, support and wellness groups, technology help, classes and outings for residents as they age. The city posts an older adults calendar online, and Monte Irvin Orange Park, an original Olmsted design, hosts free summer concerts.",
+  "seniorCenter": {
+   "name": "Orange Office of Older Adults",
+   "address": "",
+   "phone": "973-952-6120",
+   "url": "https://orangenj.gov/172/Older-Adults",
+   "notes": "Services include individual and family consultations, care planning, help through life changes, support and wellness groups, referrals to social service agencies, benefit applications, links to in-home support, outings, technology assistance and classes. Older adults aides also answer at 973-952-6118 and 973-952-6119, and the Older Adults and Recreation supervisor is at 973-952-6909."
+  },
+  "transport": {
+   "name": "Essex County Special Transportation",
+   "phone": "973-737-7200",
+   "url": "https://essexcountynj.org/senior-services/",
+   "notes": "Run for the county by Transdev for older adults and adults with disabilities. Rides go to non-emergency medical and therapy appointments, and the county also lists mall shopping and group trips. Book at least two business days ahead. Drivers give arm assistance but cannot help with stairs, and vehicles are wheelchair equipped."
+  },
+  "library": {
+   "name": "Orange Public Library",
+   "address": "348 Main Street, Orange, NJ 07050",
+   "phone": "973-786-3988",
+   "url": "https://www.orangepl.org/",
+   "notes": "A Beaux-Arts building designed by McKim, Mead and White."
+  },
+  "more": [
+   {
+    "name": "Orange Older Adults calendar",
+    "phone": "",
+    "url": "https://orangenj.gov/calendar.aspx?CID=24",
+    "note": "The city's online calendar of events and workshops for older adults."
+   },
+   {
+    "name": "Essex County Office of Senior Services (ADRC)",
+    "phone": "973-395-8375",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "The county's information line for older adults and caregivers, including respite care, home delivered meals and friendly visiting."
+   },
+   {
+    "name": "Essex County Special Transportation",
+    "phone": "973-737-7200",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "County rides for older and disabled adults to medical and therapy visits. Book at least two business days ahead."
+   }
+  ],
+  "places": [
+   {
+    "name": "Monte Irvin Orange Park",
+    "note": "A 47.5 acre Olmsted designed county park with walking paths, a fishing pond and free summer concerts."
+   },
+   {
+    "name": "Eagle Rock Reservation",
+    "note": "A county reservation nearby in West Orange with scenic overlooks, a September 11 memorial and footpaths for walkers of all abilities."
+   }
+  ],
+  "sources": [
+   [
+    "Orange Older Adults",
+    "https://orangenj.gov/172/Older-Adults"
+   ],
+   [
+    "Orange Contact Us (Older Adults staff)",
+    "https://orangenj.gov/381/Contact-Us"
+   ],
+   [
+    "Orange Public Library",
+    "https://www.orangepl.org/"
+   ],
+   [
+    "Essex County Office of Senior Services",
+    "https://essexcountynj.org/senior-services/"
+   ],
+   [
+    "Monte Irvin Orange Park",
+    "https://essexcountyparks.org/parks/monte-irvin-orange-park"
+   ],
+   [
+    "Eagle Rock Reservation",
+    "https://essexcountyparks.org/parks/eagle-rock-reservation"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "roseland",
+  "name": "Roseland",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "Roseland's Senior Society gathers twice a month at the Roseland Free Public Library, with occasional trips, and the Recreation Department can confirm what is scheduled. A free senior bus shared with Caldwell and West Caldwell runs weekdays to local supermarkets, stores and malls, booked by phone the same morning.",
+  "seniorCenter": {
+   "name": "Roseland Senior Society",
+   "address": "Roseland Free Public Library, 20 Roseland Avenue, Roseland, NJ 07068",
+   "phone": "973-403-6899",
+   "url": "https://www.roselandnj.org/317/Senior-Citizen-Services",
+   "notes": "Gatherings are on the second and fourth Fridays at 12:30 p.m. at the library unless announced otherwise, with occasional trips. Call the Recreation Department to confirm a gathering is on. You can sign up online for Senior Society emails."
+  },
+  "transport": {
+   "name": "Caldwell, West Caldwell and Roseland Senior Bus",
+   "phone": "973-226-5108",
+   "url": "https://www.roselandnj.org/337/Senior-Citizens-Transportation",
+   "notes": "Free curb to curb rides for Roseland, Caldwell and West Caldwell residents, weekdays from 9 a.m. to 3:30 p.m. Stops include Jack's Foodtown in Caldwell, ShopRite and Stop and Shop in West Caldwell, banks, drug stores and local stores, with a mall trip on Tuesdays. Call between 8:15 and 8:45 a.m. on the morning you want to ride."
+  },
+  "library": {
+   "name": "Roseland Free Public Library",
+   "address": "20 Roseland Avenue, Roseland, NJ 07068",
+   "phone": "973-226-8636",
+   "url": "https://roselandpubliclibrary.org/contact/",
+   "notes": "Home base for the Roseland Senior Society's twice monthly gatherings."
+  },
+  "more": [
+   {
+    "name": "Grover Cleveland Senior Center",
+    "phone": "973-403-4637",
+    "url": "https://caldwell-nj.com/human",
+    "note": "Run by the Borough of Caldwell. Anyone 60 or older can take part in its fitness, enrichment, health education and social programs."
+   },
+   {
+    "name": "Essex County Office of Senior Services (ADRC)",
+    "phone": "973-395-8375",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "The county's information line for older adults and caregivers, including respite care, home delivered meals and friendly visiting."
+   },
+   {
+    "name": "Essex County Special Transportation",
+    "phone": "973-737-7200",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "County rides for older and disabled adults to medical and therapy visits. Book at least two business days ahead."
+   }
+  ],
+  "places": [
+   {
+    "name": "Becker Park",
+    "note": "A 146 acre county tract in Roseland and Livingston with hiking trails and good birding."
+   },
+   {
+    "name": "West Essex Park",
+    "note": "A large county reservation along the Passaic River with the Essex County Environmental Center, interpretive trails and bird watching."
+   }
+  ],
+  "sources": [
+   [
+    "Roseland Senior Citizen Services",
+    "https://www.roselandnj.org/317/Senior-Citizen-Services"
+   ],
+   [
+    "Roseland Senior Citizens Transportation",
+    "https://www.roselandnj.org/337/Senior-Citizens-Transportation"
+   ],
+   [
+    "Caldwell Health and Human Services (senior bus)",
+    "https://caldwell-nj.com/human"
+   ],
+   [
+    "Roseland Free Public Library",
+    "https://roselandpubliclibrary.org/contact/"
+   ],
+   [
+    "Essex County Office of Senior Services",
+    "https://essexcountynj.org/senior-services/"
+   ],
+   [
+    "Becker Park",
+    "https://essexcountyparks.org/parks/becker-park"
+   ],
+   [
+    "West Essex Park",
+    "https://essexcountyparks.org/parks/west-essex-park"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "west-caldwell",
+  "name": "West Caldwell",
+  "county": "essex",
+  "countyName": "Essex County",
+  "intro": "West Caldwell shares much of its senior life with neighboring Caldwell. The Grover Cleveland Senior Center serves seniors across the West Essex area, a free senior bus runs on weekdays, and the Caldwell-West Caldwell Senior Club meets monthly at the West Caldwell Public Library. The township also runs senior fitness classes.",
+  "seniorCenter": {
+   "name": "Grover Cleveland Senior Center",
+   "address": "",
+   "phone": "973-403-4637",
+   "url": "https://www.westcaldwell.com/pages/general-information",
+   "notes": "A full-time center co-sponsored by the Borough of Caldwell and Essex County, open Monday to Friday to seniors in the West Essex area. Trips, weekly lunches, bingo, movies, cards, arts and crafts, and blood pressure checks. Staff also help with questions about health insurance, housing, transportation and taxes. Call for the address and monthly calendar."
+  },
+  "transport": {
+   "name": "Caldwell, West Caldwell and Roseland Senior Bus",
+   "phone": "973-226-5108",
+   "url": "https://caldwell-nj.com/human",
+   "notes": "Free curb to curb rides for West Caldwell, Caldwell and Roseland residents, Monday to Friday from 9 a.m. to 3:30 p.m., for food shopping, banks and drug stores, with a mall trip on Tuesdays. Call between 8:15 and 8:45 a.m. on the day you want to ride. The bus can take wheelchairs."
+  },
+  "library": {
+   "name": "West Caldwell Public Library",
+   "address": "30 Clinton Road, West Caldwell, NJ 07006",
+   "phone": "973-226-5441",
+   "url": "https://wcplnj.org/",
+   "notes": "The Caldwell-West Caldwell Senior Club holds its social meetings here on the second Wednesday of the month at 1 p.m."
+  },
+  "more": [
+   {
+    "name": "Caldwell-West Caldwell Senior Club",
+    "phone": "973-226-3621",
+    "url": "https://caldwell-nj.com/groups",
+    "note": "Open to Caldwell and West Caldwell residents 55 and older. The phone is the Recreation Department, which has the club calendar."
+   },
+   {
+    "name": "West Caldwell Recreation senior fitness",
+    "phone": "973-226-3621",
+    "url": "https://www.westcaldwell.com/Departments/recreation-department",
+    "note": "Senior Fitness runs in the fall, winter and spring seasons."
+   },
+   {
+    "name": "Essex County Special Transportation",
+    "phone": "973-737-7200",
+    "url": "https://essexcountynj.org/senior-services/",
+    "note": "County rides for older and disabled adults to medical and therapy visits. Book at least two business days ahead."
+   }
+  ],
+  "places": [
+   {
+    "name": "West Essex Park",
+    "note": "A 1,361 acre county reservation touching West Caldwell, with the Essex County Environmental Center, trails and bird watching."
+   },
+   {
+    "name": "Grover Cleveland Park",
+    "note": "A gentle Olmsted designed county park nearby in Caldwell and Essex Fells, with meadows, walking paths and a picnic grove."
+   }
+  ],
+  "sources": [
+   [
+    "West Caldwell general information",
+    "https://www.westcaldwell.com/pages/general-information"
+   ],
+   [
+    "West Caldwell Recreation",
+    "https://www.westcaldwell.com/Departments/recreation-department"
+   ],
+   [
+    "Caldwell Health and Human Services",
+    "https://caldwell-nj.com/human"
+   ],
+   [
+    "Caldwell community groups",
+    "https://caldwell-nj.com/groups"
+   ],
+   [
+    "West Caldwell Public Library",
+    "https://wcplnj.org/library-board/"
+   ],
+   [
+    "Essex County Office of Senior Services",
+    "https://essexcountynj.org/senior-services/"
+   ],
+   [
+    "West Essex Park",
+    "https://essexcountyparks.org/parks/west-essex-park"
+   ],
+   [
+    "Grover Cleveland Park",
+    "https://essexcountyparks.org/parks/grover-cleveland-park"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "westfield",
+  "name": "Westfield",
+  "county": "union",
+  "countyName": "Union County",
+  "intro": "Westfield runs its senior programs through the Recreation Department, which serves people 62 and older and offers a free curb to curb ride service four mornings a week. Lifelong Westfield, a volunteer council appointed by the mayor, works as a clearinghouse for services that help older residents and their caregivers stay in town.",
+  "seniorCenter": {
+   "name": "Westfield Recreation Department senior programs",
+   "address": "",
+   "phone": "908-301-1287",
+   "url": "https://www.westfieldnj.gov/357/Senior-Programs",
+   "notes": "Programs for people 62 and older living in Westfield and neighboring towns, covering socializing, technology, fitness and transportation. Register online or in person at the Recreation Department each season."
+  },
+  "transport": {
+   "name": "Westfield Senior Transportation",
+   "phone": "908-301-1287",
+   "url": "https://www.westfieldnj.gov/357/Senior-Programs",
+   "notes": "Free curb to curb rides for Westfield residents 62 and older, Monday to Thursday from 9 a.m. to 1 p.m. Book at least three business days ahead, and no more than 14 days ahead. Rides are first come, first served, and every rider fills out a registration form. The phone line is open weekdays 9 a.m. to 4:30 p.m."
+  },
+  "library": {
+   "name": "Westfield Memorial Library",
+   "address": "550 East Broad Street, Westfield, NJ 07090",
+   "phone": "908-789-4090",
+   "url": "https://wmlnj.org/",
+   "notes": "Open seven days, with evening hours until 8:30 p.m. Monday to Thursday. Lends Book Clubs in a Bag kits for adult reading groups."
+  },
+  "more": [
+   {
+    "name": "Lifelong Westfield",
+    "phone": "908-301-1287",
+    "url": "https://www.westfieldnj.gov/415/Lifelong-Westfield",
+    "note": "The Mayor's Senior Advisory Council's effort to help residents age in place. It meets the first Monday of each month."
+   },
+   {
+    "name": "Westfield Area Senior Services Directory",
+    "phone": "",
+    "url": "https://www.westfieldnj.gov/418/Westfield-Area-Senior-Services-Directory",
+    "note": "Local listings for counseling, fitness, housing, social programs, transportation and volunteering."
+   },
+   {
+    "name": "Union County Division on Aging",
+    "phone": "888-280-8226",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+   },
+   {
+    "name": "Union County Paratransit",
+    "phone": "908-241-8300",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Curb to curb rides for residents 60 and older anywhere in Union County, $3 each way. Reservations are taken weekdays from 8 a.m. to 4 p.m."
+   }
+  ],
+  "places": [
+   {
+    "name": "Mindowaskin Park",
+    "note": "A quiet 12.6 acre town park on East Broad Street with a large pond, a gazebo and memorial gardens. A popular spot for quiet walks."
+   },
+   {
+    "name": "Echo Lake Park",
+    "note": "A county park on the Westfield and Mountainside line with a walking path around the lake, native flower plantings, tagged trees and the Union County 9-11 Memorial."
+   }
+  ],
+  "sources": [
+   [
+    "Westfield Senior Programs",
+    "https://www.westfieldnj.gov/357/Senior-Programs"
+   ],
+   [
+    "Lifelong Westfield",
+    "https://www.westfieldnj.gov/415/Lifelong-Westfield"
+   ],
+   [
+    "Westfield Memorial Library",
+    "https://wmlnj.org/"
+   ],
+   [
+    "Mindowaskin Park",
+    "https://www.westfieldnj.gov/816/Mindowaskin-Park"
+   ],
+   [
+    "Union County gardens (Echo Lake Park)",
+    "https://ucnj.org/parks-recreation/gardens/"
+   ],
+   [
+    "Union County Division on Aging",
+    "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "summit",
+  "name": "Summit",
+  "county": "union",
+  "countyName": "Union County",
+  "intro": "Summit keeps much of its senior life under one roof at the Summit Community Center on Morris Avenue, home of the Summit Seniors Club for residents 62 and older. Free rides come from Senior Connections, a local group that has driven Summit seniors for more than 25 years, and the city keeps an online resource directory for seniors.",
+  "seniorCenter": {
+   "name": "Summit Seniors Club (Summit Community Center)",
+   "address": "100 Morris Avenue, Summit, NJ 07901",
+   "phone": "908-277-2932",
+   "url": "https://summitcommunityprograms.com/154/Senior-Club",
+   "notes": "Summit residents 62 and older can join for $25 a year (non-residents $50), which covers all club programs during the school year. Gentle chair yoga Mondays and Fridays at 9:30 a.m., line dancing Mondays at 11:45 a.m., an indoor walking club weekdays at 8:45 a.m., and a senior card room open whenever the Community Center is."
+  },
+  "transport": {
+   "name": "Senior Connections, Inc.",
+   "phone": "908-277-2932",
+   "url": "https://summitcommunityprograms.com/151/Senior-Transportation",
+   "notes": "Free rides for Summit seniors. Call to make a reservation. You do not need to be a Senior Club member."
+  },
+  "library": {
+   "name": "Summit Public Library",
+   "address": "75 Maple Street, Summit, NJ 07901",
+   "phone": "908-273-0350",
+   "url": "https://www.summitlibrary.org/hours-contact/",
+   "notes": "Open daily, with evening hours until 9 p.m. Monday to Thursday (closed Sundays in July and August). Services include museum passes, a Library of Things, notary service and tax information."
+  },
+  "more": [
+   {
+    "name": "SAGE Eldercare Meals on Wheels",
+    "phone": "908-273-5554",
+    "url": "https://www.cityofsummit.org/DocumentCenter/View/3619/Aging-in-Place-Information-Poster",
+    "note": "Weekday meal delivery for people over 60 who need it, arranged by phone around dietary needs."
+   },
+   {
+    "name": "SAGE Eldercare adult day program",
+    "phone": "908-598-5520",
+    "url": "https://www.cityofsummit.org/DocumentCenter/View/3619/Aging-in-Place-Information-Poster",
+    "note": "Structured social, physical and cognitive activities for older adults who need more support."
+   },
+   {
+    "name": "Summit Resource Directory for Seniors",
+    "phone": "",
+    "url": "https://cityofsummit.org/647/Seniors-Resource-Directory",
+    "note": "The city's list of free and low-cost services for older residents, from food to transportation."
+   },
+   {
+    "name": "Union County Division on Aging",
+    "phone": "888-280-8226",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+   }
+  ],
+  "places": [
+   {
+    "name": "Reeves-Reed Arboretum",
+    "note": "An arboretum at 165 Hobart Avenue that holds a Daffodil Day each spring."
+   },
+   {
+    "name": "Briant Park",
+    "note": "A county park on the Summit and Springfield line with a paved walking path, labeled trees and a picnic area."
+   }
+  ],
+  "sources": [
+   [
+    "Summit Seniors Club",
+    "https://summitcommunityprograms.com/154/Senior-Club"
+   ],
+   [
+    "Senior Connections, Inc.",
+    "https://summitcommunityprograms.com/151/Senior-Transportation"
+   ],
+   [
+    "Summit Resource Directory for Seniors",
+    "https://cityofsummit.org/647/Seniors-Resource-Directory"
+   ],
+   [
+    "Summit Resources for Aging Citizens poster",
+    "https://www.cityofsummit.org/DocumentCenter/View/3619/Aging-in-Place-Information-Poster"
+   ],
+   [
+    "Summit Public Library",
+    "https://www.summitlibrary.org/hours-contact/"
+   ],
+   [
+    "Summit notice on Daffodil Day",
+    "https://www.cityofsummit.org/CivicSend/ViewMessage/message/227797"
+   ],
+   [
+    "Union County tree trails",
+    "https://ucnj.org/press-releases/public-info/2019/07/18/in-union-county-parks-the-trees-speak-for-themselves/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "cranford",
+  "name": "Cranford",
+  "county": "union",
+  "countyName": "Union County",
+  "intro": "Cranford runs its senior programs out of the Community Center on Walnut Avenue, next door to the public library. Residents 60 and older can join classes and clubs without belonging to a club, ride a free shuttle bus around town, and book one-on-one tech help with librarians on Tuesdays.",
+  "seniorCenter": {
+   "name": "Cranford Community Center senior programs",
+   "address": "220 Walnut Avenue, Cranford, NJ 07016",
+   "phone": "908-709-7283",
+   "url": "https://cranfordrecreation.org/1181/Seniors",
+   "notes": "For Cranford residents 60 and older. Bring proof of residency and register in person. You do not need to belong to a club to take part. Weekday classes include exercise, Health in Motion, yoga, tai chi, line dancing and a drum circle, plus mahjong, canasta, pinochle, bridge and Scrabble. The Thursday Club meets from noon to 2 p.m., and free movies run on the first and second Fridays at 12:30 p.m. (not in July or August). The phone number is the senior bus line, which also takes general questions."
+  },
+  "transport": {
+   "name": "Cranford Senior Shuttle Bus",
+   "phone": "908-709-7283",
+   "url": "https://cranfordrecreation.org/1181/Seniors",
+   "notes": "Free, within Cranford only. Runs Monday, Tuesday and Friday from 9:05 a.m. to 1:40 p.m., and Wednesday and Thursday from 9:05 a.m. to 3 p.m. Weekly specialty trips run Monday or Tuesday from 10 a.m. to 1 p.m. Reservations are required."
+  },
+  "library": {
+   "name": "Cranford Public Library",
+   "address": "224 Walnut Avenue, Cranford, NJ 07016",
+   "phone": "908-709-7272",
+   "url": "https://www.cranfordlibrary.org/",
+   "notes": "Librarians offer 15 minute tech help appointments for phones and tablets on Tuesdays from 1 to 2:15 p.m. at the Community Center. Call the library to sign up. The Literary Cafe book chat meets the second Saturday at 10:15 a.m."
+  },
+  "more": [
+   {
+    "name": "Age Friendly Cranford",
+    "phone": "",
+    "url": "https://www.cranfordnj.org/2005/Age-Friendly-Cranford",
+    "note": "The township's page of senior news, clinics and free programs."
+   },
+   {
+    "name": "Union County Division on Aging",
+    "phone": "888-280-8226",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+   },
+   {
+    "name": "Union County Paratransit",
+    "phone": "908-241-8300",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Curb to curb rides for residents 60 and older anywhere in Union County, $3 each way. Reservations are taken weekdays from 8 a.m. to 4 p.m."
+   }
+  ],
+  "places": [
+   {
+    "name": "Nomahegan Park",
+    "note": "A county park along the Rahway River with a paved walking path, labeled trees, footbridges, a gazebo and picnic areas."
+   },
+   {
+    "name": "Sperry Pond",
+    "note": "A small county park section off Mohawk Drive with a walking path and fishing."
+   }
+  ],
+  "sources": [
+   [
+    "Cranford Recreation Seniors",
+    "https://cranfordrecreation.org/1181/Seniors"
+   ],
+   [
+    "Age Friendly Cranford",
+    "https://www.cranfordnj.org/2005/Age-Friendly-Cranford"
+   ],
+   [
+    "Cranford Library Programs for seniors",
+    "https://www.cranfordnj.org/2150/Library-Programs"
+   ],
+   [
+    "Cranford Public Library",
+    "https://www.cranfordlibrary.org/"
+   ],
+   [
+    "Free Friday Senior Movies",
+    "https://www.cranfordnj.org/2152/Free-Friday-Senior-Movies-at-the-Communi"
+   ],
+   [
+    "Union County tree trails",
+    "https://ucnj.org/press-releases/public-info/2019/07/18/in-union-county-parks-the-trees-speak-for-themselves/"
+   ],
+   [
+    "Union County parks list",
+    "https://ucnj.org/parks-activities/"
+   ],
+   [
+    "Union County Division on Aging",
+    "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "union",
+  "name": "Union",
+  "county": "union",
+  "countyName": "Union County",
+  "intro": "The Township of Union Senior Center on Rahway Avenue is the hub for residents 60 and older, with billiards every day, classes, weekday lunches and its own bus. Several senior clubs meet on different days of the week, and staff help with PAAD, Lifeline and energy assistance applications.",
+  "seniorCenter": {
+   "name": "Township of Union Senior Center",
+   "address": "652 Rahway Avenue, Union, NJ 07083",
+   "phone": "908-851-5290",
+   "url": "https://www.uniontownship.com/142/Senior-Center",
+   "notes": "For Union residents 60 and older. Join at the office with proof of residency, proof of age and a membership form, and you get a senior ID card used for discounts and transportation. Activities include daily billiards, line dancing, yoga, a book club, canasta, mahjong, computer help by appointment and Healthy Bones classes. Lunch is served weekdays at 11:15 a.m. for a suggested $1.75 donation; reserve three days ahead at 908-527-4877. On request, the center makes a daily check-in call to homebound residents."
+  },
+  "transport": {
+   "name": "Union Senior Center bus",
+   "phone": "908-851-5290",
+   "url": "https://www.uniontownship.com/143/Senior-Programs",
+   "notes": "Rides to club meetings on Tuesday, Wednesday and Friday, ShopRite on scheduled days, Walmart on Monday and Thursday afternoons from the Senior Center, and Township of Union area doctors (no Friday appointments). A Senior Center ID card is needed."
+  },
+  "library": {
+   "name": "Union Public Library",
+   "address": "1980 Morris Avenue, Union, NJ 07083",
+   "phone": "908-851-5450",
+   "url": "https://uplnj.org/",
+   "notes": "The Vauxhall Branch is at 123 Hilton Avenue, 908-851-5451."
+  },
+  "more": [
+   {
+    "name": "Union senior clubs",
+    "phone": "",
+    "url": "https://www.uniontownship.com/266/Senior-Citizen-Organizations",
+    "note": "Meeting days for the Active Retirees, Tuesday Club, Senior Citizens Association, Golden Age Club, Vauxhall Senior Club and others."
+   },
+   {
+    "name": "Union County Division on Aging",
+    "phone": "888-280-8226",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+   },
+   {
+    "name": "Union County Paratransit",
+    "phone": "908-241-8300",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Curb to curb rides for residents 60 and older anywhere in Union County, $3 each way. Reservations are taken weekdays from 8 a.m. to 4 p.m."
+   }
+  ],
+  "places": [
+   {
+    "name": "Liberty Hall Museum",
+    "note": "A museum in Union that tells more than 250 years of American and New Jersey history through one family. One hour tours run Wednesday to Sunday at 11 a.m., 1 p.m. and 3 p.m., with tickets bought online ahead of time."
+   },
+   {
+    "name": "Warinanco Park",
+    "note": "A short drive away in Elizabeth and Roselle, the Olmsted designed centerpiece of the county parks, with a lakeside path, cherry trees and a formal garden."
+   }
+  ],
+  "sources": [
+   [
+    "Union Senior Center",
+    "https://www.uniontownship.com/142/Senior-Center"
+   ],
+   [
+    "Union Senior Programs",
+    "https://www.uniontownship.com/143/Senior-Programs"
+   ],
+   [
+    "Union Senior Citizen Organizations",
+    "https://www.uniontownship.com/266/Senior-Citizen-Organizations"
+   ],
+   [
+    "Union Senior Center ADA notice (address and phone)",
+    "https://www.uniontownship.com/DocumentCenter/View/5062/ADA-Reasonable-Modification"
+   ],
+   [
+    "Union Public Library",
+    "https://uplnj.org/"
+   ],
+   [
+    "Liberty Hall Museum tours",
+    "https://libertyhall.kean.edu/visit/tours/"
+   ],
+   [
+    "Warinanco Park (Union County)",
+    "https://ucnj.org/press-releases/public-info/2017/03/31/help-discover-wildlife-in-the-central-park-of-union-county/"
+   ],
+   [
+    "Union County Division on Aging",
+    "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "elizabeth",
+  "name": "Elizabeth",
+  "county": "union",
+  "countyName": "Union County",
+  "intro": "Elizabeth runs several city senior centers, including Stephen Sampson on Anna Street and Liberty Square on Elizabeth Avenue, with fitness, crafts, games, classes and trips. The Office on Aging at City Hall helps with benefit paperwork, and the city's senior transportation office drives older residents to doctors, grocery stores and the senior centers.",
+  "seniorCenter": {
+   "name": "City of Elizabeth Office on Aging",
+   "address": "50 Winfield Scott Plaza, Room G7, Elizabeth, NJ 07201",
+   "phone": "908-820-4044",
+   "url": "https://www.elizabethnj.org/564/Office-on-Aging",
+   "notes": "Case managers help with the property tax freeze, housing applications, NJ Transit reduced fares and Access Link, energy assistance, Lifeline, PAAD, SNAP and Vial of Life. The city's senior centers offer fitness classes, arts and crafts, games, educational programs, trips and social events: Stephen Sampson Senior Center, 800 Anna Street (908-820-4713); Liberty Square Senior Center, 240 Elizabeth Avenue (908-820-4700); and O'Donnell Dempsey Senior Center on Salem Avenue (908-354-5031)."
+  },
+  "transport": {
+   "name": "Elizabeth Senior Citizens Transportation",
+   "phone": "908-820-4020",
+   "url": "https://www.elizabethnj.org/582/Transportation",
+   "notes": "The city's senior transportation office provides rides to doctor appointments, grocery shopping and the senior recreation centers. Call to arrange a ride."
+  },
+  "library": {
+   "name": "Elizabeth Public Library (Main Library)",
+   "address": "11 South Broad Street, Elizabeth, NJ",
+   "phone": "908-354-6060",
+   "url": "https://www.elizpl.org/",
+   "notes": "Branches: Elmora, 740 West Grand Street (908-353-4820); LaCorte, 418-424 Palmer Street (908-469-1866); and Elizabethport, 102-110 Third Street (908-289-9032)."
+  },
+  "more": [
+   {
+    "name": "Elizabeth senior centers",
+    "phone": "",
+    "url": "https://www.elizabethnj.org/894/Explore-Our-Senior-Centers",
+    "note": "The city's page for exploring each senior center's activities."
+   },
+   {
+    "name": "Union County Division on Aging",
+    "phone": "888-280-8226",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+   },
+   {
+    "name": "Union County Paratransit",
+    "phone": "908-241-8300",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Curb to curb rides for residents 60 and older anywhere in Union County, $3 each way. Reservations are taken weekdays from 8 a.m. to 4 p.m."
+   }
+  ],
+  "places": [
+   {
+    "name": "Warinanco Park",
+    "note": "Called the Central Park of Union County, this Olmsted designed park in Elizabeth and Roselle has winding paths, a path around the lake, cherry and magnolia groves and the Chatfield Memorial Garden."
+   },
+   {
+    "name": "Liberty Hall Museum",
+    "note": "A museum just over the line in Union that tells 250 years of history through one family. One hour tours run Wednesday to Sunday, with tickets bought online ahead of time."
+   }
+  ],
+  "sources": [
+   [
+    "Elizabeth Office on Aging",
+    "https://www.elizabethnj.org/564/Office-on-Aging"
+   ],
+   [
+    "Elizabeth Transportation",
+    "https://www.elizabethnj.org/582/Transportation"
+   ],
+   [
+    "Explore Our Senior Centers",
+    "https://www.elizabethnj.org/894/Explore-Our-Senior-Centers"
+   ],
+   [
+    "Stephen Sampson Senior Center",
+    "https://www.elizabethnj.org/facilities/facility/details/Stephen-Sampson-Senior-Center-11"
+   ],
+   [
+    "Liberty Square Senior Center",
+    "https://www.elizabethnj.org/facilities/facility/details/libertysquareseniorcenter-8"
+   ],
+   [
+    "O'Donnell Dempsey Senior Center",
+    "https://www.elizabethnj.org/facilities/facility/details/ODonnell-Dempsey-Senior-Center-9"
+   ],
+   [
+    "Elizabeth Public Library",
+    "https://www.elizpl.org/"
+   ],
+   [
+    "Union County gardens (Warinanco)",
+    "https://ucnj.org/parks-recreation/gardens/"
+   ],
+   [
+    "Liberty Hall Museum tours",
+    "https://libertyhall.kean.edu/visit/tours/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "linden",
+  "name": "Linden",
+  "county": "union",
+  "countyName": "Union County",
+  "intro": "Linden centers its senior programs at the John T. Gregorio Center on Helen Street, with a second hub at the Linden Multi-Purpose Center on John Street. A $6 yearly Young at Heart membership gives Linden seniors an ID card for city senior programs and for discounts at participating stores and businesses.",
+  "seniorCenter": {
+   "name": "John T. Gregorio Center",
+   "address": "330 Helen Street, Linden, NJ 07036",
+   "phone": "908-474-8627",
+   "url": "https://linden-nj.gov/directory/john-t-gregorio-center/",
+   "notes": "Home to most of the city's senior programs, with exercise rooms, billiards and table games daily, and a free lending library of books and magazines for Linden seniors. Open weekdays 8:30 a.m. to 4:30 p.m. Join Young at Heart for $6 a year with proof of residency. Fall classes include senior chair yoga on Thursdays and Knitting for a Cause on Tuesdays (free). Register through Parks and Recreation at 908-474-8600."
+  },
+  "transport": {
+   "name": "Union County Paratransit",
+   "phone": "908-241-8300",
+   "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+   "notes": "Curb to curb rides anywhere in Union County for residents 60 and older, $3 each way, with fare waivers available on request. Call weekdays 8 a.m. to 4 p.m. The county lists 908-474-8600 for questions about Linden's own senior bus."
+  },
+  "library": {
+   "name": "Linden Free Public Library",
+   "address": "31 East Henry Street, Linden, NJ",
+   "phone": "908-298-3830",
+   "url": "https://lindenlibrary-nj.gov/",
+   "notes": "You can also reach staff by chat or email from the library website during open hours."
+  },
+  "more": [
+   {
+    "name": "Linden Young at Heart membership",
+    "phone": "908-474-8600",
+    "url": "https://linden-nj.gov/young-at-heart-senior-membership-program/",
+    "note": "Bring proof of residency. ID cards are issued weekdays from 9 a.m. to 4 p.m."
+   },
+   {
+    "name": "Linden Multi-Purpose Center",
+    "phone": "908-474-8600",
+    "url": "https://linden-nj.gov/young-at-heart-senior-membership-program/",
+    "note": "1025 John Street, open weekdays until 8 p.m."
+   },
+   {
+    "name": "Union County Division on Aging",
+    "phone": "888-280-8226",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+   }
+  ],
+  "places": [
+   {
+    "name": "Wheeler Park",
+    "note": "A county park off Routes 1 and 9, designed by the Olmsted Brothers in 1925, with walking paths, a playground and a spray park."
+   },
+   {
+    "name": "Warinanco Park",
+    "note": "A short drive away in Elizabeth and Roselle, with a path around the lake, cherry trees and a formal garden."
+   }
+  ],
+  "sources": [
+   [
+    "John T. Gregorio Center",
+    "https://linden-nj.gov/directory/john-t-gregorio-center/"
+   ],
+   [
+    "Young at Heart Senior Membership Program",
+    "https://linden-nj.gov/young-at-heart-senior-membership-program/"
+   ],
+   [
+    "Linden recreation news (fall 2026 programs)",
+    "https://linden-nj.gov/news/page/5/"
+   ],
+   [
+    "Linden Free Public Library",
+    "https://lindenlibrary-nj.gov/contact-us/"
+   ],
+   [
+    "Union County Division on Aging (Paratransit and town buses)",
+    "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/"
+   ],
+   [
+    "Wheeler Park (Union County)",
+    "https://ucnj.org/press-releases/public-info/2017/page/8/"
+   ],
+   [
+    "Union County gardens (Warinanco)",
+    "https://ucnj.org/parks-recreation/gardens/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "scotch-plains",
+  "name": "Scotch Plains",
+  "county": "union",
+  "countyName": "Union County",
+  "intro": "In Scotch Plains, much of senior life runs through the Recreation Department and the Golden Agers, a club founded in 1966 that meets Thursdays at the Shady Rest Country Club. A township bus takes self-reliant residents 55 and older shopping on Wednesday mornings and to the club on Thursdays.",
+  "seniorCenter": {
+   "name": "Scotch Plains Golden Agers",
+   "address": "Shady Rest Country Club",
+   "phone": "908-397-7337",
+   "url": "https://www.scotchplainsnj.gov/departments/senior-services",
+   "notes": "Meets Thursdays from 9 a.m. to 2 p.m., September to June, with bingo, crafts, parties, luncheons, guest speakers and trips. The phone number is club contact Mary Wanca. A mayor-appointed Senior Advisory Board advises the Recreation Department on senior programs."
+  },
+  "transport": {
+   "name": "Scotch Plains senior bus",
+   "phone": "908-322-6700",
+   "url": "https://www.scotchplainsnj.gov/departments/senior-services",
+   "notes": "Ask for extension 223. For self-reliant Scotch Plains residents 55 and older, or those traveling with an aide. Fill out a registration form first. Wednesday morning trips go to the Blue Star Shopping Center in Watchung, and the bus also carries Golden Agers to their Thursday meetings."
+  },
+  "library": {
+   "name": "Scotch Plains Public Library",
+   "address": "1927 Bartle Avenue, Scotch Plains, NJ 07076",
+   "phone": "908-322-5007",
+   "url": "https://scotchplainslibrary.org/contact/",
+   "notes": "Adult Services is at extension 204."
+  },
+  "more": [
+   {
+    "name": "Jewish Family Services assisted transportation",
+    "phone": "908-352-8375",
+    "url": "https://www.scotchplainsnj.gov/departments/senior-services",
+    "note": "Assisted rides for impaired or isolated seniors to banks, stores and medical visits. The agency is non-denominational."
+   },
+   {
+    "name": "PROCEED, Inc.",
+    "phone": "908-351-7727",
+    "url": "https://www.scotchplainsnj.gov/departments/senior-services",
+    "note": "Runs heating, cooling and weatherization help, and provides free grab bars to seniors."
+   },
+   {
+    "name": "Union County Division on Aging",
+    "phone": "888-280-8226",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+   },
+   {
+    "name": "Union County Paratransit",
+    "phone": "908-241-8300",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Curb to curb rides for residents 60 and older anywhere in Union County, $3 each way. Reservations are taken weekdays from 8 a.m. to 4 p.m."
+   }
+  ],
+  "places": [
+   {
+    "name": "Watchung Reservation",
+    "note": "A 2,065 acre county preserve that reaches into Scotch Plains, with lakes, woods and more than 13 miles of trails, including a history trail from the Deserted Village of Feltville."
+   },
+   {
+    "name": "Trailside Nature and Science Center",
+    "note": "The county's nature center in the Watchung Reservation, with indoor exhibits, butterfly gardens and a library."
+   }
+  ],
+  "sources": [
+   [
+    "Scotch Plains Senior Programs and Services",
+    "https://www.scotchplainsnj.gov/departments/senior-services"
+   ],
+   [
+    "Scotch Plains Public Library contact",
+    "https://scotchplainslibrary.org/contact/"
+   ],
+   [
+    "Scotch Plains Public Library (township page)",
+    "https://www.scotchplainsnj.gov/boards-commissions/library"
+   ],
+   [
+    "Trailside Nature and Science Center",
+    "https://ucnj.org/trailside-nature-and-science-center/"
+   ],
+   [
+    "Watchung Reservation History Trail",
+    "https://ucnj.org/parks-recreation/paths-trails-greenways/watchung-reservation/"
+   ],
+   [
+    "Union County parks list",
+    "https://ucnj.org/parks-activities/"
+   ],
+   [
+    "Union County Division on Aging",
+    "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "berkeley-heights",
+  "name": "Berkeley Heights",
+  "county": "union",
+  "countyName": "Union County",
+  "intro": "Berkeley Heights runs free weekly senior activities through the Recreation Department in the municipal complex at 29 Park Avenue, which also houses the public library. The mayor places a monthly phone call to seniors with town news, and an independent Senior Club for anyone 55 and older meets there on Tuesday mornings.",
+  "seniorCenter": {
+   "name": "Berkeley Heights Recreation senior activities",
+   "address": "29 Park Avenue, Berkeley Heights, NJ 07922",
+   "phone": "908-464-2700",
+   "url": "https://www.berkeleyheights.gov/1407/Seniors",
+   "notes": "Ask for extension 2257, or email seniors@bhtwp.com. The Recreation Department's free senior calendar includes bingo, exercise, chair stretch, mahjong, line dancing, yoga, acrylic painting (sign-up required), a fitness center circuit and free luncheons. The Senior Club, an independent nonprofit for anyone 55 and older, meets Tuesdays at 10:30 a.m. and plans trips and parties."
+  },
+  "transport": {
+   "name": "Berkeley Heights Recreation bus trips",
+   "phone": "908-464-2700",
+   "url": "https://www.berkeleyheights.gov/1407/Seniors",
+   "notes": "Ask for extension 2229 to reserve a spot, and call the week before by Friday. For medical visits, shopping and errands, the township points residents to Union County Paratransit at 908-241-8300 (option 1), which takes reservations up to three weeks ahead."
+  },
+  "library": {
+   "name": "Berkeley Heights Public Library",
+   "address": "29 Park Avenue, Berkeley Heights, NJ 07922",
+   "phone": "908-608-8603",
+   "url": "https://bhplnj.org/faq/",
+   "notes": "Book an in-person appointment with a reference librarian for help with eBooks, online resources, the public computers or the scanner (extension 3). Open until 9 p.m. Monday to Thursday."
+  },
+  "more": [
+   {
+    "name": "Berkeley Heights Senior Club trips",
+    "phone": "908-322-8391",
+    "url": "https://www.berkeleyheights.gov/1407/Seniors",
+    "note": "The club's longer bus trips to Atlantic City. Ask for Shirley."
+   },
+   {
+    "name": "Union County Division on Aging",
+    "phone": "888-280-8226",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+   },
+   {
+    "name": "Union County Paratransit",
+    "phone": "908-241-8300",
+    "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
+    "note": "Curb to curb rides for residents 60 and older anywhere in Union County, $3 each way. Reservations are taken weekdays from 8 a.m. to 4 p.m."
+   }
+  ],
+  "places": [
+   {
+    "name": "Watchung Reservation",
+    "note": "A 2,065 acre county preserve that reaches into Berkeley Heights, with lakes, woods and more than 13 miles of trails."
+   },
+   {
+    "name": "Passaic River Parkway",
+    "note": "County riverside land in Berkeley Heights, New Providence and Summit with nature trails, fishing and the Snyder Avenue Boat Launch."
+   }
+  ],
+  "sources": [
+   [
+    "Berkeley Heights Seniors",
+    "https://www.berkeleyheights.gov/1407/Seniors"
+   ],
+   [
+    "Berkeley Heights Senior Information",
+    "https://www.berkeleyheights.gov/352/Senior-Information"
+   ],
+   [
+    "Berkeley Heights January 2026 Senior Activities Calendar",
+    "https://www.berkeleyheights.gov/DocumentCenter/View/11003/12026-JANUARY-_-Senior-Activities-Calendar"
+   ],
+   [
+    "Berkeley Heights Public Library FAQ",
+    "https://bhplnj.org/faq/"
+   ],
+   [
+    "Trailside Nature and Science Center",
+    "https://ucnj.org/trailside-nature-and-science-center/"
+   ],
+   [
+    "Union County parks list",
+    "https://ucnj.org/parks-activities/"
+   ],
+   [
+    "Union County Division on Aging",
+    "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "hackensack",
+  "name": "Hackensack",
+  "county": "bergen",
+  "countyName": "Bergen County",
+  "intro": "Hackensack is the Bergen County seat, so the county's senior services office is right in town at One Bergen County Plaza. The county also runs the United Senior Activity Center on Hudson Street, where residents 60 and over can join free, eat a weekday lunch and take classes from line dancing to yoga.",
+  "seniorCenter": {
+   "name": "United Senior Activity Center",
+   "address": "101 Hudson Street, Hackensack, NJ 07601",
+   "phone": "201-336-3320",
+   "url": "https://bergencountynj.gov/?p=1078",
+   "notes": "Run by Bergen County. Free for Bergen County residents 60 and over. Open Monday to Friday, 8 a.m. to 3:30 p.m. Lunch is served daily at 11:30 a.m. for a suggested $1.25 donation; reserve by 11:30 a.m. the day before. Regular activities include morning music, bingo, exercise, Zumba, yoga, line dancing and ESL classes."
+  },
+  "transport": {
+   "name": "Bergen County Division of Community Transportation",
+   "phone": "201-368-5955",
+   "url": "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/",
+   "notes": "Rides for seniors, frail residents and people with disabilities who live in Bergen County, for trips such as routine medical visits, physical therapy, shopping and senior activity centers. Call and press 1 for dispatch."
+  },
+  "library": {
+   "name": "Johnson Public Library",
+   "address": "274 Main Street, Hackensack, NJ 07601",
+   "phone": "201-343-4169",
+   "url": "https://johnsonlib.org/",
+   "notes": "Offers Tech Help sessions for adults and a Books by Mail service. Open Monday to Thursday 9 a.m. to 9 p.m., Friday and Saturday 9 a.m. to 5 p.m."
+  },
+  "more": [
+   {
+    "name": "Dr. Martin Luther King Jr. Senior Center",
+    "phone": "201-342-2654",
+    "url": "https://habcnj.org/mlk/",
+    "note": "375 First Street. Free programs for adults 60 and over, open weekdays 9 a.m. to 4 p.m., funded through the Bergen County Division of Senior Services."
+   },
+   {
+    "name": "Bergen County Division of Senior Services",
+    "phone": "201-336-7400",
+    "url": "https://bergencountynj.gov/division-of-senior-services/",
+    "note": "The county helpline for information, care management, Medicare counseling (SHIP) and meals. Toll free 1-877-222-3737."
+   }
+  ],
+  "places": [
+   {
+    "name": "Borg's Woods Nature Preserve",
+    "note": "About 15 acres of quiet forest with simple walking trails. There is no formal parking lot."
+   },
+   {
+    "name": "Hackensack River County Park",
+    "note": "A Bergen County park in Hackensack. The county parks office at 201-336-7275 can tell you what is there."
+   }
+  ],
+  "sources": [
+   [
+    "Bergen County senior activity centers",
+    "https://bergencountynj.gov/?p=1078"
+   ],
+   [
+    "United Senior Activity Center calendar, Feb 2026",
+    "https://bergencountynj.gov/wp-content/uploads/2026/02/United_Center_2026_02.pdf"
+   ],
+   [
+    "Housing Authority of Bergen County, MLK Senior Center",
+    "https://habcnj.org/mlk/"
+   ],
+   [
+    "Johnson Public Library",
+    "https://johnsonlib.org/"
+   ],
+   [
+    "Bergen County Division of Senior Services",
+    "https://bergencountynj.gov/division-of-senior-services/"
+   ],
+   [
+    "Bergen County Community Transportation",
+    "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/"
+   ],
+   [
+    "Bergen County parks and outdoor activities",
+    "https://bergencountynj.gov/?p=238"
+   ],
+   [
+    "Borg's Woods Nature Preserve",
+    "https://bergencountynj.gov/?p=4872"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "paramus",
+  "name": "Paramus",
+  "county": "bergen",
+  "countyName": "Bergen County",
+  "intro": "Paramus gives residents 62 and over a free senior center on North Farview Avenue with a full weekday schedule, from chair yoga and bocce to mahjong and casino trips. The borough also runs a free senior bus for shopping, club meetings and Sunday Mass, and Van Saun County Park charges county seniors just $2 at its zoo.",
+  "seniorCenter": {
+   "name": "Joseph Cipolla Senior Activity Center",
+   "address": "93 North Farview Avenue, Paramus, NJ 07652",
+   "phone": "201-265-2100",
+   "url": "https://www.paramusborough.gov/235/Senior-Center",
+   "notes": "Ask for extension 6200. For Paramus residents 62 and over, with no fee to join. Center hours are Monday to Friday, 8 a.m. to 3:30 p.m. Activities include art, billiards, bingo, bocce, book club, chair yoga, knitting, line dancing, mahjong, ping pong and yoga."
+  },
+  "transport": {
+   "name": "Paramus Senior Bus",
+   "phone": "201-649-0738",
+   "url": "https://www.paramusborough.gov/347/Senior-Bus-Transportation",
+   "notes": "Free for senior citizens who live in Paramus. Runs a set schedule Monday through Friday to local malls, shopping centers, grocery stores and the senior center, and to Our Lady of Visitation for Sunday Mass. No service on borough holidays or in bad weather. Scheduling goes through the Department of Public Works."
+  },
+  "library": {
+   "name": "Paramus Public Library",
+   "address": "116 East Century Road, Paramus, NJ 07652",
+   "phone": "201-599-1300",
+   "url": "https://www.paramuslibrary.org/",
+   "notes": "The Charles E. Reid Branch is at 239 West Midland Avenue (201-444-4911). Both offer adult programs, museum passes and eBooks and audiobooks."
+  },
+  "more": [
+   {
+    "name": "Bergen County Division of Senior Services",
+    "phone": "201-336-7400",
+    "url": "https://bergencountynj.gov/division-of-senior-services/",
+    "note": "The county helpline for information, care management, Medicare counseling (SHIP) and meals. Toll free 1-877-222-3737."
+   },
+   {
+    "name": "Bergen County Division of Community Transportation",
+    "phone": "201-368-5955",
+    "url": "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/",
+    "note": "County rides for seniors and people with disabilities, including routine medical visits. Press 1 for dispatch."
+   }
+  ],
+  "places": [
+   {
+    "name": "Van Saun County Park and Bergen County Zoo",
+    "note": "The zoo is open daily from 10 a.m. to 4:30 p.m. Bergen County seniors 62 and over pay $2. A train and carousel cost $3 a ride."
+   },
+   {
+    "name": "Saddle River County Park",
+    "note": "A path of about 6 miles runs along the Saddle River from Ridgewood to Rochelle Park. The Dunkerhook area in Paramus has a picnic pavilion and a waterfall."
+   }
+  ],
+  "sources": [
+   [
+    "Paramus Senior Center",
+    "https://www.paramusborough.gov/235/Senior-Center"
+   ],
+   [
+    "Paramus Senior Center FAQ",
+    "https://www.paramusborough.gov/m/faq?cat=20"
+   ],
+   [
+    "Paramus Senior Bus Transportation",
+    "https://www.paramusborough.gov/347/Senior-Bus-Transportation"
+   ],
+   [
+    "Paramus Public Library",
+    "https://www.paramuslibrary.org/"
+   ],
+   [
+    "Bergen County Zoo",
+    "https://bergencountynj.gov/bergen-county-department-of-parks/bergen-county-zoo/"
+   ],
+   [
+    "Saddle River County Park",
+    "https://bergencountynj.gov/?p=4910"
+   ],
+   [
+    "Bergen County Division of Senior Services",
+    "https://bergencountynj.gov/division-of-senior-services/"
+   ],
+   [
+    "Bergen County Community Transportation",
+    "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "ridgewood",
+  "name": "Ridgewood",
+  "county": "bergen",
+  "countyName": "Bergen County",
+  "intro": "Ridgewood runs its senior programs out of Village Hall on North Maple Avenue, home to the Patrick A. Mancuso Senior Center. The HILT club welcomes residents 55 and over for monthly meetings and trips, a village senior bus runs three days a week, and residents 65 and over can buy half price taxi coupons.",
+  "seniorCenter": {
+   "name": "Patrick A. Mancuso Senior Center",
+   "address": "131 N Maple Avenue, Ridgewood, NJ 07450",
+   "phone": "201-670-5500",
+   "url": "https://www.ridgewoodnj.net/188/Community-Center",
+   "notes": "Part of the Community Center on the lowest level of Village Hall. The Community Center is being renovated, so some classes have moved elsewhere in Village Hall and the Stable. The HILT (Highlights in Leisure Time) Senior Club is open to village residents 55 and over for $25 a year, with monthly meetings at 10 a.m. and trips, usually on Thursdays (contact 201-670-5560)."
+  },
+  "transport": {
+   "name": "Village of Ridgewood Senior Bus",
+   "phone": "201-670-5500",
+   "url": "https://www.agefriendlyridgewood.org/resources/transportation/",
+   "notes": "Call extension 2203 to book. Tuesdays the bus runs within Ridgewood, 9:30 a.m. to 2 p.m. On the 2nd and 4th Wednesdays it goes to Wyckoff ShopRite, and on 3rd Wednesdays to Ridgewood and nearby towns. Thursdays it serves towns next to Ridgewood. Schedules can change, so confirm when you call."
+  },
+  "library": {
+   "name": "Ridgewood Public Library",
+   "address": "125 North Maple Avenue, Ridgewood, NJ 07450",
+   "phone": "201-670-5600",
+   "url": "https://www.ridgewoodlibrary.org/",
+   "notes": "Offers eBooks, audiobooks, streaming films and online courses. Questions can go to ask@ridgewoodlibrary.org."
+  },
+  "more": [
+   {
+    "name": "Senior Taxi Discount Coupons",
+    "phone": "201-670-5500",
+    "url": "https://www.agefriendlyridgewood.org/resources/transportation/",
+    "note": "Residents 65 and over can buy coupon books at the Village Hall lobby desk for about half the face value. Only Village Taxi (201-494-4444) accepts them, for local trips."
+   },
+   {
+    "name": "Age Friendly Ridgewood",
+    "phone": "",
+    "url": "https://www.agefriendlyridgewood.org/",
+    "note": "Local initiative linked from the village website, with guides to housing, transportation, health and community activities."
+   },
+   {
+    "name": "Bergen County Division of Senior Services",
+    "phone": "201-336-7400",
+    "url": "https://bergencountynj.gov/division-of-senior-services/",
+    "note": "The county helpline for information, care management, Medicare counseling (SHIP) and meals. Toll free 1-877-222-3737."
+   }
+  ],
+  "places": [
+   {
+    "name": "Wild Duck Pond",
+    "note": "Part of Saddle River County Park, reached by car from East Ridgewood Avenue. Picnic areas, a pavilion and fishing with a state license."
+   },
+   {
+    "name": "Saddle River County Park path",
+    "note": "A paved bike and walking path of about 6 miles that starts in Ridgewood and follows the Ho-Ho-Kus Brook and Saddle River south."
+   }
+  ],
+  "sources": [
+   [
+    "Ridgewood For Older Adults",
+    "https://www.ridgewoodnj.net/270/For-Older-Adults"
+   ],
+   [
+    "Ridgewood Community Center",
+    "https://www.ridgewoodnj.net/188/Community-Center"
+   ],
+   [
+    "HILT Senior Club",
+    "https://www.ridgewoodnj.net/271/HILT-Senior-Club"
+   ],
+   [
+    "Age Friendly Ridgewood, transportation",
+    "https://www.agefriendlyridgewood.org/resources/transportation/"
+   ],
+   [
+    "Ridgewood Public Library",
+    "https://www.ridgewoodlibrary.org/"
+   ],
+   [
+    "BCCLS member library directory",
+    "https://catalog.bccls.org/polaris/custom/member_libraries/system-library-information.php"
+   ],
+   [
+    "Saddle River County Park",
+    "https://bergencountynj.gov/?p=4910"
+   ],
+   [
+    "Bergen County Division of Senior Services",
+    "https://bergencountynj.gov/division-of-senior-services/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "teaneck",
+  "name": "Teaneck",
+  "county": "bergen",
+  "countyName": "Bergen County",
+  "intro": "Teaneck's senior center fills the upper level of the Richard Rodda Community Center on Colonial Court and is open to adults 55 and up on weekdays. A public health nurse is there daily for blood pressure checks, and the township's parks include walking paths at Votee Park and trails in Overpeck County Park.",
+  "seniorCenter": {
+   "name": "Teaneck Senior Center, Richard Rodda Community Center",
+   "address": "250 Colonial Court, Teaneck, NJ 07666",
+   "phone": "201-837-0171",
+   "url": "https://www.teanecknj.gov/senior-programs",
+   "notes": "On the upper level. For adults 55 and up, Monday to Friday 9:30 a.m. to 4 p.m., closed municipal holidays. Classes in education, fitness and social recreation, a game room with billiards and table tennis, and a public health nurse daily. Also reachable at 201-837-7130. Virtual classes air on the Senior Virtual Classes YouTube channel."
+  },
+  "transport": {
+   "name": "Bergen County Division of Community Transportation",
+   "phone": "201-368-5955",
+   "url": "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/",
+   "notes": "Teaneck's senior program page notes that a county van can bring participants to and from the center; ask the senior center office about it. Rides for seniors, frail residents and people with disabilities who live in Bergen County, for trips such as routine medical visits, physical therapy, shopping and senior activity centers. Call and press 1 for dispatch."
+  },
+  "library": {
+   "name": "Teaneck Public Library",
+   "address": "840 Teaneck Road, Teaneck, NJ 07666",
+   "phone": "201-837-4171",
+   "url": "https://www.teanecklibrary.org/",
+   "notes": "One on one tech help sessions, smartphone and tablet basics classes, and Northstar digital literacy lessons."
+  },
+  "more": [
+   {
+    "name": "Bergen County Division of Senior Services",
+    "phone": "201-336-7400",
+    "url": "https://bergencountynj.gov/division-of-senior-services/",
+    "note": "The county helpline for information, care management, Medicare counseling (SHIP) and meals. Toll free 1-877-222-3737."
+   }
+  ],
+  "places": [
+   {
+    "name": "Overpeck County Park",
+    "note": "About 805 acres around Overpeck Creek shared with four neighboring towns, with about five miles of trails, picnic and fishing spots and an outdoor amphitheater."
+   },
+   {
+    "name": "Milton A. Votee Park",
+    "note": "Walking and bike paths, exercise stations and the Votee Park Rotary Band Shell."
+   },
+   {
+    "name": "Teaneck Creek Conservancy",
+    "note": "A natural area with walking paths."
+   }
+  ],
+  "sources": [
+   [
+    "Teaneck Senior Programs",
+    "https://www.teanecknj.gov/senior-programs"
+   ],
+   [
+    "Teaneck notice with Rodda Center address",
+    "https://www.teanecknj.gov/news-and-notices/posts/32626-planning-board-meeting-moved-to-rodda-center-mp-1/"
+   ],
+   [
+    "Teaneck Parks and Amenities",
+    "https://teanecknj.gov/parks-and-recreation/parks-and-amenities/"
+   ],
+   [
+    "Teaneck: Overpeck County Park",
+    "https://teanecknj.gov/parks-and-recreation/parks-and-amenities/overpeck-county-park"
+   ],
+   [
+    "Teaneck Public Library",
+    "https://www.teanecklibrary.org/"
+   ],
+   [
+    "Bergen County Division of Senior Services",
+    "https://bergencountynj.gov/division-of-senior-services/"
+   ],
+   [
+    "Bergen County Community Transportation",
+    "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "fort-lee",
+  "name": "Fort Lee",
+  "county": "bergen",
+  "countyName": "Bergen County",
+  "intro": "Fort Lee has its own Senior Services and Human Services department on Main Street, open weekdays with a program manager and activities coordinator on staff. The public library, also on Main Street, runs free AARP Senior Planet classes, and Fort Lee Historic Park offers river and bridge views from the top of the Palisades.",
+  "seniorCenter": {
+   "name": "Fort Lee Senior Services and Human Services",
+   "address": "319 Main Street, Fort Lee, NJ 07024",
+   "phone": "201-592-3500",
+   "url": "https://www.fortleenj.org/m/directory/department?did=35",
+   "notes": "Ask for extension 1300. Office hours are Monday to Friday, 8 a.m. to 3:30 p.m. Call to ask about current senior activities and services."
+  },
+  "transport": {
+   "name": "Bergen County Division of Community Transportation",
+   "phone": "201-368-5955",
+   "url": "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/",
+   "notes": "Rides for seniors, frail residents and people with disabilities who live in Bergen County, for trips such as routine medical visits, physical therapy, shopping and senior activity centers. Call and press 1 for dispatch."
+  },
+  "library": {
+   "name": "Fort Lee Public Library",
+   "address": "320 Main Street, Fort Lee, NJ 07024",
+   "phone": "201-592-3614",
+   "url": "https://fortleelibrary.org/",
+   "notes": "Hosts free AARP Senior Planet sessions on technology topics. Some sessions are for Fort Lee card holders only."
+  },
+  "more": [
+   {
+    "name": "Jack Alter Fort Lee Community Center",
+    "phone": "201-592-4699",
+    "url": "https://www.fortleenj.org/230/Jack-Alter-Fort-Lee-Community-Center",
+    "note": "1355 Inwood Terrace. Seasonal classes have included chair yoga and stretch and tone."
+   },
+   {
+    "name": "Bergen County Division of Senior Services",
+    "phone": "201-336-7400",
+    "url": "https://bergencountynj.gov/division-of-senior-services/",
+    "note": "The county helpline for information, care management, Medicare counseling (SHIP) and meals. Toll free 1-877-222-3737."
+   }
+  ],
+  "places": [
+   {
+    "name": "Fort Lee Historic Park",
+    "note": "33 acres atop the Palisades just south of the George Washington Bridge, with Hudson River and Manhattan views. The visitor center is open Wednesday to Sunday, 10 a.m. to 5 p.m."
+   },
+   {
+    "name": "Jack Alter Fort Lee Community Center",
+    "note": "The borough's community center on Inwood Terrace, with seasonal classes and events."
+   }
+  ],
+  "sources": [
+   [
+    "Fort Lee staff directory, Senior Services",
+    "https://www.fortleenj.org/m/directory/department?did=35"
+   ],
+   [
+    "Fort Lee Recreation",
+    "https://www.fortleenj.org/193/Recreation"
+   ],
+   [
+    "Jack Alter Fort Lee Community Center",
+    "https://www.fortleenj.org/230/Jack-Alter-Fort-Lee-Community-Center"
+   ],
+   [
+    "Fort Lee Public Library",
+    "https://fortleelibrary.org/"
+   ],
+   [
+    "Palisades Park Conservancy, Fort Lee Historic Park",
+    "https://palisadesparks.org/fort-lee"
+   ],
+   [
+    "Bergen County Division of Senior Services",
+    "https://bergencountynj.gov/division-of-senior-services/"
+   ],
+   [
+    "Bergen County Community Transportation",
+    "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "fair-lawn",
+  "name": "Fair Lawn",
+  "county": "bergen",
+  "countyName": "Bergen County",
+  "intro": "Fair Lawn's senior center on Gardiner Road is open to anyone 60 and over with no dues, and serves a hot weekday lunch for a suggested $1.25. The borough minibus gives free rides anywhere in town, four senior social clubs meet twice a month, and Saddle River County Park runs right through Fair Lawn.",
+  "seniorCenter": {
+   "name": "Fair Lawn Senior Center",
+   "address": "11-05 Gardiner Road, Fair Lawn, NJ 07410",
+   "phone": "201-796-1191",
+   "url": "https://fairlawn.org/p/seniorcenter",
+   "notes": "At the corner of 11th Street and Gardiner Road, one block from the library and Borough Hall. Open weekdays 8 a.m. to 4 p.m. For adults 60 and over, and family and caregivers are welcome. No membership dues. Lunch is served weekdays at noon for a suggested $1.25 donation; reserve at least 24 hours ahead. No take out."
+  },
+  "transport": {
+   "name": "Fair Lawn Mini Bus",
+   "phone": "201-794-5327",
+   "url": "https://fairlawn.org/mini-bus",
+   "notes": "Free for Fair Lawn residents 18 and older, for trips within Fair Lawn. Weekdays except borough holidays, 9 a.m. to 4 p.m. Call up to two weeks ahead and by 3 p.m. the business day before. Your ride is not confirmed until staff call you back."
+  },
+  "library": {
+   "name": "Maurice M. Pine Free Public Library",
+   "address": "10-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "phone": "201-796-3400",
+   "url": "https://www.fairlawnlibrary.org/",
+   "notes": "Book clubs, museum passes, a digital library and hidden disability lanyards."
+  },
+  "more": [
+   {
+    "name": "Fair Lawn senior social clubs",
+    "phone": "",
+    "url": "https://fairlawn.org/senior-clubs",
+    "note": "The Friday Social Club, Friendship Club, Happy Seniors Club and Livewires Club each meet twice a month. Officer phone numbers are on the borough page."
+   },
+   {
+    "name": "Bergen County Division of Senior Services",
+    "phone": "201-336-7400",
+    "url": "https://bergencountynj.gov/division-of-senior-services/",
+    "note": "The county helpline for information, care management, Medicare counseling (SHIP) and meals. Toll free 1-877-222-3737."
+   }
+  ],
+  "places": [
+   {
+    "name": "Fair Lawn Arboretum and Bird Sanctuary",
+    "note": "A quiet green space on Fair Lawn Avenue between Radburn Road and Well Drive."
+   },
+   {
+    "name": "Garretson Forge and Farm",
+    "note": "A preserved Revolutionary era homestead with seasonal tours and demonstrations."
+   },
+   {
+    "name": "Fair Lawn Community Theater",
+    "note": "Plays and concerts in the Community Center at 10-10 20th Street, with 170 seats plus wheelchair spaces."
+   },
+   {
+    "name": "Saddle River County Park",
+    "note": "A long greenway with paths for walking, biking and picnics that runs through Fair Lawn."
+   }
+  ],
+  "sources": [
+   [
+    "Fair Lawn Senior Citizen Services",
+    "https://fairlawn.org/senior-citizen-services"
+   ],
+   [
+    "Fair Lawn Senior Center",
+    "https://fairlawn.org/p/seniorcenter"
+   ],
+   [
+    "Fair Lawn senior clubs",
+    "https://fairlawn.org/senior-clubs"
+   ],
+   [
+    "Fair Lawn Mini Bus",
+    "https://fairlawn.org/mini-bus"
+   ],
+   [
+    "Fair Lawn culture",
+    "https://fairlawn.org/culture"
+   ],
+   [
+    "Maurice M. Pine Free Public Library",
+    "https://www.fairlawnlibrary.org/"
+   ],
+   [
+    "Saddle River County Park",
+    "https://bergencountynj.gov/?p=4910"
+   ],
+   [
+    "Bergen County Division of Senior Services",
+    "https://bergencountynj.gov/division-of-senior-services/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "englewood",
+  "name": "Englewood",
+  "county": "bergen",
+  "countyName": "Bergen County",
+  "intro": "In Englewood, the Southeast Senior Center for Independent Living, run by Bergen Family Center, offers free membership to anyone 57 and older, with exercise, language classes, a knitting group and a singing group. The city's health department runs public health nursing, and Flat Rock Brook Nature Center has 3.6 miles of trails.",
+  "seniorCenter": {
+   "name": "Southeast Senior Center for Independent Living (SESCIL)",
+   "address": "",
+   "phone": "201-568-0817",
+   "url": "https://bergenfamilycenter.org/src/pages/sescil.html",
+   "notes": "Run by Bergen Family Center (44 Armory Street, Englewood); the phone is the agency's main line. Free membership for everyone 57 and older. Classes include aerobics, stretch and flex, yoga, tai chi, Italian, Spanish and French, plus a knitting group, the SESCIL Singers and support groups. Call for the center's location and hours."
+  },
+  "transport": {
+   "name": "Bergen County Division of Community Transportation",
+   "phone": "201-368-5955",
+   "url": "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/",
+   "notes": "Rides for seniors, frail residents and people with disabilities who live in Bergen County, for trips such as routine medical visits, physical therapy, shopping and senior activity centers. Call and press 1 for dispatch."
+  },
+  "library": {
+   "name": "Englewood Public Library",
+   "address": "31 Engle Street, Englewood, NJ 07631",
+   "phone": "201-568-2215",
+   "url": "https://englewoodlibrary.org/",
+   "notes": "Computers and Wi-Fi, book groups, a free notary, museum passes and local history."
+  },
+  "more": [
+   {
+    "name": "Englewood Health Department, Public Health Nursing",
+    "phone": "201-568-3450",
+    "url": "https://www.cityofenglewood.org/1237/Public-Health-Nursing",
+    "note": "73 S Van Brunt Street. Choose option 4. Runs an adult vaccination clinic."
+   },
+   {
+    "name": "Bergen County Division of Senior Services",
+    "phone": "201-336-7400",
+    "url": "https://bergencountynj.gov/division-of-senior-services/",
+    "note": "The county helpline for information, care management, Medicare counseling (SHIP) and meals. Toll free 1-877-222-3737."
+   }
+  ],
+  "places": [
+   {
+    "name": "Flat Rock Brook Nature Center",
+    "note": "A 150 acre preserve at 443 Van Nostrand Avenue with 3.6 miles of forest trails. Trails are open dawn to dusk."
+   },
+   {
+    "name": "Mackay Park",
+    "note": "The city's 28.6 acre park on Englewood Avenue, home to the Parks and Recreation office."
+   },
+   {
+    "name": "Overpeck County Park",
+    "note": "A large county park shared by Englewood and four other towns, with about five miles of trails."
+   }
+  ],
+  "sources": [
+   [
+    "Bergen Family Center",
+    "https://www.bergenfamilycenter.org/"
+   ],
+   [
+    "Bergen Family Center, SESCIL",
+    "https://bergenfamilycenter.org/src/pages/sescil.html"
+   ],
+   [
+    "Englewood Public Health Nursing",
+    "https://www.cityofenglewood.org/1237/Public-Health-Nursing"
+   ],
+   [
+    "Englewood Parks and Recreation",
+    "https://www.cityofenglewood.org/161/Parks-Recreation"
+   ],
+   [
+    "Englewood Public Library",
+    "https://englewoodlibrary.org/"
+   ],
+   [
+    "Flat Rock Brook Nature Center",
+    "https://flatrockbrook.org/"
+   ],
+   [
+    "Teaneck: Overpeck County Park",
+    "https://teanecknj.gov/parks-and-recreation/parks-and-amenities/overpeck-county-park"
+   ],
+   [
+    "Bergen County Division of Senior Services",
+    "https://bergencountynj.gov/division-of-senior-services/"
+   ],
+   [
+    "Bergen County Community Transportation",
+    "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "wyckoff",
+  "name": "Wyckoff",
+  "county": "bergen",
+  "countyName": "Bergen County",
+  "intro": "Wyckoff and Christian Health Care Center run a senior bus on Tuesdays and Thursdays for residents over 55 and people with disabilities, with stops at doctors, the library, shopping centers and the YMCA. The township is also known for gentle green spaces such as the McFaul Environmental Center and The Gardens of Wyckoff.",
+  "seniorCenter": {
+   "name": "Northwest Senior Activity Center",
+   "address": "46-50 Center Street, Midland Park, NJ 07432",
+   "phone": "201-445-5690",
+   "url": "https://bergencountynj.gov/?p=1078",
+   "notes": "Wyckoff's township site does not list its own senior center. This is the closest Bergen County run senior activity center we could confirm, in Midland Park. Open Monday to Friday, 8 a.m. to 3:30 p.m. Call to ask about membership and lunch."
+  },
+  "transport": {
+   "name": "Wyckoff Senior Busing Program",
+   "phone": "201-848-4287",
+   "url": "https://www.wyckoffnj.gov/node/1031",
+   "notes": "Run by the township with Christian Health Care Center for seniors over 55 and people with disabilities who can reach the bus on their own. Tuesdays and Thursdays, 10 a.m. to 2 p.m., home pick up to Wyckoff doctors, the library, post office, Town Hall, the YMCA, banks and the Wyckoff, Boulder Run and Cedar Hill shopping centers. Book Tuesday rides by 6 p.m. the Thursday before, and Thursday rides by 6 p.m. that Monday. A wheelchair accessible vehicle is available."
+  },
+  "library": {
+   "name": "Wyckoff Free Public Library",
+   "address": "200 Woodland Avenue, Wyckoff, NJ 07481",
+   "phone": "201-891-4866",
+   "url": "https://wyckofflibrary.org/",
+   "notes": "Adult programs, Tech Tips, notary service, museum passes, hotspot lending and a local history room."
+  },
+  "more": [
+   {
+    "name": "Wyckoff Board of Health",
+    "phone": "201-891-7000",
+    "url": "https://www.wyckoffnj.gov/board-health/pages/resources-seniors",
+    "note": "Ask for extension 1000. Town Hall is at 340 Franklin Avenue."
+   },
+   {
+    "name": "Bergen County Division of Senior Services",
+    "phone": "201-336-7400",
+    "url": "https://bergencountynj.gov/division-of-senior-services/",
+    "note": "The county helpline for information, care management, Medicare counseling (SHIP) and meals. Toll free 1-877-222-3737."
+   }
+  ],
+  "places": [
+   {
+    "name": "James A. McFaul Environmental Center",
+    "note": "An 81 acre county park on Crescent Avenue with woodlands, gardens, a waterfowl pond and nature programs."
+   },
+   {
+    "name": "The Gardens of Wyckoff",
+    "note": "A 12.8 acre sanctuary on Crescent Avenue with labeled plants, garden walkways, a pond and a brook."
+   },
+   {
+    "name": "Russell Farms Community Park",
+    "note": "Five acres at 594 Russell Avenue with a trail, a gazebo, a butterfly garden and benches throughout."
+   }
+  ],
+  "sources": [
+   [
+    "Wyckoff Senior Busing Program",
+    "https://www.wyckoffnj.gov/node/1031"
+   ],
+   [
+    "Wyckoff resources for seniors",
+    "https://www.wyckoffnj.gov/board-health/pages/resources-seniors"
+   ],
+   [
+    "Wyckoff passive recreation",
+    "https://www.wyckoffnj.gov/recreation-parks/pages/passive-recreation"
+   ],
+   [
+    "Wyckoff Free Public Library",
+    "https://wyckofflibrary.org/"
+   ],
+   [
+    "Bergen County senior activity centers",
+    "https://bergencountynj.gov/?p=1078"
+   ],
+   [
+    "Bergen County Division of Senior Services",
+    "https://bergencountynj.gov/division-of-senior-services/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "mahwah",
+  "name": "Mahwah",
+  "county": "bergen",
+  "countyName": "Bergen County",
+  "intro": "Mahwah's Senior Activity Center on Corporate Drive serves people 62 and over on weekdays, with chair yoga, tai chi, watercolor, bridge and monthly health screenings. The township's Access Transportation offers curb to curb rides for a $1 suggested donation, and the area has big county parks like Darlington and Ramapo Valley.",
+  "seniorCenter": {
+   "name": "Mahwah Senior Activity Center",
+   "address": "475 Corporate Drive, Mahwah, NJ 07430",
+   "phone": "201-529-5757",
+   "url": "https://www.mahwahtwp.org/205/Senior-Activity-Center",
+   "notes": "Township main line; the director is at extension 213. Open Monday to Friday, 8 a.m. to 4 p.m., for people 62 and over. Programs include chair yoga, tai chi chih, Zumba Gold, Pilates, balance and fall prevention, watercolor, knitting, bridge, mahjong, line dancing, a monthly health screening, lectures, trips and special occasion luncheons."
+  },
+  "transport": {
+   "name": "Mahwah Access Transportation",
+   "phone": "201-529-2691",
+   "url": "https://www.mahwahtwp.org/187/Access-Transportation",
+   "notes": "Curb to curb rides for Mahwah seniors, people with disabilities and residents who cannot drive. Trips go to doctors, PT and OT, and the senior center, and may include shopping centers, banks and the Midland Park Senior Activity Center. Fill out the ridership application, then call to schedule. A $1 round trip donation is recommended."
+  },
+  "library": {
+   "name": "Mahwah Public Library",
+   "address": "100 Ridge Road, Mahwah, NJ 07430",
+   "phone": "201-529-7323",
+   "url": "https://www.mahwahlibrary.org/",
+   "notes": "Offers home delivery (ask whether you qualify), public computers, adult events and a Tuesday morning yoga program."
+  },
+  "more": [
+   {
+    "name": "Bergen County Division of Senior Services",
+    "phone": "201-336-7400",
+    "url": "https://bergencountynj.gov/division-of-senior-services/",
+    "note": "The county helpline for information, care management, Medicare counseling (SHIP) and meals. Toll free 1-877-222-3737."
+   }
+  ],
+  "places": [
+   {
+    "name": "Darlington County Park",
+    "note": "A 127 acre Bergen County park with walking paths, a summer swimming lake and lookout points over the water."
+   },
+   {
+    "name": "Continental Soldier's Park",
+    "note": "At 550 Ramapo Valley Road, with a mulch path and bridges around Lake Henry, a gazebo and a covered picnic area."
+   },
+   {
+    "name": "Winter Park",
+    "note": "On East Ramapo Avenue, with a pond, gazebo, picnic tables and a historic barn."
+   }
+  ],
+  "sources": [
+   [
+    "Mahwah Departments",
+    "https://www.mahwahtwp.org/27/Departments"
+   ],
+   [
+    "Mahwah Senior Activity Center",
+    "https://www.mahwahtwp.org/205/Senior-Activity-Center"
+   ],
+   [
+    "Mahwah Access Transportation",
+    "https://www.mahwahtwp.org/187/Access-Transportation"
+   ],
+   [
+    "Mahwah Parks and Facilities",
+    "https://www.mahwahtwp.org/612/Parks-Facilities"
+   ],
+   [
+    "Mahwah Public Library",
+    "https://www.mahwahlibrary.org/"
+   ],
+   [
+    "Darlington County Park",
+    "https://bergencountynj.gov/?p=4881"
+   ],
+   [
+    "Bergen County parks and outdoor activities",
+    "https://bergencountynj.gov/?p=238"
+   ],
+   [
+    "Bergen County Division of Senior Services",
+    "https://bergencountynj.gov/division-of-senior-services/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "ramsey",
+  "name": "Ramsey",
+  "county": "bergen",
+  "countyName": "Bergen County",
+  "intro": "Ramsey's senior center on East Oak Street is free to join for anyone 60 or older who lives in Ramsey or owns property there. Members get a monthly newsletter and a busy calendar of fitness, games and health screenings. The library offers homebound delivery, memory kits and dementia friendly services, and a borough van provides rides.",
+  "seniorCenter": {
+   "name": "Ramsey Senior Center",
+   "address": "75 E. Oak Street, Ramsey, NJ 07446",
+   "phone": "201-825-1975",
+   "url": "https://www.ramseynj.com/225/Senior-Center",
+   "notes": "Choose option 1. Open 9 a.m. to 4 p.m. No membership fee for anyone 60 or older who lives in or owns property in Ramsey. Activities include chair yoga, qi gong, Zumba Gold, a walking group, table tennis, bocce, shuffleboard, bingo, mahjong, canasta, knitting, a monthly book discussion and health screenings. Email seniors@ramseynj.com."
+  },
+  "transport": {
+   "name": "Ramsey Van Transportation",
+   "phone": "201-825-3400",
+   "url": "https://www.ramseynj.com/DocumentCenter/View/6201",
+   "notes": "Ask for extension 277. Listed in the Ramsey Senior Center newsletter. Call to ask who can ride, where it goes and how to book."
+  },
+  "library": {
+   "name": "Ramsey Free Public Library",
+   "address": "30 Wyckoff Avenue, Ramsey, NJ 07446",
+   "phone": "201-327-1445",
+   "url": "https://www.ramseylibrary.org/",
+   "notes": "Homebound delivery, dementia friendly services and memory kits, and tech assistance appointments."
+  },
+  "more": [
+   {
+    "name": "Bergen County Division of Community Transportation",
+    "phone": "201-368-5955",
+    "url": "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/",
+    "note": "County rides for seniors and people with disabilities, including routine medical visits. Press 1 for dispatch."
+   },
+   {
+    "name": "Bergen County Division of Senior Services",
+    "phone": "201-336-7400",
+    "url": "https://bergencountynj.gov/division-of-senior-services/",
+    "note": "The county helpline for information, care management, Medicare counseling (SHIP) and meals. Toll free 1-877-222-3737."
+   }
+  ],
+  "places": [
+   {
+    "name": "Finch Park",
+    "note": "On Church Street, with a pavilion and refreshment stand, restrooms, the VFW post and the Ramsey 9/11 memorial."
+   },
+   {
+    "name": "Darlington County Park",
+    "note": "A 127 acre Bergen County park in neighboring Mahwah with walking paths and a summer swimming lake."
+   }
+  ],
+  "sources": [
+   [
+    "Ramsey Senior Center",
+    "https://www.ramseynj.com/225/Senior-Center"
+   ],
+   [
+    "Ramsey Senior Center newsletter, Oct 2026",
+    "https://www.ramseynj.com/DocumentCenter/View/6201"
+   ],
+   [
+    "Ramsey Recreation",
+    "https://www.ramseynj.com/218/Recreation"
+   ],
+   [
+    "Ramsey Free Public Library",
+    "https://www.ramseylibrary.org/"
+   ],
+   [
+    "Darlington County Park",
+    "https://bergencountynj.gov/?p=4881"
+   ],
+   [
+    "Bergen County parks and outdoor activities",
+    "https://bergencountynj.gov/?p=238"
+   ],
+   [
+    "Bergen County Division of Senior Services",
+    "https://bergencountynj.gov/division-of-senior-services/"
+   ],
+   [
+    "Bergen County Community Transportation",
+    "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "morristown",
+  "name": "Morristown",
+  "county": "morris",
+  "countyName": "Morris County",
+  "intro": "The Morristown Senior Center on South Street helps town residents with grocery trips, medical rides, benefits referrals, exercise classes and day trips, and mails a newsletter on request. The town's free Colonial Coach bus loops through Morristown, and Washington's Headquarters Museum is in town on Washington Place.",
+  "seniorCenter": {
+   "name": "Morristown Senior Center",
+   "address": "200 South Street, 3rd Floor, Morristown, NJ 07960",
+   "phone": "973-292-6690",
+   "url": "https://www.townofmorristown.org/senior",
+   "notes": "Open Monday to Friday, 8:30 a.m. to 4:30 p.m., for Town of Morristown residents. Services include grocery shopping help, medical transportation, benefits counseling referral, nutrition programs, day trips, the Sixty-Plus Club, exercise classes, AARP driver safety and tax preparation, and an aging in place home repair program."
+  },
+  "transport": {
+   "name": "Morristown Senior Center van",
+   "phone": "973-292-6690",
+   "url": "https://www.townofmorristown.org/senior",
+   "notes": "Grocery pick up at 8 a.m. for about an hour of shopping: ShopRite on Tuesdays and Thursdays, Walmart on Wednesdays. Three bag limit. Reservations required. Ask the same number about medical transportation."
+  },
+  "library": {
+   "name": "Morristown and Morris Township Library",
+   "address": "1 Miller Road, Morristown, NJ 07960",
+   "phone": "973-538-6161",
+   "url": "https://mmtlibrary.org/",
+   "notes": "Free tech help Tuesday to Thursday, 11 a.m. to 3 p.m., in 30 minute sessions for computers, smartphones, tablets and Kindles. There is also a bookmobile."
+  },
+  "more": [
+   {
+    "name": "Colonial Coach",
+    "phone": "973-292-6670",
+    "url": "https://www.townofmorristown.org/coach",
+    "note": "Free town bus for Morristown residents on one route in and around town, Mondays, Wednesdays and Fridays. The schedule is posted on the town site."
+   },
+   {
+    "name": "Wetmore Towers lunch site",
+    "phone": "973-644-0343",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program/Local-Congregate-Dining",
+    "note": "Morris County midday meal for seniors, Monday to Friday. Free, with a $2 suggested donation. Call to register."
+   },
+   {
+    "name": "MAPS (Morris Area Paratransit System)",
+    "phone": "973-829-8103",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/MAPS",
+    "note": "County paratransit for residents 60 and over, people with disabilities and veterans. Apply first. Suggested donation $1 per round trip."
+   },
+   {
+    "name": "Morris County Division of Aging, Disabilities and Community Programming",
+    "phone": "973-285-6848",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming",
+    "note": "Information, referrals and help for older adults and caregivers, including care management and the county nutrition program. Toll free 800-564-4656."
+   }
+  ],
+  "places": [
+   {
+    "name": "Washington's Headquarters Museum",
+    "note": "30 Washington Place, part of Morristown National Historical Park. Open Thursday to Monday, 9:30 a.m. to 4:30 p.m. Free guided Ford Mansion tours start here."
+   },
+   {
+    "name": "Jockey Hollow",
+    "note": "Park grounds with a visitor center open Thursday to Monday, 9:30 a.m. to 4:30 p.m. Grounds open daily from sunrise."
+   }
+  ],
+  "sources": [
+   [
+    "Morristown Senior Center",
+    "https://www.townofmorristown.org/senior"
+   ],
+   [
+    "Morristown Colonial Coach",
+    "https://www.townofmorristown.org/coach"
+   ],
+   [
+    "Morristown and Morris Township Library",
+    "https://mmtlibrary.org/"
+   ],
+   [
+    "Morristown National Historical Park hours",
+    "https://www.nps.gov/morr/planyourvisit/hours.htm"
+   ],
+   [
+    "Morris County congregate dining sites",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program/Local-Congregate-Dining"
+   ],
+   [
+    "Morris County MAPS",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/MAPS"
+   ],
+   [
+    "Morris County Aging, Disabilities and Community Programming",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "parsippany-troy-hills",
+  "name": "Parsippany-Troy Hills",
+  "county": "morris",
+  "countyName": "Morris County",
+  "intro": "Parsippany's Office on Aging works out of the Community Center on Knoll Road, with a weekday county lunch site, exercise classes, Medicare counseling and loaner wheelchairs and walkers. Seniors without a ride can book medical trips a week ahead, and the township runs two free buses for all residents from Morris Hills Shopping Center.",
+  "seniorCenter": {
+   "name": "Parsippany Community Center and Office on Aging",
+   "address": "1130 Knoll Road, Lake Hiawatha, NJ 07034",
+   "phone": "973-263-7351",
+   "url": "https://www.parsippany.net/Pages/information-and-events-for-parsippany-seniors",
+   "notes": "Also 973-263-7352. Recreation and socializing weekdays, 9 a.m. to 5 p.m. Senior exercise classes ($3 a class), a county lunch site (reserve a day ahead at 973-884-1868), SHIP Medicare counseling by appointment, PAAD and Senior Gold help, loaner wheelchairs, walkers and canes, and free AARP tax help February through April."
+  },
+  "transport": {
+   "name": "Parsippany Office on Aging medical transportation",
+   "phone": "973-263-7351",
+   "url": "https://www.parsippany.net/Pages/information-and-events-for-parsippany-seniors",
+   "notes": "For Parsippany seniors who have no other ride or family to drive them. Riders must be ambulatory. Call at least one week ahead; medical appointments get top priority. Wheelchair riders should call the Health Department at 973-263-7160 and bring an aide or family member."
+  },
+  "library": {
+   "name": "Parsippany-Troy Hills Public Library",
+   "address": "449 Halsey Road, Parsippany, NJ 07054",
+   "phone": "",
+   "url": "",
+   "notes": "Main library of the township system. There are also branches in Lake Hiawatha (68 Nokomis Avenue) and Mount Tabor (31 Trinity Park)."
+  },
+  "more": [
+   {
+    "name": "Parsippany-Troy Hills Free Transit System",
+    "phone": "973-263-7352",
+    "url": "https://www.parsippany.net/Pages/the-parsippany-transit-bus-system",
+    "note": "Free for Parsippany residents, no reservation. Two routes start at Morris Hills Shopping Center and run on the hour on weekdays."
+   },
+   {
+    "name": "Parsippany Health Department blood pressure screening",
+    "phone": "973-263-7160",
+    "url": "https://www.parsippany.net/Pages/information-and-events-for-parsippany-seniors",
+    "note": "Daily screenings by appointment."
+   },
+   {
+    "name": "Skylands RSVP Friendly Visitor and Telephone Reassurance",
+    "phone": "973-784-4900",
+    "url": "https://www.parsippany.net/Pages/information-and-events-for-parsippany-seniors",
+    "note": "Ask for extension 210. Free weekly visits or daily check in calls from volunteers."
+   },
+   {
+    "name": "Morris County Division of Aging, Disabilities and Community Programming",
+    "phone": "973-285-6848",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming",
+    "note": "Information, referrals and help for older adults and caregivers, including care management and the county nutrition program. Toll free 800-564-4656."
+   }
+  ],
+  "places": [
+   {
+    "name": "Central Park of Morris County",
+    "note": "A 420 acre county park with over 11 miles of paved and natural trails, open daily sunrise to sunset."
+   },
+   {
+    "name": "Craftsman Farms",
+    "note": "A 27 acre historic site that was once the home of furniture designer Gustav Stickley."
+   },
+   {
+    "name": "Lake Hiawatha Park",
+    "note": "On Lake Shore Drive, with a gazebo honoring two residents who died in the Vietnam War."
+   }
+  ],
+  "sources": [
+   [
+    "Parsippany information for seniors",
+    "https://www.parsippany.net/Pages/information-and-events-for-parsippany-seniors"
+   ],
+   [
+    "Parsippany Transit Bus System",
+    "https://www.parsippany.net/Pages/the-parsippany-transit-bus-system"
+   ],
+   [
+    "Parsippany Parks and Forestry",
+    "https://www.parsippany.net/169/Parks-Forestry"
+   ],
+   [
+    "Central Park of Morris County",
+    "https://www.morrisparks.net/parks_trails/central-park-of-morris-county/"
+   ],
+   [
+    "Morris County warming centers (library addresses)",
+    "https://www.morriscountynj.gov/Departments/Office-of-Emergency-Management/Warming-Centers"
+   ],
+   [
+    "Morris County Dial a Ride listings",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Dial-a-Ride"
+   ],
+   [
+    "Morris County Aging, Disabilities and Community Programming",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "madison",
+  "name": "Madison",
+  "county": "morris",
+  "countyName": "Morris County",
+  "intro": "Madison shares a senior center with the Chathams through a shared service agreement, so residents can use the Senior Center of the Chathams on Meyersville Road. At home, the borough's senior transportation program offers same day custom rides around town plus regular trips to ShopRite, Stop and Shop and Walmart.",
+  "seniorCenter": {
+   "name": "Senior Center of the Chathams",
+   "address": "58 Meyersville Road, Chatham Township, NJ 07928",
+   "phone": "973-635-4565",
+   "url": "https://chathamseniorcenter.org/",
+   "notes": "Madison has a shared service agreement with this center, which offers social, recreational, educational and wellness programs to Madison residents. Open Monday to Friday, 9 a.m. to 3 p.m. Email info@chathamseniorcenter.org."
+  },
+  "transport": {
+   "name": "Madison Senior Transportation",
+   "phone": "973-593-3095",
+   "url": "https://www.rosenet.org/1415/Senior-Transportation",
+   "notes": "Choose option 1. For Madison residents 18 and older, to any Madison location and ShopRite of Chatham. Custom rides Monday, Wednesday and Friday, 9 a.m. to noon; set grocery runs Tuesday and Thursday; Walmart on the 2nd and 4th Thursdays. Same day reservations open at 8 a.m. Schedule subject to change."
+  },
+  "library": {
+   "name": "Madison Public Library",
+   "address": "39 Keep Street, Madison, NJ 07940",
+   "phone": "973-377-0722",
+   "url": "https://www.madisonnjlibrary.org/",
+   "notes": "Tech Help sessions, chair yoga, a knitting group, book discussions and an adult movie matinee."
+  },
+  "more": [
+   {
+    "name": "Madison Senior Services",
+    "phone": "973-593-3042",
+    "url": "https://www.rosenet.org/347/Senior-Services",
+    "note": "Borough page with senior transportation and a Meals on Wheels flyer. Hartley Dodge Memorial Building, 50 Kings Road."
+   },
+   {
+    "name": "Morris County Nutrition Program, home delivered meals",
+    "phone": "973-285-6856",
+    "url": "https://morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program",
+    "note": "Meals for homebound seniors who qualify. Call for an assessment."
+   },
+   {
+    "name": "Morris County Division of Aging, Disabilities and Community Programming",
+    "phone": "973-285-6848",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming",
+    "note": "Information, referrals and help for older adults and caregivers, including care management and the county nutrition program. Toll free 800-564-4656."
+   }
+  ],
+  "places": [
+   {
+    "name": "Madison Community Arts Center",
+    "note": "10 Kings Road, a five minute walk from the train station, with film festivals, art shows and theater. Free street and nearby parking."
+   },
+   {
+    "name": "Madison Public Library",
+    "note": "Regular chair yoga, knitting and movie matinees on Keep Street."
+   }
+  ],
+  "sources": [
+   [
+    "Madison Senior Services",
+    "https://www.rosenet.org/347/Senior-Services"
+   ],
+   [
+    "Madison Senior Transportation",
+    "https://www.rosenet.org/1415/Senior-Transportation"
+   ],
+   [
+    "Madison Departments",
+    "https://www.rosenet.org/101/Departments"
+   ],
+   [
+    "Senior Center of the Chathams",
+    "https://chathamseniorcenter.org/"
+   ],
+   [
+    "Madison Public Library",
+    "https://www.madisonnjlibrary.org/"
+   ],
+   [
+    "Madison Community Arts Center",
+    "http://www.rosenet.org/1093/Madison-Community-Arts-Center"
+   ],
+   [
+    "Morris County Aging, Disabilities and Community Programming",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "chatham-borough",
+  "name": "Chatham (Borough)",
+  "county": "morris",
+  "countyName": "Morris County",
+  "intro": "Chatham Borough residents use the Senior Center of the Chathams on Meyersville Road for wellness classes, lifelong learning, support groups and caregiver advice. The Library of the Chathams on Main Street delivers books to homebound residents, and the borough's Health and Social Services office on Fairmount Avenue can point you to county help.",
+  "seniorCenter": {
+   "name": "Senior Center of the Chathams",
+   "address": "58 Meyersville Road, Chatham Township, NJ 07928",
+   "phone": "973-635-4565",
+   "url": "https://chathamseniorcenter.org/",
+   "notes": "Listed by the borough as its senior center. Open Monday to Friday, 9 a.m. to 3 p.m. Programs cover wellness and fitness, enrichment classes and lectures, support and connection groups, and information and referral for seniors and caregivers."
+  },
+  "transport": {
+   "name": "MAPS (Morris Area Paratransit System)",
+   "phone": "973-829-8103",
+   "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/MAPS",
+   "notes": "Chatham does not appear on the county's list of municipal Dial a Ride programs, so MAPS is the main option. Morris Area Paratransit System rides for residents 60 and over, people with disabilities, veterans and some rural residents, for medical trips, social services and grocery shopping. Apply first with proof of eligibility. Suggested donation $1 per round trip."
+  },
+  "library": {
+   "name": "Library of the Chathams",
+   "address": "214 Main Street, Chatham, NJ 07928",
+   "phone": "973-635-0603",
+   "url": "https://chathamlibrary.org/",
+   "notes": "Home delivery for Chatham residents who are homebound or cannot get to the library for health reasons. Staff and Friends volunteers bring books and movies to your door, usually within a day or two."
+  },
+  "more": [
+   {
+    "name": "Chatham Borough Health and Social Services",
+    "phone": "973-635-0674",
+    "url": "https://www.chathamborough.org/resident/health-social-services",
+    "note": "54 Fairmount Avenue. Open Monday to Friday, 8 a.m. to 4 p.m."
+   },
+   {
+    "name": "Morris County Nutrition Program, home delivered meals",
+    "phone": "973-285-6856",
+    "url": "https://morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program",
+    "note": "Meals for homebound seniors who qualify. Call for an assessment."
+   },
+   {
+    "name": "Morris County Division of Aging, Disabilities and Community Programming",
+    "phone": "973-285-6848",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming",
+    "note": "Information, referrals and help for older adults and caregivers, including care management and the county nutrition program. Toll free 800-564-4656."
+   }
+  ],
+  "places": [
+   {
+    "name": "Shepard Kollock Park",
+    "note": "Off Parrott Mill Road, with a walking trail, a sheltered picnic area and a boat launch."
+   },
+   {
+    "name": "Garden Park",
+    "note": "Off Main Street next to Chatham Middle School, with a walking path and a rest area."
+   }
+  ],
+  "sources": [
+   [
+    "Chatham Borough home page",
+    "https://www.chathamborough.org/"
+   ],
+   [
+    "Chatham Borough Health and Social Services",
+    "https://www.chathamborough.org/resident/health-social-services"
+   ],
+   [
+    "Chatham Borough recreation facilities",
+    "https://www.chathamborough.org/departments/recreation"
+   ],
+   [
+    "Senior Center of the Chathams",
+    "https://chathamseniorcenter.org/"
+   ],
+   [
+    "Library of the Chathams home delivery",
+    "https://chathamlibrary.org/home-delivery-service"
+   ],
+   [
+    "Morris County Dial a Ride listings",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Dial-a-Ride"
+   ],
+   [
+    "Morris County MAPS",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/MAPS"
+   ],
+   [
+    "Morris County Aging, Disabilities and Community Programming",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "randolph",
+  "name": "Randolph",
+  "county": "morris",
+  "countyName": "Morris County",
+  "intro": "Randolph runs senior programs from the Township Community Center on Calais Road, right next to the library, with day trips, outings, movie nights and card games. Residents 60 and over can get a $10 Senior ID card for free swimming at Randolph Lake, and the township Dial-A-Ride covers medical visits and Monday shopping.",
+  "seniorCenter": {
+   "name": "Randolph Township Community Center",
+   "address": "30 Calais Road, Randolph, NJ 07869",
+   "phone": "973-989-7084",
+   "url": "https://randolphnj.org/171/Community-Services",
+   "notes": "Senior programs through the Community Services Department include \"Just For the Fun of It\" day trips, monthly outings, movie nights, cards and games. The Senior ID Card for residents 60 and over costs $10 a year and includes free admission to township sporting events, free swimming at Randolph Lake and free tennis at Brundage Park."
+  },
+  "transport": {
+   "name": "Randolph Dial-A-Ride",
+   "phone": "973-989-7084",
+   "url": "https://randolphnj.org/174/Dial-A-Ride-Program",
+   "notes": "For permanent Randolph residents 60 and over, and disabled adults 18 and over who receive Social Security disability. Medical trips Monday to Thursday to doctors within 10 miles of Town Hall; book as soon as you make the appointment. Shopping trips on Mondays to ShopRite or Walmart in Roxbury; book by Friday."
+  },
+  "library": {
+   "name": "Randolph Township Free Public Library",
+   "address": "28 Calais Road, Randolph, NJ 07869",
+   "phone": "973-895-3556",
+   "url": "",
+   "notes": "Next door to the Community Center."
+  },
+  "more": [
+   {
+    "name": "Randolph Health Screenings",
+    "phone": "973-989-7100",
+    "url": "https://randolphnj.org/181/Health-Screenings",
+    "note": "The Health Department offers screenings and clinics. Township main line."
+   },
+   {
+    "name": "Morris County Nutrition Program, home delivered meals",
+    "phone": "973-285-6856",
+    "url": "https://morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program",
+    "note": "Meals for homebound seniors who qualify. Call for an assessment."
+   },
+   {
+    "name": "Morris County Division of Aging, Disabilities and Community Programming",
+    "phone": "973-285-6848",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming",
+    "note": "Information, referrals and help for older adults and caregivers, including care management and the county nutrition program. Toll free 800-564-4656."
+   }
+  ],
+  "places": [
+   {
+    "name": "Hedden County Park",
+    "note": "420 acres with Hedden Pond, a fishing deck, a picnic shelter and a paved recreation trail. Open sunrise to sunset."
+   },
+   {
+    "name": "Brundage Park Playhouse",
+    "note": "Community theater in Brundage Park."
+   }
+  ],
+  "sources": [
+   [
+    "Randolph Community Services",
+    "https://randolphnj.org/171/Community-Services"
+   ],
+   [
+    "Randolph Dial-A-Ride",
+    "https://randolphnj.org/174/Dial-A-Ride-Program"
+   ],
+   [
+    "Randolph Township Community Center",
+    "https://randolphnj.org/Facilities/Facility/Details/Randolph-Township-Community-Center-18"
+   ],
+   [
+    "Randolph Parks and Recreation",
+    "https://www.randolphnj.org/157/Parks-Recreation"
+   ],
+   [
+    "LibraryLinkNJ, Randolph library",
+    "https://librarylinknj.org/library/2939"
+   ],
+   [
+    "Hedden County Park",
+    "https://www.morrisparks.net/parks_trails/hedden-county-park/"
+   ],
+   [
+    "Morris County Aging, Disabilities and Community Programming",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "morris-township",
+  "name": "Morris Township",
+  "county": "morris",
+  "countyName": "Morris County",
+  "intro": "Morris Township's Senior Club is open to residents 60 and over for $10 a year, with monthly meetings, day trips and holiday parties. The township has no municipal Dial-a-Ride, so MAPS is the main ride option. Two county gems sit in the township: the Frelinghuysen Arboretum and Fosterfields Living Historical Farm.",
+  "seniorCenter": {
+   "name": "Township of Morris Senior Club",
+   "address": "Newbridge Church, 57 Kahdena Road, Morris Township, NJ 07960",
+   "phone": "973-326-7371",
+   "url": "https://morristwp.com/1249",
+   "notes": "The township page does not list a separate senior center. The club is open to Morris Township residents 60 and over for $10 a year and meets at 1 p.m. on the first Tuesday of the month (second Tuesday in June and November, no meetings in July, August or December). Day trips, motorcoach trips, a May Gala and a holiday party. Call Parks and Recreation."
+  },
+  "transport": {
+   "name": "MAPS (Morris Area Paratransit System)",
+   "phone": "973-829-8103",
+   "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/MAPS",
+   "notes": "The county lists no municipal Dial a Ride for Morris Township or Morristown. Morris Area Paratransit System rides for residents 60 and over, people with disabilities, veterans and some rural residents, for medical trips, social services and grocery shopping. Apply first with proof of eligibility. Suggested donation $1 per round trip."
+  },
+  "library": {
+   "name": "Morristown and Morris Township Library",
+   "address": "1 Miller Road, Morristown, NJ 07960",
+   "phone": "973-538-6161",
+   "url": "https://mmtlibrary.org/",
+   "notes": "Free tech help Tuesday to Thursday, 11 a.m. to 3 p.m., in 30 minute sessions. There is also a bookmobile."
+  },
+  "more": [
+   {
+    "name": "Morris Mews congregate dining",
+    "phone": "973-540-8063",
+    "url": "https://morristwp.com/1223",
+    "note": "Free weekday midday meal at Dean A. Gallo Congregate Housing, 99 Ketch Road. Call to register."
+   },
+   {
+    "name": "Morris County Nutrition Program, home delivered meals",
+    "phone": "973-285-6856",
+    "url": "https://morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program",
+    "note": "Meals for homebound seniors who qualify. Call for an assessment."
+   },
+   {
+    "name": "Morris County Division of Aging, Disabilities and Community Programming",
+    "phone": "973-285-6848",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming",
+    "note": "Information, referrals and help for older adults and caregivers, including care management and the county nutrition program. Toll free 800-564-4656."
+   }
+  ],
+  "places": [
+   {
+    "name": "Frelinghuysen Arboretum",
+    "note": "353 East Hanover Avenue. Gardens and paved trails, open daily from 8 a.m. to sunset, year round."
+   },
+   {
+    "name": "Fosterfields Living Historical Farm",
+    "note": "73 Kahdena Road. A working farm from over 100 years ago, open April through October. $5 admission."
+   }
+  ],
+  "sources": [
+   [
+    "Morris Township Senior Club",
+    "https://morristwp.com/1249"
+   ],
+   [
+    "Morris Township senior citizen resources",
+    "https://morristwp.com/1223"
+   ],
+   [
+    "Morris Township activities resources",
+    "https://morristwp.com/1215"
+   ],
+   [
+    "Morristown and Morris Township Library",
+    "https://mmtlibrary.org/"
+   ],
+   [
+    "Frelinghuysen Arboretum",
+    "https://www.morrisparks.net/parks_trails/frelinghuysen-arboretum/"
+   ],
+   [
+    "Fosterfields Living Historical Farm",
+    "https://www.morrisparks.net/parks_trails/fosterfields-living-historical-farm/"
+   ],
+   [
+    "Morris County Dial a Ride listings",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Dial-a-Ride"
+   ],
+   [
+    "Morris County MAPS",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/MAPS"
+   ],
+   [
+    "Morris County Aging, Disabilities and Community Programming",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "denville",
+  "name": "Denville",
+  "county": "morris",
+  "countyName": "Morris County",
+  "intro": "Denville seniors can sit down to a county lunch three days a week at Cook's Pond Senior Housing on Diamond Spring Road. Denville Dial A Ride takes residents 55 and over to medical visits within eight miles and to the grocery store, and Tourne County Park has a wildflower trail with 250 native species.",
+  "seniorCenter": {
+   "name": "Cook's Pond Senior Housing lunch site",
+   "address": "455 Diamond Spring Road, Denville, NJ 07834",
+   "phone": "973-983-1142",
+   "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program/Local-Congregate-Dining",
+   "notes": "A Morris County midday meal site for seniors on Monday, Wednesday and Friday. Meals are free with a $2 suggested donation. Call at least 24 hours ahead to reserve."
+  },
+  "transport": {
+   "name": "Denville Dial A Ride",
+   "phone": "973-625-7799",
+   "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Dial-a-Ride",
+   "notes": "For Denville residents 55 and over and disabled adults 18 and over. Medical trips within 8 miles of the Denville Municipal Building, plus food shopping. Book 72 hours ahead. Monday to Friday, 7:30 a.m. to 3 p.m. Not wheelchair accessible. Details come from the county list, so confirm when you call."
+  },
+  "library": {
+   "name": "Denville Public Library",
+   "address": "121 Diamond Spring Road, Denville, NJ 07834",
+   "phone": "973-627-6555",
+   "url": "",
+   "notes": ""
+  },
+  "more": [
+   {
+    "name": "MAPS (Morris Area Paratransit System)",
+    "phone": "973-829-8103",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/MAPS",
+    "note": "County paratransit for residents 60 and over, people with disabilities and veterans. Apply first. Suggested donation $1 per round trip."
+   },
+   {
+    "name": "Morris County Nutrition Program, home delivered meals",
+    "phone": "973-285-6856",
+    "url": "https://morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program",
+    "note": "Meals for homebound seniors who qualify. Call for an assessment."
+   },
+   {
+    "name": "Morris County Division of Aging, Disabilities and Community Programming",
+    "phone": "973-285-6848",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming",
+    "note": "Information, referrals and help for older adults and caregivers, including care management and the county nutrition program. Toll free 800-564-4656."
+   }
+  ],
+  "places": [
+   {
+    "name": "Tourne County Park",
+    "note": "Over 550 acres with more than 10 miles of trails at McCaffrey Lane and Old Boonton Road. Open daily, sunrise to sunset."
+   },
+   {
+    "name": "Emily K. Hammond Wildflower Trail",
+    "note": "Inside Tourne County Park, with about 250 species of native plants and wildflowers."
+   }
+  ],
+  "sources": [
+   [
+    "Morris County congregate dining sites",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program/Local-Congregate-Dining"
+   ],
+   [
+    "Morris County midday meal sites 2026",
+    "https://www.morriscountynj.gov/files/content/public/v/16/departments/aging-disabilities-community-programming/nutrition-program/middday-centers-2026.pdf"
+   ],
+   [
+    "Morris County Dial a Ride listings",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Dial-a-Ride"
+   ],
+   [
+    "Morris County warming centers (library address)",
+    "https://www.morriscountynj.gov/Departments/Office-of-Emergency-Management/Warming-Centers"
+   ],
+   [
+    "Tourne County Park",
+    "https://www.morrisparks.net/parks_trails/tourne-county-park/"
+   ],
+   [
+    "Morris County MAPS",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/MAPS"
+   ],
+   [
+    "Morris County Aging, Disabilities and Community Programming",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming"
+   ]
+  ],
+  "updated": "2026-10-27"
+ },
+ {
+  "slug": "montville",
+  "name": "Montville",
+  "county": "morris",
+  "countyName": "Morris County",
+  "intro": "Montville Senior House on Main Road hosts a county lunch on Tuesdays and Thursdays. Montville Township Dial A Ride gives curb to curb rides to residents 55 and over on weekdays, with grocery runs on Wednesdays, and Pyramid Mountain's visitor center runs guided hikes and programs all year.",
+  "seniorCenter": {
+   "name": "Montville Senior House",
+   "address": "356 Main Road, Montville, NJ 07045",
+   "phone": "973-316-8560",
+   "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program/Local-Congregate-Dining",
+   "notes": "A Morris County midday meal site on Tuesdays and Thursdays. Meals are free with a $2 suggested donation. Call at least 24 hours ahead to reserve, and ask about other activities at the house."
+  },
+  "transport": {
+   "name": "Montville Township Dial A Ride",
+   "phone": "973-331-3336",
+   "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Dial-a-Ride",
+   "notes": "Curb to curb for residents 55 and over in Montville or Boonton Township; disabled residents should call the office. Monday to Friday, 9:30 a.m. to 3 p.m., with food shopping on Wednesdays only. Book 24 hours ahead. Riders must be ambulatory unless they bring their own wheelchair and an escort. Details come from the county list, so confirm when you call."
+  },
+  "library": {
+   "name": "Montville Township Public Library",
+   "address": "90 Horseneck Road, Montville, NJ 07045",
+   "phone": "973-402-0900",
+   "url": "http://www.montvillelib.org",
+   "notes": ""
+  },
+  "more": [
+   {
+    "name": "MAPS (Morris Area Paratransit System)",
+    "phone": "973-829-8103",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/MAPS",
+    "note": "County paratransit for residents 60 and over, people with disabilities and veterans. Apply first. Suggested donation $1 per round trip."
+   },
+   {
+    "name": "Morris County Nutrition Program, home delivered meals",
+    "phone": "973-285-6856",
+    "url": "https://morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program",
+    "note": "Meals for homebound seniors who qualify. Call for an assessment."
+   },
+   {
+    "name": "Morris County Division of Aging, Disabilities and Community Programming",
+    "phone": "973-285-6848",
+    "url": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming",
+    "note": "Information, referrals and help for older adults and caregivers, including care management and the county nutrition program. Toll free 800-564-4656."
+   }
+  ],
+  "places": [
+   {
+    "name": "Pyramid Mountain Natural Historic Area",
+    "note": "472 Boonton Avenue. Over 1,600 acres of rugged trails, with big glacial boulders like Tripod Rock. Trails open sunrise to sunset."
+   },
+   {
+    "name": "Pyramid Mountain Visitor Center",
+    "note": "Open 9 a.m. to 4 p.m. with guided hikes and programs year round. Closed Sunday to Tuesday in July and August."
+   }
+  ],
+  "sources": [
+   [
+    "Morris County congregate dining sites",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program/Local-Congregate-Dining"
+   ],
+   [
+    "Morris County midday meal sites 2026",
+    "https://www.morriscountynj.gov/files/content/public/v/16/departments/aging-disabilities-community-programming/nutrition-program/middday-centers-2026.pdf"
+   ],
+   [
+    "Morris County Dial a Ride listings",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Dial-a-Ride"
+   ],
+   [
+    "Morris County warming centers",
+    "https://www.morriscountynj.gov/Departments/Office-of-Emergency-Management/Warming-Centers"
+   ],
+   [
+    "NNLM directory, Montville Township Public Library",
+    "https://www.nnlm.gov/membership/directory/3358"
+   ],
+   [
+    "Pyramid Mountain Natural Historic Area",
+    "https://www.morrisparks.net/parks_trails/pyramid-mountain-natural-historic-area/"
+   ],
+   [
+    "Morris County MAPS",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/MAPS"
+   ],
+   [
+    "Morris County Aging, Disabilities and Community Programming",
+    "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming"
+   ]
+  ],
+  "updated": "2026-10-27"
+ }
+]
