@@ -9,7 +9,9 @@ Live site is published by Netlify from the `site/` folder on every push to `main
 
 ## Owner's rules
 - No em or en dashes in site copy. Copy should sound human.
-- Nav: Home first, then topics. "Care Management" button links to https://www.caremanagementconnect.net (Lisa Kolton, the owner's mother). "Activities at Home" links to https://homehappenings.com.
+- Nav: Home first, then topics. Only one header button, "Activities at Home" (homehappenings.com, disabled until launch). No Care Management button in the header; Connections Care Management (https://www.caremanagementconnect.net, Lisa Kolton, the owner's mother) is listed first, marked Featured, on the Find care help pages (/find-help/, data in src/content/pros.json).
+- New pages: town guides (/town/<slug>/, src/content/towns.json; they show a Home Happenings promo that stays unlinked until HH_LIVE) and Spanish guides (/es/<slug>/, src/content/es.json, each with an "en" slug; English guides show a "Leer en español" link).
+- Images: square or horizontal crops only, never tall vertical.
 - Email signup must not promise any schedule ("now and then" is fine). Do not ask readers for corrections.
 - Every figure in a guide needs an official source and an updated date.
 
