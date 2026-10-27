@@ -9,9 +9,12 @@ Live site is published by Netlify from the `site/` folder on every push to `main
 
 ## Owner's rules
 - No em or en dashes in site copy. Copy should sound human.
-- Nav: Home first, then topics. Only one header button, "Activities at Home" (homehappenings.com, disabled until launch). No Care Management button in the header; Connections Care Management (https://www.caremanagementconnect.net, Lisa Kolton, the owner's mother) is listed first, marked Featured, on the Find care help pages (/find-help/, data in src/content/pros.json).
+- Nav: Home first, then topics. Only one header button, "Activities at Home" (homehappenings.com, disabled until launch). No Care Management button in the header; Connections Care Management (https://www.caremanagementconnect.net, Lisa Kolton, the owner's mother) is listed first (no Featured tag) on the Find care help pages (/find-help/, data in src/content/pros.json).
 - New pages: town guides (/town/<slug>/, src/content/towns.json; they show a Home Happenings promo that stays unlinked until HH_LIVE) and Spanish guides (/es/<slug>/, src/content/es.json, each with an "en" slug; English guides show a "Leer en español" link).
 - Images: square or horizontal crops only, never tall vertical.
+- Share thumbnails: every page gets its own 1200x630 card (logo, page headline, page photo) made by scripts/og_cards.js during the build and cached in src/img/og/p (manifest.json). Commit them. The home card uses the couple-walking photo and no subline.
+- Mobile: nothing may ever scroll sideways. Filter buttons wrap (short labels on phones), fact tables stack into cards on phones. After layout changes, check every sitemap page at 360px and 390px for horizontal overflow.
+- Find care help: Connections Care Management stays first (featured:true is only a sort key) but shows no Featured tag and is not named in the page disclaimer. Only add providers whose name, phone and site were confirmed on their own site or a government site.
 - Email signup must not promise any schedule ("now and then" is fine). Do not ask readers for corrections.
 - Every figure in a guide needs an official source and an updated date.
 

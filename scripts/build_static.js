@@ -13,6 +13,7 @@ const HUBN={benefits:'Benefits & Money',health:'Health & Medicare',caregiving:'C
  const AM=Object.fromEntries(data.a.map(a=>[a.slug,a])),CM=Object.fromEntries(data.c.map(c=>[c.slug,c]));
  const routes=['/'].concat(Object.keys(HUBN).map(h=>'/hub/'+h),data.a.map(a=>'/article/'+a.slug),data.s.map(s=>'/steps/'+s),['/counties'],data.c.map(c=>'/county/'+c.slug),['/checker','/dates','/glossary','/directory','/about','/articles'],data.k.map(s=>'/checklist/'+s),['/for/seniors','/for/families','/for/pros'],['/find-help','/find-help/care-managers','/find-help/social-services','/find-help/home-care','/find-help/adult-day','/towns'],data.t.map(t=>'/town/'+t.slug),data.e.length?['/es']:[],data.e.map(e=>'/es/'+e.slug));
  const EM=Object.fromEntries(data.e.map(e=>[e.slug,e])),EN2ES=Object.fromEntries(data.e.map(e=>[e.en,e]));
+ const OG=[];
  const urlOf=r=>DOMAIN+(r==='/'?'/':r+'/');
  const crumbsFor=r=>{const L=[['Home',DOMAIN+'/']];const [,a,b2]=r.split('/');
   if(a==='hub')L.push([HUBN[b2],urlOf(r)]);
@@ -21,10 +22,10 @@ const HUBN={benefits:'Benefits & Money',health:'Health & Medicare',caregiving:'C
   else if(a)L.push([null,urlOf(r)]);return L};
  const render=async(r)=>{
   await p.evaluate(r=>{window.__forcePath=r;window.__route()},r);await p.waitForTimeout(50);
-  const meta=await p.evaluate(()=>({t:document.title,d:document.querySelector('meta[name="description"]').content,h:(document.querySelector('h1')||{}).textContent||''}));
+  const meta=await p.evaluate(()=>{const im=document.querySelector('main .phead img, main .hubhero img, main figure img');const m=im&&im.getAttribute('src').match(/img\/([\w-]+)\.jpg/);return{t:document.title,d:document.querySelector('meta[name="description"]').content,h:(document.querySelector('h1')||{}).textContent||'',pk:m?m[1]:''}});
   let html='<!doctype html>\n'+await p.evaluate(()=>document.documentElement.outerHTML);
   const url=urlOf(r);const slug=r.startsWith('/article/')?r.slice(9):null;const esSlug=r.startsWith('/es/')?r.slice(4):null;const esa=esSlug&&EM[esSlug];const art=(slug&&AM[slug])||(esa?{...esa,hub:(AM[esa.en]||{}).hub}:null);const pairEs=slug&&EN2ES[slug];
-  const img=DOMAIN+'/img/og/'+(art?art.photo:'home')+'.jpg';
+  const ogName=r==='/'?'home':r.slice(1).replace(/\//g,'-');const img=DOMAIN+'/img/og/p/'+ogName+'.jpg';if(r!=='/not-found')OG.push({name:ogName,r,h:meta.h,pk:art?art.photo:meta.pk});
   const ld=[];
   const cr=crumbsFor(r);if(r!=='/')ld.push({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":cr.map((c,i)=>({"@type":"ListItem","position":i+1,"name":c[0]||meta.h,"item":c[1]}))});
   if(art){ld.push({"@context":"https://schema.org","@type":"Article","headline":art.title,"description":art.dek,"image":img,"dateModified":art.updated,"datePublished":art.updated,"inLanguage":esa?"es-US":"en-US","about":HUBN[art.hub],"author":{"@type":"Organization","name":"Seniors of NJ","url":DOMAIN+'/'},"publisher":{"@type":"Organization","name":"Seniors of NJ","url":DOMAIN+'/',"logo":{"@type":"ImageObject","url":DOMAIN+'/apple-touch-icon.png'}},"mainEntityOfPage":url,"spatialCoverage":{"@type":"State","name":"New Jersey"}});
@@ -51,6 +52,7 @@ const HUBN={benefits:'Benefits & Money',health:'Health & Medicare',caregiving:'C
  const llms=`# Seniors of NJ\n\n> The home for older adults in New Jersey. Independent, plain-English guides to New Jersey senior benefits (ANCHOR, Senior Freeze, Stay NJ, PAAD, LIHEAP), Medicare, caregiving, housing, things to do and ways to learn, work and meet people. Every guide cites official sources and shows the date it was last updated. Not a government agency.\n\n`+Object.entries(HUBN).map(([h,n])=>`## ${n}\n\n${byHub(h)}`).join('\n\n')+`\n\n## County guides\n\n`+data.c.map(c=>`- [${c.name}](${urlOf('/county/'+c.slug)}): office on aging, senior transportation and places to go`).join('\n')+`\n\n## Tools\n\n- [Benefits checker](${urlOf('/checker')}): six questions to see which New Jersey programs may fit\n- [Key dates](${urlOf('/dates')}): deadlines and enrollment windows\n- [Phone directory](${urlOf('/directory')}): official offices that help older adults\n- [Glossary](${urlOf('/glossary')}): plain-English definitions\n`;
  fs.writeFileSync(path.join(DIST,'llms.txt'),llms+`\n## Find care help\n\n- [Find care help in New Jersey](${DOMAIN}/find-help/): geriatric care managers, social workers, home care agencies and adult day programs with phone numbers\n- [Geriatric care managers](${DOMAIN}/find-help/care-managers/)\n- [Social workers and family services](${DOMAIN}/find-help/social-services/)\n- [Home care agencies](${DOMAIN}/find-help/home-care/)\n- [Adult day programs](${DOMAIN}/find-help/adult-day/)\n`+(data.t.length?`\n## Town guides\n\n`+data.t.map(t=>`- [Seniors in ${t.name}, NJ](${DOMAIN}/town/${t.slug}/): senior center, rides, library and outings in ${t.countyName}`).join('\n')+'\n':'')+(data.e.length?`\n## En español\n\n`+data.e.map(e=>`- [${e.title}](${DOMAIN}/es/${e.slug}/): ${e.dek}`).join('\n')+'\n':''));
  fs.writeFileSync(path.join(DIST,'_redirects'),'/search/*  /index.html  200\n');
+ await require('./og_cards.js')(b,DIST,OG);
  console.log(routes.length,'pages',errs.slice(0,3));
  await b.close();
 })();
