@@ -805,6 +805,21 @@ p,li,dd,dt,figcaption,summary,label,.dek,.lede,.tag,.kicker,.meta,.t2 span,.t2 b
  .cty-map svg{max-height:190px;width:auto;display:block;margin:0 auto}
  .cfacts .big{font-size:18.5px!important;line-height:1.3!important}.cfacts > div{padding:16px 18px}
 }
+
+/* Home Happenings ad cards (render only when HH_LIVE) */
+.hhad{display:grid;grid-template-columns:minmax(0,260px) minmax(0,1fr);border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--surface);color:var(--ink);text-decoration:none;margin:26px 0}
+.hhad .ph{height:100%;border-radius:0}.hhad .ph img{height:100%;object-fit:cover}
+.hhad .t{display:flex;flex-direction:column;gap:6px;padding:20px 22px}
+.hhad small{font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--red)}
+.hhad b{font-family:var(--display);font-size:23px;line-height:1.15}
+.hhad .p{font-size:16px;color:var(--ink-2)}
+.hhad .b{align-self:flex-start;margin-top:6px;background:var(--blue);color:var(--on-blue);font-weight:700;font-size:15px;padding:10px 18px;border-radius:999px}
+.hhad em{font-style:normal;font-size:12px;color:var(--ink-2)}
+.hhad:hover b{color:var(--blue)}
+.hhad-wide{grid-template-columns:minmax(0,360px) minmax(0,1fr);max-height:240px}
+.hhad-side{grid-template-columns:1fr;margin:0 0 16px}.hhad-side .ph{aspect-ratio:16/10;height:auto}.hhad-side b{font-size:20px}.hhad-side .t{padding:16px 18px}
+@media (max-width:1000px){.hhad-side{display:none}}
+@media (max-width:700px){.hhad,.hhad-wide{grid-template-columns:1fr;max-height:none}.hhad .ph{aspect-ratio:16/9;height:auto}.hhad .t{padding:16px 18px}.hhad b{font-size:21px}}
 </style>
 </head>
 <body>
@@ -914,6 +929,7 @@ p,li,dd,dt,figcaption,summary,label,.dek,.lede,.tag,.kicker,.meta,.t2 span,.t2 b
   <aside class="aside">
    <div class="keyfacts"><b>Datos clave</b><ul><li data-wd="1">PAAD: $5 por genéricos y $7 por medicamentos de marca, con ingresos de menos de $54,943 (soltero) o&nbsp;$62,390&nbsp;(casados)</li><li data-wd="1">Senior Gold cubre hasta $10,000 por encima de los límites&nbsp;de&nbsp;PAAD</li><li data-wd="1">Los Programas de Ahorros de Medicare pueden pagar la prima de la Parte B&nbsp;de&nbsp;$202.90</li><li data-wd="1">HAAAD reembolsa hasta $500 por audífono a los miembros de PAAD&nbsp;y&nbsp;Lifeline</li><li data-wd="1">Línea de PAAD y&nbsp;NJSave:&nbsp;<span class="nw">1-800-792-9745</span></li></ul></div>
    
+   
    <div class="callbox"><b>¿Prefiere hablar con alguien?</b>La oficina de servicios para personas mayores de su condado ayuda gratis: <span class="tel"><span class="nw">1-877-222-3737</span></span>. O marque el <span class="tel">2-1-1</span>.</div>
    
   </aside>
@@ -986,6 +1002,17 @@ const art=key=>`<span class="art" aria-hidden="true">${njSvg()}<svg class="ic" v
 const STATIC=!!window.SON_STATIC, ROOT=STATIC?"/":"";
 /* Home Happenings launch switch. Set HH_LIVE=true at launch: activates every homehappenings.com link and the county-page promos. */
 const HH_LIVE=false, HH_COUNTIES=["essex","passaic"];
+/* Home Happenings ads: only render when HH_LIVE is true. */
+const HH_AREA="Essex and Passaic counties";
+const HH_ADS={
+ piano:{img:"piano",h:"Piano lessons in your living room",p:"A patient local teacher comes to you. Also painting, yoga, chess and more.",cta:"See activities"},
+ paint:{img:"painting",h:"Paint something this week",p:"A local artist brings the easel, the paints and the patience to you.",cta:"Book a first lesson"},
+ games:{img:"cards-chess",h:"Cards, chess and good company",p:"A friendly local host brings games and conversation to the kitchen table.",cta:"See activities"},
+ knit:{img:"knitting",h:"Knitting and crafts, right at home",p:"Learn a new stitch or finish an old project with a local teacher by your side.",cta:"See activities"},
+ care:{img:"volunteers",h:"Give Mom something to look forward to",p:"A weekly music, art or game session at home brightens the week and gives you a break.",cta:"Find an activity"}};
+const HH_NOADS=["benefits","home"],HH_NOAD_SLUGS=["scams-nj","report-elder-abuse-nj","estate-planning-nj","home-happenings"];
+function hhPick(seed,hub){if(hub==="caregiving")return HH_ADS.care;const k=["piano","paint","games","knit"];const h=[...String(seed)].reduce((a,c)=>(a*31+c.charCodeAt(0))%9973,7);return HH_ADS[k[h%k.length]]}
+function hhAd(ad,cls=""){if(!HH_LIVE||!ad)return"";return `<a class="hhad ${cls}" href="https://homehappenings.com" target="_blank" rel="noopener">${ph(ad.img,"","")}<span class="t"><small>Activities at Home</small><b>${ad.h}</b><span class="p">${ad.p} Now in ${HH_AREA}.</span><span class="b">${ad.cta} &rarr;</span><em>From Home Happenings, the publisher's company</em></span></a>`}
 /* Keep at least three words on the last line of every text block (no lonely words). */
 function nwrap(root){const re=/(?:1-)?\d{3}-\d{3}-\d{4}|[A-Za-z]+-[A-Za-z]+(?:-[A-Za-z]+)*/g;const w=document.createTreeWalker((root||document).querySelector("main")||document.body,NodeFilter.SHOW_TEXT);const todo=[];let n;while(n=w.nextNode()){if(n.parentNode.closest("script,style,.nw,a.n,input,textarea"))continue;if(/\d{3}-\d{4}|[A-Za-z]-[A-Za-z]/.test(n.data))todo.push(n)}
  todo.forEach(t=>{const f=document.createDocumentFragment();let last=0,m;re.lastIndex=0;const d=t.data;while(m=re.exec(d)){if(m.index>last)f.appendChild(document.createTextNode(d.slice(last,m.index)));const sp=document.createElement("span");sp.className="nw";sp.textContent=m[0];f.appendChild(sp);last=m.index+m[0].length}if(last<d.length)f.appendChild(document.createTextNode(d.slice(last)));t.replaceWith(f)})}
@@ -1055,6 +1082,7 @@ ${spot?`<section class="wrap"><a class="deadline" href="${spot.link}">
 <section class="s"><div class="wrap">
  <div class="s-head"><h2>Browse by topic</h2></div>
  <div class="topics">${HUBS.map(h=>`<a class="topic" href="#/hub/${h.id}">${ph(h.photo,"r43",h.name)}<span class="tt"><b>${h.name}</b></span></a>`).join("")}</div>
+ ${hhAd({img:"cards-chess",h:"Lessons and activities that come to your living room",p:"Music, art, yoga, games and more with checked local teachers.",cta:"Find an activity"},"hhad-wide")}
 </div></section>
 
 <section class="s"><div class="wrap">
@@ -1113,7 +1141,7 @@ function audience(){return `<div class="aud">
   <li><a href="#/directory">Phone directory to share</a></li><li><a href="#/counties">County offices on aging</a></li><li><a href="#/glossary">Plain-language glossary</a></li><li><a href="#/dates">Key dates calendar</a></li><li><a href="#/about">Our editorial standards</a></li></ul></div>
 </div>`}
 
-function newsletter(){return `<section class="s"><div class="wrap"><div class="nl2">
+function newsletter(){return "";`<section class="s"><div class="wrap"><div class="nl2">
  <div><h2>Stay in touch</h2><p>Leave your email and we'll share news from Seniors of NJ now and then. No spam, and you can unsubscribe any time.</p></div>
  <form class="nl" name="newsletter" data-netlify="true" netlify-honeypot="bot-field"><input type="hidden" name="form-name" value="newsletter"><label for="nlmail" hidden>Email address</label><div class="row"><input id="nlmail" name="email" type="email" required placeholder="Your email address" autocomplete="email"><button class="btn">Sign up</button></div><p class="ok" hidden>Thanks, you're on the list.</p></form>
 </div></div></section>`}
@@ -1130,6 +1158,7 @@ function hubPage(id){const h=HUB[id];if(!h)return notFound();const list=A.filter
  const names={"article/geriatric-care-manager-nj":"Find a care manager","checker":"Benefits checker","dates":"Key dates","checklist/turning-65":"Turning 65 checklist","glossary":"Glossary","checklist/important-papers":"Important papers checklist","directory":"Phone directory","counties":"County guides"};
  return crumbs([[h.name]])+`<div class="wrap"><div class="hubhero phead"><div><span class="kicker">Topic</span><h1>${h.name}</h1><p class="dek">${h.blurb}</p><div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:22px">${related.map(r=>`<a class="chip" href="#/${r}">${names[r]}</a>`).join("")}</div></div>${ph(h.photo,"r169",h.name)}</div></div>
  ${steps.length?`<section class="sec tight buff"><div class="wrap"><div class="sechead"><h2>Step by step</h2></div><div class="grid3">${steps.map(s=>`<a class="story" href="#/steps/${s.slug}"><span class="kicker">${s.steps.length} steps</span><h3>${esc(s.title)}</h3><p>${esc(s.dek)}</p></a>`).join("")}</div></div></section>`:""}
+ ${["living","things-to-do","caregiving"].includes(id)?`<div class="wrap">${hhAd(hhPick(id,id),"hhad-wide")}</div>`:""}
  <section class="sec"><div class="wrap"><div class="sechead"><h2>${list.length} in-depth guides</h2></div>${list.length?`<div class="grid3">${list.map(a=>story(a)).join("")}</div>`:`<p class="empty">New guides are on the way.</p>`}</div></section>
  <section class="sec" style="padding-top:0"><div class="wrap"><div class="sechead"><h2>Questions people ask</h2></div><div style="max-width:var(--measure)">${list.flatMap(a=>(a.faq||[]).slice(0,2).map(f=>({...f,slug:a.slug}))).slice(0,8).map(f=>`<details><summary>${esc(f.q)}</summary><div><p>${f.a}</p><p style="margin-top:8px"><a href="#/article/${f.slug}">Read the full guide &rarr;</a></p></div></details>`).join("")}</div></div></section>`+newsletter()}
 
@@ -1139,6 +1168,8 @@ function articlePage(slug,es){const a=es?ESS[slug]:AS[slug];if(!a)return notFoun
  const tmp=document.createElement("div");tmp.innerHTML=a.body;const toc=[];tmp.querySelectorAll("h2").forEach((el,i)=>{el.id="s"+(i+1);toc.push([el.id,el.textContent])});
  tmp.querySelectorAll("a[href^='http']").forEach(l=>{l.target="_blank";l.rel="noopener"});
  tmp.querySelectorAll("table").forEach(t=>t.classList.add("facts"));
+ const adOk=HH_LIVE&&!es&&!HH_NOADS.includes(a.hub)&&!HH_NOAD_SLUGS.includes(slug);const adA=adOk?hhPick(slug,a.hub):null,adB=adOk?hhPick(slug+"x",a.hub):null;
+ if(adOk){const hs=tmp.querySelectorAll(":scope > h2");const at=hs[2]||hs[hs.length-1];if(at){const d=document.createElement("div");d.innerHTML=hhAd(adA,"hhad-in");at.before(d.firstElementChild)}}
  const related=es?[]:A.filter(x=>x.slug!==slug&&x.hub===a.hub).concat(A.filter(x=>x.hub!==a.hub&&x.slug!==slug)).slice(0,3);
  const showSponsor=!es&&["things-to-do","living","caregiving"].includes(a.hub);
  return (es?`<nav class="crumbs wrap" aria-label="Breadcrumb"><a href="#/">Inicio</a> / <a href="#/es">En español</a> / ${esc(a.title)}</nav>`:crumbs([[h.name,"#/hub/"+h.id],[a.title]]))+`<article${es?' lang="es"':""}>
@@ -1151,11 +1182,12 @@ function articlePage(slug,es){const a=es?ESS[slug]:AS[slug];if(!a)return notFoun
    ${a.faq?.length?`<section class="faq" id="faq"><h2>${T.cq}</h2>${a.faq.map(f=>`<details><summary>${esc(f.q)}</summary><div><p>${f.a}</p></div></details>`).join("")}</section>`:""}
    ${a.sources?.length?`<div class="srcs"><b>${T.src}</b><ul>${a.sources.map(([t,u])=>`<li><a href="${u}" target="_blank" rel="noopener">${esc(t)}</a></li>`).join("")}</ul></div>`:""}
    <p class="disclaim">${T.disc}</p>
-   ${showSponsor?`<div class="sponsor">${ph("piano","","")}<div><small>From our sponsor</small><h4>Lessons that come to you</h4><p>Home Happenings sends checked local pros to homes in Essex and Passaic counties for music, art, yoga and more. <a class="hh-go" href="https://homehappenings.com" target="_blank" rel="noopener">Learn more</a></p></div></div>`:""}
+   ${showSponsor&&!HH_LIVE?`<div class="sponsor">${ph("piano","","")}<div><small>From our sponsor</small><h4>Lessons that come to you</h4><p>Home Happenings sends checked local pros to homes in Essex and Passaic counties for music, art, yoga and more. <a class="hh-go" href="https://homehappenings.com" target="_blank" rel="noopener">Learn more</a></p></div></div>`:""}
   </div>
   <aside class="aside">
    ${a.keyFacts?.length?`<div class="keyfacts"><b>${T.kf}</b><ul>${a.keyFacts.map(k=>`<li>${k}</li>`).join("")}</ul></div>`:""}
    ${!es&&["caregiving","health","home"].includes(a.hub)&&a.slug!=="geriatric-care-manager-nj"?`<div class="callbox"><b>Want a professional guide?</b>A geriatric care manager can assess, plan and coordinate care for your family. See our list of <a href="#/find-help">care managers, social workers and home care agencies</a> across New Jersey, or read <a href="#/article/geriatric-care-manager-nj">what care managers do</a>.</div>`:""}
+   ${adOk?hhAd(adB===adA?HH_ADS.games:adB,"hhad-side"):""}
    <div class="callbox"><b>${T.talk}</b>${T.talk2} <span class="tel">1-877-222-3737</span>. ${T.or} <span class="tel">2-1-1</span>.</div>
    ${es?"":`<div class="callbox"><b>Tags</b><div style="display:flex;gap:6px;flex-wrap:wrap">${(a.tags||[]).map(t=>`<a class="chip" href="#/search/${encodeURIComponent(t)}">${esc(t)}</a>`).join("")}</div></div>`}
   </aside>
@@ -1248,7 +1280,7 @@ function findHelpPage(cat){const C=cat?HCATS[cat]:null;if(cat&&!C)return notFoun
  <div class="wrap" style="max-width:1040px;padding-bottom:60px">
  <nav class="filters" aria-label="Type of help"><a class="fbtn" href="#/find-help"${!cat?' aria-current="page"':""}>All</a>${Object.entries(HCATS).map(([k,v])=>`<a class="fbtn" href="#/find-help/${k}"${cat===k?' aria-current="page"':""}><span class="fl">${v.n}</span><span class="fs">${v.s}</span></a>`).join("")}</nav>
  ${counties.length>1?`<label class="cosel"><span>Show help in</span> <select id="cofilter"><option value="">All counties</option>${counties.map(c=>`<option>${esc(c)}</option>`).join("")}</select></label>`:""}
- <div class="hplist" id="pros">${list.length?list.map(card).join(""):`<p>We're putting this list together now. In the meantime, your county office on aging can point you to local help: <span class="tel">1-877-222-3737</span>.</p>`}</div>
+ <div class="hplist" id="pros">${list.length?list.map(card).join(""):`<p>We're putting this list together now. In the meantime, your county office on aging can point you to local help: <span class="tel">1-877-222-3737</span>.</p>`}</div>${hhAd(HH_ADS.care,"hhad-wide")}
  <div class="callbox" style="margin-top:28px"><b>Before you choose</b>Call two or three, ask about credentials, fees in writing and who covers nights and weekends. ${cat?`Read <a href="#/article/${C.g}">${esc(C.gt)}</a>.`:`Read <a href="#/article/geriatric-care-manager-nj">when to call a care manager</a> and <a href="#/article/home-care-agency-nj">how to choose a home care agency</a>.`} Free help is also available from your county office on aging at <span class="tel">1-877-222-3737</span>.</div>
  <p class="disclaim">Listings are for information only. We don't take payment for listings and can't vouch for any provider, so check licenses and references yourself.</p>
  </div>`}

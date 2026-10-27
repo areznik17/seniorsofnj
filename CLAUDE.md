@@ -15,11 +15,12 @@ Live site is published by Netlify from the `site/` folder on every push to `main
 - Share thumbnails: every page gets its own 1200x630 card (logo, page headline, page photo) made by scripts/og_cards.js during the build and cached in src/img/og/p (manifest.json). Commit them. The home card uses the couple-walking photo and no subline.
 - Mobile: nothing may ever scroll sideways. Filter buttons wrap (short labels on phones), fact tables stack into cards on phones. After layout changes, check every sitemap page at 360px and 390px for horizontal overflow.
 - Find care help: Connections Care Management stays first (featured:true is only a sort key) but shows no Featured tag and is not named in the page disclaimer. Only add providers whose name, phone and site were confirmed on their own site or a government site.
-- Email signup must not promise any schedule ("now and then" is fine). Do not ask readers for corrections.
+- No email signup (removed at the owner's request; newsletter() returns nothing). Do not ask readers for corrections.
 - Every figure in a guide needs an official source and an updated date.
 
 ## Home Happenings launch checklist (do this when the owner says Home Happenings is live)
 - In `src/index.html` set `HH_LIVE=true`. That turns on every homehappenings.com link (the "Activities at Home" button is a non-working "Coming soon" button until then) and shows the Home Happenings promo on county pages listed in `HH_COUNTIES` (currently Essex and Passaic).
+- HH_LIVE also turns on the Home Happenings ad cards (hhAd in src/index.html): one inside each guide after the third section plus a desktop sidebar card (not on Benefits or Housing guides, scams, elder abuse or estate planning, or Spanish pages), a band on the home page, on the Living Well, Things to Do and Caregiving topic pages, and at the end of the Find care help list. Update HH_AREA if the service area changes.
 - Add any newly served counties to `HH_COUNTIES`, and consider adding Home Happenings mentions to relevant guides (learn-something-new, staying-connected-nj, caregiving guides).
 - Rebuild with `scripts/build.sh`, check pages, push to `main`.
 
