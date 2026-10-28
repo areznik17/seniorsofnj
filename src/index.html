@@ -1225,8 +1225,8 @@ function route(){
  else if(p1==="town"){html=townPage(p2);nav="counties";const tt=(TOWNS||[]).find(x=>x.slug===p2);if(tt)title="Senior services in "+tt.name+", NJ | Seniors of NJ"}
  else if(p1==="es"&&p2){html=articlePage(p2,true);const ea=ESS[p2];if(ea)title=ea.seoTitle||ea.title}
  else if(p1==="es"){html=esIndexPage();title="Guías en español para personas mayores | Seniors of NJ"}
- else if(p1==="checklist")html=checklistPage(p2);
- else if(p1==="for")html=forPage(p2);
+ else if(p1==="checklist"){html=checklistPage(p2);const cl=X.checklists.find(x=>x.slug===p2);if(cl)title=(/checklist/i.test(cl.title)?cl.title:cl.title+": a checklist")+" for NJ seniors | Seniors of NJ"}
+ else if(p1==="for"){html=forPage(p2);const FT={seniors:"Where to start if you're over 60 in New Jersey",families:"Helping an aging parent in New Jersey: where to start",pros:"Plain-language NJ senior guides for professionals"};if(FT[p2])title=FT[p2]+" | Seniors of NJ"}
  else if(p1==="about")html=aboutPage();
  else if(p1==="articles")html=listPage("Every guide and story",A);
  else if(p1==="search"){const q=decodeURIComponent(p2||"");html=listPage("Search",search(q),q);document.getElementById("mq").value=q}
