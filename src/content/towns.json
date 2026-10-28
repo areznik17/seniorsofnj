@@ -10,7 +10,7 @@
    "address": "Edgemont Park House, 290 Valley Road, Montclair, NJ 07042",
    "phone": "973-744-3278",
    "url": "https://www.montclairnjusa.org/Government/Departments/Senior-Services",
-   "notes": "Events and classes in health, education, art, recreation and wellness, held in person, on Zoom or both. Register online through the township's class portal, or call 973-744-3278 if you don't use a computer."
+   "notes": "Events and classes in health, education, art, recreation and wellness, held at Edgemont Park House and other spots around town. Register online through the township's class portal, or call 973-744-3278 if you don't use a computer."
   },
   "transport": {
    "name": "Essex County Community Transportation",
@@ -36,13 +36,7 @@
     "name": "The MILL (Montclair Institute for Lifelong Learning)",
     "phone": "973-744-3278",
     "url": "https://www.montclairnjusa.org/Government/Departments/Senior-Services/MILL",
-    "note": "Free classes for adults 55 and over, run with the library, the art museum, the YMCA and other partners at spots around town. Registration is required."
-   },
-   {
-    "name": "Lifelong Montclair social worker",
-    "phone": "973-509-4979",
-    "url": "https://www.montclairnjusa.org/Government/Departments/Senior-Services",
-    "note": "Direct line to the social worker on the Senior Services staff."
+    "note": "Free classes for adults 55 and over at spots around town. Registration is required."
    }
   ],
   "places": [
@@ -370,19 +364,19 @@
   "name": "Glen Ridge",
   "county": "essex",
   "countyName": "Essex County",
-  "intro": "Glen Ridge keeps its senior programs small and free for residents 55 and over, based at the restored 1887 train station on Ridgewood Avenue. There are monthly luncheons with blood pressure checks, chair yoga and art classes, and a jitney for grocery runs. The library delivers books through volunteers, and Freeman Gardens is a pretty spot for a walk.",
+  "intro": "Glen Ridge keeps its senior programs small and friendly, based at the restored 1887 train station on Ridgewood Avenue. There are monthly luncheons with blood pressure checks, chair yoga and art classes, and a jitney for grocery runs. The library delivers books through volunteers, and Freeman Gardens is a pretty spot for a walk.",
   "seniorCenter": {
    "name": "Glen Ridge Senior/Community Center (Train Station)",
    "address": "228 Ridgewood Avenue, Glen Ridge, NJ 07028",
    "phone": "973-748-2924",
    "url": "https://www.glenridgenj.org/seniors/",
-   "notes": "Free programs for Glen Ridge residents 55 and over, including a monthly luncheon with a blood pressure screening, chair yoga and art classes on Zoom, and field trips. Sign up through the Recreation Office."
+   "notes": "Programs for Glen Ridge seniors, including a monthly luncheon with a blood pressure screening, chair yoga on Zoom, art classes at the train station, and field trips. Sign up through the Recreation Office."
   },
   "transport": {
    "name": "Glen Ridge Senior Jitney",
    "phone": "973-748-2924",
    "url": "https://www.glenridgenj.org/seniors/",
-   "notes": "Free for registered residents, with home pick-up for the Thursday ShopRite trip in Bloomfield and the monthly luncheon. For shopping, register 48 hours ahead; space is limited to 12."
+   "notes": "Jitney rides for a weekly ShopRite trip and for the monthly luncheon. Call the Recreation Office to reserve; space is limited."
   },
   "library": {
    "name": "Glen Ridge Public Library",
@@ -448,13 +442,13 @@
    "address": "240 Belleville Avenue, Bloomfield, NJ 07003",
    "phone": "973-680-4017",
    "url": "https://www.bloomfieldtwpnj.com/1580/Senior-Services",
-   "notes": "The township's senior program meets Monday and Wednesday afternoons, noon to 3 pm, with lunch, chair yoga, arts and crafts and bingo, and no registration needed. Run by the Division of Human Services, which posts a monthly senior calendar."
+   "notes": "The township's senior program meets Monday and Wednesday afternoons, with lunch, chair yoga, arts and crafts and bingo, and no registration needed. Run by the Division of Human Services, which posts a monthly senior calendar."
   },
   "transport": {
    "name": "Bloomfield Dial-A-Ride",
    "phone": "973-566-7194",
-   "url": "https://www.bloomfieldtwpnj.com/327/Senior-Citizens",
-   "notes": "Free curb-to-curb rides anywhere in Essex County for residents 60 and over or with a disability, mostly medical trips but also shopping, haircuts and visits. First come, first served. A free fixed-route Senior Citizen Bus also runs weekdays to stores, banks and Town Hall."
+   "url": "https://www.bloomfieldtwpnj.com/327/Senior-Citizen",
+   "notes": "Free curb-to-curb rides anywhere in Essex County for residents 60 and over or with a disability, mostly medical trips but also shopping, haircuts and visits. First come, first served. A free fixed-route Senior Citizen Bus also runs to stores, banks and Town Hall."
   },
   "library": {
    "name": "Bloomfield Public Library",
@@ -473,7 +467,7 @@
    {
     "name": "Bloomfield Senior Organization Club",
     "phone": "973-743-3332",
-    "url": "https://www.bloomfieldtwpnj.com/327/Senior-Citizens",
+    "url": "https://www.bloomfieldtwpnj.com/327/Senior-Citizen",
     "note": "Monthly meetings, holiday gatherings, speakers and trips. Dues are $20 a year."
    }
   ],
@@ -502,7 +496,7 @@
    ],
    [
     "Senior Citizen Programming (Township of Bloomfield)",
-    "https://www.bloomfieldtwpnj.com/327/Senior-Citizens"
+    "https://www.bloomfieldtwpnj.com/327/Senior-Citizen"
    ],
    [
     "Bloomfield Senior Citizen Bus (Township of Bloomfield)",
@@ -510,7 +504,7 @@
    ],
    [
     "Project Healthy Bones at Oakeside (Township of Bloomfield)",
-    "http://www.bloomfieldtwpnj.com/m/newsflash/Home/Detail/514"
+    "https://www.bloomfieldtwpnj.com/m/newsflash/Home/Detail/514"
    ],
    [
     "Oakeside senior programming (Township of Bloomfield on Facebook)",
@@ -518,7 +512,7 @@
    ],
    [
     "Oakeside Cultural Center (Township of Bloomfield)",
-    "http://www.bloomfieldtwpnj.com/facilities/facility/details/Oakeside-Cultural-Center-26"
+    "https://www.bloomfieldtwpnj.com/facilities/facility/details/Oakeside-Cultural-Center-26"
    ],
    [
     "Hours and Location (Bloomfield Public Library)",
@@ -546,7 +540,7 @@
    "address": "44 Park Avenue, Nutley, NJ 07110",
    "phone": "973-284-4966",
    "url": "https://www.nutleynj.org/senior-citizen-programs-and-activities",
-   "notes": "The Senior Club meets Wednesdays at 12:30 pm and the Old Guard Club Fridays at 9 am, September to June. Chair yoga is held at the Annex Building, and there is a May Day lunch and a September picnic. Call the Senior Citizen Coordinator for the full list."
+   "notes": "The Senior Club meets Wednesdays at 12:30 pm, September to June, and the Old Guard Club meets Fridays at 9 am. Chair yoga is held at the Annex Building, and there is a May Day lunch and a September picnic. Call the Senior Citizen Coordinator for the full list."
   },
   "transport": {
    "name": "Nutley Senior Transportation",
@@ -622,13 +616,13 @@
   "name": "Maplewood",
   "county": "essex",
   "countyName": "Essex County",
-  "intro": "Maplewood's Senior Center on Burnett Avenue hosts chair yoga, a bridge club and a free Tuesday drop-in, and the township's Dial-A-Ride bus handles short local trips. A Jewish Family Services social worker helps residents 65 and over two days a week. South Mountain Reservation and the historic Durand-Hedden House are close to home.",
+  "intro": "Maplewood's Senior Center on Burnett Avenue runs programs for adults 55 and over, and the township's Dial-A-Ride bus handles short local trips. A Jewish Family Services social worker shared with South Orange is available on Wednesdays. South Mountain Reservation and the historic Durand-Hedden House are close to home.",
   "seniorCenter": {
    "name": "Maplewood Senior Center",
    "address": "106 Burnett Avenue, Maplewood, NJ 07040",
    "phone": "973-763-0750",
    "url": "https://www.maplewoodnj.gov/government/community-services/senior-citizen-programming",
-   "notes": "Programs for adults 55 and over from the Department of Community Services, including fitness classes, chair yoga, a bridge club and a free Tuesday get-together. Register online through Rec Desk or call the Community Services Desk at 973-762-8120."
+   "notes": "Programs for adults 55 and over from the Department of Community Services, including fitness classes and social programs. Register online through Rec Desk or call the Community Services Desk at 973-762-8120."
   },
   "transport": {
    "name": "Maplewood Senior Bus (Dial-A-Ride)",
@@ -648,7 +642,7 @@
     "name": "Older Adult Social Worker (Jewish Family Services)",
     "phone": "973-986-4321",
     "url": "https://www.maplewoodnj.gov/government/public-health-social-services/community-resources/seniors-caregivers-resources",
-    "note": "For residents 65 and over calling for themselves, Mondays and Wednesdays, 9 am to 5 pm. Family caregivers can call the JFS Care Consultation Program at 973-637-1740."
+    "note": "A Jewish Family Services social worker shared by Maplewood and South Orange, available Wednesdays, 9 am to 3 pm. Call 973-986-4321 or email SomaSocialworker@southorange.org."
    },
    {
     "name": "Maplewood Adult Health Clinics",
@@ -714,13 +708,13 @@
   "name": "South Orange",
   "county": "essex",
   "countyName": "Essex County",
-  "intro": "South Orange shares its aging-in-place effort with Maplewood through SOMA Two Towns for All Ages, which runs talks, a Memory Cafe and help with property tax relief filings. A Jewish Family Services social worker helps residents 65 and over. The library is open in two temporary spots during its rebuild, and SOPAC is right in the village.",
+  "intro": "South Orange shares its aging-in-place effort with Maplewood through SOMA Two Towns for All Ages, which shares news and events for older residents. A Jewish Family Services social worker is available on Wednesdays. The library is open in two temporary spots during its rebuild, and SOPAC is right in the village.",
   "seniorCenter": {
    "name": "SOMA Two Towns for All Ages (The Baird Center)",
    "address": "5 Mead Street, South Orange, NJ 07079",
    "phone": "973-558-0863",
    "url": "https://www.somatwotownsforallages.org/",
-   "notes": "An aging-in-place initiative of South Orange and Maplewood rather than a drop-in senior center. It sends a weekly email and posts events such as Medicare talks and a Memory Cafe for people with memory loss and their caregivers."
+   "notes": "An aging-in-place initiative of South Orange and Maplewood rather than a drop-in senior center. It sends a weekly email and posts events for older residents and caregivers."
   },
   "transport": {
    "name": "South Orange Senior Bus (Dial-a-Ride)",
@@ -740,7 +734,7 @@
     "name": "Older Adult Social Worker (Jewish Family Services)",
     "phone": "973-986-4321",
     "url": "https://www.southorange.org/1042/Social-Services",
-    "note": "For residents 65 and over calling for themselves, Mondays and Wednesdays, 9 am to 5 pm. Help finding home care, meals, housing, Medicare counseling and transportation."
+    "note": "A Jewish Family Services social worker shared by South Orange and Maplewood, available Wednesdays, 9 am to 3 pm, for help finding home care, meals, housing, Medicare counseling and transportation."
    },
    {
     "name": "JFS Care Consultation Program",
@@ -886,7 +880,7 @@
   "seniorCenter": {
    "name": "Grover Cleveland Senior Center",
    "address": "14 Park Avenue, Caldwell, NJ 07006",
-   "phone": "973-403-4623",
+   "phone": "973-403-4637",
    "url": "https://caldwell-nj.com/human",
    "notes": "Open to anyone 60 and over, with fitness, enrichment, health talks and social events. It is part of the borough's Health and Human Services Department, and a monthly newsletter and calendar come by mail or email."
   },
@@ -894,7 +888,7 @@
    "name": "Caldwell, West Caldwell and Roseland Senior Transportation",
    "phone": "973-226-5108",
    "url": "https://caldwell-nj.com/human",
-   "notes": "Curb-to-curb rides for residents of the three towns, weekdays 9 am to 3:30 pm, for food shopping, banks and pharmacies, plus a Tuesday trip to local malls. Call between 8:15 and 8:45 am on the day you want to ride."
+   "notes": "Curb-to-curb rides for residents of the three towns for food shopping, banks and pharmacies, plus a Tuesday trip to local malls. Call between 8:15 and 8:45 am on the day you want to ride."
   },
   "library": {
    "name": "Caldwell Public Library",
@@ -906,15 +900,15 @@
   "more": [
    {
     "name": "Caldwell Food Pantry",
-    "phone": "973-403-4623",
+    "phone": "973-403-4637",
     "url": "https://caldwell-nj.com/human",
-    "note": "For Caldwell and West Caldwell residents, Wednesdays 11 am to 1 pm and Thursdays 4 to 6 pm, at 14 Park Avenue."
+    "note": "For Caldwell and West Caldwell residents, Wednesdays 11 am to 1 pm and Thursdays 4 to 6 pm. Call to confirm hours and location."
    }
   ],
   "places": [
    {
     "name": "Grover Cleveland Birthplace",
-    "note": "At 207 Bloomfield Avenue. The Presidential Library and Museum is open Wednesdays and Sundays, noon to 3 pm, and the house is open on request."
+    "note": "At 207 Bloomfield Avenue. The Presidential Library and Museum is open Wednesdays and Sundays, noon to 3 pm."
    },
    {
     "name": "Grover Cleveland Park",
@@ -1878,7 +1872,7 @@
    "name": "Caldwell, West Caldwell and Roseland Senior Bus",
    "phone": "973-226-5108",
    "url": "https://www.roselandnj.org/337/Senior-Citizens-Transportation",
-   "notes": "Free curb to curb rides for Roseland, Caldwell and West Caldwell residents, weekdays from 9 a.m. to 3:30 p.m. Stops include Jack's Foodtown in Caldwell, ShopRite and Stop and Shop in West Caldwell, banks, drug stores and local stores, with a mall trip on Tuesdays. Call between 8:15 and 8:45 a.m. on the morning you want to ride."
+   "notes": "Free curb to curb rides for Roseland, Caldwell and West Caldwell residents, Stops include food stores, banks, drug stores and local shops, with a mall trip on Tuesdays. Call between 8:15 and 8:45 a.m. on the morning you want to ride."
   },
   "library": {
    "name": "Roseland Free Public Library",

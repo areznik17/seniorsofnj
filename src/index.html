@@ -785,6 +785,16 @@ p,li,dd,dt,figcaption,summary,label,.dek,.lede,.tag,.kicker,.meta,.t2 span,.t2 b
 .hhad-side{grid-template-columns:1fr;margin:0 0 16px}.hhad-side .ph{aspect-ratio:16/10;height:auto}.hhad-side b{font-size:20px}.hhad-side .t{padding:16px 18px}
 @media (max-width:1000px){.hhad-side{display:none}}
 @media (max-width:700px){.hhad,.hhad-wide{grid-template-columns:1fr;max-height:none}.hhad .ph{aspect-ratio:16/9;height:auto}.hhad .t{padding:16px 18px}.hhad b{font-size:21px}}
+
+.stepwide{display:grid;gap:16px}
+.stepcard{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px 40px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:26px 30px;color:var(--ink);text-decoration:none}
+.stepcard h3{font-size:clamp(22px,2.2vw,28px);margin:6px 0 8px}.stepcard p{color:var(--ink-2);margin:0}
+.stepcard .sc-go{display:inline-block;margin-top:12px;font-weight:700;color:var(--blue)}
+.stepcard:hover h3{color:var(--blue)}
+.sc-list{counter-reset:sc;list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.sc-list li{counter-increment:sc;display:flex;gap:12px;align-items:center;font-weight:600;font-size:17px}
+.sc-list li::before{content:counter(sc);flex:none;width:30px;height:30px;border-radius:50%;background:var(--blue);color:var(--on-blue);display:grid;place-items:center;font-size:14px}
+@media (max-width:760px){.stepcard{grid-template-columns:minmax(0,1fr);padding:18px}.sc-list li{font-size:16px}}
 </style>
 
 <a class="skip" href="#app">Skip to main content</a>
@@ -815,7 +825,7 @@ p,li,dd,dt,figcaption,summary,label,.dek,.lede,.tag,.kicker,.meta,.t2 span,.t2 b
       <div>
         <p style="font-family:var(--display);font-weight:700;font-size:26px;color:#fff;line-height:1.1">Seniors of NJ</p>
         <p style="margin-top:12px;max-width:44ch">An independent guide for New Jersey residents over 60 and the families who help them. We are not a government agency. Program rules change every year, so confirm details with the official source linked on every guide.</p>
-        <p style="margin-top:14px">Need help now? Dial <b>2-1-1</b>, or your county office on aging at <b>1-877-222-3737</b>.</p><p style="margin-top:8px"><a href="#/about">Contact us</a> · <a href="#/about">Privacy</a></p>
+        <p style="margin-top:14px">Need help now? Dial <b>2-1-1</b>, or your county office on aging at <b>1-877-222-3737</b>.</p><p style="margin-top:8px"><a href="#/about">About this site</a> · <a href="#/about#privacy">Privacy</a></p>
       </div>
       <div><h4>Topics</h4><ul id="fhubs"></ul></div>
       <div><h4>Tools</h4><ul><li><a href="#/checker">Benefits checker</a></li><li><a href="#/dates">Key dates</a></li><li><a href="#/checklist/turning-65">Turning 65 checklist</a></li><li><a href="#/checklist/important-papers">Important papers</a></li><li><a href="#/glossary">Glossary A to Z</a></li></ul></div>
@@ -1030,7 +1040,7 @@ function hubPage(id){const h=HUB[id];if(!h)return notFound();const list=A.filter
  const related={benefits:["checker","dates"],health:["checklist/turning-65","glossary"],caregiving:["article/geriatric-care-manager-nj","checklist/important-papers","directory"],home:["checklist/important-papers","glossary"],"things-to-do":["counties","dates"],living:["directory","counties"]}[id];
  const names={"article/geriatric-care-manager-nj":"Find a care manager","checker":"Benefits checker","dates":"Key dates","checklist/turning-65":"Turning 65 checklist","glossary":"Glossary","checklist/important-papers":"Important papers checklist","directory":"Phone directory","counties":"County guides"};
  return crumbs([[h.name]])+`<div class="wrap"><div class="hubhero phead"><div><span class="kicker">Topic</span><h1>${h.name}</h1><p class="dek">${h.blurb}</p><div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:22px">${related.map(r=>`<a class="chip" href="#/${r}">${names[r]}</a>`).join("")}</div></div>${ph(h.photo,"r169",h.name)}</div></div>
- ${steps.length?`<section class="sec tight buff"><div class="wrap"><div class="sechead"><h2>Step by step</h2></div><div class="grid3">${steps.map(s=>`<a class="story" href="#/steps/${s.slug}"><span class="kicker">${s.steps.length} steps</span><h3>${esc(s.title)}</h3><p>${esc(s.dek)}</p></a>`).join("")}</div></div></section>`:""}
+ ${steps.length?`<section class="sec tight buff"><div class="wrap"><div class="sechead"><h2>Step by step</h2></div><div class="stepwide">${steps.map(s=>`<a class="stepcard" href="#/steps/${s.slug}"><div class="sc-l"><span class="kicker">${s.steps.length} steps</span><h3>${esc(s.title)}</h3><p>${esc(s.dek)}</p><span class="sc-go">See all ${s.steps.length} steps &rarr;</span></div><ol class="sc-list">${s.steps.map(st=>`<li>${esc(st.t)}</li>`).join("")}</ol></a>`).join("")}</div></div></section>`:""}
  ${["living","things-to-do","caregiving"].includes(id)?`<div class="wrap">${hhAd(hhPick(id,id),"hhad-wide")}</div>`:""}
  <section class="sec"><div class="wrap"><div class="sechead"><h2>${list.length} in-depth guides</h2></div>${list.length?`<div class="grid3">${list.map(a=>story(a)).join("")}</div>`:`<p class="empty">New guides are on the way.</p>`}</div></section>
  <section class="sec" style="padding-top:0"><div class="wrap"><div class="sechead"><h2>Questions people ask</h2></div><div style="max-width:var(--measure)">${list.flatMap(a=>(a.faq||[]).slice(0,2).map(f=>({...f,slug:a.slug}))).slice(0,8).map(f=>`<details><summary>${esc(f.q)}</summary><div><p>${f.a}</p><p style="margin-top:8px"><a href="#/article/${f.slug}">Read the full guide &rarr;</a></p></div></details>`).join("")}</div></div></section>`+newsletter()}
@@ -1197,9 +1207,7 @@ function aboutPage(){return crumbs([["About"]])+`<div class="wrap phead"><span c
 <h2>Who runs this site</h2><p>The site is published by Aaron Reznik of Montclair, who also runs Home Happenings, a service that sends local teachers into homes for lessons. You'll see it mentioned on a few pages, always labeled. We also mention Connections Care Management, a care management practice led by the publisher's mother, Lisa Kolton, LCSW. Neither one affects what we say about public programs.</p>
 <h2>How we check facts</h2><ul><li>Every figure comes from an official or reputable source, linked at the bottom of the guide.</li><li>Every guide shows the date we last checked it.</li><li>When rules change mid-year, we update the guide and the date.</li><li>We never publish made-up stories, quotes or reviews.</li></ul>
 <h2>What we are not</h2><p>We don't give legal, tax, financial or medical advice. For decisions about your own situation, talk with your county office on aging, a SHIP counselor, an elder law attorney or your doctor.</p>
-<h2>Contact us</h2><p>Questions, ideas or a story you think we should cover? Send us a note.</p>
-<form class="contact" id="contactform" name="contact" data-netlify="true" netlify-honeypot="bot-field"><input type="hidden" name="form-name" value="contact"><label for="cfname">Your name</label><input id="cfname" name="name" autocomplete="name"><label for="cfemail">Your email</label><input id="cfemail" name="email" type="email" required autocomplete="email"><label for="cfmsg">Message</label><textarea id="cfmsg" name="message" required></textarea><button class="btn">Send message</button></form><p id="cfok" hidden><strong>Thanks. We read every message and will reply soon.</strong></p>
-<h2 id="privacy">Privacy</h2><p>We don't sell or share your information. If you sign up for updates or send a message, we use your email only to reply or to share news from Seniors of NJ, and you can unsubscribe any time. The benefits checker and checklists run in your browser, and nothing you enter there is sent to us.</p>
+<h2 id="privacy">Privacy</h2><p>We don't collect personal information. There are no accounts or sign-ups. The benefits checker and checklists run in your browser, and nothing you enter there is sent to us.</p>
 </div></div>`}
 
 function notFound(){return `<div class="wrap phead" style="padding-block:80px"><h1>We couldn't find that page</h1><p class="dek">It may have moved. Try the search box above, or go back to the <a href="#/">home page</a>.</p></div>`}
