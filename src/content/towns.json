@@ -2059,7 +2059,7 @@
    "address": "550 East Broad Street, Westfield, NJ 07090",
    "phone": "908-789-4090",
    "url": "https://wmlnj.org/",
-   "notes": "Open seven days, with evening hours until 8:30 p.m. Monday to Thursday. Lends Book Clubs in a Bag kits for adult reading groups."
+   "notes": "Open seven days, with evening hours until 8:30 p.m. Monday to Thursday."
   },
   "more": [
    {
@@ -2094,7 +2094,7 @@
    },
    {
     "name": "Echo Lake Park",
-    "note": "A county park on the Westfield and Mountainside line with a walking path around the lake, native flower plantings, tagged trees and the Union County 9-11 Memorial."
+    "note": "A county park on the Westfield and Mountainside line with a walking path around the lake, native flower plantings and the Union County 9-11 Memorial."
    }
   ],
   "sources": [
@@ -2734,7 +2734,7 @@
    },
    {
     "name": "Passaic River Parkway",
-    "note": "County riverside land in Berkeley Heights, New Providence and Summit with a nature trail, fishing, picnic areas and canoe and kayak access."
+    "note": "A county riverside park in Berkeley Heights, New Providence and Summit with nature trails and fishing."
    }
   ],
   "sources": [
@@ -3043,8 +3043,8 @@
    "name": "Teaneck Senior Center, Richard Rodda Community Center",
    "address": "250 Colonial Court, Teaneck, NJ 07666",
    "phone": "201-837-0171",
-   "url": "https://www.teanecknj.gov/senior-programs",
-   "notes": "On the upper level. For adults 55 and up, Monday to Friday 9:30 a.m. to 4 p.m., closed municipal holidays. Classes in education, fitness and social recreation, a game room with billiards and table tennis, and a public health nurse daily. Also reachable at 201-837-7130. Virtual classes air on the Senior Virtual Classes YouTube channel."
+   "url": "https://www.teanecknj.gov/parks-and-recreation/recreation-programs/",
+   "notes": "On the upper level. For adults 55 and up, Monday to Friday 9:30 a.m. to 4 p.m., closed municipal holidays. Classes in education, fitness and social recreation, a game room with billiards and table tennis, and a public health nurse daily. Also reachable at 201-837-7130."
   },
   "transport": {
    "name": "Bergen County Division of Community Transportation",
@@ -3057,7 +3057,7 @@
    "address": "840 Teaneck Road, Teaneck, NJ 07666",
    "phone": "201-837-4171",
    "url": "https://www.teanecklibrary.org/",
-   "notes": "One on one tech help sessions, smartphone and tablet basics classes, and Northstar digital literacy lessons."
+   "notes": "Museum passes for Teaneck residents, eBooks and streaming on Hoopla and Kanopy, and Mango Languages."
   },
   "more": [
    {
@@ -3083,8 +3083,8 @@
   ],
   "sources": [
    [
-    "Teaneck Senior Programs",
-    "https://www.teanecknj.gov/senior-programs"
+    "Teaneck Recreation Programs",
+    "https://www.teanecknj.gov/parks-and-recreation/recreation-programs/"
    ],
    [
     "Teaneck notice with Rodda Center address",
@@ -3205,8 +3205,8 @@
    "name": "Fair Lawn Senior Center",
    "address": "11-05 Gardiner Road, Fair Lawn, NJ 07410",
    "phone": "201-796-1191",
-   "url": "https://fairlawn.org/p/seniorcenter",
-   "notes": "At the corner of 11th Street and Gardiner Road, one block from the library and Borough Hall. Open weekdays 8 a.m. to 4 p.m. For adults 60 and over, and family and caregivers are welcome. No membership dues. Lunch is served weekdays at noon for a suggested $1.25 donation; reserve at least 24 hours ahead. No take out."
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "notes": "At the corner of 11th Street and Gardiner Road, one block from the library and Borough Hall. Open Monday to Friday 8 a.m. to 4 p.m., Saturday 10:30 a.m. to 3:30 p.m. and Sunday noon to 3 p.m.; closed borough holidays. For adults 60 and over, and family and caregivers are welcome. Lunch is served weekdays at noon for a suggested $1.25 donation; reserve at least 24 hours ahead."
   },
   "transport": {
    "name": "Fair Lawn Mini Bus",
@@ -3225,8 +3225,8 @@
    {
     "name": "Fair Lawn senior social clubs",
     "phone": "",
-    "url": "https://fairlawn.org/senior-clubs",
-    "note": "The Friday Social Club, Friendship Club, Happy Seniors Club and Livewires Club each meet twice a month. Officer phone numbers are on the borough page."
+    "url": "https://www.fairlawn.org/senior-citizen",
+    "note": "Fair Lawn has four senior social clubs, including the Friday Social Club and Happy Seniors Club. Meeting dates are on the senior center's monthly calendar."
    },
    {
     "name": "Bergen County Division of Senior Services",
@@ -3246,7 +3246,7 @@
    },
    {
     "name": "Fair Lawn Community Theater",
-    "note": "Plays and concerts in the Community Center at 10-10 20th Street, with 170 seats plus wheelchair spaces."
+    "note": "Plays, concerts and cultural events in the Fair Lawn Community Center."
    },
    {
     "name": "Saddle River County Park",
@@ -3255,16 +3255,8 @@
   ],
   "sources": [
    [
-    "Fair Lawn Senior Citizen Services",
-    "https://fairlawn.org/senior-citizen-services"
-   ],
-   [
     "Fair Lawn Senior Center",
-    "https://fairlawn.org/p/seniorcenter"
-   ],
-   [
-    "Fair Lawn senior clubs",
-    "https://fairlawn.org/senior-clubs"
+    "https://www.fairlawn.org/senior-citizen"
    ],
    [
     "Fair Lawn Mini Bus",
@@ -3285,6 +3277,10 @@
    [
     "Bergen County Division of Senior Services",
     "https://bergencountynj.gov/division-of-senior-services/"
+   ],
+   [
+    "Fair Lawn for All Ages: Senior Center",
+    "https://fairlawnforallages.org/senior-center"
    ]
   ],
   "updated": "2026-10-27"
@@ -3313,14 +3309,14 @@
    "address": "31 Engle Street, Englewood, NJ 07631",
    "phone": "201-568-2215",
    "url": "https://englewoodlibrary.org/",
-   "notes": "Computers and Wi-Fi, book groups, a free notary, museum passes and local history."
+   "notes": "Computers and Wi-Fi, museum passes and eBook downloads."
   },
   "more": [
    {
     "name": "Englewood Health Department, Public Health Nursing",
     "phone": "201-568-3450",
-    "url": "https://www.cityofenglewood.org/1237/Public-Health-Nursing",
-    "note": "73 S Van Brunt Street. Choose option 4. Runs an adult vaccination clinic."
+    "url": "https://cityofenglewood.org/1484/Adult-Vaccination-Clinic",
+    "note": "73 S Van Brunt Street. For the adult vaccination clinic, ask for the public health nurse at extension 511."
    },
    {
     "name": "Bergen County Division of Senior Services",
@@ -3482,7 +3478,7 @@
    "name": "Mahwah Access Transportation",
    "phone": "201-529-2691",
    "url": "https://www.mahwahtwp.org/187/Access-Transportation",
-   "notes": "Curb to curb rides for Mahwah seniors, people with disabilities and residents who cannot drive. Trips go to doctors, PT and OT, and the senior center, and may include shopping centers, banks and the Midland Park Senior Activity Center. Fill out the ridership application, then call to schedule. A $1 round trip donation is recommended."
+   "notes": "Curb to curb rides for Mahwah seniors, people with disabilities and residents who cannot drive. Trips go to doctors, PT and OT, and the senior center, and may include shopping centers, banks and the Midland Park Senior Activity Center. Call Access Transportation to join and to request rides. A $1 round trip donation is recommended."
   },
   "library": {
    "name": "Mahwah Public Library",
@@ -3573,7 +3569,7 @@
    "address": "30 Wyckoff Avenue, Ramsey, NJ 07446",
    "phone": "201-327-1445",
    "url": "https://www.ramseylibrary.org/",
-   "notes": "Homebound delivery, dementia friendly services and memory kits, and tech assistance appointments."
+   "notes": "Free homebound service by mail, dementia friendly services and memory kits, and tech assistance appointments."
   },
   "more": [
    {
@@ -3666,7 +3662,7 @@
     "name": "Colonial Coach",
     "phone": "973-292-6670",
     "url": "https://www.townofmorristown.org/coach",
-    "note": "Free town bus for Morristown residents on one route in and around town, Mondays, Wednesdays and Fridays. The schedule is posted on the town site."
+    "note": "Free town bus for Morristown residents on one route in and around town, Mondays, Wednesdays and Fridays (check the posted schedule for any Saturday service). The schedule is posted on the town site."
    },
    {
     "name": "Wetmore Towers lunch site",
@@ -3737,16 +3733,16 @@
   "intro": "Parsippany's Office on Aging works out of the Community Center on Knoll Road, with a weekday county lunch site, exercise classes, Medicare counseling and loaner wheelchairs and walkers. Seniors without a ride can book medical trips a week ahead, and the township runs two free buses for all residents from Morris Hills Shopping Center.",
   "seniorCenter": {
    "name": "Parsippany Community Center and Office on Aging",
-   "address": "1130 Knoll Road, Lake Hiawatha, NJ 07034",
+   "address": "1130 Knoll Road, Parsippany, NJ 07054",
    "phone": "973-263-7351",
-   "url": "https://www.parsippany.net/Pages/information-and-events-for-parsippany-seniors",
-   "notes": "Also 973-263-7352. Recreation and socializing weekdays, 9 a.m. to 5 p.m. Senior exercise classes ($3 a class), a county lunch site (reserve a day ahead at 973-884-1868), SHIP Medicare counseling by appointment, PAAD and Senior Gold help, loaner wheelchairs, walkers and canes, and free AARP tax help February through April."
+   "url": "https://www.parsippany.net/Department/GetDepartmentById?menuId=fxSnZbNnJAI=",
+   "notes": "Also 973-263-7352. Recreation and socializing weekdays, 9 a.m. to 5 p.m. Senior exercise classes (call for fees), a county lunch site (reserve a day ahead at 973-884-1868), SHIP Medicare counseling by appointment, help with benefit forms, loaner wheelchairs, walkers and canes, and free AARP tax help starting each February."
   },
   "transport": {
    "name": "Parsippany Office on Aging medical transportation",
    "phone": "973-263-7351",
-   "url": "https://www.parsippany.net/Pages/information-and-events-for-parsippany-seniors",
-   "notes": "For Parsippany seniors who have no other ride or family to drive them. Riders must be ambulatory. Call at least one week ahead; medical appointments get top priority. Wheelchair riders should call the Health Department at 973-263-7160 and bring an aide or family member."
+   "url": "https://www.parsippany.net/Department/GetDepartmentById?menuId=SdQRUfq3DXQ=",
+   "notes": "For Parsippany seniors who have no other ride or family to drive them. Riders must be ambulatory. Rides go to local doctors and supermarkets. Call at least one week ahead; medical appointments get top priority."
   },
   "library": {
    "name": "Parsippany-Troy Hills Public Library",
@@ -3763,16 +3759,16 @@
     "note": "Free for Parsippany residents, no reservation. Two routes start at Morris Hills Shopping Center and run on the hour on weekdays."
    },
    {
-    "name": "Parsippany Health Department blood pressure screening",
+    "name": "Parsippany Health Department clinics",
     "phone": "973-263-7160",
-    "url": "https://www.parsippany.net/Pages/information-and-events-for-parsippany-seniors",
-    "note": "Daily screenings by appointment."
+    "url": "https://www.parsippany.net/Department/GetDepartmentById?menuId=SdQRUfq3DXQ=",
+    "note": "Health clinics, including screenings, through the year. Call for dates."
    },
    {
     "name": "Skylands RSVP Friendly Visitor and Telephone Reassurance",
     "phone": "973-784-4900",
-    "url": "https://www.parsippany.net/Pages/information-and-events-for-parsippany-seniors",
-    "note": "Ask for extension 210. Free weekly visits or daily check in calls from volunteers."
+    "url": "https://www.parsippany.net/Department/GetDepartmentById?menuId=SdQRUfq3DXQ=",
+    "note": "Ask about Friendship at Heart. Free weekly visits or daily check in calls from volunteers."
    },
    {
     "name": "Morris County Division of Aging, Disabilities and Community Programming",
@@ -3788,7 +3784,7 @@
    },
    {
     "name": "Craftsman Farms",
-    "note": "A 27 acre historic site that was once the home of furniture designer Gustav Stickley."
+    "note": "A 30 acre historic site that was once the home of furniture designer Gustav Stickley."
    },
    {
     "name": "Lake Hiawatha Park",
@@ -3797,16 +3793,20 @@
   ],
   "sources": [
    [
-    "Parsippany information for seniors",
-    "https://www.parsippany.net/Pages/information-and-events-for-parsippany-seniors"
+    "Parsippany Health and Human Services",
+    "https://www.parsippany.net/Department/GetDepartmentById?menuId=SdQRUfq3DXQ="
+   ],
+   [
+    "Parsippany Senior Community Center",
+    "https://www.parsippany.net/Department/GetDepartmentById?menuId=fxSnZbNnJAI="
    ],
    [
     "Parsippany Transit Bus System",
     "https://www.parsippany.net/Pages/the-parsippany-transit-bus-system"
    ],
    [
-    "Parsippany Parks and Forestry",
-    "https://www.parsippany.net/169/Parks-Forestry"
+    "Parsippany Parks",
+    "https://www.parsippany.net/Department/GetDepartmentById?menuId=mrQNB5ArkQo="
    ],
    [
     "Central Park of Morris County",
@@ -3856,9 +3856,9 @@
   "more": [
    {
     "name": "Madison Senior Services",
-    "phone": "973-593-3042",
+    "phone": "973-593-3095",
     "url": "https://www.rosenet.org/347/Senior-Services",
-    "note": "Borough page with senior transportation and a Meals on Wheels flyer. Hartley Dodge Memorial Building, 50 Kings Road."
+    "note": "Borough page with senior transportation and a Meals on Wheels flyer. The phone is the borough's senior transportation line. Hartley Dodge Memorial Building, 50 Kings Road."
    },
    {
     "name": "Morris County Nutrition Program, home delivered meals",
@@ -4024,7 +4024,7 @@
    "name": "Randolph Dial-A-Ride",
    "phone": "973-989-7084",
    "url": "https://randolphnj.org/174/Dial-A-Ride-Program",
-   "notes": "For permanent Randolph residents 60 and over, and disabled adults 18 and over who receive Social Security disability. Medical trips Monday to Thursday to doctors within 10 miles of Town Hall; book as soon as you make the appointment. Shopping trips on Mondays to ShopRite or Walmart in Roxbury; book by Friday."
+   "notes": "For permanent Randolph residents 60 and over, and disabled adults 18 and over who receive Social Security disability. Medical trips Monday to Thursday to doctors within 10 miles of Town Hall, for appointments between 9 a.m. and 3 p.m.; book as soon as you make the appointment. Shopping trips on Mondays to ShopRite or Walmart in Roxbury; book by Friday."
   },
   "library": {
    "name": "Randolph Township Free Public Library",
@@ -4036,9 +4036,9 @@
   "more": [
    {
     "name": "Randolph Health Screenings",
-    "phone": "973-989-7100",
+    "phone": "973-537-7118",
     "url": "https://randolphnj.org/181/Health-Screenings",
-    "note": "The Health Department offers screenings and clinics. Township main line."
+    "note": "Public Health Nurses. Free blood pressure checks for residents by appointment, plus periodic screenings."
    },
    {
     "name": "Morris County Nutrition Program, home delivered meals",
@@ -4148,7 +4148,7 @@
    },
    {
     "name": "Fosterfields Living Historical Farm",
-    "note": "73 Kahdena Road. A working farm from over 100 years ago, open April through October. $5 admission."
+    "note": "73 Kahdena Road. A working farm from over 100 years ago, open April through October, Wednesday to Saturday (Sundays too July to October), 10 a.m. to 3 p.m. $5 admission."
    }
   ],
   "sources": [
