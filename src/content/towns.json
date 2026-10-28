@@ -2078,7 +2078,7 @@
     "name": "Union County Division on Aging",
     "phone": "888-280-8226",
     "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
-    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's senior lunch sites (suggested donation $1.75; reserve two days ahead)."
    },
    {
     "name": "Union County Paratransit",
@@ -2135,13 +2135,13 @@
    "name": "Summit Seniors Club (Summit Community Center)",
    "address": "100 Morris Avenue, Summit, NJ 07901",
    "phone": "908-277-2932",
-   "url": "https://summitcommunityprograms.com/154/Senior-Club",
+   "url": "https://www.summitcommunityprograms.com/154/Senior-Club",
    "notes": "Summit residents 62 and older can join for $25 a year (non-residents $50), which covers all club programs during the school year. Gentle chair yoga Mondays and Fridays at 9:30 a.m., line dancing Mondays at 11:45 a.m., an indoor walking club weekdays at 8:45 a.m., and a senior card room open whenever the Community Center is."
   },
   "transport": {
    "name": "Senior Connections, Inc.",
    "phone": "908-277-2932",
-   "url": "https://summitcommunityprograms.com/151/Senior-Transportation",
+   "url": "https://www.summitcommunityprograms.com/151/Senior-Transportation",
    "notes": "Free rides for Summit seniors. Call to make a reservation. You do not need to be a Senior Club member."
   },
   "library": {
@@ -2155,13 +2155,13 @@
    {
     "name": "SAGE Eldercare Meals on Wheels",
     "phone": "908-273-5554",
-    "url": "https://www.cityofsummit.org/DocumentCenter/View/3619/Aging-in-Place-Information-Poster",
-    "note": "Weekday meal delivery for people over 60 who need it, arranged by phone around dietary needs."
+    "url": "https://cityofsummit.org/648/Aging-In-Place-Informational-Poster",
+    "note": "Weekday meal delivery from SAGE Eldercare for people who need it. Call to ask if you qualify."
    },
    {
     "name": "SAGE Eldercare adult day program",
     "phone": "908-598-5520",
-    "url": "https://www.cityofsummit.org/DocumentCenter/View/3619/Aging-in-Place-Information-Poster",
+    "url": "https://cityofsummit.org/648/Aging-In-Place-Informational-Poster",
     "note": "Structured social, physical and cognitive activities for older adults who need more support."
    },
    {
@@ -2174,7 +2174,7 @@
     "name": "Union County Division on Aging",
     "phone": "888-280-8226",
     "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
-    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's senior lunch sites (suggested donation $1.75; reserve two days ahead)."
    }
   ],
   "places": [
@@ -2190,11 +2190,11 @@
   "sources": [
    [
     "Summit Seniors Club",
-    "https://summitcommunityprograms.com/154/Senior-Club"
+    "https://www.summitcommunityprograms.com/154/Senior-Club"
    ],
    [
     "Senior Connections, Inc.",
-    "https://summitcommunityprograms.com/151/Senior-Transportation"
+    "https://www.summitcommunityprograms.com/151/Senior-Transportation"
    ],
    [
     "Summit Resource Directory for Seniors",
@@ -2202,7 +2202,7 @@
    ],
    [
     "Summit Resources for Aging Citizens poster",
-    "https://www.cityofsummit.org/DocumentCenter/View/3619/Aging-in-Place-Information-Poster"
+    "https://cityofsummit.org/648/Aging-In-Place-Informational-Poster"
    ],
    [
     "Summit Public Library",
@@ -2243,20 +2243,20 @@
    "address": "224 Walnut Avenue, Cranford, NJ 07016",
    "phone": "908-709-7272",
    "url": "https://www.cranfordlibrary.org/",
-   "notes": "Librarians offer 15 minute tech help appointments for phones and tablets on Tuesdays from 1 to 2:15 p.m. at the Community Center. Call the library to sign up. The Literary Cafe book chat meets the second Saturday at 10:15 a.m."
+   "notes": "Librarians offer 15 minute tech help appointments for phones and tablets on Tuesdays from 1 to 2:30 p.m. at the Community Center. Call the library or stop by the reference desk to book."
   },
   "more": [
    {
-    "name": "Age Friendly Cranford",
+    "name": "Cranford Recreation and Parks senior programs",
     "phone": "",
-    "url": "https://www.cranfordnj.org/2005/Age-Friendly-Cranford",
-    "note": "The township's page of senior news, clinics and free programs."
+    "url": "https://www.cranfordnj.org/node/61166",
+    "note": "The township's page of senior programs and news."
    },
    {
     "name": "Union County Division on Aging",
     "phone": "888-280-8226",
     "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
-    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's senior lunch sites (suggested donation $1.75; reserve two days ahead)."
    },
    {
     "name": "Union County Paratransit",
@@ -2268,11 +2268,11 @@
   "places": [
    {
     "name": "Nomahegan Park",
-    "note": "A county park along the Rahway River with a paved walking path, labeled trees, footbridges, a gazebo and picnic areas."
+    "note": "A county park along the Rahway River with a paved walking path, labeled trees, fishing and picnic areas."
    },
    {
     "name": "Sperry Pond",
-    "note": "A small county park section off Mohawk Drive with a walking path and fishing."
+    "note": "A small county park section off Mohawk Drive with a pond for fishing, a bike path and picnic tables."
    }
   ],
   "sources": [
@@ -2282,11 +2282,11 @@
    ],
    [
     "Age Friendly Cranford",
-    "https://www.cranfordnj.org/2005/Age-Friendly-Cranford"
+    "https://www.cranfordnj.org/node/61166"
    ],
    [
     "Cranford Library Programs for seniors",
-    "https://www.cranfordnj.org/2150/Library-Programs"
+    "https://www.cranfordlibrary.org/senior-tech-help-at-the-cranford-public-library"
    ],
    [
     "Cranford Public Library",
@@ -2294,7 +2294,7 @@
    ],
    [
     "Free Friday Senior Movies",
-    "https://www.cranfordnj.org/2152/Free-Friday-Senior-Movies-at-the-Communi"
+    "https://www.cranfordnj.org/community/pages/free-friday-senior-movies-community-center"
    ],
    [
     "Union County tree trails",
@@ -2348,7 +2348,7 @@
     "name": "Union County Division on Aging",
     "phone": "888-280-8226",
     "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
-    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's senior lunch sites (suggested donation $1.75; reserve two days ahead)."
    },
    {
     "name": "Union County Paratransit",
@@ -2364,7 +2364,7 @@
    },
    {
     "name": "Warinanco Park",
-    "note": "A short drive away in Elizabeth and Roselle, the Olmsted designed centerpiece of the county parks, with a lakeside path, cherry trees and a formal garden."
+    "note": "A large county park in Elizabeth and Roselle with a pond, paths and seasonal gardens. A short drive away."
    }
   ],
   "sources": [
@@ -2440,7 +2440,7 @@
     "name": "Union County Division on Aging",
     "phone": "888-280-8226",
     "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
-    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's senior lunch sites (suggested donation $1.75; reserve two days ahead)."
    },
    {
     "name": "Union County Paratransit",
@@ -2452,7 +2452,7 @@
   "places": [
    {
     "name": "Warinanco Park",
-    "note": "Called the Central Park of Union County, this Olmsted designed park in Elizabeth and Roselle has winding paths, a path around the lake, cherry and magnolia groves and the Chatfield Memorial Garden."
+    "note": "A large county park in Elizabeth and Roselle with a pond, paths and seasonal gardens."
    },
    {
     "name": "Liberty Hall Museum",
@@ -2542,17 +2542,17 @@
     "name": "Union County Division on Aging",
     "phone": "888-280-8226",
     "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
-    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's senior lunch sites (suggested donation $1.75; reserve two days ahead)."
    }
   ],
   "places": [
    {
     "name": "Wheeler Park",
-    "note": "A county park off Routes 1 and 9, designed by the Olmsted Brothers in 1925, with walking paths, a playground and a spray park."
+    "note": "A county park in Linden with a picnic area, a playground and a spray park."
    },
    {
     "name": "Warinanco Park",
-    "note": "A short drive away in Elizabeth and Roselle, with a path around the lake, cherry trees and a formal garden."
+    "note": "A large county park in Elizabeth and Roselle with a pond, paths and seasonal gardens. A short drive away."
    }
   ],
   "sources": [
@@ -2597,13 +2597,13 @@
    "name": "Scotch Plains Golden Agers",
    "address": "Shady Rest Country Club",
    "phone": "908-397-7337",
-   "url": "https://www.scotchplainsnj.gov/departments/senior-services",
+   "url": "https://scotchplainsnj.gov/index.php/departments/senior-services",
    "notes": "Meets Thursdays from 9 a.m. to 2 p.m., September to June, with bingo, crafts, parties, luncheons, guest speakers and trips. The phone number is club contact Mary Wanca. A mayor-appointed Senior Advisory Board advises the Recreation Department on senior programs."
   },
   "transport": {
    "name": "Scotch Plains senior bus",
    "phone": "908-322-6700",
-   "url": "https://www.scotchplainsnj.gov/departments/senior-services",
+   "url": "https://scotchplainsnj.gov/index.php/departments/senior-services",
    "notes": "Ask for extension 223. For self-reliant Scotch Plains residents 55 and older, or those traveling with an aide. Fill out a registration form first. Wednesday morning trips go to the Blue Star Shopping Center in Watchung, and the bus also carries Golden Agers to their Thursday meetings."
   },
   "library": {
@@ -2611,26 +2611,26 @@
    "address": "1927 Bartle Avenue, Scotch Plains, NJ 07076",
    "phone": "908-322-5007",
    "url": "https://scotchplainslibrary.org/contact/",
-   "notes": "Adult Services is at extension 204."
+   "notes": ""
   },
   "more": [
    {
     "name": "Jewish Family Services assisted transportation",
     "phone": "908-352-8375",
-    "url": "https://www.scotchplainsnj.gov/departments/senior-services",
+    "url": "https://scotchplainsnj.gov/index.php/departments/senior-services",
     "note": "Assisted rides for impaired or isolated seniors to banks, stores and medical visits. The agency is non-denominational."
    },
    {
     "name": "PROCEED, Inc.",
     "phone": "908-351-7727",
-    "url": "https://www.scotchplainsnj.gov/departments/senior-services",
+    "url": "https://scotchplainsnj.gov/index.php/departments/senior-services",
     "note": "Runs heating, cooling and weatherization help, and provides free grab bars to seniors."
    },
    {
     "name": "Union County Division on Aging",
     "phone": "888-280-8226",
     "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
-    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's senior lunch sites (suggested donation $1.75; reserve two days ahead)."
    },
    {
     "name": "Union County Paratransit",
@@ -2642,17 +2642,17 @@
   "places": [
    {
     "name": "Watchung Reservation",
-    "note": "A 2,065 acre county preserve that reaches into Scotch Plains, with lakes, woods and more than 13 miles of trails, including a history trail from the Deserted Village of Feltville."
+    "note": "A 2,065 acre county preserve nearby with lakes, woods, nature trails and the Trailside Nature and Science Center."
    },
    {
     "name": "Trailside Nature and Science Center",
-    "note": "The county's nature center in the Watchung Reservation, with indoor exhibits, butterfly gardens and a library."
+    "note": "The county's nature center in the Watchung Reservation, with exhibits and nature programs."
    }
   ],
   "sources": [
    [
     "Scotch Plains Senior Programs and Services",
-    "https://www.scotchplainsnj.gov/departments/senior-services"
+    "https://scotchplainsnj.gov/index.php/departments/senior-services"
    ],
    [
     "Scotch Plains Public Library contact",
@@ -2718,7 +2718,7 @@
     "name": "Union County Division on Aging",
     "phone": "888-280-8226",
     "url": "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/",
-    "note": "Help with benefits, home care referrals, caregiver programs and the county's weekday senior lunch sites (suggested donation $1.75)."
+    "note": "Help with benefits, home care referrals, caregiver programs and the county's senior lunch sites (suggested donation $1.75; reserve two days ahead)."
    },
    {
     "name": "Union County Paratransit",
@@ -2730,11 +2730,11 @@
   "places": [
    {
     "name": "Watchung Reservation",
-    "note": "A 2,065 acre county preserve that reaches into Berkeley Heights, with lakes, woods and more than 13 miles of trails."
+    "note": "A 2,065 acre county preserve nearby with lakes, woods, nature trails and the Trailside Nature and Science Center."
    },
    {
     "name": "Passaic River Parkway",
-    "note": "County riverside land in Berkeley Heights, New Providence and Summit with nature trails, fishing and the Snyder Avenue Boat Launch."
+    "note": "County riverside land in Berkeley Heights, New Providence and Summit with a nature trail, fishing, picnic areas and canoe and kayak access."
    }
   ],
   "sources": [

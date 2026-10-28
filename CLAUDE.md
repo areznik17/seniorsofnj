@@ -22,6 +22,7 @@ Live site is published by Netlify from the `site/` folder on every push to `main
 - In `src/index.html` set `HH_LIVE=true`. That turns on every homehappenings.com link (the "Activities at Home" button is a non-working "Coming soon" button until then) and shows the Home Happenings promo on county pages listed in `HH_COUNTIES` (currently Essex and Passaic).
 - HH_LIVE also turns on the Home Happenings ad cards (hhAd in src/index.html): one inside each guide after the third section plus a desktop sidebar card (not on Benefits or Housing guides, scams, elder abuse or estate planning, or Spanish pages), a band on the home page, on the Living Well, Things to Do and Caregiving topic pages, and at the end of the Find care help list. Update HH_AREA if the service area changes.
 - Three guides (activities-for-homebound-seniors-nj, activities-for-dementia-nj, gift-ideas-older-parents-nj) describe Home Happenings as "launching soon". At launch, change that sentence to present tense and match the real service area.
+- Lead tracking: with HH_LIVE on, hhTag() adds utm_source=seniorsofnj, utm_medium=referral, utm_campaign=<page type>, utm_content=<placement> and utm_term=<page slug> to every homehappenings.com link. Home Happenings must keep those parameters through booking (store first-touch UTM on the booking) to count leads.
 - Add any newly served counties to `HH_COUNTIES`, and consider adding Home Happenings mentions to relevant guides (learn-something-new, staying-connected-nj, caregiving guides).
 - Rebuild with `scripts/build.sh`, check pages, push to `main`.
 

@@ -187,7 +187,7 @@
   ],
   [
    "Inheritance tax",
-   "A New Jersey tax on what some heirs receive. Spouses, children and grandchildren (Class A) are exempt."
+   "A New Jersey tax on what some heirs receive. Class A heirs, including spouses, children, grandchildren and parents, are exempt."
   ],
   [
    "LIHEAP",
@@ -324,9 +324,9 @@
   },
   {
    "cat": "Benefits & money",
-   "name": "Home energy assistance (NJ 211)",
+   "name": "Home energy assistance (NJ DCA)",
    "phone": "1-800-510-3102",
-   "url": "https://www.nj211.org/utility-assistance-programs",
+   "url": "https://www.nj.gov/dca/dhcr/offices/hea.shtml",
    "desc": "LIHEAP, USF and Weatherization."
   },
   {
@@ -388,7 +388,7 @@
   {
    "cat": "Safety",
    "name": "Senior Medicare Patrol",
-   "phone": "1-732-777-1940 ext. 1117",
+   "phone": "732-777-1940",
    "url": "https://www.nj.gov/humanservices/doas/services/q-z/ship/index.shtml",
    "desc": "Report Medicare fraud and billing errors."
   },
@@ -404,7 +404,7 @@
    "name": "Home Happenings",
    "phone": "",
    "url": "https://homehappenings.com",
-   "desc": "Local teachers come to your home for piano, painting, yoga and more. Essex County. (Run by the publisher of this site.)"
+   "desc": "Local teachers come to your home for piano, painting, yoga and more. Launching soon in Essex County and nearby towns. (Run by the publisher of this site.)"
   }
  ],
  "spotlight": [

@@ -232,7 +232,7 @@
    },
    {
     "name": "Historic Cold Spring Village",
-    "note": "A living history village with costumed interpreters and level paths. It opens on weekends in summer and early fall, so check the schedule first."
+    "note": "A living history village with costumed interpreters and level paths. It keeps a short seasonal schedule, so check before you go."
    },
    {
     "name": "Emlen Physick Estate",
@@ -410,7 +410,7 @@
   },
   "transport": {
    "name": "TRANSCEND (Hudson County Office of Transportation Services)",
-   "phone": "201-369-4320 ext. 4107",
+   "phone": "201-369-4320",
    "url": "https://www.hcnj.us/health-and-human-services/transcend/transcend-system/"
   },
   "places": [
@@ -524,11 +524,11 @@
    },
    {
     "name": "Princeton University Art Museum",
-    "note": "A free museum on the Princeton campus, reopened in a new building in fall 2025."
+    "note": "A free museum on the Princeton campus, in a new building."
    },
    {
     "name": "Washington Crossing State Park",
-    "note": "The site of Washington's 1776 crossing, with picnic areas and trails. A new museum and visitor center was slated to open in 2026, so call ahead."
+    "note": "The site of Washington's 1776 crossing, with picnic areas and trails. Call ahead for visitor center hours."
    },
    {
     "name": "Mercer County Park",
@@ -648,7 +648,7 @@
    "Chatham",
    "Boonton"
   ],
-  "intro": "Morris County is a leafy, historic county in North Jersey, centered on Morristown and its Revolutionary War sites. NJ Transit's Morristown Line connects several towns to New York. The county's MAPS paratransit serves residents 60 and older, people with disabilities and veterans, and the Division on Aging can explain local Dial-a-Ride options.",
+  "intro": "Morris County is a leafy, historic county in North Jersey, centered on Morristown and its Revolutionary War sites. NJ Transit's Morristown Line connects several towns to New York. The county's MAPS paratransit serves residents 60 and older, people with disabilities and veterans, and the county also runs the Morris County Shuttle Service.",
   "agingOffice": {
    "name": "Morris County Division on Aging, Disabilities and Community Programming",
    "phone": "973-285-6848",
@@ -670,7 +670,7 @@
    },
    {
     "name": "Fosterfields Living Historical Farm",
-    "note": "A working historical farm with gentle grounds, open from April through October."
+    "note": "A working historical farm with gentle grounds, open seasonally."
    },
    {
     "name": "Morris Museum",
@@ -840,7 +840,7 @@
    "Bound Brook",
    "Raritan"
   ],
-  "intro": "Somerset County mixes horse country estates around Bernardsville and Far Hills with busy suburbs like Bridgewater and Hillsborough. Downtown Somerville has shops and restaurants close to the Raritan Valley Line train. The Office on Aging and Disability Services can arrange door to door rides for seniors and people with disabilities, and its toll free line is 1-888-747-1122.",
+  "intro": "Somerset County mixes horse country estates around Bernardsville and Far Hills with busy suburbs like Bridgewater and Hillsborough. Downtown Somerville has shops and restaurants close to the Raritan Valley Line train. Somerset County Transportation offers paratransit rides for residents 60 and older and people with disabilities who have no other way to travel. The Office on Aging and Disability Services toll free line is 1-888-747-1122.",
   "agingOffice": {
    "name": "Somerset County Office on Aging and Disability Services",
    "phone": "908-704-6346",
@@ -849,7 +849,7 @@
   "transport": {
    "name": "Somerset County Transportation",
    "phone": "908-231-7116",
-   "url": "https://www.somersetcountynj.gov/government/human-services/aging-disability-services"
+   "url": "https://www.somersetcountynj.gov/government/public-works/transportation/paratransit-services"
   },
   "places": [
    {
@@ -866,7 +866,7 @@
    },
    {
     "name": "USGA Golf Museum",
-    "note": "Golf history exhibits in Liberty Corner, Bernards Township. Closed Mondays."
+    "note": "Golf history exhibits in Liberty Corner, Bernards Township. Check hours before you go."
    }
   ],
   "verified": true
@@ -978,7 +978,7 @@
    "Hope",
    "Allamuchy"
   ],
-  "intro": "Warren County is rural western New Jersey along the Delaware River, with farm country, the Delaware Water Gap and small towns like Blairstown and Hope. Phillipsburg and Hackettstown are its largest towns. Warren County Transportation, operated by Easton Coach, offers curb to curb rides for residents over 60 and people with disabilities.",
+  "intro": "Warren County is rural western New Jersey along the Delaware River, with farm country, the Delaware Water Gap and small towns like Blairstown and Hope. Phillipsburg and Hackettstown are its largest towns. Warren County Transportation offers rides for older residents and people with disabilities. Call 908-454-4044 to reserve.",
   "agingOffice": {
    "name": "Warren County Division of Aging and Disability Services",
    "phone": "908-475-6591",
