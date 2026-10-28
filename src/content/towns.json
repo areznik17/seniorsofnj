@@ -790,19 +790,19 @@
   "name": "Millburn and Short Hills",
   "county": "essex",
   "countyName": "Essex County",
-  "intro": "Millburn and Short Hills have a Senior Citizens Department that puts out the Senior Hotline newsletter and a monthly program calendar, with classes such as Project Healthy Bones at the Bauer Community Center. A free senior bus runs four days a week. Greenwood Gardens and the Cora Hartshorn Arboretum offer quiet walks close by.",
+  "intro": "Millburn and Short Hills have a Senior Citizens Department that puts out the Senior Happenings e-newsletter and a monthly program calendar, with classes such as chair yoga and line dancing at the Bauer Community Center. A free senior bus runs four days a week. Greenwood Gardens and the Cora Hartshorn Arboretum offer quiet walks close by.",
   "seniorCenter": {
    "name": "Millburn Senior Citizens Department",
    "address": "",
    "phone": "973-564-7091",
    "url": "https://twp.millburn.nj.us/177/Senior-Citizens",
-   "notes": "Office hours are Monday to Friday, 8:30 am to 4:30 pm. Leave your name and number for the Senior Citizen Coordinator. Some programs, such as Project Healthy Bones, meet at the Bauer Community Center, 100 Main Street."
+   "notes": "Office hours are Monday to Friday, 8:30 am to 4:30 pm. Leave your name and number for the Senior Citizen Coordinator. Many programs, such as chair yoga, line dancing and Friday Friends, meet at the Bauer Community Center at Taylor Park, 100 Main Street. Project Healthy Bones has a waiting list."
   },
   "transport": {
    "name": "Millburn Senior Bus",
    "phone": "973-564-7076",
    "url": "https://twp.millburn.nj.us/179/Transportation",
-   "notes": "Free for residents 62 and over, within the township, to medical visits, shopping, the library and activities on Mondays, Wednesdays, Thursdays and Fridays. Call 7 to 8:15 am at least a day ahead; there is no voicemail. Monthly trips go to the Short Hills Mall and Whole Foods/Target."
+   "notes": "Free for residents 62 and over, within the township, to medical visits, shopping, the library and activities on Mondays, Wednesdays, Thursdays and Fridays. Call 7 to 8:15 am at least a day ahead; there is no voicemail. Regular shopping trips go to the Short Hills Mall (first Friday and third Wednesday of the month) and to Whole Foods/Target (last Wednesday)."
   },
   "library": {
    "name": "Millburn Free Public Library",
@@ -1339,10 +1339,10 @@
   "intro": "Essex Fells has Grover Cleveland Park, the first county park in western Essex, inside its borders. The borough shares a health department with Livingston. For programs, the Grover Cleveland Senior Center in neighboring Caldwell welcomes anyone 60 and older, and the county runs rides to medical visits.",
   "seniorCenter": {
    "name": "Grover Cleveland Senior Center (Caldwell)",
-   "address": "",
+   "address": "14 Park Avenue, Caldwell, NJ 07006",
    "phone": "973-403-4637",
    "url": "https://caldwell-nj.com/human",
-   "notes": "Essex Fells does not post its own senior program. This nearby center is run by the Borough of Caldwell, and anyone 60 or older can take part in its fitness, enrichment, health education and social programs. West Caldwell describes it as open weekdays to seniors across the West Essex area, with trips, weekly lunches, bingo, movies, cards and blood pressure checks. Call for the address and a monthly calendar."
+   "notes": "Essex Fells does not post its own senior program. This nearby center is run by the Borough of Caldwell in the Irene Gibbons Health & Human Services Building, and anyone 60 or older can take part in its fitness, enrichment, health education and social programs. Call for a monthly calendar."
   },
   "transport": {
    "name": "Essex County Special Transportation",
@@ -1516,7 +1516,7 @@
    "name": "Irvington Senior Services transportation",
    "phone": "973-982-6951",
    "url": "https://irvingtonnj.gov/health-and-senior-services/",
-   "notes": "The Division of Senior Services provides local rides for seniors to grocery stores, medical appointments, banks, the library, benefit offices and events. The senior center application asks whether you need a ride to the center."
+   "notes": "The Division of Senior Services provides local rides for seniors to grocery stores, medical appointments, banks, the library, benefit offices and events."
   },
   "library": {
    "name": "Irvington Public Library",
@@ -1530,7 +1530,7 @@
     "name": "Irvington Senior Center application",
     "phone": "",
     "url": "https://irvingtonnj.gov/senior-center-application/",
-    "note": "Online form for new members and renewals. You must be an Irvington resident 60 or older and upload an ID."
+    "note": "Online form for new members and renewals. Call 973-982-6951 for eligibility details."
    },
    {
     "name": "Essex County Office of Senior Services (ADRC)",
