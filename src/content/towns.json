@@ -1050,9 +1050,9 @@
    },
    {
     "name": "Passaic County MOVE",
-    "phone": "",
-    "url": "https://www.cliftonnj.org/m/newsflash/Home/Detail/822",
-    "note": "App-based shared rides in Clifton and Passaic for $1.80, weekdays 6 am to 8 pm. Door-to-door service and wheelchair-accessible vehicles can be requested."
+    "phone": "973-791-7563",
+    "url": "https://www.passaiccountynj.org/our-county/passaic-county-move",
+    "note": "App or phone booked shared rides in Passaic, Clifton and Paterson for $1.90 a ride (card only), weekdays 6 am to 8 pm. Pickup is at a nearby corner, and wheelchair accessible vehicles can be requested."
    }
   ],
   "places": [
@@ -1075,8 +1075,8 @@
     "https://www.cliftonnj.org/406/Senior-Citizen-Services"
    ],
    [
-    "Passaic County MOVE (City of Clifton)",
-    "https://www.cliftonnj.org/m/newsflash/Home/Detail/822"
+    "Passaic County MOVE (Passaic County)",
+    "https://www.passaiccountynj.org/our-county/passaic-county-move"
    ],
    [
     "Homebound Service (Clifton Public Library)",
@@ -1091,7 +1091,7 @@
     "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/44/316"
    ]
   ],
-  "updated": "2026-10-26"
+  "updated": "2026-10-30"
  },
  {
   "slug": "little-falls",
@@ -4370,5 +4370,997 @@
    ]
   ],
   "updated": "2026-10-27"
+ },
+ {
+  "slug": "wayne",
+  "name": "Wayne",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "Wayne runs a Department of Senior and Social Services at Town Hall and an age-friendly program called Wayne for All Ages, which opened a resource center in the clubhouse at Captain Kilroy Park. Two township senior bus routes stop at shopping centers, Town Hall and the library on weekdays. The township health department adds low-cost exercise classes, blood screenings and a dental clinic.",
+  "seniorCenter": {
+   "name": "Wayne for All Ages Resource Center",
+   "address": "Captain Kilroy Memorial Park, 6 Concord Place, Wayne, NJ 07470",
+   "phone": "973-694-1800 ext. 3281",
+   "url": "https://waynetownship.com/wayne-for-all-ages/",
+   "notes": "The township's age-friendly program offers health talks and screenings, an Alzheimer's support group, blood pressure checks and low-cost exercise classes. Register ahead for every program. The same number reaches the Senior and Social Services Department at Town Hall, 475 Valley Road, for help with benefits, housing lists and the WIN food pantry."
+  },
+  "transport": {
+   "name": "Wayne Senior Citizen Bus (Routes A and B)",
+   "phone": "973-694-1800 ext. 3260",
+   "url": "https://waynetownship.com/health-home-page/social-services-faq/",
+   "notes": "Fixed-route bus for adults 55 and over, or any age with a permanent disability, weekdays about 9 am to 2 pm. Stops include ShopRite, Wayne Hills Mall, Preakness Shopping Center, Town Hall, the library and the YMCA, with Wednesday trips to Willowbrook Mall. No service on holidays or when schools close for weather. Passaic County Paratransit (973-305-5756) covers medical rides. Call Parks and Recreation to ask about fares."
+  },
+  "library": {
+   "name": "Wayne Public Library",
+   "address": "461 Valley Road, Wayne, NJ 07470",
+   "phone": "973-694-4272",
+   "url": "https://www.waynepubliclibrary.org/available-at-the-library.html",
+   "notes": "Large print books, audiobooks and two magnifier reading stations, plus information on the state's free Talking Book and Braille Center for readers with low vision or a disability that makes reading hard. Open Monday to Thursday 9 am to 9 pm, Friday to 5:30 pm, Saturday 10 am to 5 pm, and Sunday 1 to 5 pm from September to May. Call the reference desk at ext. 5401."
+  },
+  "more": [
+   {
+    "name": "Wayne Health Department clinics",
+    "phone": "973-694-1800 ext. 3374",
+    "url": "https://waynetownship.com/health-home-page/health-clinics/",
+    "note": "Adult immunizations and blood pressure checks by appointment. Flu shots for Wayne residents are booked at ext. 3106, and the dental clinic for residents without dental insurance is at ext. 3237."
+   },
+   {
+    "name": "Passaic County Paratransit",
+    "phone": "973-305-5756",
+    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit",
+    "note": "County rides for older and disabled residents to medical appointments, shopping and county nutrition and adult day sites. Lift vans are available. The office is on Route 23 in Wayne."
+   },
+   {
+    "name": "Wayne Police Special Needs Registry",
+    "phone": "973-694-0600",
+    "url": "https://waynetownship.com/wayne-for-all-ages/special-needs-registry-form/",
+    "note": "Families of residents with Alzheimer's, dementia or another cognitive impairment can register them so officers know who may need extra help."
+   }
+  ],
+  "places": [
+   {
+    "name": "Dey Mansion",
+    "note": "Washington's 1780 headquarters at 199 Totowa Road, run by Passaic County. Guided tours on the hour, Wednesday to Sunday, 10 am to 5 pm. Adults pay $5."
+   },
+   {
+    "name": "Laurelwood Arboretum",
+    "note": "Wayne Township public park beside Pines Lake with gardens and walking paths. It hosts free bird walks and seasonal events; parking is limited."
+   },
+   {
+    "name": "Wayne Adult Community Center",
+    "note": "Volunteer-run group for adults 55 and over with classes and activities. Call 973-633-0734."
+   }
+  ],
+  "sources": [
+   [
+    "Wayne for All Ages (Wayne Township)",
+    "https://waynetownship.com/wayne-for-all-ages/"
+   ],
+   [
+    "Wayne Township Resources (Wayne Township)",
+    "https://waynetownship.com/wayne-for-all-ages/wayne-township-resources/"
+   ],
+   [
+    "Social Services FAQ (Wayne Township)",
+    "https://waynetownship.com/health-home-page/social-services-faq/"
+   ],
+   [
+    "Senior Citizen Bus Schedule (Wayne Township)",
+    "https://waynetownship.com/wp-content/uploads/2023/04/SENIOR-BUS-SCHEDULE-2023.pdf"
+   ],
+   [
+    "Clinics (Wayne Health Department)",
+    "https://waynetownship.com/health-home-page/health-clinics/"
+   ],
+   [
+    "Available at the Library (Wayne Public Library)",
+    "https://www.waynepubliclibrary.org/available-at-the-library.html"
+   ],
+   [
+    "Wayne Public Library",
+    "https://www.waynepubliclibrary.org/"
+   ],
+   [
+    "Paratransit (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit"
+   ],
+   [
+    "Dey Mansion (See Passaic County)",
+    "https://seepassaiccounty.org/dey-mansion/"
+   ],
+   [
+    "Laurelwood Arboretum",
+    "https://laurelwoodarboretum.org/"
+   ]
+  ],
+  "updated": "2026-10-30"
+ },
+ {
+  "slug": "totowa",
+  "name": "Totowa",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "Totowa's Senior Services Office works out of the Community Center on Union Boulevard, and a free borough senior bus runs to doctors in Totowa, Wayne, Woodland Park and Little Falls. Passaic County's senior services department and one of its weekday lunch centers are both on Riverview Drive in Totowa. The library delivers books to residents who can't get out.",
+  "seniorCenter": {
+   "name": "Totowa Senior Services Office (Totowa Community Center)",
+   "address": "385 Union Boulevard, Totowa, NJ 07512",
+   "phone": "973-956-1000 ext. 1062",
+   "url": "https://www.totowanj.org/seniors",
+   "notes": "The Totowa Seniors club meets here Mondays at 12:30 pm, and the Totowa Happy Seniors meet the first and third Tuesday at 1 pm at the Totowa PAL on Chamberlain Avenue. All are welcome."
+  },
+  "transport": {
+   "name": "Totowa Senior Bus",
+   "phone": "973-956-1000 ext. 1062",
+   "url": "https://www.totowanj.org/seniors",
+   "notes": "Free rides to senior club meetings, to local doctors in Totowa, Wayne, Woodland Park and Little Falls, and to the Little Falls ShopRite and other stops. Call to book. Passaic County Paratransit (973-305-5756) also serves Totowa."
+  },
+  "library": {
+   "name": "Borough of Totowa Public Library",
+   "address": "537 Totowa Road, Totowa, NJ 07512",
+   "phone": "973-790-3265",
+   "url": "https://www.totowapl.org/homebound",
+   "notes": "Free home delivery for Totowa residents who can't visit because of illness, disability or no transportation. Request items by phone or email, and no overdue fines are charged."
+  },
+  "more": [
+   {
+    "name": "Totowa Senior Center (county lunch site)",
+    "phone": "973-569-4088",
+    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "Passaic County serves a hot lunch on weekdays at 930 Riverview Drive for people 60 and over or married to someone 60 or over. Donations are accepted."
+   },
+   {
+    "name": "Passaic County Senior Services",
+    "phone": "973-569-4060",
+    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs",
+    "note": "The county department at 930 Riverview Drive, Suite 200, handles home care help, adult day care, benefit screening and Meals on Wheels (973-569-4099)."
+   },
+   {
+    "name": "Wayne Health Department Dental Clinic",
+    "phone": "973-694-1800 ext. 3237",
+    "url": "https://waynetownship.com/health-home-page/health-clinics/",
+    "note": "Open to Totowa residents ages 5 and up who have no dental insurance. Appointments required."
+   }
+  ],
+  "places": [
+   {
+    "name": "Dey Mansion",
+    "note": "Washington's 1780 headquarters just over the line at 199 Totowa Road in Wayne. Guided tours Wednesday to Sunday, 10 am to 5 pm, $5 for adults."
+   },
+   {
+    "name": "Paterson Great Falls National Historical Park",
+    "note": "A short drive away. Grounds are open sunrise to sunset and rangers lead walking tours most days. Call 973-523-0370 to check."
+   },
+   {
+    "name": "Garret Mountain Reservation",
+    "note": "Passaic County park in Woodland Park with scenic overlooks, walking paths, picnic areas and restrooms."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Services (Borough of Totowa)",
+    "https://www.totowanj.org/seniors"
+   ],
+   [
+    "Homebound Delivery (Totowa Public Library)",
+    "https://www.totowapl.org/homebound"
+   ],
+   [
+    "Nutrition Services (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services"
+   ],
+   [
+    "Senior Services, Disability and Veterans Affairs (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs"
+   ],
+   [
+    "Paratransit (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit"
+   ],
+   [
+    "Clinics (Wayne Health Department)",
+    "https://waynetownship.com/health-home-page/health-clinics/"
+   ],
+   [
+    "Dey Mansion (See Passaic County)",
+    "https://seepassaiccounty.org/dey-mansion/"
+   ],
+   [
+    "Operating Hours (Paterson Great Falls NHP)",
+    "https://www.nps.gov/pagr/planyourvisit/hours.htm"
+   ],
+   [
+    "Garret Mountain Reservation (Passaic County)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/44/316"
+   ]
+  ],
+  "updated": "2026-10-30"
+ },
+ {
+  "slug": "woodland-park",
+  "name": "Woodland Park",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "Woodland Park has two senior clubs, one open to anyone 50 and over, and a free borough senior bus that goes to local doctors, the Little Falls ShopRite and Willowbrook Mall. The library just reopened in its new building on Brophy Lane. Garret Mountain Reservation and Rifle Camp Park, two of the county's best parks, are both in town.",
+  "seniorCenter": {
+   "name": "Woodland Park Seniors Club",
+   "address": "Woodland Park Boys and Girls Club, 8 Memorial Drive, Woodland Park, NJ 07424",
+   "phone": "973-523-0234",
+   "url": "https://wpnj.us/seniors",
+   "notes": "Meets Wednesdays, 10:30 am to 3 pm, and everyone 50 or older is welcome. The Young at Heart Seniors meet every other Friday, 11:30 am to 3 pm, at the American Legion, 410 Mt. Pleasant Avenue (201-349-8919)."
+  },
+  "transport": {
+   "name": "Woodland Park Senior Bus",
+   "phone": "973-445-9158",
+   "url": "https://wpnj.us/seniors",
+   "notes": "Free rides to senior club meetings, local doctors in Woodland Park, Totowa and Little Falls, the Little Falls ShopRite and Willowbrook Mall. Call to schedule. Passaic County Paratransit (973-305-5756) also serves the borough."
+  },
+  "library": {
+   "name": "Alfred H. Baumann Free Public Library",
+   "address": "7 Brophy Lane, Woodland Park, NJ 07424",
+   "phone": "973-345-8120",
+   "url": "https://www.abwplibrary.org/",
+   "notes": "Moved back into its new building on Brophy Lane this fall. Open Monday to Thursday 10 am to 8 pm, Friday to 5 pm and Saturday to 3 pm. Call to ask about help for readers who can't get to the library."
+  },
+  "more": [
+   {
+    "name": "Passaic County Meals on Wheels",
+    "phone": "973-569-4099",
+    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "One hot meal a day, Monday to Friday, for homebound older adults who can't cook for themselves, with weekend meals if needed. Applications are taken by phone."
+   },
+   {
+    "name": "Totowa Senior Center (county lunch site)",
+    "phone": "973-569-4088",
+    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "The closest county weekday lunch center, at 930 Riverview Drive in Totowa, for people 60 and over. Donations are accepted."
+   },
+   {
+    "name": "Passaic County Senior Services",
+    "phone": "973-569-4060",
+    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs",
+    "note": "County help with home care, adult day care, benefit screening and care management. The statewide aging line is 1-877-222-3737."
+   }
+  ],
+  "places": [
+   {
+    "name": "Garret Mountain Reservation",
+    "note": "County park at 8 Mountain Avenue with a 5K loop, scenic overlooks, picnic areas and restrooms. Open sunrise to sunset."
+   },
+   {
+    "name": "Lambert Castle",
+    "note": "Restored 1890s castle on Garret Mountain with 90-minute guided tours, Wednesday to Sunday. The castle and grounds are ADA accessible. Adults pay $10."
+   },
+   {
+    "name": "Rifle Camp Park",
+    "note": "County park on Garret Mountain with scenic overlooks, picnic areas, trails and restrooms. Open sunrise to sunset."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Services (Borough of Woodland Park)",
+    "https://wpnj.us/seniors"
+   ],
+   [
+    "Alfred H. Baumann Free Public Library",
+    "https://www.abwplibrary.org/"
+   ],
+   [
+    "Grand Opening announcement (Alfred H. Baumann Free Public Library)",
+    "https://www.facebook.com/ABWPlibrary/posts/-a-new-chapter-begins-the-wait-is-almost-over-we-are-thrilled-to-announce-the-gr/1427666979459628/"
+   ],
+   [
+    "Nutrition Services (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services"
+   ],
+   [
+    "Senior Services, Disability and Veterans Affairs (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs"
+   ],
+   [
+    "Paratransit (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit"
+   ],
+   [
+    "Garret Mountain Reservation (Passaic County)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/44/316"
+   ],
+   [
+    "Lambert Castle (See Passaic County)",
+    "https://seepassaiccounty.org/lambert-castle/"
+   ],
+   [
+    "Rifle Camp Park (Passaic County)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/54/316"
+   ]
+  ],
+  "updated": "2026-10-30"
+ },
+ {
+  "slug": "hawthorne",
+  "name": "Hawthorne",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "Hawthorne hosts one of Passaic County's seven senior lunch centers, in the ambulance corps building on Goffle Road, and two senior clubs meet at St. Anthony's Church. The police department will check in on older residents who live alone. Residents 65 and over get a free membership to the borough pool, and Goffle Brook Park runs right through town.",
+  "seniorCenter": {
+   "name": "Hawthorne Senior Center (county nutrition site)",
+   "address": "970 Goffle Road, Hawthorne, NJ 07506",
+   "phone": "973-423-1027",
+   "url": "https://hawthornenj.org/353/Library-Programs",
+   "notes": "Passaic County serves lunch here every weekday for people 60 and over, with activities and trips, for a small donation. The Golden Circle and Golden Horizon senior groups meet at St. Anthony's Church, 276 Diamond Bridge Avenue."
+  },
+  "transport": {
+   "name": "Passaic County Paratransit",
+   "phone": "973-305-5756",
+   "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit",
+   "notes": "Hawthorne does not list its own senior bus. County vans take older and disabled residents to medical and dental appointments, food shopping and county nutrition and adult day sites. Have your destination and return time ready when you call."
+  },
+  "library": {
+   "name": "Louis Bay 2nd Library",
+   "address": "345 Lafayette Avenue, Hawthorne, NJ 07506",
+   "phone": "973-427-5745",
+   "url": "https://louisbay2ndlibrary.org/",
+   "notes": "Open Monday to Thursday 9 am to 9 pm, Friday to 5:30 pm and Saturday 10 am to 5 pm. Check the calendar for adult programs, or call circulation at ext. 15."
+  },
+  "more": [
+   {
+    "name": "Operation Reassurance",
+    "phone": "973-427-1800",
+    "url": "https://hawthornenj.org/353/Library-Programs",
+    "note": "The Hawthorne Police Department checks on older residents who live alone. Call to register."
+   },
+   {
+    "name": "Hawthorne Board of Health",
+    "phone": "973-427-5555 ext. 223",
+    "url": "https://hawthornenj.org/353/Library-Programs",
+    "note": "Flu and pneumonia shots, blood pressure checks and other health services."
+   },
+   {
+    "name": "Passaic County Meals on Wheels",
+    "phone": "973-569-4099",
+    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "Weekday hot meals, with weekend meals if needed, for homebound older adults. Applications are taken by phone."
+   }
+  ],
+  "places": [
+   {
+    "name": "Goffle Brook Park",
+    "note": "County park at 675 Goffle Road with walking paths, fishing, picnic areas and restrooms. Open sunrise to sunset."
+   },
+   {
+    "name": "Hawthorne Municipal Pool",
+    "note": "Free summer membership for Hawthorne and North Haledon residents 65 and over, with $5 water exercise classes for members."
+   },
+   {
+    "name": "Paterson Great Falls National Historical Park",
+    "note": "A short drive south. Grounds open sunrise to sunset, with ranger-led walking tours most days. There are no indoor facilities."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Citizens (Borough of Hawthorne)",
+    "https://www.hawthornenj.org/351/Senior-Citizens"
+   ],
+   [
+    "Library Programs and senior services (Borough of Hawthorne)",
+    "https://hawthornenj.org/353/Library-Programs"
+   ],
+   [
+    "Free Pool Membership for Senior Citizens (Borough of Hawthorne)",
+    "https://hawthornenj.org/352/Free-Pool-Membership-for-Senior-Citizens"
+   ],
+   [
+    "Nutrition Services (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services"
+   ],
+   [
+    "Paratransit (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit"
+   ],
+   [
+    "Louis Bay 2nd Library",
+    "https://louisbay2ndlibrary.org/"
+   ],
+   [
+    "Goffle Brook Park (Passaic County)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/46/316"
+   ],
+   [
+    "Operating Hours (Paterson Great Falls NHP)",
+    "https://www.nps.gov/pagr/planyourvisit/hours.htm"
+   ]
+  ],
+  "updated": "2026-10-30"
+ },
+ {
+  "slug": "pompton-lakes",
+  "name": "Pompton Lakes",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "Pompton Lakes has two senior clubs that meet on Lenox Avenue, and the borough's public health nurse offers screenings and gives flu shots at home to residents who can't get out. The nearest county lunch center is in Bloomingdale, with rides available. A walkway along Pompton Lake at Rotary Park and the Morris Canal greenway make for easy outings.",
+  "seniorCenter": {
+   "name": "Pompton Lakes Golden Agers (Civic Center)",
+   "address": "25 Lenox Avenue, Pompton Lakes, NJ 07442",
+   "phone": "973-839-7259",
+   "url": "https://www.pomptonlakes-nj.gov/236/Senior-Citizens",
+   "notes": "The Golden Agers meet at noon on the first and third Thursday. Saint Mary's Seniors meet the second and fourth Wednesday, 11:30 am to 1:30 pm, at the Carnevale Center on Lenox Avenue. The borough's public health nurse offers blood pressure checks and diabetes and cancer counseling; call Borough Hall at 973-835-0143."
+  },
+  "transport": {
+   "name": "Passaic County Paratransit",
+   "phone": "973-305-5756",
+   "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit",
+   "notes": "Pompton Lakes does not list its own senior bus. County vans take older and disabled residents to medical appointments, shopping and county nutrition and adult day sites, with lift vans for wheelchairs."
+  },
+  "library": {
+   "name": "Pompton Lakes Public Library (Emanuel Einstein Memorial)",
+   "address": "333 Wanaque Avenue, Pompton Lakes, NJ 07442",
+   "phone": "973-835-0482",
+   "url": "https://www.pomptonlakeslibrary.org/",
+   "notes": "Open Monday to Thursday 10 am to 8 pm, Friday to 5 pm and Saturday to 4 pm. Book clubs and museum passes for residents, plus eBooks and audiobooks you can use from home."
+  },
+  "more": [
+   {
+    "name": "Bloomingdale Senior Center (county lunch site)",
+    "phone": "973-835-4433",
+    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "The closest Passaic County weekday lunch center, at 101 Hamburg Turnpike in Bloomingdale, for people 60 and over. Ask about rides when you call."
+   },
+   {
+    "name": "Passaic County Meals on Wheels",
+    "phone": "973-569-4099",
+    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "Weekday hot meals, with weekend meals if needed, for homebound older adults. Applications are taken by phone."
+   },
+   {
+    "name": "Wayne Health Department Dental Clinic",
+    "phone": "973-694-1800 ext. 3237",
+    "url": "https://waynetownship.com/health-home-page/health-clinics/",
+    "note": "Open to Pompton Lakes residents ages 5 and up who have no dental insurance. Appointments required."
+   }
+  ],
+  "places": [
+   {
+    "name": "Rotary Park and the Pompton Lake walkway",
+    "note": "Newly redone borough park with a walkway along the shoreline of Pompton Lake."
+   },
+   {
+    "name": "Morris Canal Greenway",
+    "note": "Borough bike and walking path that follows the route of the old Morris Canal."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Citizens (Borough of Pompton Lakes)",
+    "https://www.pomptonlakes-nj.gov/236/Senior-Citizens"
+   ],
+   [
+    "Assistance (Borough of Pompton Lakes)",
+    "https://www.pomptonlakes-nj.gov/237/Assistance"
+   ],
+   [
+    "Parks and Recreation (Borough of Pompton Lakes)",
+    "https://www.pomptonlakes-nj.gov/347/Parks-and-Recreation"
+   ],
+   [
+    "Pompton Lakes Public Library",
+    "https://www.pomptonlakeslibrary.org/"
+   ],
+   [
+    "Hours (Pompton Lakes Public Library)",
+    "https://www.pomptonlakeslibrary.org/about/hours/"
+   ],
+   [
+    "Nutrition Services (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services"
+   ],
+   [
+    "Paratransit (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit"
+   ],
+   [
+    "Clinics (Wayne Health Department)",
+    "https://waynetownship.com/health-home-page/health-clinics/"
+   ]
+  ],
+  "updated": "2026-10-30"
+ },
+ {
+  "slug": "paterson",
+  "name": "Paterson",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "Paterson's Division of Senior Services works out of the Riverside Vets building at 165 5th Avenue, where older adults come for chair exercise, bingo, Friday karaoke, trips and a hot weekday lunch. The city also brings weekly food deliveries to older residents at home, and the Great Falls and the restored Lambert Castle are close by for an easy outing.",
+  "seniorCenter": {
+   "name": "Paterson Division of Senior Services at Riverside Vets",
+   "address": "165 5th Avenue, Paterson, NJ 07524",
+   "phone": "973-653-5932",
+   "url": "https://www.patersonnj.gov/department/division.php?fDD=9-31",
+   "notes": "Open Monday to Friday, 7:30 am to 3:30 pm. Activities include chair exercise, cardio fitness, Zumba, bingo, arts and crafts, Friday karaoke, movie and game days, monthly birthday parties and trips. Staff also give information and referrals on aging, benefits and disability services, and the city delivers food weekly to older residents in senior buildings and private homes."
+  },
+  "transport": {
+   "name": "Passaic County Paratransit",
+   "phone": "973-305-5756",
+   "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit",
+   "notes": "Paterson's Division of Senior Services arranges rides for older and disabled residents through the Passaic County Paratransit program, to doctor appointments, medical treatments, grocery shopping, nutrition sites, recreation trips and the VA hospital. Lift vans are available. Have your name, address, date of birth, destination and return time ready when you call."
+  },
+  "library": {
+   "name": "Paterson Public Library (Danforth Main Library)",
+   "address": "250 Broadway, Paterson, NJ 07501",
+   "phone": "973-321-1223",
+   "url": "https://patersonpl.org/our-locations/",
+   "notes": "The Danforth Main Library is open Monday through Saturday (9 am to 6 pm Monday to Thursday, shorter hours Friday and Saturday). The Southside Branch keeps limited weekday hours and other branches are temporarily closed, so check before you go. Free ebooks and audiobooks are available through Libby and hoopla with a library card."
+  },
+  "more": [
+   {
+    "name": "Riverside Senior Center lunch",
+    "phone": "973-225-0231",
+    "url": "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "A county senior nutrition center in the same building, serving one hot meal Monday to Friday for people 60 and older or married to someone 60 or older. Open 8:30 am to 1 pm. Donations are accepted."
+   },
+   {
+    "name": "Paterson Division of Health",
+    "phone": "973-321-1277",
+    "url": "https://www.patersonnjhealth.gov/",
+    "note": "The city health department at 176 Broadway, open weekdays. Call about flu shots, clinics and health education programs."
+   },
+   {
+    "name": "Passaic County MOVE",
+    "phone": "973-791-7563",
+    "url": "https://www.passaiccountynj.org/our-county/passaic-county-move",
+    "note": "Shared on-demand van rides now include Paterson, along with Passaic and Clifton, starting October 30, 2026. Rides cost $1.90, run weekdays 6 am to 8 pm and are paid by card. Book in the app or by phone, and ask for a wheelchair-accessible vehicle if you need one."
+   }
+  ],
+  "places": [
+   {
+    "name": "Paterson Great Falls National Historical Park",
+    "note": "Views of the Great Falls from Overlook Park, with grounds open sunrise to sunset. There is no visitor center or indoor restroom right now; portable toilets are usually out from 9 am to 4 pm, staff permitting, so plan a short stop."
+   },
+   {
+    "name": "Lambert Castle",
+    "note": "The restored county-run castle at 3 Valley Road. Guided 90-minute tours run Wednesday to Sunday, 10 am to 5 pm, and the castle and grounds are ADA accessible."
+   },
+   {
+    "name": "Garret Mountain Reservation",
+    "note": "County park above the city with scenic overlooks, a 5K loop, picnic areas and restrooms. Open daily from sunrise to sunset."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Services (City of Paterson)",
+    "https://www.patersonnj.gov/department/division.php?fDD=9-31"
+   ],
+   [
+    "Paratransit (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit"
+   ],
+   [
+    "Operating Hours (Paterson Great Falls NHP)",
+    "https://www.nps.gov/pagr/planyourvisit/hours.htm"
+   ],
+   [
+    "Nutrition Services (Passaic County)",
+    "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services"
+   ],
+   [
+    "Our Locations (Paterson Public Library)",
+    "https://patersonpl.org/our-locations/"
+   ],
+   [
+    "Paterson Public Library",
+    "https://www.patersonpl.org"
+   ],
+   [
+    "City of Paterson Division of Health",
+    "https://www.patersonnjhealth.gov/links/"
+   ],
+   [
+    "Department of Health Services (Passaic County)",
+    "https://www.passaiccountynj.org/departments/health"
+   ],
+   [
+    "Passaic County MOVE",
+    "https://www.passaiccountynj.org/our-county/passaic-county-move"
+   ],
+   [
+    "Plan Your Visit (Paterson Great Falls NHP, National Park Service)",
+    "https://www.nps.gov/pagr/planyourvisit/index.htm"
+   ],
+   [
+    "Lambert Castle (Passaic County)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/64/"
+   ],
+   [
+    "Garret Mountain Reservation (Passaic County)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/44/316"
+   ]
+  ],
+  "updated": "2026-10-30"
+ },
+ {
+  "slug": "passaic-city",
+  "name": "Passaic",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "The City of Passaic runs its senior programs out of the Annabelle Shimkowitz Senior Center at 330 Passaic Street, which serves a weekday hot lunch and keeps a full calendar of chair Zumba, crafts, choir and bingo. Passaic residents have their own number for county paratransit rides, and Passaic County MOVE vans cover the city for $1.90 a ride.",
+  "seniorCenter": {
+   "name": "Annabelle Shimkowitz Senior Center",
+   "address": "330 Passaic Street, Passaic, NJ 07055",
+   "phone": "973-365-5754",
+   "url": "https://www.cityofpassaic.com/211/Senior-Affairs",
+   "notes": "Run by the city's Senior Affairs office. Programs include a weekday congregate lunch, arts and crafts, tai chi, line dancing, health screenings and health education, trips, a shopping program, telephone reassurance, homemaker services and help with information and referrals. A monthly activity calendar is posted on the city website; call to reserve a spot for outings."
+  },
+  "transport": {
+   "name": "Passaic County Paratransit (Passaic residents)",
+   "phone": "973-365-5754",
+   "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit",
+   "notes": "Passaic residents use this number to book county paratransit, which serves the county's older and disabled residents. Rides go to medical appointments, shopping, county nutrition sites and adult day care, and lift vans are available. The Senior Affairs office also lists transportation and a regular shopping trip among its services."
+  },
+  "library": {
+   "name": "Passaic Public Library (Forstmann Main Library)",
+   "address": "195 Gregory Avenue, Passaic, NJ 07055",
+   "phone": "973-779-0474",
+   "url": "https://www.passaicpubliclibrary.org/",
+   "notes": "The main library offers book requests, free ebooks through OverDrive and hoopla, and resources for learning English. The library also runs the Reid Memorial Branch. Call for current hours at both."
+  },
+  "more": [
+   {
+    "name": "Senior center lunch",
+    "phone": "973-881-4988",
+    "url": "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "The Shimkowitz center is one of the county's seven senior nutrition centers, serving one hot meal Monday to Friday for people 60 and older or married to someone 60 or older. Open 8:30 am to 1 pm. Donations are accepted."
+   },
+   {
+    "name": "Meals on Wheels, including kosher meals",
+    "phone": "973-569-4099",
+    "url": "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "County home-delivered meals for homebound older adults who cannot cook for themselves, one hot meal each weekday with weekend meals if needed. The city's Senior Affairs office lists kosher Meals on Wheels too. Applications are taken by phone."
+   },
+   {
+    "name": "Passaic County MOVE",
+    "phone": "973-791-7563",
+    "url": "https://www.passaiccountynj.org/our-county/passaic-county-move",
+    "note": "Shared on-demand van rides around Passaic, Clifton and Paterson for $1.90, weekdays 6 am to 8 pm, paid by card. Book in the app or by phone. Wheelchair-accessible vehicles are available on request."
+   }
+  ],
+  "places": [
+   {
+    "name": "Dundee Island Park",
+    "note": "County park at Veterans Court with walking paths, an amphitheater, fitness equipment and restrooms. Open daily from sunrise to sunset."
+   },
+   {
+    "name": "Lambert Castle",
+    "note": "A short drive away in Paterson. Guided 90-minute tours of the restored castle run Wednesday to Sunday, 10 am to 5 pm, and the site is ADA accessible."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Affairs (City of Passaic)",
+    "https://www.cityofpassaic.com/211/Senior-Affairs"
+   ],
+   [
+    "Annabelle Shimkowitz Senior Center calendar, March 2026 (City of Passaic)",
+    "https://www.cityofpassaic.com/DocumentCenter/View/12078/March--2026-PDF"
+   ],
+   [
+    "Paratransit (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit"
+   ],
+   [
+    "Nutrition Services (Passaic County)",
+    "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services"
+   ],
+   [
+    "Passaic Public Library (Passaic County facility directory)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/260/33?sortn=FCAddress&npage=2&sortd=asc"
+   ],
+   [
+    "Passaic Public Library",
+    "https://www.passaicpubliclibrary.org/"
+   ],
+   [
+    "Passaic County MOVE",
+    "https://www.passaiccountynj.org/our-county/passaic-county-move"
+   ],
+   [
+    "Dundee Island Park (Passaic County)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/40/33"
+   ],
+   [
+    "Lambert Castle (Passaic County)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/64/"
+   ]
+  ],
+  "updated": "2026-10-30"
+ },
+ {
+  "slug": "west-milford",
+  "name": "West Milford",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "West Milford's Community Services and Recreation department runs one of the busiest senior class schedules in the county, from chair yoga and tai chi to bridge, pinochle and a monthly bingo social. The township's own local bus makes $2 trips for shopping and appointments, and the county senior center serves a weekday lunch at 11 Edgar Drive.",
+  "seniorCenter": {
+   "name": "West Milford Senior Services (Community Services and Recreation)",
+   "address": "66 Cahill Cross Road, West Milford, NJ 07480",
+   "phone": "973-728-2871",
+   "url": "https://www.westmilford.org/cn/webpage.cfm?TPID=1792",
+   "notes": "Classes for older adults meet mostly at the Recreation Center: Active Agers exercise, arthritis exercise, chair and mat yoga, tai chi, Zumba Gold, line dancing, a walking club, painting, mahjongg, bridge, pinochle and cards. Special events include income tax preparation help from mid February to mid April, AARP driver safety classes, wellness events and a December holiday luncheon. Register online or call the office, open weekdays 8:30 am to 4:30 pm and until 6:30 pm on Wednesdays."
+  },
+  "transport": {
+   "name": "West Milford Local Bus",
+   "phone": "973-728-2863",
+   "url": "https://www.westmilford.org/FCpdf/Bus%20Information%2Epdf",
+   "notes": "Runs Monday to Wednesday, 9:30 am to 5 pm, and Saturday, 9 am to 2 pm, except federal holidays and bad weather. Each one-way ride is $2. Ridge Road, Macopin Road and Lincoln Hill Village riders should call before 8 am to schedule a pickup. For rides outside the township, older adults and people with disabilities can call Passaic County Paratransit at 973-305-5756."
+  },
+  "library": {
+   "name": "West Milford Township Library",
+   "address": "1470 Union Valley Road, West Milford, NJ 07480",
+   "phone": "973-728-2820",
+   "url": "https://www.wmtl.org/",
+   "notes": "Open Monday to Thursday 10 am to 8 pm, Friday 10 am to 6 pm, Saturday 10 am to 5 pm, and the first Sunday of each month from noon to 4 pm (closed Sundays in July and August). Call to ask about large print, audiobooks and other services."
+  },
+  "more": [
+   {
+    "name": "West Milford Senior Center lunch",
+    "phone": "973-720-7119",
+    "url": "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/134/387",
+    "note": "County senior nutrition center at 11 Edgar Drive serving one hot meal Monday to Friday, 8:30 am to 1 pm, for people 60 and older or married to someone 60 or older. Donations are accepted."
+   },
+   {
+    "name": "Meals on Wheels",
+    "phone": "973-569-4099",
+    "url": "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "County home-delivered meals for homebound older adults, one hot meal each weekday with weekend meals if needed. Applications are taken by phone."
+   },
+   {
+    "name": "Passaic County Health, West Milford office",
+    "phone": "973-881-4772",
+    "url": "https://www.westmilford.org/cn/ContactInfo",
+    "note": "The county health department serves West Milford, with health education and nursing staff at 13 Edgar Drive. Call about clinics and screenings."
+   }
+  ],
+  "places": [
+   {
+    "name": "Long Pond Ironworks State Park",
+    "note": "Walk among 18th and 19th century furnace ruins and a rebuilt waterwheel in Hewitt. The small museum is open weekends 1 to 4 pm, with guided tours at noon and 2 pm on the second Saturday of the month, April to November. No entrance fee."
+   },
+   {
+    "name": "West Milford Museum",
+    "note": "Local history museum at 1477 Union Valley Road, near the library. Call 973-728-1823 for open hours."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Services (Township of West Milford)",
+    "https://www.westmilford.org/cn/webpage.cfm?TPID=1792"
+   ],
+   [
+    "Community Services and Recreation (Township of West Milford)",
+    "https://westmilford.org/cn/webpage.cfm?tpid=1783"
+   ],
+   [
+    "Active Ager Exercise flyer (Township of West Milford)",
+    "https://www.westmilford.org/FCpdf/Active%20Ager%20Exercise%20Nov%2DDec%2Epdf"
+   ],
+   [
+    "Bus Schedule and Local Route Information (Township of West Milford)",
+    "https://www.westmilford.org/FCpdf/Bus%20Information%2Epdf"
+   ],
+   [
+    "Contact Information (Township of West Milford)",
+    "https://www.westmilford.org/cn/ContactInfo"
+   ],
+   [
+    "Contact and Hours (West Milford Township Library)",
+    "https://www.wmtl.org/contact-us/"
+   ],
+   [
+    "West Milford Senior Center (Passaic County Nutrition Services)",
+    "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/134/387"
+   ],
+   [
+    "Nutrition Services (Passaic County)",
+    "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services"
+   ],
+   [
+    "Department of Health Services (Passaic County)",
+    "https://www.passaiccountynj.org/departments/health"
+   ],
+   [
+    "Long Pond Ironworks State Park (NJDEP)",
+    "https://dep.nj.gov/parksandforests/state-park/long-pond-ironworks-state-park/"
+   ]
+  ],
+  "updated": "2026-10-30"
+ },
+ {
+  "slug": "ringwood",
+  "name": "Ringwood",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "Ringwood residents 60 and older can join the Ringwood Senior Club, which meets twice a month at the Ringwood Community Center on Erskine Road for games, a $3 lunch and bingo, plus bocce and trips. The borough sits inside some of the best scenery in the county, with Ringwood Manor and the State Botanical Garden at Skylands a few minutes from home.",
+  "seniorCenter": {
+   "name": "Ringwood Senior Club at the Ringwood Community Center",
+   "address": "112 Erskine Road, Ringwood, NJ 07456",
+   "phone": "973-475-7129",
+   "url": "https://www.ringwoodnj.net/content/5670/5680/default.aspx",
+   "notes": "Open to Ringwood residents 60 and older; membership and Community Pass registration are required. The club meets the first Thursday (12:30 to 3:30 pm) for board games, mahjong, bridge and dominoes, and the third Thursday for a business lunch ($3, cash) followed by bingo. Bocce runs Wednesdays from May through October behind the Municipal Building, and members can join day and overnight trips. The Recreation Department also offers Zumba Gold, yoga and a walking program. For membership and Community Center questions, call the Recreation Department at 973-475-7129."
+  },
+  "transport": {
+   "name": "Passaic County Paratransit",
+   "phone": "973-305-5756",
+   "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit",
+   "notes": "County paratransit serves the county's older and disabled residents, with non-emergency rides to medical appointments, shopping, county nutrition sites and adult day care. Lift vans are available. Have your name, address, date of birth, destination and return time ready when you call."
+  },
+  "library": {
+   "name": "Ringwood Public Library",
+   "address": "30 Cannici Drive, Ringwood, NJ 07456",
+   "phone": "973-962-6256",
+   "url": "https://www.ringwoodlibrary.org/",
+   "notes": "Offers discounted museum passes (including the Morris Museum and the American Museum of Natural History), a Library of Things with games and tech gadgets to borrow, a weekly email newsletter and regular adult programs such as a writing group and a French group."
+  },
+  "more": [
+   {
+    "name": "Passaic County Senior Services (ADRC)",
+    "phone": "973-569-4060",
+    "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/aging-disability-resource-connection",
+    "note": "The county's aging office helps with benefit screening, Medicare counseling, PAAD and home energy applications, care management and in-home help. Free telephone wellness checks are available for homebound older adults. You can also reach it at 1-877-222-3737."
+   },
+   {
+    "name": "Meals on Wheels",
+    "phone": "973-569-4099",
+    "url": "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "County home-delivered meals for homebound older adults, one hot meal each weekday with weekend meals if needed. Applications are taken by phone."
+   },
+   {
+    "name": "Passaic County Department of Health Services",
+    "phone": "973-881-4396",
+    "url": "https://www.passaiccountynj.org/departments/health",
+    "note": "The county health department serves Ringwood. Call weekdays 8:30 am to 4:30 pm with public health questions."
+   }
+  ],
+  "places": [
+   {
+    "name": "Ringwood Manor",
+    "note": "A 51-room ironmaster's mansion on a low hill, now a historic house museum. Tours generally run Wednesday to Sunday, April through October, and picnic tables and grills are nearby. A $5 parking fee for New Jersey residents applies on weekends and holidays."
+   },
+   {
+    "name": "New Jersey State Botanical Garden at Skylands",
+    "note": "96 acres of formal gardens, a crabapple vista and gentle woodland paths, open year round. On weekends and holidays use the Morris Road entrance; a $5 parking fee for New Jersey residents applies those days. Picnics are not allowed in this section."
+   },
+   {
+    "name": "Shepherd Lake",
+    "note": "Spring-fed lake in Ringwood State Park with picnic tables, grills and easy lakeside strolling. From Memorial Day to Labor Day, a $10 entrance fee for New Jersey residents applies on weekends and holidays."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Zone (Borough of Ringwood)",
+    "https://www.ringwoodnj.net/content/5670/5680/default.aspx"
+   ],
+   [
+    "Ringwood Community Center (Borough of Ringwood)",
+    "https://www.ringwoodnj.net/content/5670/25642/default.aspx"
+   ],
+   [
+    "Paratransit (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit"
+   ],
+   [
+    "Ringwood Public Library",
+    "https://www.ringwoodlibrary.org/"
+   ],
+   [
+    "Aging and Disability Resource Connection (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/aging-disability-resource-connection"
+   ],
+   [
+    "Nutrition Services (Passaic County)",
+    "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services"
+   ],
+   [
+    "Department of Health Services (Passaic County)",
+    "https://www.passaiccountynj.org/departments/health"
+   ],
+   [
+    "Ringwood State Park (NJDEP)",
+    "https://dep.nj.gov/parksandforests/state-park/ringwood-state-park/"
+   ]
+  ],
+  "updated": "2026-10-30"
+ },
+ {
+  "slug": "wanaque",
+  "name": "Wanaque",
+  "county": "passaic",
+  "countyName": "Passaic County",
+  "intro": "Wanaque, which includes the Haskell section, is served by Passaic County's senior services office, county paratransit and the nearby Bloomingdale nutrition center for a weekday lunch. The Wanaque Public Library on Ringwood Avenue is a handy local stop for notary help, faxing and museum passes.",
+  "seniorCenter": {
+   "name": "Passaic County Department of Senior Services, Disability and Veterans' Affairs",
+   "address": "930 Riverview Drive, Suite 200, Totowa, NJ 07512",
+   "phone": "973-569-4060",
+   "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs",
+   "notes": "The county office is a good first call for Wanaque residents. Staff help with benefit screening, Medicare counseling, PAAD and home energy applications, care management, homemaker and respite help, and telephone wellness checks. The closest county senior nutrition center is the Bloomingdale Senior Center, 101 Hamburg Turnpike, 973-835-4433."
+  },
+  "transport": {
+   "name": "Passaic County Paratransit",
+   "phone": "973-305-5756",
+   "url": "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit",
+   "notes": "County paratransit serves the county's older and disabled residents, with non-emergency rides to medical appointments, shopping, county nutrition sites and adult day care. Lift vans are available. Have your name, address, date of birth, destination and return time ready when you call."
+  },
+  "library": {
+   "name": "Wanaque Public Library",
+   "address": "616 Ringwood Avenue, Wanaque, NJ 07465",
+   "phone": "973-839-4434",
+   "url": "https://wanaquelibrary.org/services-we-offer/",
+   "notes": "Open Monday to Friday from 9 am (until 8 pm Tuesday to Thursday, 5 pm Monday and Friday) and Saturday 10 am to 3 pm. Services include basic notary help (call ahead), faxing, free scanning, public computers, museum passes and a jigsaw puzzle exchange."
+  },
+  "more": [
+   {
+    "name": "Bloomingdale Senior Center lunch",
+    "phone": "973-835-4433",
+    "url": "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "County senior nutrition center at 101 Hamburg Turnpike in Bloomingdale serving one hot meal Monday to Friday for people 60 and older or married to someone 60 or older. Paratransit can bring you to county nutrition sites."
+   },
+   {
+    "name": "Meals on Wheels",
+    "phone": "973-569-4099",
+    "url": "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services",
+    "note": "County home-delivered meals for homebound older adults, one hot meal each weekday with weekend meals if needed. Applications are taken by phone."
+   },
+   {
+    "name": "Passaic County Department of Health Services",
+    "phone": "973-881-4396",
+    "url": "https://www.passaiccountynj.org/departments/health",
+    "note": "The county health department serves Wanaque. Call weekdays 8:30 am to 4:30 pm with public health questions."
+   }
+  ],
+  "places": [
+   {
+    "name": "New Jersey State Botanical Garden at Skylands",
+    "note": "Next door in Ringwood State Park: formal gardens, a crabapple vista and gentle woodland paths, open year round. On weekends and holidays use the Morris Road entrance."
+   },
+   {
+    "name": "Long Pond Ironworks State Park",
+    "note": "Ironworks ruins and a rebuilt waterwheel along the Wanaque River in Hewitt, with a small museum open weekends 1 to 4 pm. No entrance fee."
+   }
+  ],
+  "sources": [
+   [
+    "Senior Services, Disability and Veterans Affairs (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs"
+   ],
+   [
+    "Aging and Disability Resource Connection (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/aging-disability-resource-connection"
+   ],
+   [
+    "Paratransit (Passaic County)",
+    "https://www.passaiccountynj.org/departments/senior-services-disability-veterans-affairs/para-transit"
+   ],
+   [
+    "Nutrition Services (Passaic County)",
+    "https://passaiccountynj.org/departments/senior-services-disability-veterans-affairs/nutrition-services"
+   ],
+   [
+    "Services We Offer (Wanaque Public Library)",
+    "https://wanaquelibrary.org/services-we-offer/"
+   ],
+   [
+    "Wanaque Public Library",
+    "https://wanaquelibrary.org/"
+   ],
+   [
+    "Department of Health Services (Passaic County)",
+    "https://www.passaiccountynj.org/departments/health"
+   ],
+   [
+    "Ringwood State Park (NJDEP)",
+    "https://dep.nj.gov/parksandforests/state-park/ringwood-state-park/"
+   ],
+   [
+    "Long Pond Ironworks State Park (NJDEP)",
+    "https://dep.nj.gov/parksandforests/state-park/long-pond-ironworks-state-park/"
+   ]
+  ],
+  "updated": "2026-10-30"
  }
 ]
