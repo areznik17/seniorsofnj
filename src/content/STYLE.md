@@ -60,3 +60,12 @@ shore-lighthouse, boardwalk, beach-dunes, autumn-trail, lake, pine-barrens, skyl
 
 ## Master slug list (for internal links)
 property-tax-relief-nj, prescription-and-bill-help, social-security-2027, food-and-utility-help, medicare-turning-65, advantage-vs-medigap, medicaid-mltss-nj, healthy-aging-nj, first-conversation-about-care, caregiver-respite-nj, aging-in-place-nj, estate-planning-nj, free-and-discounted-nj, day-trips-nj, learn-something-new, staying-connected-nj, scams-nj
+
+## Audience research (added Oct 31, 2026)
+Aaron's interviews (Home Happenings project: discovery-notes.md) shape every new page:
+- The person searching is often the adult child (usually a daughter) or a spouse. Speak to them too ("your mom or dad"), and add at least one FAQ phrased the way a family member would search.
+- Say "older adults" in body copy, never "elderly". Many readers don't think of themselves as seniors.
+- Trust and safety come first: vetting, background checks, insurance, references, scams, never handing over checkbooks. Include practical checks whenever a page involves someone coming into the home.
+- Frame benefits as outcomes families care about: staying safe at home, avoiding falls, staying sharp, seeing people, "something to look forward to every week". Many people stop what they love only because they can no longer get there.
+- Key moments: after surgery or rehab, after giving up driving, when a spouse needs care.
+- When sharing interview findings (e.g., typical private lesson prices of about $60 to $150 an hour in North Jersey), say they come from our October 2026 conversations, and never name private people.
