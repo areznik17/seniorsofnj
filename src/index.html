@@ -796,6 +796,19 @@ p,li,dd,dt,figcaption,summary,label,.dek,.lede,.tag,.kicker,.meta,.t2 span,.t2 b
 .sc-list li::before{content:counter(sc);flex:none;width:30px;height:30px;border-radius:50%;background:var(--blue);color:var(--on-blue);display:grid;place-items:center;font-size:14px}
 @media (max-width:760px){.stepcard{grid-template-columns:minmax(0,1fr);padding:18px}.sc-list li{font-size:16px}}
 .nearby{margin-top:34px}.nearby h2{font-size:24px;margin:0 0 10px}.nearby p{margin:0 0 14px}
+.printsheet{border:2px solid var(--blue);border-radius:var(--r);padding:20px 18px;margin:28px 0}
+.printsheet h3{margin-top:0}.printsheet h4{margin:18px 0 6px;font-size:15px;text-transform:uppercase;letter-spacing:.04em;color:var(--blue)}
+.ps-note{font-size:15px;opacity:.85}.ps-foot{font-size:13px;opacity:.7;margin:16px 0 0}
+table.fill{width:100%;border-collapse:collapse;table-layout:fixed;margin:0}
+table.fill th{width:38%;text-align:left;font-weight:600;font-size:15px;padding:8px 8px 8px 0;vertical-align:bottom;border-bottom:1px solid var(--ink-2);overflow-wrap:anywhere}
+table.fill td{border-bottom:1px solid var(--ink-2);height:34px;padding:0}
+@media (max-width:640px){table.fill,table.fill tbody,table.fill tr,table.fill th,table.fill td{display:block;width:auto}table.fill th{border:0;padding:10px 0 2px}table.fill td{height:30px}}
+ul.ticks{list-style:none;padding:0;margin:0}ul.ticks li{position:relative;padding:7px 0 7px 32px;border-bottom:1px solid var(--ink-2)}
+ul.ticks li:before{content:"";position:absolute;left:2px;top:10px;width:16px;height:16px;border:2px solid currentColor;border-radius:3px}
+.printbtn{margin:0 0 14px}#pclone{display:none}
+@media print{body.ps>*:not(#pclone){display:none!important}body.ps #pclone{display:block!important;color:#000;background:#fff;font-size:11.5pt}
+ #pclone .printsheet{border:0;padding:0;margin:0}#pclone .printbtn{display:none}#pclone table.fill th,#pclone table.fill td{display:table-cell!important;border-bottom:1px solid #888}#pclone table.fill tr{display:table-row!important}#pclone table.fill{display:table!important}#pclone table.fill tbody{display:table-row-group!important}#pclone table.fill td{height:24px}#pclone h4{color:#000;margin:10px 0 4px}#pclone ul.ticks li{padding:4px 0 4px 26px;border-color:#aaa}#pclone ul.ticks li:before{top:6px;width:12px;height:12px}
+ @page{margin:12mm}}
 </style>
 
 <a class="skip" href="#app">Skip to main content</a>
@@ -934,6 +947,7 @@ const icon=n=>({
 const SHORT={benefits:"Benefits",health:"Health",caregiving:"Caregiving",home:"Housing",["things-to-do"]:"Things to Do",living:"Living Well"};
 document.getElementById("hubnav").innerHTML=`<a href="#/" data-nav="__home">Home</a>`+HUBS.map(h=>`<a href="#/hub/${h.id}" data-nav="${h.id}">${SHORT[h.id]}</a>`).join("");
 document.getElementById("mobnav").innerHTML=`<div class="wrap"><a href="#/">Home</a>${HUBS.map(h=>`<a href="#/hub/${h.id}">${h.name}</a>`).join("")}<a href="#/counties">Your county</a><a href="#/checker">Benefits checker</a><a class="hh" href="https://homehappenings.com" target="_blank" rel="noopener">Activities at Home</a><a href="#/find-help">Find care help</a></div>`;
+document.addEventListener("click",e=>{const b=e.target.closest("[data-print]");if(!b)return;const ps=b.closest(".printsheet");if(!ps)return;let c=document.getElementById("pclone");if(c)c.remove();c=document.createElement("div");c.id="pclone";c.appendChild(ps.cloneNode(true));document.body.appendChild(c);document.body.classList.add("ps");const done=()=>{document.body.classList.remove("ps");c.remove();window.removeEventListener("afterprint",done)};window.addEventListener("afterprint",done);window.print()});
 const tog=(btn,el)=>{btn.addEventListener("click",()=>{const open=el.hidden;el.hidden=!open;btn.setAttribute("aria-expanded",open);if(open&&el.id==="msearch")document.getElementById("mq").focus()})};
 tog(document.getElementById("searchbtn"),document.getElementById("msearch"));tog(document.getElementById("menubtn"),document.getElementById("mobnav"));
 addEventListener("hashchange",()=>{document.getElementById("mobnav").hidden=true;document.getElementById("msearch").hidden=true});
@@ -1055,7 +1069,8 @@ const LES={by:"Por",staff:"el equipo de Seniors of NJ",upd:"Actualizado",min:"mi
 function articlePage(slug,es){const a=es?ESS[slug]:AS[slug];if(!a)return notFound();const h=HUB[a.hub];const T=es?LES:LEN;const pair=es?AS[a.en]:ES.find(x=>x.en===slug);
  const tmp=document.createElement("div");tmp.innerHTML=a.body;const toc=[];tmp.querySelectorAll("h2").forEach((el,i)=>{el.id="s"+(i+1);toc.push([el.id,el.textContent])});
  tmp.querySelectorAll("a[href^='http']").forEach(l=>{l.target="_blank";l.rel="noopener"});
- tmp.querySelectorAll("table").forEach(t=>t.classList.add("facts"));
+ tmp.querySelectorAll("table:not(.fill)").forEach(t=>t.classList.add("facts"));
+ tmp.querySelectorAll(".printsheet").forEach(ps=>{const b=document.createElement("button");b.type="button";b.className="btn printbtn";b.setAttribute("data-print","");b.textContent=es?"Imprimir esta hoja":"Print this sheet";ps.prepend(b)});
  const adOk=HH_LIVE&&!es&&!HH_NOADS.includes(a.hub)&&!HH_NOAD_SLUGS.includes(slug);const adA=adOk?hhPick(slug,a.hub):null,adB=adOk?hhPick(slug+"x",a.hub):null;
  if(adOk){const hs=tmp.querySelectorAll(":scope > h2");const at=hs[2]||hs[hs.length-1];if(at){const d=document.createElement("div");d.innerHTML=hhAd(adA,"hhad-in");at.before(d.firstElementChild)}}
  const related=es?[]:(()=>{const hsh=t=>[...t].reduce((h,ch)=>(h*31+ch.charCodeAt(0))%9973,7);const tg=new Set((a.tags||[]).map(x=>String(x).toLowerCase()));const isSC=s=>/^senior-centers-/.test(s);
