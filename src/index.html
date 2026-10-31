@@ -806,8 +806,8 @@ table.fill td{border-bottom:1px solid var(--ink-2);height:34px;padding:0}
 ul.ticks{list-style:none;padding:0;margin:0}ul.ticks li{position:relative;padding:7px 0 7px 32px;border-bottom:1px solid var(--ink-2)}
 ul.ticks li:before{content:"";position:absolute;left:2px;top:10px;width:16px;height:16px;border:2px solid currentColor;border-radius:3px}
 .printbtn{margin:0 0 14px}#pclone{display:none}
-@media print{body.ps>*:not(#pclone){display:none!important}body.ps #pclone{display:block!important;color:#000;background:#fff;font-size:11.5pt}
- #pclone .printsheet{border:0;padding:0;margin:0}#pclone .printbtn{display:none}#pclone table.fill th,#pclone table.fill td{display:table-cell!important;border-bottom:1px solid #888}#pclone table.fill tr{display:table-row!important}#pclone table.fill{display:table!important}#pclone table.fill tbody{display:table-row-group!important}#pclone table.fill td{height:24px}#pclone h4{color:#000;margin:10px 0 4px}#pclone ul.ticks li{padding:4px 0 4px 26px;border-color:#aaa}#pclone ul.ticks li:before{top:6px;width:12px;height:12px}
+@media print{body.ps>*:not(#pclone){display:none!important}html,body.ps{background:#fff!important}body.ps #pclone{display:block!important;color:#000;background:#fff;font-size:10.5pt;line-height:1.3}#pclone h3{font-size:15pt;margin:0 0 2px}#pclone .ps-note{margin:0 0 4px;font-size:9.5pt}#pclone .ps-foot{margin-top:8px;font-size:8.5pt}#pclone table.fill th{padding:5px 6px 2px 0;font-size:10pt}
+ #pclone .printsheet{border:0;padding:0;margin:0}#pclone .printbtn{display:none}#pclone table.fill th,#pclone table.fill td{display:table-cell!important;border-bottom:1px solid #888}#pclone table.fill tr{display:table-row!important}#pclone table.fill{display:table!important}#pclone table.fill tbody{display:table-row-group!important}#pclone table.fill td{height:auto}#pclone h4{color:#000;margin:7px 0 0;font-size:9.5pt}#pclone ul.ticks li{padding:4px 0 4px 26px;border-color:#aaa}#pclone ul.ticks li:before{top:6px;width:12px;height:12px}
  @page{margin:12mm}}
 </style>
 
