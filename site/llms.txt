@@ -250,6 +250,21 @@
 - [Seniors in Kenilworth, NJ](https://seniorsofnj.com/town/kenilworth/): senior center, rides, library and outings in Union County
 - [Seniors in Hillside, NJ](https://seniorsofnj.com/town/hillside/): senior center, rides, library and outings in Union County
 - [Seniors in Roselle Park, NJ](https://seniorsofnj.com/town/roselle-park/): senior center, rides, library and outings in Union County
+- [Seniors in East Rutherford, NJ](https://seniorsofnj.com/town/east-rutherford/): senior center, rides, library and outings in Bergen County
+- [Seniors in Carlstadt, NJ](https://seniorsofnj.com/town/carlstadt/): senior center, rides, library and outings in Bergen County
+- [Seniors in Wallington, NJ](https://seniorsofnj.com/town/wallington/): senior center, rides, library and outings in Bergen County
+- [Seniors in North Arlington, NJ](https://seniorsofnj.com/town/north-arlington/): senior center, rides, library and outings in Bergen County
+- [Seniors in Elmwood Park, NJ](https://seniorsofnj.com/town/elmwood-park/): senior center, rides, library and outings in Bergen County
+- [Seniors in Saddle Brook, NJ](https://seniorsofnj.com/town/saddle-brook/): senior center, rides, library and outings in Bergen County
+- [Seniors in Harrison, NJ](https://seniorsofnj.com/town/harrison/): senior center, rides, library and outings in Hudson County
+- [Seniors in Haledon, NJ](https://seniorsofnj.com/town/haledon/): senior center, rides, library and outings in Passaic County
+- [Seniors in North Haledon, NJ](https://seniorsofnj.com/town/north-haledon/): senior center, rides, library and outings in Passaic County
+- [Seniors in Prospect Park, NJ](https://seniorsofnj.com/town/prospect-park/): senior center, rides, library and outings in Passaic County
+- [Seniors in Lincoln Park, NJ](https://seniorsofnj.com/town/lincoln-park/): senior center, rides, library and outings in Morris County
+- [Seniors in Morris Plains, NJ](https://seniorsofnj.com/town/morris-plains/): senior center, rides, library and outings in Morris County
+- [Seniors in Chatham Township, NJ](https://seniorsofnj.com/town/chatham-township/): senior center, rides, library and outings in Morris County
+- [Seniors in Mountainside, NJ](https://seniorsofnj.com/town/mountainside/): senior center, rides, library and outings in Union County
+- [Seniors in Clark, NJ](https://seniorsofnj.com/town/clark/): senior center, rides, library and outings in Union County
 
 ## En español
 
@@ -268,3 +283,6 @@
 - [Cómo prevenir caídas en casa: guía para Nueva Jersey](https://seniorsofnj.com/es/prevenir-caidas-nj/): Una lista para revisar la casa, clases gratis de equilibrio por medio de las oficinas del condado, qué preguntarle al médico, qué hacer después de una caída y quién ayuda a pagar barras de apoyo o una rampa.
 - [¿Cuánto cuesta el cuidado de personas mayores en Nueva Jersey?](https://seniorsofnj.com/es/costo-cuidado-mayores-nj/): Lo que cuestan el cuidado en casa, el centro de día, la residencia asistida y el hogar de ancianos en Nueva Jersey, según los datos más recientes, y cómo ayudan Medicaid MLTSS y JACC.
 - [Demencia en la familia: ayuda y apoyo en Nueva Jersey](https://seniorsofnj.com/es/apoyo-demencia-nj/): Líneas de ayuda en español, grupos de apoyo, centros de día, respiro, seguridad y los papeles legales que conviene firmar pronto, para familias de Nueva Jersey que viven con Alzheimer u otra demencia.
+- [Cómo verificar a quien entra a la casa de su mamá o papá en NJ](https://seniorsofnj.com/es/como-elegir-ayuda-en-casa-nj/): Ayudantes, técnicos, instructores y maestros: cómo revisar una licencia o un registro en Nueva Jersey, qué cubre de verdad una verificación de antecedentes, qué preguntar sobre seguros y referencias, cómo pagar sin riesgos y qué hacer si algo no le parece bien.
+- [Música y demencia: guía práctica para familias de Nueva Jersey](https://seniorsofnj.com/es/musica-y-demencia-nj/): Lo que dicen de verdad los estudios sobre la música y la pérdida de memoria, cómo armar una lista de canciones que funcione, cuándo buscar a un musicoterapeuta certificado, cuánto cuesta en el norte de Nueva Jersey y cómo aprovechar las visitas en casa.
+- [Grupos de apoyo para cuidadores en Nueva Jersey: no está solo](https://seniorsofnj.com/es/grupos-apoyo-cuidadores-nj/): Grupos gratis para familias que cuidan a alguien con demencia, Parkinson, un derrame cerebral o una enfermedad larga, en persona, por internet y por teléfono, con las opciones en español, los programas del condado y consejos para escoger el grupo que le sirva.
