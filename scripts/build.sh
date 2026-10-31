@@ -12,7 +12,7 @@ s=open(src+'/index.html').read()
 logo=re.search(r'<svg width="38" height="38" viewBox="0 0 48 48" aria-hidden="true">.*?</svg>',s,re.S).group(0)
 fav=logo.replace('width="38" height="38" viewBox="0 0 48 48" aria-hidden="true"','xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"').replace('var(--blue)','#1F4E8C').replace('var(--buff)','#F0E6D6').replace('var(--red)','#BF5530')
 open(D+'/favicon.svg','w').write(fav)
-open(D+'/icon-full.svg','w').write(re.sub(r'rx="[0-9.]+"','rx="0"',fav,count=1))
+open(D+'/icon-full.svg','w').write(fav.replace('<circle cx="24" cy="24" r="24"','<rect width="48" height="48"',1))
 open(D+'/site.webmanifest','w').write('{"name":"Seniors of NJ","short_name":"Seniors of NJ","start_url":"/","display":"browser","background_color":"#FAF7F2","theme_color":"#1F4E8C","icons":[{"src":"/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"/icon-512.png","sizes":"512x512","type":"image/png"},{"src":"/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}')
 head='''<!doctype html>
 <html lang="en">
