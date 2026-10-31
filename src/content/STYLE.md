@@ -21,7 +21,7 @@ Known verified facts you may use (checked Oct 2026):
 - Senior Freeze 2025: 65+ by Dec 31 2025 or SS disability; owned & lived in home since Dec 31 2022; income limits $168,268 (2024) and $172,475 (2025).
 - Stay NJ: homeowners 65+, 50% of property taxes after ANCHOR & Senior Freeze, caps $6,500 (income <=$100k), $5,000 ($100,001–150k), $4,000 ($150,001–200k); paid in 4 installments.
 - PAAD: income under $54,943 single / $62,390 married; copay $5 generic / $7 brand. Senior Gold: $54,943–$64,943 single / $62,390–$72,390 married; $15 + 50% of remaining cost. Phone 1-800-792-9745. Lifeline utility assistance $225/yr, same income rules.
-- SHIP Medicare counseling 1-800-792-8820. Senior Medicare Patrol 1-732-777-1940 ext. 1117. ADRC statewide 1-877-222-3737. NJ 211: dial 2-1-1 or 1-800-510-3102.
+- SHIP Medicare counseling 1-800-792-8820. Senior Medicare Patrol 1-732-777-1940 ext. 1117. ADRC statewide 1-877-222-3737. NJ 211: dial 2-1-1 or 1-877-652-1148 (1-800-510-3102 is the state energy assistance line, not NJ 211).
 - LIHEAP/USF/Weatherization: one application, income <= 60% of NJ state median income; one-person limit $51,273 (FFY2027); applications Oct 1 2026–June 30 2027.
 - 2026 Medicare: Part B premium $202.90/month, Part B deductible $283, Part A deductible $1,736. Open enrollment Oct 15–Dec 7.
 - Social Security 2027 COLA: 3.6% (announced Oct 14, 2026), avg retired worker $2,095 -> $2,170 in Jan 2027. Earnings test under FRA $25,560; year reaching FRA $67,920.
