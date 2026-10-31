@@ -194,6 +194,33 @@
 - [Seniors in West Milford, NJ](https://seniorsofnj.com/town/west-milford/): senior center, rides, library and outings in Passaic County
 - [Seniors in Ringwood, NJ](https://seniorsofnj.com/town/ringwood/): senior center, rides, library and outings in Passaic County
 - [Seniors in Wanaque, NJ](https://seniorsofnj.com/town/wanaque/): senior center, rides, library and outings in Passaic County
+- [Seniors in Jersey City, NJ](https://seniorsofnj.com/town/jersey-city/): senior center, rides, library and outings in Hudson County
+- [Seniors in Hoboken, NJ](https://seniorsofnj.com/town/hoboken/): senior center, rides, library and outings in Hudson County
+- [Seniors in Bayonne, NJ](https://seniorsofnj.com/town/bayonne/): senior center, rides, library and outings in Hudson County
+- [Seniors in Kearny, NJ](https://seniorsofnj.com/town/kearny/): senior center, rides, library and outings in Hudson County
+- [Seniors in Union City, NJ](https://seniorsofnj.com/town/union-city/): senior center, rides, library and outings in Hudson County
+- [Seniors in North Bergen, NJ](https://seniorsofnj.com/town/north-bergen/): senior center, rides, library and outings in Hudson County
+- [Seniors in Secaucus, NJ](https://seniorsofnj.com/town/secaucus/): senior center, rides, library and outings in Hudson County
+- [Seniors in Bergenfield, NJ](https://seniorsofnj.com/town/bergenfield/): senior center, rides, library and outings in Bergen County
+- [Seniors in Garfield, NJ](https://seniorsofnj.com/town/garfield/): senior center, rides, library and outings in Bergen County
+- [Seniors in Lyndhurst, NJ](https://seniorsofnj.com/town/lyndhurst/): senior center, rides, library and outings in Bergen County
+- [Seniors in Rutherford, NJ](https://seniorsofnj.com/town/rutherford/): senior center, rides, library and outings in Bergen County
+- [Seniors in Lodi, NJ](https://seniorsofnj.com/town/lodi/): senior center, rides, library and outings in Bergen County
+- [Seniors in Cliffside Park, NJ](https://seniorsofnj.com/town/cliffside-park/): senior center, rides, library and outings in Bergen County
+- [Seniors in Westwood, NJ](https://seniorsofnj.com/town/westwood/): senior center, rides, library and outings in Bergen County
+- [Seniors in Florham Park, NJ](https://seniorsofnj.com/town/florham-park/): senior center, rides, library and outings in Morris County
+- [Seniors in East Hanover, NJ](https://seniorsofnj.com/town/east-hanover/): senior center, rides, library and outings in Morris County
+- [Seniors in Hanover Township (Whippany and Cedar Knolls), NJ](https://seniorsofnj.com/town/hanover-township/): senior center, rides, library and outings in Morris County
+- [Seniors in Mount Olive, NJ](https://seniorsofnj.com/town/mount-olive/): senior center, rides, library and outings in Morris County
+- [Seniors in Roxbury, NJ](https://seniorsofnj.com/town/roxbury/): senior center, rides, library and outings in Morris County
+- [Seniors in Boonton, NJ](https://seniorsofnj.com/town/boonton/): senior center, rides, library and outings in Morris County
+- [Seniors in Plainfield, NJ](https://seniorsofnj.com/town/plainfield/): senior center, rides, library and outings in Union County
+- [Seniors in Rahway, NJ](https://seniorsofnj.com/town/rahway/): senior center, rides, library and outings in Union County
+- [Seniors in Springfield, NJ](https://seniorsofnj.com/town/springfield-union/): senior center, rides, library and outings in Union County
+- [Seniors in New Providence, NJ](https://seniorsofnj.com/town/new-providence/): senior center, rides, library and outings in Union County
+- [Seniors in Kenilworth, NJ](https://seniorsofnj.com/town/kenilworth/): senior center, rides, library and outings in Union County
+- [Seniors in Hillside, NJ](https://seniorsofnj.com/town/hillside/): senior center, rides, library and outings in Union County
+- [Seniors in Roselle Park, NJ](https://seniorsofnj.com/town/roselle-park/): senior center, rides, library and outings in Union County
 
 ## En español
 
