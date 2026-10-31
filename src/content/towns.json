@@ -880,7 +880,7 @@
   "seniorCenter": {
    "name": "Grover Cleveland Senior Center",
    "address": "14 Park Avenue, Caldwell, NJ 07006",
-   "phone": "973-403-4637",
+   "phone": "973-403-4623",
    "url": "https://caldwell-nj.com/human",
    "notes": "Open to anyone 60 and over, with fitness, enrichment, health talks and social events. It is part of the borough's Health and Human Services Department, and a monthly newsletter and calendar come by mail or email."
   },
@@ -900,7 +900,7 @@
   "more": [
    {
     "name": "Caldwell Food Pantry",
-    "phone": "973-403-4637",
+    "phone": "973-403-4623",
     "url": "https://caldwell-nj.com/human",
     "note": "For Caldwell and West Caldwell residents, Wednesdays 11 am to 1 pm and Thursdays 4 to 6 pm. Call to confirm hours and location."
    }
@@ -941,7 +941,7 @@
     "https://essexcountyparks.org/parks/grover-cleveland-park"
    ]
   ],
-  "updated": "2026-10-26"
+  "updated": "2026-10-31"
  },
  {
   "slug": "cedar-grove",
@@ -1340,7 +1340,7 @@
   "seniorCenter": {
    "name": "Grover Cleveland Senior Center (Caldwell)",
    "address": "14 Park Avenue, Caldwell, NJ 07006",
-   "phone": "973-403-4637",
+   "phone": "973-403-4623",
    "url": "https://caldwell-nj.com/human",
    "notes": "Essex Fells does not post its own senior program. This nearby center is run by the Borough of Caldwell in the Irene Gibbons Health & Human Services Building, and anyone 60 or older can take part in its fitness, enrichment, health education and social programs. Call for a monthly calendar."
   },
@@ -1411,7 +1411,7 @@
     "https://essexcountyparks.org/parks/west-essex-park"
    ]
   ],
-  "updated": "2026-10-28"
+  "updated": "2026-10-31"
  },
  {
   "slug": "fairfield",
@@ -1718,7 +1718,7 @@
   "more": [
    {
     "name": "Grover Cleveland Senior Center",
-    "phone": "973-403-4637",
+    "phone": "973-403-4623",
     "url": "https://caldwell-nj.com/human",
     "note": "Run by the Borough of Caldwell. Anyone 60 or older can take part in its fitness, enrichment, health education and social programs."
    },
@@ -1769,7 +1769,7 @@
     "https://essexcountyparks.org/parks/grover-cleveland-park"
    ]
   ],
-  "updated": "2026-10-27"
+  "updated": "2026-10-31"
  },
  {
   "slug": "orange",
@@ -1884,7 +1884,7 @@
   "more": [
    {
     "name": "Grover Cleveland Senior Center",
-    "phone": "973-403-4637",
+    "phone": "973-403-4623",
     "url": "https://caldwell-nj.com/human",
     "note": "Run by the Borough of Caldwell. Anyone 60 or older can take part in its fitness, enrichment, health education and social programs."
    },
@@ -1941,7 +1941,7 @@
     "https://essexcountyparks.org/parks/west-essex-park"
    ]
   ],
-  "updated": "2026-10-27"
+  "updated": "2026-10-31"
  },
  {
   "slug": "west-caldwell",
@@ -1952,7 +1952,7 @@
   "seniorCenter": {
    "name": "Grover Cleveland Senior Center",
    "address": "",
-   "phone": "973-403-4637",
+   "phone": "973-403-4623",
    "url": "https://www.westcaldwell.com/pages/general-information",
    "notes": "A full-time center co-sponsored by the Borough of Caldwell and Essex County, open Monday to Friday to seniors in the West Essex area. Trips, weekly lunches, bingo, movies, cards, arts and crafts, and blood pressure checks. Staff also help with questions about health insurance, housing, transportation and taxes. Call for the address and monthly calendar."
   },
@@ -2033,7 +2033,7 @@
     "https://essexcountyparks.org/parks/grover-cleveland-park"
    ]
   ],
-  "updated": "2026-10-27"
+  "updated": "2026-10-31"
  },
  {
   "slug": "westfield",
@@ -4584,9 +4584,9 @@
   "seniorCenter": {
    "name": "Woodland Park Seniors Club",
    "address": "Woodland Park Boys and Girls Club, 8 Memorial Drive, Woodland Park, NJ 07424",
-   "phone": "973-523-0234",
+   "phone": "973-569-4060",
    "url": "https://wpnj.us/seniors",
-   "notes": "Meets Wednesdays, 10:30 am to 3 pm, and everyone 50 or older is welcome. The Young at Heart Seniors meet every other Friday, 11:30 am to 3 pm, at the American Legion, 410 Mt. Pleasant Avenue (201-349-8919)."
+   "notes": "Meets Wednesdays, 10:30 am to 3 pm, and everyone 50 or older is welcome. The Young at Heart Seniors meet every other Friday, 11:30 am to 3 pm, at the American Legion, 410 Mt. Pleasant Avenue (201-349-8919). For details, call the Passaic County Department of Senior Services at 973-569-4060."
   },
   "transport": {
    "name": "Woodland Park Senior Bus",
@@ -4673,7 +4673,7 @@
     "https://www.passaiccountynj.org/Home/Components/FacilityDirectory/FacilityDirectory/54/316"
    ]
   ],
-  "updated": "2026-10-30"
+  "updated": "2026-10-31"
  },
  {
   "slug": "hawthorne",
