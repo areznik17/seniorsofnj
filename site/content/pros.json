@@ -896,18 +896,6 @@
   "featured": false
  },
  {
-  "name": "Elder Care Family Services",
-  "cat": "care-managers",
-  "counties": [],
-  "town": "",
-  "phone": "732-985-7922",
-  "url": "http://www.eldercarefamily.com/",
-  "desc": "Geriatric care management by a licensed clinical social worker, covering home care, assisted living and nursing home decisions and long distance caregiving. Also offers family counseling and evaluations for guardianship cases.",
-  "creds": "Tracy Rosenhand, Ph.D., LCSW, ACSW",
-  "source": "http://www.eldercarefamily.com/special.html",
-  "featured": false
- },
- {
   "name": "Arosa South Jersey",
   "cat": "care-managers",
   "counties": [
@@ -1004,7 +992,7 @@
   "featured": false
  },
  {
-  "name": "Camden County Division of Senior & Disabled Services (Area Agency on Aging)",
+  "name": "Camden County Division of Aging and Disability Services (Area Agency on Aging)",
   "cat": "social-services",
   "counties": [
    "Camden"
