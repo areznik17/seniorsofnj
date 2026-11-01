@@ -279,6 +279,7 @@ select{font:inherit;font-size:17px;min-height:48px;padding:0 14px;border-radius:
 .steps li::before{content:counter(s);position:absolute;left:-19px;top:0;width:36px;height:36px;border-radius:50%;background:var(--blue);color:var(--on-blue);display:grid;place-items:center;font-weight:700}
 .tablewrap,.body table.facts{display:block;overflow-x:auto}
 table.facts{border-collapse:collapse;width:100%;font-size:16.5px;font-variant-numeric:tabular-nums;background:var(--surface);border:1px solid var(--line);border-radius:var(--r)}
+@media (min-width:641px){.body table.facts,table.facts{display:table}}
 table.facts th,table.facts td{text-align:left;padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top}
 table.facts thead th{background:var(--buff-soft);font-size:14px;letter-spacing:.05em;text-transform:uppercase}
 table.facts tr:last-child td{border-bottom:0}
