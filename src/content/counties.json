@@ -107,7 +107,7 @@
    },
    {
     "name": "Aviation Hall of Fame and Museum of New Jersey",
-    "note": "An indoor museum at Teterboro Airport with planes and local aviation history, open Wednesday through Saturday."
+    "note": "An indoor museum at Teterboro Airport with planes and local aviation history, so check hours before you go."
    }
   ],
   "verified": true
@@ -131,12 +131,12 @@
   "agingOffice": {
    "name": "Burlington County Office on Aging",
    "phone": "609-265-5069",
-   "url": "https://nj-burlingtoncounty.civicplus.com/148/Office-of-Aging"
+   "url": "https://www.burlingtoncountynj.gov/434/Aging"
   },
   "transport": {
    "name": "Sen-Han Transit (senior and disabled paratransit for Burlington County)",
-   "phone": "877-603-5111",
-   "url": "https://nj-burlingtoncounty.civicplus.com/702/Transportation"
+   "phone": "856-456-1121",
+   "url": "https://www.burlingtoncountynj.gov/536/Transportation"
   },
   "places": [
    {
@@ -175,14 +175,14 @@
   ],
   "intro": "Camden County sits across the Delaware River from Philadelphia, linked by PATCO trains that stop in Collingswood, Haddonfield and Cherry Hill. Riders 65 and older can apply for PATCO's half fare program outside rush hours. SEN-HAN Transit gives rides to county residents 60 and older and residents with disabilities for medical visits, shopping and errands.",
   "agingOffice": {
-   "name": "Camden County Division of Senior and Disabled Services",
+   "name": "Camden County Division of Aging and Disability Services",
    "phone": "856-858-3220",
-   "url": "https://camdencounty.com/service/senior-disabled-services"
+   "url": "https://www.camdencounty.com/service/aging-and-disability-services/"
   },
   "transport": {
    "name": "SEN-HAN Transit",
    "phone": "856-456-3344",
-   "url": "https://camdencounty.com/service/senior-disabled-services/transportation"
+   "url": "https://www.camdencounty.com/service/aging-and-disability-services/transportation/"
   },
   "places": [
    {
@@ -566,7 +566,7 @@
    "East Brunswick",
    "Monroe Township"
   ],
-  "intro": "Middlesex County sits in the middle of the state, with Rutgers University in New Brunswick and large suburbs like Edison and Woodbridge. Monroe Township is home to many active adult communities. The county's RIDE program offers curb to curb trips anywhere in the county for residents 60 and older, at $3 a ride with a reservation.",
+  "intro": "Middlesex County sits in the middle of the state, with Rutgers University in New Brunswick and large suburbs like Edison and Woodbridge. Monroe Township is home to many active adult communities. The county's RIDE program takes ride reservations for residents 60 and older and adults with disabilities at 1-800-221-3520.",
   "agingOffice": {
    "name": "Middlesex County Office of Aging and Disabled Services",
    "phone": "732-745-3295",
@@ -876,13 +876,13 @@
   },
   "transport": {
    "name": "Somerset County Transportation",
-   "phone": "908-231-7116",
+   "phone": "908-231-7115",
    "url": "https://www.somersetcountynj.gov/government/public-works/transportation/paratransit-services"
   },
   "places": [
    {
     "name": "Duke Farms",
-    "note": "The former Doris Duke estate in Hillsborough, with paved paths for walking and biking. A free parking pass is needed on Saturdays from April through October."
+    "note": "The former Doris Duke estate in Hillsborough, with paved paths for walking and biking. Trails are open Tuesday through Saturday and close Sunday and Monday."
    },
    {
     "name": "Colonial Park Arboretum and Rudolf W. van der Goot Rose Garden",
