@@ -642,7 +642,7 @@
     "name": "Older Adult Social Worker (Jewish Family Services)",
     "phone": "973-986-4321",
     "url": "https://www.maplewoodnj.gov/government/public-health-social-services/community-resources/seniors-caregivers-resources",
-    "note": "A Jewish Family Services social worker shared by Maplewood and South Orange, available Wednesdays, 9 am to 3 pm. Call 973-986-4321 or email SomaSocialworker@southorange.org."
+    "note": "A Jewish Family Services social worker shared by Maplewood and South Orange, available Mondays and Wednesdays, 9 am to 5 pm, for adults 65 and older calling for themselves. Call 973-986-4321 or email SomaSocialworker@southorange.org."
    },
    {
     "name": "Maplewood Adult Health Clinics",
@@ -701,7 +701,7 @@
     "https://essexcountyparks.org/parks/south-mountain-reservation"
    ]
   ],
-  "updated": "2026-10-26"
+  "updated": "2026-11-01"
  },
  {
   "slug": "south-orange",
@@ -734,7 +734,7 @@
     "name": "Older Adult Social Worker (Jewish Family Services)",
     "phone": "973-986-4321",
     "url": "https://www.southorange.org/1042/Social-Services",
-    "note": "A Jewish Family Services social worker shared by South Orange and Maplewood, available Wednesdays, 9 am to 3 pm, for help finding home care, meals, housing, Medicare counseling and transportation."
+    "note": "A Jewish Family Services social worker shared by South Orange and Maplewood, available Mondays and Wednesdays, 9 am to 5 pm, for adults 65 and older calling for themselves. Help includes finding home care, meals, housing, Medicare counseling and transportation."
    },
    {
     "name": "JFS Care Consultation Program",
@@ -783,7 +783,7 @@
     "https://essexcountyparks.org/parks/south-mountain-reservation"
    ]
   ],
-  "updated": "2026-10-26"
+  "updated": "2026-11-01"
  },
  {
   "slug": "millburn",
@@ -1180,7 +1180,7 @@
    "address": "125 Franklin Avenue, Belleville, NJ 07109",
    "phone": "973-450-3430",
    "url": "https://www.bellevillenj.org/pages/senior-citizens-programming",
-   "notes": "Belleville residents 50 and older register for the Senior Pass, which gives full access to the center. Since January 1, an active pass is needed to enter. The pass costs $25 a year for residents and $50 for non-residents. Expect weekly bingo, arts and crafts, a pool table, a bocce court, exercise and wellness classes, socials and trips. Enrollment questions go to gpolite@bellevillenj.org."
+   "notes": "Belleville residents 50 and older register for the Senior Pass, which gives full access to the center. An active pass is needed to enter. The pass costs $25 a year for residents and $50 for non-residents. Expect weekly bingo, arts and crafts, a pool table, a bocce court, exercise and wellness classes, socials and trips. Call the center with enrollment questions."
   },
   "transport": {
    "name": "Belleville Dial-A-Ride",
@@ -1249,7 +1249,7 @@
     "https://essexcountyparks.org/parks/branch-brook-park"
    ]
   ],
-  "updated": "2026-10-27"
+  "updated": "2026-11-01"
  },
  {
   "slug": "east-orange",
@@ -1872,7 +1872,7 @@
    "name": "Caldwell, West Caldwell and Roseland Senior Bus",
    "phone": "973-226-5108",
    "url": "https://www.roselandnj.org/337/Senior-Citizens-Transportation",
-   "notes": "Free curb to curb rides for Roseland, Caldwell and West Caldwell residents, Stops include food stores, banks, drug stores and local shops, with a mall trip on Tuesdays. Call between 8:15 and 8:45 a.m. on the morning you want to ride."
+   "notes": "Free curb to curb rides for Roseland, Caldwell and West Caldwell residents. Stops include food stores, banks, drug stores and local shops, with a mall trip on Tuesdays. Call between 8:15 and 8:45 a.m. on the morning you want to ride."
   },
   "library": {
    "name": "Roseland Free Public Library",
@@ -1941,7 +1941,7 @@
     "https://essexcountyparks.org/parks/west-essex-park"
    ]
   ],
-  "updated": "2026-10-31"
+  "updated": "2026-11-01"
  },
  {
   "slug": "west-caldwell",
@@ -1954,7 +1954,7 @@
    "address": "",
    "phone": "973-403-4623",
    "url": "https://www.westcaldwell.com/pages/general-information",
-   "notes": "A full-time center co-sponsored by the Borough of Caldwell and Essex County, open Monday to Friday to seniors in the West Essex area. Trips, weekly lunches, bingo, movies, cards, arts and crafts, and blood pressure checks. Staff also help with questions about health insurance, housing, transportation and taxes. Call for the address and monthly calendar."
+   "notes": "A full-time center co-sponsored by the Borough of Caldwell and Essex County, open Monday to Friday to seniors in the West Essex area. Trips, weekly lunches, bingo, movies, cards, arts and crafts, and blood pressure checks. Staff also help with questions about health insurance, housing, transportation and taxes. The center is at 14 Park Avenue in Caldwell. Call for the monthly calendar."
   },
   "transport": {
    "name": "Caldwell, West Caldwell and Roseland Senior Bus",
@@ -2033,7 +2033,7 @@
     "https://essexcountyparks.org/parks/grover-cleveland-park"
    ]
   ],
-  "updated": "2026-10-31"
+  "updated": "2026-11-01"
  },
  {
   "slug": "westfield",
@@ -2596,9 +2596,9 @@
   "seniorCenter": {
    "name": "Scotch Plains Golden Agers",
    "address": "Shady Rest Country Club",
-   "phone": "908-397-7337",
+   "phone": "908-322-6700",
    "url": "https://scotchplainsnj.gov/index.php/departments/senior-services",
-   "notes": "Meets Thursdays from 9 a.m. to 2 p.m., September to June, with bingo, crafts, parties, luncheons, guest speakers and trips. The phone number is club contact Mary Wanca. A mayor-appointed Senior Advisory Board advises the Recreation Department on senior programs."
+   "notes": "Meets Thursdays from 9 a.m. to 2 p.m., September to June, with bingo, crafts, parties, luncheons, guest speakers and trips. The phone number is the Recreation Department, which can put you in touch with the club. A mayor-appointed Senior Advisory Board advises the Recreation Department on senior programs."
   },
   "transport": {
    "name": "Scotch Plains senior bus",
@@ -2679,7 +2679,7 @@
     "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/"
    ]
   ],
-  "updated": "2026-10-27"
+  "updated": "2026-11-01"
  },
  {
   "slug": "berkeley-heights",
@@ -2710,9 +2710,9 @@
   "more": [
    {
     "name": "Berkeley Heights Senior Club trips",
-    "phone": "908-322-8391",
+    "phone": "908-464-2700",
     "url": "https://www.berkeleyheights.gov/1407/Seniors",
-    "note": "The club's longer bus trips to Atlantic City. Ask for Shirley."
+    "note": "The Senior Club's longer bus trips to Atlantic City. Call the Recreation Department (ext. 2257) to reach the club."
    },
    {
     "name": "Union County Division on Aging",
@@ -2767,7 +2767,7 @@
     "https://ucnj.org/dhs/welcome-to-the-union-county-division-on-aging/"
    ]
   ],
-  "updated": "2026-10-28"
+  "updated": "2026-11-01"
  },
  {
   "slug": "hackensack",
@@ -3212,7 +3212,7 @@
    "name": "Fair Lawn Mini Bus",
    "phone": "201-794-5327",
    "url": "https://fairlawn.org/mini-bus",
-   "notes": "Free for Fair Lawn residents 18 and older, for trips within Fair Lawn. Weekdays except borough holidays, 9 a.m. to 4 p.m. Call up to two weeks ahead and by 3 p.m. the business day before. Your ride is not confirmed until staff call you back."
+   "notes": "Free for Fair Lawn residents 18 and older, for trips within Fair Lawn. Weekdays except borough holidays, with pickups and drop-offs from 9 a.m. to 2:45 p.m. Call up to two weeks ahead and by 3 p.m. the business day before. Your ride is not confirmed until staff call you back."
   },
   "library": {
    "name": "Maurice M. Pine Free Public Library",
@@ -3283,7 +3283,7 @@
     "https://fairlawnforallages.org/senior-center"
    ]
   ],
-  "updated": "2026-10-28"
+  "updated": "2026-11-01"
  },
  {
   "slug": "englewood",
