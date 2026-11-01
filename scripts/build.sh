@@ -4,13 +4,13 @@ set -e
 SP=/tmp/claude-0/-home-claude/427d6a4c-823a-51e6-b228-41c85e4eaf89/scratchpad; D=$(cd $(dirname $0)/.. && pwd)/site; SRC=$(cd $(dirname $0)/.. && pwd)/src
 find $D -mindepth 1 -delete 2>/dev/null || mkdir -p $D
 cp -r $SRC/content $SRC/img $D/; rm -f $D/content/*.md
-cp $SRC/google*.html $SRC/BingSiteAuth.xml $SRC/CNAME $SRC/.nojekyll $D/ 2>/dev/null || true
+cp $SRC/google*.html $SRC/[0-9a-f]*.txt $SRC/BingSiteAuth.xml $SRC/CNAME $SRC/.nojekyll $D/ 2>/dev/null || true
 python3 - "$SRC" "$D" <<'PY'
 import re,sys
 src,D=sys.argv[1],sys.argv[2]
 s=open(src+'/index.html').read()
-logo=re.search(r'<svg width="38" height="38" viewBox="0 0 48 48" aria-hidden="true">.*?</svg>',s,re.S).group(0)
-fav=logo.replace('width="38" height="38" viewBox="0 0 48 48" aria-hidden="true"','xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"').replace('var(--blue)','#1F4E8C').replace('var(--buff)','#F0E6D6').replace('var(--red)','#BF5530')
+logo=re.search(r'<svg width="46" height="46" viewBox="0 0 48 48" aria-hidden="true">.*?</svg>',s,re.S).group(0)
+fav=logo.replace('width="46" height="46" viewBox="0 0 48 48" aria-hidden="true"','xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"').replace('var(--blue)','#1F4E8C').replace('var(--buff)','#F0E6D6').replace('var(--red)','#BF5530')
 open(D+'/favicon.svg','w').write(fav)
 open(D+'/icon-full.svg','w').write(fav.replace('<circle cx="24" cy="24" r="24"','<rect width="48" height="48"',1))
 open(D+'/site.webmanifest','w').write('{"name":"Seniors of NJ","short_name":"Seniors of NJ","start_url":"/","display":"browser","background_color":"#FAF7F2","theme_color":"#1F4E8C","icons":[{"src":"/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"/icon-512.png","sizes":"512x512","type":"image/png"},{"src":"/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}')

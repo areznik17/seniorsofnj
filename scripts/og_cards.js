@@ -1,6 +1,6 @@
 // Branded 1200x630 share thumbnails, one per page. Cached in src/img/og/p by a hash of photo + headline.
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
-const VER='v3';
+const VER='v4';
 const FALLBACK={'/':'couple-walking','/counties':'main-street','/towns':'main-street','/checker':'paperwork','/dates':'paperwork','/glossary':'library','/directory':'phone-call','/about':'couple-walking','/articles':'library','/es':'kitchen','/for/seniors':'friends-coffee','/for/families':'grandparent-child','/for/pros':'doctor','/find-help':'hands-holding','/find-help/care-managers':'kitchen','/find-help/social-services':'friends-coffee','/find-help/home-care':'volunteers','/find-help/adult-day':'cards-chess'};
 const HEAD={'/':'The home for older adults in New Jersey.'};
 module.exports=async(browser,DIST,list)=>{
@@ -18,7 +18,7 @@ module.exports=async(browser,DIST,list)=>{
   if(man[file]!==key||!fs.existsSync(out)){
    const img='data:image/jpeg;base64,'+fs.readFileSync(path.join(DIST,'img',photo+'.jpg')).toString('base64');
    await p.setContent(`<html><head><style>${css}body{margin:0;width:1200px;height:630px;display:flex;background:#FAF7F2;color:#1E2A33}
-.l{width:590px;box-sizing:border-box;padding:56px 50px 52px 60px;display:flex;flex-direction:column}.brand{display:flex;align-items:center;gap:14px;font:800 34px F}.brand svg{width:58px;height:58px}
+.l{width:590px;box-sizing:border-box;padding:56px 50px 52px 60px;display:flex;flex-direction:column}.brand{display:flex;align-items:center;gap:14px;font:800 34px F}.brand svg{width:70px;height:70px}
 .hw{flex:1;display:flex;align-items:center}.h{font:800 56px/1.08 B;letter-spacing:-.01em}.bar{width:64px;height:6px;border-radius:3px;background:#BF5530}
 .r{flex:1;background:url(${img}) center/cover}</style></head><body><div class="l"><div class="brand">${logo}<span>Seniors of NJ</span></div><div class="hw"><div class="h" id="h">${h.replace(/&/g,'&amp;').replace(/</g,'&lt;')}</div></div><div class="bar"></div></div><div class="r"></div></body></html>`);
    await p.evaluate(()=>document.fonts.ready);
