@@ -32,6 +32,12 @@
    "title": "Medicare Advantage switch window",
    "text": "If you're in a Medicare Advantage plan, you can change plans once or return to Original Medicare.",
    "link": "#/article/advantage-vs-medigap"
+  },
+  {
+   "date": "2027-04-15",
+   "title": "Federal tax filing deadline",
+   "text": "Last day to file and pay 2026 federal taxes. Free help through AARP Tax-Aide and IRS VITA/TCE sites.",
+   "link": "#/article/free-tax-help-seniors-nj"
   }
  ],
  "steps": [
@@ -437,6 +443,16 @@
    "count": false,
    "link": "#/article/advantage-vs-medigap",
    "cta": "How it works"
+  },
+  {
+   "until": "2027-04-15",
+   "mon": "Apr",
+   "day": "15",
+   "title": "Federal tax returns due",
+   "text": "April 15, 2027 is the IRS deadline to file and pay. Free volunteer tax help can do your return at no cost.",
+   "count": true,
+   "link": "#/article/free-tax-help-seniors-nj",
+   "cta": "Find free tax help"
   }
  ]
 }
