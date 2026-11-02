@@ -1,6 +1,6 @@
 // Branded 1200x630 share thumbnails, one per page. Cached in src/img/og/p by a hash of photo + headline.
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
-const VER='v4';
+const VER='v5';
 const FALLBACK={'/':'couple-walking','/counties':'main-street','/towns':'main-street','/checker':'paperwork','/dates':'paperwork','/glossary':'library','/directory':'phone-call','/about':'couple-walking','/articles':'library','/es':'kitchen','/for/seniors':'friends-coffee','/for/families':'grandparent-child','/for/pros':'doctor','/find-help':'hands-holding','/find-help/care-managers':'kitchen','/find-help/social-services':'friends-coffee','/find-help/home-care':'volunteers','/find-help/adult-day':'cards-chess'};
 const HEAD={'/':'The home for older adults in New Jersey.'};
 module.exports=async(browser,DIST,list)=>{
