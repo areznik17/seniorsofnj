@@ -675,6 +675,7 @@ footer .wrap{padding-block:48px 28px}
 p,li,dd{text-wrap:pretty}
 .h-center{max-width:1000px}
 .h-center .lede{max-width:none;width:min(100%,800px);text-wrap:balance}
+.lede .lnw{white-space:nowrap}
 .top .topin{max-width:none;padding-left:max(32px,env(safe-area-inset-left,0px));padding-right:max(32px,env(safe-area-inset-right,0px));gap:32px;padding-block:16px}
 .top .logo{margin-right:0;flex:none}
 .topnav{flex:1;display:flex;justify-content:center;gap:6px}
@@ -1110,7 +1111,7 @@ function home(){
 <section class="h-hero">
  <div class="wrap h-center">
   <h1>The home for older adults in New Jersey.</h1>
-  <p class="lede">Benefits, health, caregiving and things to do after 60<span class="m-hide">, all in one place</span>.</p>
+  <p class="lede"><span class="lnw">Benefits, health, caregiving</span> <span class="lnw">and things to do after 60<span class="m-hide">,</span></span><span class="m-hide"> all in one place</span>.</p>
   <form class="h-search" id="hsearch" role="search"><label for="hq" hidden>Search</label><input id="hq" placeholder="Search guides, programs and places"><button class="btn">Search</button></form>
   <div class="h-pop"><span>Popular:</span><a href="#/article/day-trips-nj">Day trips</a><a href="#/article/property-tax-relief-nj"><span class="pl">Property taxes</span><span class="ps">Taxes</span></a><a href="#/article/learn-something-new">Classes</a><a href="#/article/advantage-vs-medigap">Medicare</a><a class="pop-x" href="#/article/grandkids-day-out-nj">With the grandkids</a></div>
  </div>
