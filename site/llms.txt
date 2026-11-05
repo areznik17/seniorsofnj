@@ -15,6 +15,14 @@
 - [The $250 senior property tax deduction in NJ: who qualifies](https://seniorsofnj.com/article/senior-property-tax-deduction-nj/): Homeowners 65 and older, or disabled, with very low income can take $250 a year off their New Jersey property tax bill. Here is how the $10,000 income limit works, how to file Form PTD with your town, and the March 1 form that keeps it.
 - [Social Security offices in NJ: appointments and online help](https://seniorsofnj.com/article/social-security-offices-nj/): How to find your Social Security office in New Jersey, make an appointment, skip the trip online, what to bring, and how to help a parent with forms and payees.
 - [How to appeal a property tax assessment in NJ](https://seniorsofnj.com/article/property-tax-appeal-nj/): Deadlines, filing fees, the Chapter 123 ratio test, what evidence counts, and how a win can change Senior Freeze and Stay NJ. A plain guide for older homeowners and the families helping them.
+- [How New Jersey taxes retirement income (2026)](https://seniorsofnj.com/article/nj-retirement-income-tax/): Social Security is not taxed here. Pensions, IRAs and 401(k)s are, but the retirement exclusion wipes out the tax for many households at 62 and older. Here is how each rule works.
+- [Retirement planning in New Jersey: a practical checklist](https://seniorsofnj.com/article/retirement-planning-nj/): Social Security at 62 to 70, Medicare at 65, required withdrawals at 73, and New Jersey's property taxes in between. Here is the order of decisions and where to get free, unbiased help.
+- [Retiring with a New Jersey state pension: PERS, TPAF and PFRS](https://seniorsofnj.com/article/nj-pension-retirement-pers-tpaf/): How to apply through MBOS, what your tier means, the nine PERS and TPAF payment options, keeping state retiree health coverage with Medicare, and the rules on going back to work.
+- [Medigap plans in New Jersey: costs, enrollment and switching](https://seniorsofnj.com/article/medigap-plans-nj/): Which Medigap letters are sold in New Jersey, what they cost on the state's 2026 rate chart, how companies raise prices, and how to switch plans or add Part D without losing coverage.
+- [Life insurance after 60 in NJ: final expense and lost policies](https://seniorsofnj.com/article/life-insurance-seniors-nj/): What older adults can buy, what to watch for in no-exam policies, and how families find a parent's lost policy and get it paid.
+- [Homeowners and flood insurance for older NJ homeowners](https://seniorsofnj.com/article/homeowners-insurance-seniors-nj/): What a standard policy covers, why flood needs its own policy, the FAIR Plan as a last resort, and what to do when a parent's house sits empty.
+- [Car insurance for older drivers in New Jersey](https://seniorsofnj.com/article/auto-insurance-seniors-nj/): What New Jersey requires in 2026, why Medicare changes your PIP choice, the defensive driving discount, and what to do with the policy when a parent stops driving.
+- [How to find unclaimed money in New Jersey](https://seniorsofnj.com/article/unclaimed-property-nj/): Search New Jersey's unclaimed property list for free, claim money for yourself or a parent who died, and check the federal and insurance databases most families miss.
 - [Working after 60 in New Jersey: jobs, training and your rights](https://seniorsofnj.com/article/working-after-60-nj/): Part-time work, paid training through SCSEP or a second career can all make sense after 60. Here is where to find help in New Jersey and how a paycheck affects Social Security, Medicare and taxes.
 - [ANCHOR in New Jersey: what seniors get and how to file](https://seniorsofnj.com/article/anchor-program-nj/): ANCHOR pays New Jersey homeowners up to $1,500 and senior renters $700. If you are 65 or older and own your home, you have to file the PAS-1 yourself. The 2025 deadline was November 2, 2026.
 - [Senior Freeze in NJ: how the property tax reimbursement works](https://seniorsofnj.com/article/senior-freeze-nj/): Senior Freeze pays you back when your property taxes rise above your base year. Here are the 2025 rules, the income limits and how to keep your base year safe.
@@ -70,6 +78,8 @@
 - [Grief support in NJ after losing a spouse or parent](https://seniorsofnj.com/article/grief-support-nj/): Free hospice bereavement help, support groups and helplines across New Jersey, how to help a widowed parent, and when grief needs more care.
 - [Adult day care in NJ: medical vs. social, costs and how to pay](https://seniorsofnj.com/article/adult-day-care-nj/): Adult day programs give a parent a safe, social day and give caregivers a break. Here is how medical and social day differ in New Jersey, what they cost, who helps pay and how to choose one.
 - [Rides to medical appointments for seniors in NJ](https://seniorsofnj.com/article/rides-to-medical-appointments-nj/): How to get a parent to the doctor once they stop driving, from NJ FamilyCare rides through Modivcare and county paratransit to Access Link, volunteer drivers, Medicare plan benefits, VA travel pay and rideshare.
+- [Senior living placement services in NJ: how free advisors work](https://seniorsofnj.com/article/senior-living-placement-services-nj/): Placement advisors help families find assisted living and memory care at no charge because communities pay them. Here is what that means for your parent's options, what to ask and how to check a residence yourself.
+- [Senior move managers in NJ: downsizing and moving a parent](https://seniorsofnj.com/article/senior-move-managers-nj/): What a senior move manager does, what it costs, how to check credentials and mover licenses in New Jersey, and the rare cases when Medicaid helps pay.
 - [When to call a geriatric care manager, and what they actually do](https://seniorsofnj.com/article/geriatric-care-manager-nj/): A care manager is a professional guide for families facing aging, illness or a sudden crisis. Here is what they do, what to ask, and how to find a good one in New Jersey.
 - [How to choose a home care agency in New Jersey](https://seniorsofnj.com/article/home-care-agency-nj/): What New Jersey law requires of home care companies, how to check a license in minutes, what care costs and who pays, and the questions that separate a good agency from a risky one.
 - [After a dementia diagnosis: where New Jersey families can turn](https://seniorsofnj.com/article/dementia-support-nj/): Helplines, memory cafes, adult day and respite programs, safety steps and the legal planning to do now, for New Jersey families facing Alzheimer's or another dementia.
@@ -193,11 +203,13 @@
 
 ## Find care help
 
-- [Find care help in New Jersey](https://seniorsofnj.com/find-help/): geriatric care managers, social workers, home care agencies and adult day programs with phone numbers
+- [Find care help in New Jersey](https://seniorsofnj.com/find-help/): geriatric care managers, social workers, home care agencies, adult day programs, senior living advisors and senior move managers with phone numbers
 - [Geriatric care managers](https://seniorsofnj.com/find-help/care-managers/)
 - [Social workers and family services](https://seniorsofnj.com/find-help/social-services/)
 - [Home care agencies](https://seniorsofnj.com/find-help/home-care/)
 - [Adult day programs](https://seniorsofnj.com/find-help/adult-day/)
+- [Senior living placement advisors](https://seniorsofnj.com/find-help/placement/)
+- [Senior move managers](https://seniorsofnj.com/find-help/move-managers/)
 
 ## Town guides
 

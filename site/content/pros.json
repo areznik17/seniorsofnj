@@ -2000,5 +2000,366 @@
   "creds": "",
   "source": "https://www.amadaseniorcare.com/westfield-morristown-senior-care/location-information",
   "featured": false
+ },
+ {
+  "name": "Assisted Living Locators Essex County and Northwest New Jersey",
+  "cat": "placement",
+  "counties": [
+   "Essex",
+   "Sussex",
+   "Passaic",
+   "Warren",
+   "Morris",
+   "Union",
+   "Hudson"
+  ],
+  "town": "",
+  "phone": "973-413-1158",
+  "url": "https://essex-sussex-passaic-morris-county.assistedlivinglocators.com/",
+  "desc": "Local senior care advisor (Rich Lanning) who helps families compare assisted living, memory care and other senior living options at no cost to the family. Serves Sussex, Essex and Passaic counties, northern Warren and Morris counties, and parts of Union and Hudson counties.",
+  "source": "https://essex-sussex-passaic-morris-county.assistedlivinglocators.com/"
+ },
+ {
+  "name": "Oasis Senior Advisors Bergen County",
+  "cat": "placement",
+  "counties": [
+   "Bergen"
+  ],
+  "town": "",
+  "phone": "862-477-6591",
+  "url": "https://www.oasissenioradvisors.com/locations/bergen-county/",
+  "desc": "Franchise office that offers free senior housing placement help in Bergen County. Advisors assess needs and budget, research communities, schedule tours and help with the move.",
+  "source": "https://www.oasissenioradvisors.com/locations/bergen-county/"
+ },
+ {
+  "name": "Senior Care Authority Northern and Central New Jersey",
+  "cat": "placement",
+  "counties": [
+   "Union",
+   "Somerset",
+   "Hunterdon",
+   "Middlesex",
+   "Bergen",
+   "Passaic",
+   "Essex",
+   "Morris",
+   "Monmouth",
+   "Ocean"
+  ],
+  "town": "",
+  "phone": "551-350-7566",
+  "url": "https://www.seniorcareauthority.com/locations/northern-central-new-jersey/",
+  "desc": "Senior living placement and eldercare consulting franchise. It starts with a phone assessment, then a consultation and a customized plan for assisted living, memory care, independent living or skilled nursing.",
+  "source": "https://www.seniorcareauthority.com/locations/northern-central-new-jersey/"
+ },
+ {
+  "name": "Oasis Senior Advisors Central Jersey",
+  "cat": "placement",
+  "counties": [],
+  "town": "Piscataway",
+  "phone": "732-524-8864",
+  "url": "https://www.oasissenioradvisors.com/locations/central-jersey/",
+  "desc": "Franchise office that offers free senior housing placement help in the Piscataway area. Advisors research care and communities, schedule tours and guide families through the move.",
+  "source": "https://www.oasissenioradvisors.com/locations/central-jersey/"
+ },
+ {
+  "name": "Assisted Living Locators Princeton",
+  "cat": "placement",
+  "counties": [],
+  "town": "Princeton",
+  "phone": "609-937-7760",
+  "url": "https://princeton.assistedlivinglocators.com/",
+  "desc": "Local senior care advisor (Jim Barringer) serving Princeton and surrounding towns. Helps families evaluate needs, shortlist communities, coordinate tours and plan the move, at no cost to the family.",
+  "source": "https://princeton.assistedlivinglocators.com/"
+ },
+ {
+  "name": "Assisted Living Locators of Monmouth County",
+  "cat": "placement",
+  "counties": [
+   "Monmouth"
+  ],
+  "town": "",
+  "phone": "732-749-2610",
+  "url": "https://monmouth-county.assistedlivinglocators.com/",
+  "desc": "Local senior care advisor (Jack Stewart) who helps Monmouth County families find assisted living, memory care and other senior care, including tours, at no cost to the family.",
+  "source": "https://monmouth-county.assistedlivinglocators.com/"
+ },
+ {
+  "name": "CarePatrol of North Shore",
+  "cat": "placement",
+  "counties": [
+   "Monmouth",
+   "Ocean",
+   "Middlesex",
+   "Atlantic"
+  ],
+  "town": "",
+  "phone": "732-455-2424",
+  "url": "https://carepatrol.com/north-shore/",
+  "desc": "CarePatrol franchise that helps families find assisted living, independent living, memory care and in-home care, and tours communities with them. It says it is paid by providers in its network. Serves Monmouth and Ocean counties and parts of Middlesex and Atlantic counties.",
+  "source": "https://carepatrol.com/north-shore/"
+ },
+ {
+  "name": "Adult Care Advisors",
+  "cat": "placement",
+  "counties": [],
+  "town": "Aberdeen",
+  "phone": "908-812-9158",
+  "url": "https://adultcareadvisors.com/",
+  "desc": "Senior care referral service with an office in Aberdeen. Advisors help families find in-home care, independent living, assisted living and memory care at no cost to the family.",
+  "source": "https://adultcareadvisors.com/contact-us/"
+ },
+ {
+  "name": "CarePatrol of Philadelphia, Mercer & Burlington",
+  "cat": "placement",
+  "counties": [
+   "Mercer",
+   "Burlington"
+  ],
+  "town": "",
+  "phone": "267-449-7785",
+  "url": "https://carepatrol.com/philadelphia-mercer-burlington/",
+  "desc": "CarePatrol franchise covering Philadelphia and Mercer and Burlington counties. Helps families compare senior living and in-home care options at no cost to the family.",
+  "source": "https://carepatrol.com/philadelphia-mercer-burlington/"
+ },
+ {
+  "name": "CarePatrol of South Jersey",
+  "cat": "placement",
+  "counties": [],
+  "town": "Marlton",
+  "phone": "856-985-0084",
+  "url": "https://carepatrol.com/south-jersey/",
+  "desc": "CarePatrol franchise based in Marlton that helps families find senior care options based on care needs, at no cost to the family.",
+  "source": "https://carepatrol.com/south-jersey/"
+ },
+ {
+  "name": "Senior Care Authority Southern New Jersey",
+  "cat": "placement",
+  "counties": [],
+  "town": "Marlton",
+  "phone": "856-535-9053",
+  "url": "https://www.seniorcareauthority.com/locations/southern-new-jersey/",
+  "desc": "Senior living placement and eldercare consulting franchise for Southern New Jersey, with an office on Lincoln Drive East in Marlton. It starts with a phone assessment and builds a plan for the family.",
+  "source": "https://www.seniorcareauthority.com/locations/southern-new-jersey/atlantic-county/hammonton/"
+ },
+ {
+  "name": "Assisted Living Locators Greater Cherry Hill",
+  "cat": "placement",
+  "counties": [],
+  "town": "Cherry Hill",
+  "phone": "856-302-4440",
+  "url": "https://greatercherryhill.assistedlivinglocators.com/",
+  "desc": "Local senior care advisor (Pat Donnelly) serving Cherry Hill and nearby South Jersey towns. Helps families evaluate needs, shortlist communities, coordinate tours and plan the move, at no cost to the family.",
+  "source": "https://greatercherryhill.assistedlivinglocators.com/"
+ },
+ {
+  "name": "Oasis Senior Advisors Cherry Hill",
+  "cat": "placement",
+  "counties": [],
+  "town": "Cherry Hill",
+  "phone": "856-576-8983",
+  "url": "https://www.oasissenioradvisors.com/locations/cherry-hill/",
+  "desc": "Franchise office that offers free senior housing placement help in the Cherry Hill area. Advisors research care and communities, schedule tours and guide families through the move.",
+  "source": "https://www.oasissenioradvisors.com/locations/cherry-hill/"
+ },
+ {
+  "name": "Transition Guardians",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Englewood",
+  "phone": "201-815-6661",
+  "url": "http://www.transitionguardians.com",
+  "desc": "A referral-based relocation management company that helps with downsizing, moves, lifestyle changes and clearing out a loved one's estate, serving the New York, New Jersey and Connecticut area. It says it is insured and bonded.",
+  "creds": "NASMM member (listed on nasmm.org as NASMM A+ Accredited)",
+  "source": "http://www.transitionguardians.com"
+ },
+ {
+  "name": "Checklist, LLC",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Mahwah",
+  "phone": "201-783-5183",
+  "url": "https://srchecklist.com/",
+  "desc": "A personal organizing and move management company specializing in senior transitions, with planning, sorting, packing and unpacking, organizing and coordination. It serves North Jersey and Rockland County, NY, and offers a free consultation.",
+  "creds": "NASMM member (listed on nasmm.org); lists NJ license 39PM00121800 on its site",
+  "source": "https://srchecklist.com/"
+ },
+ {
+  "name": "Carative Move Managers",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Montclair",
+  "phone": "973-746-0867",
+  "url": "http://carativemovemanagers.com/",
+  "desc": "Hands-on help for older adults who are relocating or staying home safely, covering packing, selling or disposing of household items, floor plans, moving day oversight and setting up the new home.",
+  "creds": "NASMM member (stated by the business and listed on nasmm.org); lists NJ mover license 39PM00121900",
+  "source": "http://carativemovemanagers.com/?page_id=92"
+ },
+ {
+  "name": "Willow Transitions",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Lincoln Park",
+  "phone": "862-895-5700",
+  "url": "https://willowtransitions.com/",
+  "desc": "A move management company offering sorting, packing, moving, unpacking and settling in, plus cleanouts, appraisals, auctions and estate sales. It serves the New York, New Jersey and Connecticut area.",
+  "creds": "NASMM member (listed on nasmm.org); lists NJ public mover license 39PC00130300",
+  "source": "https://willowtransitions.com/"
+ },
+ {
+  "name": "Smartly Organized",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Chatham",
+  "phone": "917-846-9953",
+  "url": "https://smartlyorganized.com/",
+  "desc": "Packing, unpacking, decluttering, home staging and full move management, including senior moves, for Northern and Central New Jersey. It says it is not a moving company and works with licensed, insured movers.",
+  "creds": "NASMM member (listed on nasmm.org)",
+  "source": "https://smartlyorganized.com/contact/"
+ },
+ {
+  "name": "TLC Senior Relocation Specialists",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Morristown",
+  "phone": "646-771-4146",
+  "url": "https://www.tlcseniorrelocationnj.com/",
+  "desc": "Senior moves, home organizing, executive moves and estate cleanout services.",
+  "creds": "NASMM member (listed on nasmm.org); lists a NJ state license number on its site",
+  "source": "https://www.tlcseniorrelocationnj.com/"
+ },
+ {
+  "name": "MY Preferred Organizer",
+  "cat": "move-managers",
+  "counties": [
+   "Bergen",
+   "Essex",
+   "Passaic",
+   "Hudson",
+   "Monmouth"
+  ],
+  "town": "Elmwood Park",
+  "phone": "609-240-9071",
+  "url": "https://mypreferredorganizer.com/",
+  "desc": "Home organizing, packing and unpacking, and senior downsizing, with published package prices. It says it serves Bergen, Essex, Passaic, Hudson and Monmouth counties.",
+  "creds": "NASMM member (listed on nasmm.org)",
+  "source": "https://mypreferredorganizer.com/contact/"
+ },
+ {
+  "name": "JM Move Managers",
+  "cat": "move-managers",
+  "counties": [
+   "Atlantic",
+   "Bergen",
+   "Burlington",
+   "Camden",
+   "Cape May",
+   "Cumberland",
+   "Essex",
+   "Gloucester",
+   "Hudson",
+   "Hunterdon",
+   "Mercer",
+   "Middlesex",
+   "Monmouth",
+   "Morris",
+   "Ocean",
+   "Passaic",
+   "Salem",
+   "Somerset",
+   "Sussex",
+   "Union",
+   "Warren"
+  ],
+  "town": "",
+  "phone": "908-913-4727",
+  "url": "https://www.jmmovemanagers.com/",
+  "desc": "Full-service move management, packing and unpacking, and decluttering and organizing, including getting a home ready to list. Based in Union County, it says it serves all of New Jersey and gives an outline of services and an estimate before collecting any payment.",
+  "creds": "NASMM member (listed on nasmm.org)",
+  "source": "https://www.jmmovemanagers.com/contact"
+ },
+ {
+  "name": "The Mavins Group",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Westfield",
+  "phone": "908-233-6200",
+  "url": "https://themavinsgroup.com/",
+  "desc": "A move management and real estate sales company serving New Jersey and the New York metropolitan area, offering move management, staging and concierge services.",
+  "creds": "NASMM A+ Accredited (stated by the business and listed on nasmm.org)",
+  "source": "https://themavinsgroup.com/"
+ },
+ {
+  "name": "A Simpler Life Now",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Warren",
+  "phone": "908-331-6719",
+  "url": "https://www.asimplerlifenow.com/",
+  "desc": "Move management for older adults and families in New Jersey, including downsizing, sorting paperwork, floor plans, coordinating movers, and unpacking and settling in. It gives a written, non-binding estimate after an in-home consultation.",
+  "creds": "NASMM member (listed on nasmm.org)",
+  "source": "https://www.asimplerlifenow.com/"
+ },
+ {
+  "name": "Put it There, LLC",
+  "cat": "move-managers",
+  "counties": [
+   "Somerset",
+   "Mercer",
+   "Hunterdon"
+  ],
+  "town": "Skillman",
+  "phone": "732-586-7120",
+  "url": "https://putitthere.net/",
+  "desc": "Home organizing, senior downsizing, move management, floor plans and estate cleanouts.",
+  "creds": "NASMM member (listed on nasmm.org)",
+  "source": "https://putitthere.net/"
+ },
+ {
+  "name": "Right Touch Organizing Services",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Monroe Township",
+  "phone": "917-292-3175",
+  "url": "https://righttouchorganizing.com/",
+  "desc": "A professional organizing company serving Central and Southern New Jersey, with in-home or virtual consultations for decluttering and simplifying a home.",
+  "creds": "NASMM member (listed on nasmm.org)",
+  "source": "https://righttouchorganizing.com/"
+ },
+ {
+  "name": "Walsh Senior Solutions",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Princeton",
+  "phone": "609-558-1830",
+  "url": "https://www.walshseniorsolutions.com/",
+  "desc": "Downsizing, floor planning and sorting, selling excess possessions, coordinating donations, decluttering and junk removal, and packing, moving and unpacking. It serves New Jersey and the Greater Philadelphia area.",
+  "creds": "NASMM member (listed on nasmm.org)",
+  "source": "https://www.walshseniorsolutions.com/about-us"
+ },
+ {
+  "name": "Serene Senior Transitions (SST)",
+  "cat": "move-managers",
+  "counties": [
+   "Monmouth",
+   "Ocean"
+  ],
+  "town": "",
+  "phone": "732-915-7377",
+  "url": "https://sereneseniortransitions.com/",
+  "desc": "Move managers for older adults moving to a new home or adapting a current one, helping with the whole move or single parts such as downsizing, floor planning, unpacking or organizing. It says it is insured and bonded.",
+  "creds": "NASMM member (stated by the business and listed on nasmm.org)",
+  "source": "https://sereneseniortransitions.com/contact-us"
+ },
+ {
+  "name": "Byron Home",
+  "cat": "move-managers",
+  "counties": [],
+  "town": "Haddon Heights",
+  "phone": "856-573-7840",
+  "url": "https://byronhome.com/",
+  "desc": "A move management service founded in 1998 that handles space planning, organizing and downsizing, packing, coordinating the move, unpacking and the disposition of remaining contents. It offers a free in-home or virtual consultation.",
+  "creds": "Co-founding member of NASMM (stated by the business; listed on nasmm.org); lists NJ license 39PM00125000",
+  "source": "https://byronhome.com/"
  }
 ]
