@@ -2163,6 +2163,20 @@
   "source": "https://www.oasissenioradvisors.com/locations/cherry-hill/"
  },
  {
+  "name": "Next Haven Senior Living Advisors",
+  "cat": "placement",
+  "counties": [
+   "Burlington",
+   "Camden",
+   "Mercer"
+  ],
+  "town": "",
+  "phone": "856-588-3074",
+  "url": "https://www.nexthavenseniorliving.com/",
+  "desc": "Local senior living advisor led by a registered nurse, Kristy Giarratano, RN. Helps families compare assisted living, memory care and independent living, coordinates tours and stays involved through move-in. Free to families; it says it may receive a referral fee from a participating community after a move-in. Serves Burlington, Camden and Mercer counties.",
+  "source": "https://www.nexthavenseniorliving.com/about"
+ },
+ {
   "name": "Transition Guardians",
   "cat": "move-managers",
   "counties": [],
