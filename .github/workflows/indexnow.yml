@@ -1,0 +1,33 @@
+name: IndexNow ping
+# After each push to main, tell Bing (and the AI search tools that use it) which pages changed.
+on:
+  push:
+    branches: [main]
+    paths: ['site/**']
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Submit changed pages
+        run: |
+          KEY=30145353311c28f9f3a95cf4b15c5dca
+          HOST=seniorsofnj.com
+          git diff --name-only HEAD~1 HEAD -- 'site/**/index.html' 'site/index.html' \
+            | sed -e 's#^site##' -e 's#index.html$##' \
+            | grep -v '^/search/' | grep -v '^/content/' \
+            | head -10000 | sed "s#^#https://$HOST#" > urls.txt
+          echo "$(wc -l < urls.txt) changed pages"
+          [ -s urls.txt ] || exit 0
+          python3 - <<'PY'
+          import json,urllib.request
+          urls=[u.strip() for u in open('urls.txt') if u.strip()]
+          body=json.dumps({"host":"seniorsofnj.com","key":"30145353311c28f9f3a95cf4b15c5dca","keyLocation":"https://seniorsofnj.com/30145353311c28f9f3a95cf4b15c5dca.txt","urlList":urls}).encode()
+          req=urllib.request.Request("https://api.indexnow.org/indexnow",data=body,headers={"Content-Type":"application/json; charset=utf-8"})
+          try:
+              r=urllib.request.urlopen(req,timeout=30); print("IndexNow:",r.status)
+          except Exception as e:
+              print("IndexNow error:",e)
+          PY
