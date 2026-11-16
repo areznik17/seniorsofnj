@@ -1718,7 +1718,7 @@
   "more": [
    {
     "name": "Grover Cleveland Senior Center",
-    "phone": "973-403-4623",
+    "phone": "973-403-4637",
     "url": "https://caldwell-nj.com/human",
     "note": "Run by the Borough of Caldwell. Anyone 60 or older can take part in its fitness, enrichment, health education and social programs."
    },
@@ -1769,7 +1769,7 @@
     "https://essexcountyparks.org/parks/grover-cleveland-park"
    ]
   ],
-  "updated": "2026-10-31"
+  "updated": "2026-11-16"
  },
  {
   "slug": "orange",
@@ -9250,9 +9250,9 @@
   },
   "transport": {
    "name": "Morris Plains Senior Citizen Transportation",
-   "phone": "1-855-812-5942",
+   "phone": "973-267-1116",
    "url": "https://morrisplainsboro.org/senior-citizen-services/",
-   "notes": "The borough offers free rides for Morris Plains seniors to medical appointments, essential shopping and the library. Call 1-855-812-5942 between 9 and 10:30 a.m. and leave a message, about a week ahead of the appointment. Call to confirm days, hours and how far the van goes. Morris County's dial-a-ride list shows a different number for this service, 973-267-1116, so try that if you can't get through. For longer trips, MAPS, the county paratransit service, is at 973-829-8103 (toll free 888-282-6277)."
+   "notes": "The borough offers free rides for Morris Plains seniors to medical appointments, essential shopping and the library. Morris County's dial-a-ride list gives 973-267-1116 for this service. Book a few days ahead, and call to confirm days, hours and how far the van goes. For longer trips, MAPS, the county paratransit service, is at 973-829-8103 (toll free 888-282-6277)."
   },
   "library": {
    "name": "Morris Plains Library",
@@ -9341,7 +9341,7 @@
     "https://www.nps.gov/morr/planyourvisit/hours.htm"
    ]
   ],
-  "updated": "2026-11-01"
+  "updated": "2026-11-16"
  },
  {
   "slug": "chatham-township",
@@ -9475,7 +9475,7 @@
    "address": "1 Constitution Plaza, Mountainside, NJ 07092",
    "phone": "908-233-0115",
    "url": "https://www.mountainsidelibrary.org/services/home-delivery-service",
-   "notes": "Free home delivery for Mountainside residents who can't visit because of illness, disability or other reasons, including people in Mountainside assisted living. Books, large print, DVDs, audiobooks and music CDs. Ask for specific titles or let a librarian choose."
+   "notes": "Free home delivery for Mountainside residents who can't visit because of illness, disability or other reasons, including people in Mountainside assisted living. Books, large print, DVDs, audiobooks and music CDs. Ask for specific titles or let a librarian choose. The library building was closed this fall for a roof replacement and is set to reopen Tuesday, December 1, 2026."
   },
   "more": [
    {
@@ -9543,9 +9543,13 @@
    [
     "Division on Aging contacts (Union County)",
     "https://ucnj.org/dhs/aging/"
+   ],
+   [
+    "Mountainside Library temporary closure (Borough of Mountainside)",
+    "https://www.mountainside-nj.com/news/posts/mountainside-library-temporary-closure/"
    ]
   ],
-  "updated": "2026-10-31"
+  "updated": "2026-11-16"
  },
  {
   "slug": "clark",
